@@ -1,0 +1,18 @@
+[+]Input file: input_dji.nz.txt was found
+[+]Reading input file
+[+]========**************========
+[+]Recon_dom_title by Codarren Velvindron
+[+]========**************========
+[+]Version 0.5
+[!]Give me urls and I give titles!
+[!]Website Tested: dji.nz
+[!]Your output filename was created !
+[+]Input file: input_dji.nz.txt was found
+[+]Reading input file
+[+]========**************========
+[+]Recon_dom_title by Codarren Velvindron
+[+]========**************========
+[+]Version 0.5
+[!]Give me urls and I give titles!
+[!]Website Tested: dji.nz
+[!]Your output filename was created !

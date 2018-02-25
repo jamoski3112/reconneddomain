@@ -1,0 +1,527 @@
+[+]Input file: input_dji.com.txt was found
+[+]Reading input file
+[+]========**************========
+[+]Recon_dom_title by Codarren Velvindron
+[+]========**************========
+[+]Version 0.5
+[!]Give me urls and I give titles!
+[!]Website Tested: dji.com
+[!]Your output filename was created !
+[!]Scanning titles for: 83 urls
+[!]http://www.dji.com
+[-]exception found, non-existant domain
+[!]http://account.dji.com
+[+]nothing found, you should check!
+[!]http://account-api.dji.com
+[+]Welcome to OpenResty!
+[!]http://accounts.dji.com
+-->The DJI Store: Shop for world-class drones and gimbals
+[!]http://active.dji.com
+[+]nothing found, you should check!
+[!]http://aftersale.dji.com
+[-]exception found, non-existant domain
+[!]http://ag.dji.com
+[+]nothing found, you should check!
+[!]http://api.dji.com
+[-]exception found, non-existant domain
+[!]http://www.api.dji.com
+[-]exception found, non-existant domain
+[!]http://autodiscover.dji.com
+[-]exception found, non-existant domain
+[!]http://bbs.dji.com
+[-]exception found, non-existant domain
+[!]http://beta.dji.com
+-->DJI Beta
+[!]http://c.dji.com
+-->DJI/ Events - DJI
+[!]http://campaign.dji.com
+-->DJI/ Events - DJI
+[!]http://circle.dji.com
+[+]nothing found, you should check!
+[!]http://citizenship.dji.com
+-->DJI Global Citizenship - DJI
+[!]http://click.dji.com
+-->The DJI Store: Shop for world-class drones and gimbals
+[!]http://www.click.dji.com
+[-]exception found, non-existant domain
+[!]http://cn-ag.dji.com
+[+]nothing found, you should check!
+[!]http://content.dji.com
+[-]exception found, non-existant domain
+[!]http://corp.dji.com
+-->DJI | Cultural.
+[!]http://coupon.dji.com
+-->DJI-Coupon Center
+[!]http://dds.dji.com
+-->DJI Affiliate Program-Share, Earn, Enjoy!
+[!]http://www.dds.dji.com
+[-]exception found, non-existant domain
+[!]http://dealersystem.dji.com
+[-]exception found, non-existant domain
+[!]http://dev.dji.com
+-->DJI Developer
+[!]http://www.dev.dji.com
+[-]exception found, non-existant domain
+[!]http://forum.dev.dji.com
+-->DJI Forum
+[!]http://developer.dji.com
+-->DJI Developer
+[!]http://edm.dji.com
+[+]403 Forbidden
+[!]http://edu.dji.com
+-->Educational- DJI Global Citizenship
+[!]http://enterprise.dji.com
+-->DJI Enterprise - Aerial Solutions for Your Business
+[!]http://event.dji.com
+-->DJI - Events
+[!]http://events.dji.com
+-->DJI - Events
+[!]http://flysafe.dji.com
+-->DJI - Fly Safe
+[!]http://flysafe-admin.dji.com
+[+]nothing found, you should check!
+[!]http://flysafe-api.dji.com
+[+]nothing found, you should check!
+[!]http://forum.dji.com
+-->DJI FORUM
+[!]http://iuav.dji.com
+[-]exception found, non-existant domain
+[!]http://jp-blog.dji.com
+[-]exception found, non-existant domain
+[!]http://link.dji.com
+[-]exception found, non-existant domain
+[!]http://live.dji.com
+-->Watch Live as Adventure Unfolds with DJI
+[!]http://live-socket.dji.com
+[-]exception found, non-existant domain
+[!]http://m.dji.com
+-->DJI Mobile Online Store
+[!]http://www.m.dji.com
+[-]exception found, non-existant domain
+[!]http://m-campaign.dji.com
+-->DJI/ Events - DJI
+[!]http://maevents.dji.com
+-->Mavic Air Events-DJI
+[!]http://mail.dji.com
+[-]exception found, non-existant domain
+[!]http://member.dji.com
+[-]exception found, non-existant domain
+[!]http://memory.dji.com
+[-]exception found, non-existant domain
+[!]http://miy.dji.com
+[-]exception found, non-existant domain
+[!]http://mydjiflight.dji.com
+[+]nothing found, you should check!
+[!]http://www.mydjiflight.dji.com
+[-]exception found, non-existant domain
+[!]http://owa.dji.com
+[-]exception found, non-existant domain
+[!]http://pay.dji.com
+[+]404
+[!]http://pay-china.dji.com
+[+]404
+[!]http://plus.dji.com
+-->DJI+ Discover
+[!]http://press.dji.com
+-->DJI | The Future Of Possible
+[!]http://pro-hz-dji-service-e70dc4.dji.com
+[+]nothing found, you should check!
+[!]http://product.dji.com
+[+]nothing found, you should check!
+[!]http://provider.dji.com
+[+]Welcome to nginx!
+[!]http://qr.dji.com
+[-]exception found, non-existant domain
+[!]http://repair.dji.com
+[-]exception found, non-existant domain
+[!]http://reserve.dji.com
+[-]exception found, non-existant domain
+[!]http://reserve-backend.dji.com
+-->DJI+ Discover
+[!]http://responsibility.dji.com
+[+]nothing found, you should check!
+[!]http://security.dji.com
+[+]nothing found, you should check!
+[!]http://show.dji.com
+-->The DJI Store: Shop for world-class drones and gimbals
+[!]http://m.show.dji.com
+-->DJI Mobile Online Store
+[!]http://smtp.dji.com
+[-]exception found, non-existant domain
+[!]http://static.dji.com
+[+]nothing found, you should check!
+[!]http://store.dji.com
+-->The DJI Store: Shop for world-class drones and gimbals
+[!]http://studio.dji.com
+[-]exception found, non-existant domain
+[!]http://studiochina.dji.com
+[-]exception found, non-existant domain
+[!]http://support.dji.com
+[-]exception found, non-existant domain
+[!]http://u.dji.com
+-->DJI Affiliate Program-Share, Earn, Enjoy!
+[!]http://www.u.dji.com
+[-]exception found, non-existant domain
+[!]http://warranty.dji.com
+[+]Sale Partners|Login
+[!]http://we.dji.com
+[+]nothing found, you should check!
+[!]http://wiki.dji.com
+[-]exception found, non-existant domain
+[!]http://www-cms.dji.com
+[+]403 Forbidden
+[!]http://www-v1.dji.com
+-->DJI - The World Leader in Camera Drones/Quadcopters for Aerial Photography
+[!]http://x.dji.com
+[-]exception found, non-existant domain
+** Successfully scanned **[+]Input file: input_dji.com.txt was found
+[+]Reading input file
+[+]========**************========
+[+]Recon_dom_title by Codarren Velvindron
+[+]========**************========
+[+]Version 0.5
+[!]Give me urls and I give titles!
+[!]Website Tested: dji.com
+[!]Your output filename was created !
+[!]Scanning titles for: 82 urls
+[!]http://www.dji.com
+[-]exception found, non-existant domain
+[!]http://account.dji.com
+[+]nothing found, you should check!
+[!]http://account-api.dji.com
+[+]Welcome to OpenResty!
+[!]http://accounts.dji.com
+-->The DJI Store: Shop for world-class drones and gimbals
+[!]http://active.dji.com
+[+]nothing found, you should check!
+[!]http://aftersale.dji.com
+[-]exception found, non-existant domain
+[!]http://ag.dji.com
+[+]nothing found, you should check!
+[!]http://api.dji.com
+[-]exception found, non-existant domain
+[!]http://www.api.dji.com
+[-]exception found, non-existant domain
+[!]http://autodiscover.dji.com
+[-]exception found, non-existant domain
+[!]http://bbs.dji.com
+[-]exception found, non-existant domain
+[!]http://beta.dji.com
+-->DJI Beta
+[!]http://c.dji.com
+-->DJI/ Events - DJI
+[!]http://campaign.dji.com
+-->DJI/ Events - DJI
+[!]http://circle.dji.com
+[+]nothing found, you should check!
+[!]http://citizenship.dji.com
+-->DJI Global Citizenship - DJI
+[!]http://click.dji.com
+-->The DJI Store: Shop for world-class drones and gimbals
+[!]http://www.click.dji.com
+[-]exception found, non-existant domain
+[!]http://content.dji.com
+[-]exception found, non-existant domain
+[!]http://corp.dji.com
+-->DJI | Cultural.
+[!]http://coupon.dji.com
+-->DJI-Coupon Center
+[!]http://dds.dji.com
+-->DJI Affiliate Program-Share, Earn, Enjoy!
+[!]http://www.dds.dji.com
+[-]exception found, non-existant domain
+[!]http://dealersystem.dji.com
+[-]exception found, non-existant domain
+[!]http://dev.dji.com
+-->DJI Developer
+[!]http://www.dev.dji.com
+[-]exception found, non-existant domain
+[!]http://forum.dev.dji.com
+-->DJI Forum
+[!]http://developer.dji.com
+-->DJI Developer
+[!]http://edm.dji.com
+[+]403 Forbidden
+[!]http://edu.dji.com
+-->Educational- DJI Global Citizenship
+[!]http://enterprise.dji.com
+-->DJI Enterprise - Aerial Solutions for Your Business
+[!]http://event.dji.com
+-->DJI - Events
+[!]http://events.dji.com
+-->DJI - Events
+[!]http://flysafe.dji.com
+-->DJI - Fly Safe
+[!]http://flysafe-admin.dji.com
+[+]nothing found, you should check!
+[!]http://flysafe-api.dji.com
+[+]nothing found, you should check!
+[!]http://forum.dji.com
+-->DJI FORUM
+[!]http://iuav.dji.com
+[-]exception found, non-existant domain
+[!]http://jp-blog.dji.com
+[-]exception found, non-existant domain
+[!]http://link.dji.com
+[-]exception found, non-existant domain
+[!]http://live.dji.com
+-->Watch Live as Adventure Unfolds with DJI
+[!]http://live-socket.dji.com
+[-]exception found, non-existant domain
+[!]http://m.dji.com
+-->DJI Mobile Online Store
+[!]http://www.m.dji.com
+[-]exception found, non-existant domain
+[!]http://m-campaign.dji.com
+-->DJI/ Events - DJI
+[!]http://maevents.dji.com
+-->Mavic Air Events-DJI
+[!]http://mail.dji.com
+[-]exception found, non-existant domain
+[!]http://member.dji.com
+[-]exception found, non-existant domain
+[!]http://memory.dji.com
+[-]exception found, non-existant domain
+[!]http://miy.dji.com
+[-]exception found, non-existant domain
+[!]http://mydjiflight.dji.com
+[+]nothing found, you should check!
+[!]http://www.mydjiflight.dji.com
+[-]exception found, non-existant domain
+[!]http://owa.dji.com
+[-]exception found, non-existant domain
+[!]http://pay.dji.com
+[+]404
+[!]http://pay-china.dji.com
+[+]404
+[!]http://plus.dji.com
+-->DJI+ Discover
+[!]http://press.dji.com
+-->DJI | The Future Of Possible
+[!]http://pro-hz-dji-service-e70dc4.dji.com
+[+]nothing found, you should check!
+[!]http://product.dji.com
+[+]nothing found, you should check!
+[!]http://provider.dji.com
+[+]Welcome to nginx!
+[!]http://qr.dji.com
+[-]exception found, non-existant domain
+[!]http://repair.dji.com
+[-]exception found, non-existant domain
+[!]http://reserve.dji.com
+[-]exception found, non-existant domain
+[!]http://reserve-backend.dji.com
+-->DJI+ Discover
+[!]http://responsibility.dji.com
+[+]nothing found, you should check!
+[!]http://security.dji.com
+[+]nothing found, you should check!
+[!]http://show.dji.com
+-->The DJI Store: Shop for world-class drones and gimbals
+[!]http://m.show.dji.com
+-->DJI Mobile Online Store
+[!]http://smtp.dji.com
+[-]exception found, non-existant domain
+[!]http://static.dji.com
+[+]nothing found, you should check!
+[!]http://store.dji.com
+-->The DJI Store: Shop for world-class drones and gimbals
+[!]http://studio.dji.com
+[-]exception found, non-existant domain
+[!]http://studiochina.dji.com
+[-]exception found, non-existant domain
+[!]http://support.dji.com
+[-]exception found, non-existant domain
+[!]http://u.dji.com
+-->DJI Affiliate Program-Share, Earn, Enjoy!
+[!]http://www.u.dji.com
+[-]exception found, non-existant domain
+[!]http://warranty.dji.com
+[+]Sale Partners|Login
+[!]http://we.dji.com
+[+]nothing found, you should check!
+[!]http://wiki.dji.com
+[-]exception found, non-existant domain
+[!]http://www-cms.dji.com
+[+]403 Forbidden
+[!]http://www-v1.dji.com
+-->DJI - The World Leader in Camera Drones/Quadcopters for Aerial Photography
+[!]http://x.dji.com
+[-]exception found, non-existant domain
+** Successfully scanned **[+]Input file: input_dji.com.txt was found
+[+]Reading input file
+[+]========**************========
+[+]Recon_dom_title by Codarren Velvindron
+[+]========**************========
+[+]Version 0.5
+[!]Give me urls and I give titles!
+[!]Website Tested: dji.com
+[!]Your output filename was created !
+[!]Scanning titles for: 83 urls
+[!]http://www.dji.com
+[-]exception found, non-existant domain
+[!]http://account.dji.com
+[+]nothing found, you should check!
+[!]http://account-api.dji.com
+[+]Welcome to OpenResty!
+[!]http://accounts.dji.com
+-->The DJI Store: Shop for world-class drones and gimbals
+[!]http://active.dji.com
+[+]nothing found, you should check!
+[!]http://aftersale.dji.com
+[-]exception found, non-existant domain
+[!]http://ag.dji.com
+[+]nothing found, you should check!
+[!]http://api.dji.com
+[-]exception found, non-existant domain
+[!]http://www.api.dji.com
+[-]exception found, non-existant domain
+[!]http://autodiscover.dji.com
+[-]exception found, non-existant domain
+[!]http://bbs.dji.com
+[-]exception found, non-existant domain
+[!]http://beta.dji.com
+-->DJI Beta
+[!]http://c.dji.com
+-->DJI/ Events - DJI
+[!]http://campaign.dji.com
+-->DJI/ Events - DJI
+[!]http://circle.dji.com
+[+]nothing found, you should check!
+[!]http://citizenship.dji.com
+-->DJI Global Citizenship - DJI
+[!]http://click.dji.com
+-->The DJI Store: Shop for world-class drones and gimbals
+[!]http://www.click.dji.com
+[-]exception found, non-existant domain
+[!]http://cn-ag.dji.com
+[+]nothing found, you should check!
+[!]http://content.dji.com
+[-]exception found, non-existant domain
+[!]http://corp.dji.com
+-->DJI | Cultural.
+[!]http://coupon.dji.com
+-->DJI-Coupon Center
+[!]http://dds.dji.com
+-->DJI Affiliate Program-Share, Earn, Enjoy!
+[!]http://www.dds.dji.com
+[-]exception found, non-existant domain
+[!]http://dealersystem.dji.com
+[-]exception found, non-existant domain
+[!]http://dev.dji.com
+-->DJI Developer
+[!]http://www.dev.dji.com
+[-]exception found, non-existant domain
+[!]http://forum.dev.dji.com
+-->DJI Forum
+[!]http://developer.dji.com
+-->DJI Developer
+[!]http://edm.dji.com
+[+]403 Forbidden
+[!]http://edu.dji.com
+-->Educational- DJI Global Citizenship
+[!]http://enterprise.dji.com
+-->DJI Enterprise - Aerial Solutions for Your Business
+[!]http://event.dji.com
+-->DJI - Events
+[!]http://events.dji.com
+-->DJI - Events
+[!]http://flysafe.dji.com
+-->DJI - Fly Safe
+[!]http://flysafe-admin.dji.com
+[+]nothing found, you should check!
+[!]http://flysafe-api.dji.com
+[+]nothing found, you should check!
+[!]http://forum.dji.com
+-->DJI FORUM
+[!]http://iuav.dji.com
+[-]exception found, non-existant domain
+[!]http://jp-blog.dji.com
+[-]exception found, non-existant domain
+[!]http://link.dji.com
+[-]exception found, non-existant domain
+[!]http://live.dji.com
+-->Watch Live as Adventure Unfolds with DJI
+[!]http://live-socket.dji.com
+[-]exception found, non-existant domain
+[!]http://m.dji.com
+-->DJI Mobile Online Store
+[!]http://www.m.dji.com
+[-]exception found, non-existant domain
+[!]http://m-campaign.dji.com
+-->DJI/ Events - DJI
+[!]http://maevents.dji.com
+-->Mavic Air Events-DJI
+[!]http://mail.dji.com
+[-]exception found, non-existant domain
+[!]http://member.dji.com
+[-]exception found, non-existant domain
+[!]http://memory.dji.com
+[-]exception found, non-existant domain
+[!]http://miy.dji.com
+[-]exception found, non-existant domain
+[!]http://mydjiflight.dji.com
+[+]nothing found, you should check!
+[!]http://www.mydjiflight.dji.com
+[-]exception found, non-existant domain
+[!]http://owa.dji.com
+[-]exception found, non-existant domain
+[!]http://pay.dji.com
+[+]404
+[!]http://pay-china.dji.com
+[+]404
+[!]http://plus.dji.com
+-->DJI+ Discover
+[!]http://press.dji.com
+-->DJI | The Future Of Possible
+[!]http://pro-hz-dji-service-e70dc4.dji.com
+[+]nothing found, you should check!
+[!]http://product.dji.com
+[+]nothing found, you should check!
+[!]http://provider.dji.com
+[+]Welcome to nginx!
+[!]http://qr.dji.com
+[-]exception found, non-existant domain
+[!]http://repair.dji.com
+[-]exception found, non-existant domain
+[!]http://reserve.dji.com
+[-]exception found, non-existant domain
+[!]http://reserve-backend.dji.com
+-->DJI+ Discover
+[!]http://responsibility.dji.com
+[+]nothing found, you should check!
+[!]http://security.dji.com
+[+]nothing found, you should check!
+[!]http://show.dji.com
+-->The DJI Store: Shop for world-class drones and gimbals
+[!]http://m.show.dji.com
+-->DJI Mobile Online Store
+[!]http://smtp.dji.com
+[-]exception found, non-existant domain
+[!]http://static.dji.com
+[+]nothing found, you should check!
+[!]http://store.dji.com
+-->The DJI Store: Shop for world-class drones and gimbals
+[!]http://studio.dji.com
+[-]exception found, non-existant domain
+[!]http://studiochina.dji.com
+[-]exception found, non-existant domain
+[!]http://support.dji.com
+[-]exception found, non-existant domain
+[!]http://u.dji.com
+-->DJI Affiliate Program-Share, Earn, Enjoy!
+[!]http://www.u.dji.com
+[-]exception found, non-existant domain
+[!]http://warranty.dji.com
+[+]Sale Partners|Login
+[!]http://we.dji.com
+[+]nothing found, you should check!
+[!]http://wiki.dji.com
+[-]exception found, non-existant domain
+[!]http://www-cms.dji.com
+[+]403 Forbidden
+[!]http://www-v1.dji.com
+-->DJI - The World Leader in Camera Drones/Quadcopters for Aerial Photography
+[!]http://x.dji.com
+[-]exception found, non-existant domain
+** Successfully scanned **

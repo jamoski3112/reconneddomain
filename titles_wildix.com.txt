@@ -1,0 +1,111 @@
+[+]Input file: input_wildix.com.txt was found
+[+]Reading input file
+[+]========**************========
+[+]Recon_dom_title by Codarren Velvindron
+[+]========**************========
+[+]Version 0.5
+[!]Give me urls and I give titles!
+[!]Website Tested: wildix.com
+[!]Your output filename was created !
+[!]Scanning titles for: 50 urls
+[!]http://www.wildix.com
+-->Wildix PBX | VoIP Solutions | Unified Communications | WebRTC
+[!]http://alextest.wildix.com
+[-]exception found, non-existant domain
+[!]http://api.wildix.com
+[+]nothing found, you should check!
+[!]http://apt.wildix.com
+[+]403 Forbidden
+[!]http://auth.wildix.com
+[+]nothing found, you should check!
+[!]http://backtrace.wildix.com
+[+]nothing found, you should check!
+[!]http://backtrace-dev.wildix.com
+[+]nothing found, you should check!
+[!]http://blog.wildix.com
+-->Wildix Blog - From VoIP to Unified Communications and WebRTC
+[!]http://cerbot.wildix.com
+[-]exception found, non-existant domain
+[!]http://checkip.wildix.com
+[+]nothing found, you should check!
+[!]http://conference.wildix.com
+[+]WebRTC Videoconference | Ubiconf
+[!]http://conference5.wildix.com
+[+]nothing found, you should check!
+[!]http://conference6.wildix.com
+[+]WebRTC Videoconference | Ubiconf
+[!]http://confluence.wildix.com
+[+]Dashboard - Confluence
+[!]http://den.wildix.com
+[+]Google ASR
+[!]http://dev.wildix.com
+[-]exception found, non-existant domain
+[!]http://ec.wildix.com
+[+]nothing found, you should check!
+[!]http://ec1.wildix.com
+[+]nothing found, you should check!
+[!]http://forum.wildix.com
+-->forum.wildix.com Index page
+[!]http://fs.wildix.com
+[+]nothing found, you should check!
+[!]http://geo.wildix.com
+[+]nothing found, you should check!
+[!]http://git.wildix.com
+[-]exception found, non-existant domain
+[!]http://ibmconnections.wildix.com
+[+]IBM HTTP Server 8.5.5
+[!]http://jira.wildix.com
+-->System Dashboard - Wildix
+[!]http://kibana.wildix.com
+[+]401 Authorization Required
+[!]http://kite.wildix.com
+-->Wildix WebRTC -
+[!]http://kite-oss.wildix.com
+-->Wildix WebRTC -
+[!]http://location-dev.wildix.com
+[+]nothing found, you should check!
+[!]http://mail.wildix.com
+[-]exception found, non-existant domain
+[!]http://manuals.wildix.com
+-->Manuals - Wildix Documentation
+[!]http://monitoring.wildix.com
+[+]Zabbix
+[!]http://multisite.wildix.com
+[+]404 Not Found
+[!]http://my.wildix.com
+-->Wildix Partner Portal
+[!]http://namelookup.wildix.com
+[+]nothing found, you should check!
+[!]http://otrs.wildix.com
+[-]exception found, non-existant domain
+[!]http://pbx.wildix.com
+-->Wildix PBX | VoIP Solutions | Unified Communications | WebRTC
+[!]http://pbxs.wildix.com
+[+]nothing found, you should check!
+[!]http://pbxstat.wildix.com
+[+]Zabbix
+[!]http://push.wildix.com
+[+]nothing found, you should check!
+[!]http://stt.wildix.com
+[+]nothing found, you should check!
+[!]http://stt-dev.wildix.com
+[-]exception found, non-existant domain
+[!]http://test.wildix.com
+[+]404 Not Found
+[!]http://testportal.wildix.com
+[-]exception found, non-existant domain
+[!]http://tts.wildix.com
+[+]nothing found, you should check!
+[!]http://tts-dev.wildix.com
+[+]nothing found, you should check!
+[!]http://turn.wildix.com
+[-]exception found, non-existant domain
+[!]http://url-preview.wildix.com
+[+]nothing found, you should check!
+[!]http://vtiger.wildix.com
+[-]exception found, non-existant domain
+[!]http://wmp.wildix.com
+-->Wildix Management Portal - 5 Years Warranty Activation
+[!]http://ws2sip.wildix.com
+[+]nothing found, you should check!
+** Successfully scanned **

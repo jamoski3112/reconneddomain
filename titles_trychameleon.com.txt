@@ -1,0 +1,51 @@
+[+]Input file: input_trychameleon.com.txt was found
+[+]Reading input file
+[+]========**************========
+[+]Recon_dom_title by Codarren Velvindron
+[+]========**************========
+[+]Version 0.5
+[!]Give me urls and I give titles!
+[!]Website Tested: trychameleon.com
+[!]Your output filename was created !
+[!]Scanning titles for: 20 urls
+[!]http://www.trychameleon.com
+[+]Chameleon | User Onboarding & Product Adoption for Web Apps
+[!]http://app.trychameleon.com
+[-]exception found, non-existant domain
+[!]http://www.app.trychameleon.com
+[-]exception found, non-existant domain
+[!]http://blog.trychameleon.com
+[+]Blog | User onboarding and product engagement thoughts and writing
+[!]http://www.blog.trychameleon.com
+[-]exception found, non-existant domain
+[!]http://cdn.trychameleon.com
+[-]exception found, non-existant domain
+[!]http://www.cdn.trychameleon.com
+[-]exception found, non-existant domain
+[!]http://dashboard.trychameleon.com
+[+]Login - Chameleon
+[!]http://docs.trychameleon.com
+[+]Login - Chameleon
+[!]http://edit.trychameleon.com
+[+]Login - Chameleon
+[!]http://fast.trychameleon.com
+[+]Chameleon | User Onboarding & Product Adoption for Web Apps
+[!]http://forage-analyze.trychameleon.com
+[+]Chameleon | User Onboarding & Product Adoption for Web Apps
+[!]http://help.trychameleon.com
+[+]Chameleon Help Center
+[!]http://inlet.trychameleon.com
+[-]exception found, non-existant domain
+[!]http://integral.trychameleon.com
+[+]Login - Chameleon
+[!]http://observe.trychameleon.com
+[+]Login - Chameleon
+[!]http://prehensile.trychameleon.com
+[+]Login - Chameleon
+[!]http://staging.trychameleon.com
+[+]401 Authorization Required
+[!]http://status.trychameleon.com
+[+]Chameleon Status
+[!]http://support.trychameleon.com
+[+]Login - Chameleon
+** Successfully scanned **

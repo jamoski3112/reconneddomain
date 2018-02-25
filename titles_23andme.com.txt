@@ -1,0 +1,119 @@
+[+]Input file: input_23andme.com.txt was found
+[+]Reading input file
+[+]========**************========
+[+]Recon_dom_title by Codarren Velvindron
+[+]========**************========
+[+]Version 0.5
+[!]Give me urls and I give titles!
+[!]Website Tested: 23andme.com
+[!]Your output filename was created !
+[!]Scanning titles for: 54 urls
+[!]http://www.23andme.com
+-->DNA Genetic Testing &amp; Analysis - 23andMe
+[!]http://admin-api.23andme.com
+[-]exception found, non-existant domain
+[!]http://api.23andme.com
+-->23andMe API
+[!]http://auth.23andme.com
+[+]Page Not Found
+[!]http://backup.23andme.com
+[-]exception found, non-existant domain
+[!]http://badging.23andme.com
+[-]exception found, non-existant domain
+[!]http://benefits.23andme.com
+[+]Employee Navigator: Benefits Administration and HR Software
+[!]http://blog.23andme.com
+[+]403 Forbidden
+[!]http://www.blog.23andme.com
+[-]exception found, non-existant domain
+[!]http://admin.blog.23andme.com
+[-]exception found, non-existant domain
+[!]http://www.admin.blog.23andme.com
+[-]exception found, non-existant domain
+[!]http://cogtests.23andme.com
+-->cogtests.23andme.com
+[!]http://colovpn.23andme.com
+-->colovpn2.23andme.com
+[!]http://crashplan.mv.corp.23andme.com
+[-]exception found, non-existant domain
+[!]http://customercare.23andme.com
+-->23andMe Customer Care
+[!]http://ca.customercare.23andme.com
+-->23andMe Customer Care | Canada
+[!]http://eu.customercare.23andme.com
+-->23andMe Customer Care | Europe
+[!]http://int.customercare.23andme.com
+-->23andMe Customer Care | International
+[!]http://discourse.23andme.com
+-->23andMe Engineering
+[!]http://email.23andme.com
+[-]exception found, non-existant domain
+[!]http://bx.email.23andme.com
+[+]Login
+[!]http://enroll.23andme.com
+-->DNA Genetic Testing &amp; Analysis - 23andMe
+[!]http://fulfillment.23andme.com
+-->23andMe Fulfillment API
+[!]http://fulfillment-qa.23andme.com
+[-]exception found, non-existant domain
+[!]http://iapi.23andme.com
+[-]exception found, non-existant domain
+[!]http://lims-dev.23andme.com
+[-]exception found, non-existant domain
+[!]http://auth.us-west-2.live.23andme.com
+[-]exception found, non-existant domain
+[!]http://mail.23andme.com
+[-]exception found, non-existant domain
+[!]http://click.mail.23andme.com
+[+]Redirect Link
+[!]http://image.mail.23andme.com
+[+]nothing found, you should check!
+[!]http://mta.mail.23andme.com
+[-]exception found, non-existant domain
+[!]http://pages.mail.23andme.com
+[+]Problem Loading Page
+[!]http://view.mail.23andme.com
+[+]nothing found, you should check!
+[!]http://marketing.23andme.com
+-->DNA Genetic Testing &amp; Analysis - 23andMe
+[!]http://media.23andme.com
+[-]exception found, non-existant domain
+[!]http://mediacenter.23andme.com
+[+]403 Forbidden
+[!]http://www.mediacenter.23andme.com
+[-]exception found, non-existant domain
+[!]http://admin.mediacenter.23andme.com
+[-]exception found, non-existant domain
+[!]http://stage.mediacenter.23andme.com
+[-]exception found, non-existant domain
+[!]http://email.mg.23andme.com
+[+]nothing found, you should check!
+[!]http://newblog.23andme.com
+[-]exception found, non-existant domain
+[!]http://objects.23andme.com
+[+]404 Not Found
+[!]http://permalinks.23andme.com
+[+]nothing found, you should check!
+[!]http://portal.23andme.com
+-->23andMe Research Portal
+[!]http://refer.23andme.com
+-->23andMe Referral Program
+[!]http://www.refer.23andme.com
+[-]exception found, non-existant domain
+[!]http://rsvpn.23andme.com
+[-]exception found, non-existant domain
+[!]http://spittoon.23andme.com
+[+]403 Forbidden
+[!]http://sslvpn.23andme.com
+[+]Secure Access SSL VPN
+[!]http://store.23andme.com
+-->Store - 23andMe - DNA Genetic Testing &amp; Analysis
+[!]http://usability.23andme.com
+[+]Usability - Survey
+[!]http://vps.23andme.com
+[-]exception found, non-existant domain
+[!]http://wpmediacenter.23andme.com
+[+]Site Not Configured | 404 Not Found
+[!]http://you.23andme.com
+-->Sign in to 23andMe
+** Successfully scanned **

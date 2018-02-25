@@ -1,0 +1,313 @@
+[+]Input file: input_paytm.com.txt was found
+[+]Reading input file
+[+]========**************========
+[+]Recon_dom_title by Codarren Velvindron
+[+]========**************========
+[+]Version 0.5
+[!]Give me urls and I give titles!
+[!]Website Tested: paytm.com
+[!]Your output filename was created !
+[!]Scanning titles for: 151 urls
+[!]http://www.paytm.com
+[-]exception found, non-existant domain
+[!]http://about.paytm.com
+[+]403 Forbidden
+[!]http://accounts.paytm.com
+[+]App Server X - Error report
+[!]http://accounts-int.paytm.com
+[-]exception found, non-existant domain
+[!]http://accounts-uat.paytm.com
+[-]exception found, non-existant domain
+[!]http://accounts1.paytm.com
+[+]App Server X - Error report
+[!]http://affiliate.paytm.com
+[+]nothing found, you should check!
+[!]http://akamai-accounts.paytm.com
+[+]App Server X - Error report
+[!]http://analytics.paytm.com
+[-]exception found, non-existant domain
+[!]http://api.paytm.com
+[-]exception found, non-existant domain
+[!]http://apiproxy.paytm.com
+[+]nothing found, you should check!
+[!]http://apiproxy-movies.paytm.com
+[-]exception found, non-existant domain
+[!]http://apiproxy-moviesv2.paytm.com
+[+]nothing found, you should check!
+[!]http://apiproxy-staging.paytm.com
+[+]403 Forbidden
+[!]http://appcdn.paytm.com
+[+]nothing found, you should check!
+[!]http://appfaq.paytm.com
+[+]403 Forbidden
+[!]http://assets.paytm.com
+[+]nothing found, you should check!
+[!]http://assetscdn.paytm.com
+[+]nothing found, you should check!
+[!]http://assetscdn1.paytm.com
+[+]nothing found, you should check!
+[!]http://beta.paytm.com
+[+]403 Forbidden
+[!]http://beta-assets.paytm.com
+[-]exception found, non-existant domain
+[!]http://beta1-assets.paytm.com
+[-]exception found, non-existant domain
+[!]http://blog.paytm.com
+-->Paytm Blog
+[!]http://www.blog.paytm.com
+[-]exception found, non-existant domain
+[!]http://bugbounty.paytm.com
+[-]exception found, non-existant domain
+[!]http://business.paytm.com
+[+]Digital Payment for Business, Merchant Account, Electronic Payment System & Cashless Transactions in India
+[!]http://c.paytm.com
+[-]exception found, non-existant domain
+[!]http://cart.paytm.com
+[+]nothing found, you should check!
+[!]http://cart-staging.paytm.com
+[+]403 Forbidden
+[!]http://cartapidev.paytm.com
+[-]exception found, non-existant domain
+[!]http://catalog.paytm.com
+[+]nothing found, you should check!
+[!]http://catalog-staging.paytm.com
+[+]nothing found, you should check!
+[!]http://catalogadmin.paytm.com
+[+]nothing found, you should check!
+[!]http://catalogapidev.paytm.com
+[-]exception found, non-existant domain
+[!]http://cdn.paytm.com
+[+]nothing found, you should check!
+[!]http://cdn2.paytm.com
+[+]Online Recharge- Online Prepaid Mobile, DTH and DataCard Recharge for Airtel,Vodafone,Reliance,BSNL,Idea,Uninor,MTS,Tata Docomo,Tata Indicom,MTNL,Loop Mobile
+[!]http://cdn5.paytm.com
+[-]exception found, non-existant domain
+[!]http://chat-staging.paytm.com
+[-]exception found, non-existant domain
+[!]http://chat2-paywith.paytm.com
+[-]exception found, non-existant domain
+[!]http://cms.paytm.com
+[-]exception found, non-existant domain
+[!]http://code.paytm.com
+[+]403 Forbidden
+[!]http://codejam.paytm.com
+[-]exception found, non-existant domain
+[!]http://compliance.paytm.com
+[-]exception found, non-existant domain
+[!]http://ctest.paytm.com
+[-]exception found, non-existant domain
+[!]http://dashboard.paytm.com
+-->Dashboard | Paytm
+[!]http://dev.paytm.com
+[-]exception found, non-existant domain
+[!]http://dev-paywith.paytm.com
+[-]exception found, non-existant domain
+[!]http://dg-static1.paytm.com
+[+]nothing found, you should check!
+[!]http://dg-static2.paytm.com
+[+]nothing found, you should check!
+[!]http://dg-static3.paytm.com
+[+]nothing found, you should check!
+[!]http://dg-static4.paytm.com
+[+]nothing found, you should check!
+[!]http://discuss.paytm.com
+-->Paytm Support Communities
+[!]http://dservice.paytm.com
+[-]exception found, non-existant domain
+[!]http://easypay.paytm.com
+[-]exception found, non-existant domain
+[!]http://email.paytm.com
+[+]404 Not Found
+[!]http://o1.email.paytm.com
+[-]exception found, non-existant domain
+[!]http://o10.email.paytm.com
+[-]exception found, non-existant domain
+[!]http://o11.email.paytm.com
+[-]exception found, non-existant domain
+[!]http://o12.email.paytm.com
+[-]exception found, non-existant domain
+[!]http://o2.email.paytm.com
+[-]exception found, non-existant domain
+[!]http://o4.email.paytm.com
+[-]exception found, non-existant domain
+[!]http://o5.email.paytm.com
+[-]exception found, non-existant domain
+[!]http://o7.email.paytm.com
+[-]exception found, non-existant domain
+[!]http://o8.email.paytm.com
+[-]exception found, non-existant domain
+[!]http://o9.email.paytm.com
+[-]exception found, non-existant domain
+[!]http://entertainmentblog.paytm.com
+[+]403 Forbidden
+[!]http://fastag-uat.paytm.com
+[-]exception found, non-existant domain
+[!]http://fs.paytm.com
+[-]exception found, non-existant domain
+[!]http://fulfillment.paytm.com
+[+]nothing found, you should check!
+[!]http://fulfillment-catalog.paytm.com
+[-]exception found, non-existant domain
+[!]http://fulfillment-staging.paytm.com
+[+]403 Forbidden
+[!]http://gobig.paytm.com
+[-]exception found, non-existant domain
+[!]http://gobig-staging.paytm.com
+[-]exception found, non-existant domain
+[!]http://goldengate.paytm.com
+[-]exception found, non-existant domain
+[!]http://goldengate-app.paytm.com
+[-]exception found, non-existant domain
+[!]http://goldengate-paytmapp.paytm.com
+[-]exception found, non-existant domain
+[!]http://goldengate-staging.paytm.com
+[+]nothing found, you should check!
+[!]http://hotels.paytm.com
+[+]Welcome to nginx!
+[!]http://hub.paytm.com
+[-]exception found, non-existant domain
+[!]http://images.paytm.com
+[-]exception found, non-existant domain
+[!]http://informatics.paytm.com
+[+]403 Forbidden
+[!]http://kyc.paytm.com
+[-]exception found, non-existant domain
+[!]http://logistics.paytm.com
+[-]exception found, non-existant domain
+[!]http://m.paytm.com
+[-]exception found, non-existant domain
+[!]http://mail.paytm.com
+[-]exception found, non-existant domain
+[!]http://o6.mail.paytm.com
+[-]exception found, non-existant domain
+[!]http://merchant.paytm.com
+[-]exception found, non-existant domain
+[!]http://mobile.paytm.com
+[-]exception found, non-existant domain
+[!]http://mobile-assets.paytm.com
+[-]exception found, non-existant domain
+[!]http://mseller.paytm.com
+-->Paytm Mall Sign Up
+[!]http://msgcntr.paytm.com
+[-]exception found, non-existant domain
+[!]http://netc.paytm.com
+[-]exception found, non-existant domain
+[!]http://netc-uat.paytm.com
+[-]exception found, non-existant domain
+[!]http://newuser.paytm.com
+[-]exception found, non-existant domain
+[!]http://notification.paytm.com
+[-]exception found, non-existant domain
+[!]http://offer.paytm.com
+[+]nothing found, you should check!
+[!]http://oms-admin.paytm.com
+[-]exception found, non-existant domain
+[!]http://omsmp.paytm.com
+[-]exception found, non-existant domain
+[!]http://onboard.paytm.com
+[-]exception found, non-existant domain
+[!]http://p.paytm.com
+[-]exception found, non-existant domain
+[!]http://paas.paytm.com
+[-]exception found, non-existant domain
+[!]http://admin.paas.paytm.com
+[-]exception found, non-existant domain
+[!]http://api.paas.paytm.com
+[-]exception found, non-existant domain
+[!]http://auth.paas.paytm.com
+[-]exception found, non-existant domain
+[!]http://monitor.paas.paytm.com
+[-]exception found, non-existant domain
+[!]http://user.paas.paytm.com
+[-]exception found, non-existant domain
+[!]http://pages.paytm.com
+[+]Error
+[!]http://partner.paytm.com
+[-]exception found, non-existant domain
+[!]http://pay.paytm.com
+[+]nothing found, you should check!
+[!]http://paywith.paytm.com
+[-]exception found, non-existant domain
+[!]http://pbapp.paytm.com
+[+]403 Forbidden
+[!]http://persona.paytm.com
+[+]nothing found, you should check!
+[!]http://persona-dev.paytm.com
+[-]exception found, non-existant domain
+[!]http://pguat.paytm.com
+[-]exception found, non-existant domain
+[!]http://phabricator.paytm.com
+[-]exception found, non-existant domain
+[!]http://pixel.paytm.com
+[-]exception found, non-existant domain
+[!]http://qa-paywith.paytm.com
+[-]exception found, non-existant domain
+[!]http://qc.paytm.com
+[+]401 Authorization Required
+[!]http://register-fastag.paytm.com
+[-]exception found, non-existant domain
+[!]http://resizer.paytm.com
+[+]nothing found, you should check!
+[!]http://rpcapi.paytm.com
+[+]nothing found, you should check!
+[!]http://buservice.saas.paytm.com
+[-]exception found, non-existant domain
+[!]http://search.paytm.com
+[+]nothing found, you should check!
+[!]http://secure.paytm.com
+[-]exception found, non-existant domain
+[!]http://seedapi.paytm.com
+[+]nothing found, you should check!
+[!]http://seller.paytm.com
+-->Paytm Marketplace Sign Up
+[!]http://sellon.paytm.com
+[-]exception found, non-existant domain
+[!]http://shop.paytm.com
+[-]exception found, non-existant domain
+[!]http://shop-staging.paytm.com
+[-]exception found, non-existant domain
+[!]http://signup.paytm.com
+[-]exception found, non-existant domain
+[!]http://sites.paytm.com
+[-]exception found, non-existant domain
+[!]http://sites-staging.paytm.com
+[+]403 Forbidden
+[!]http://staging.paytm.com
+[+]403 Forbidden
+[!]http://staging-assets.paytm.com
+[+]403 Forbidden
+[!]http://staging-dashboard.paytm.com
+[-]exception found, non-existant domain
+[!]http://static.paytm.com
+[-]exception found, non-existant domain
+[!]http://t.paytm.com
+[-]exception found, non-existant domain
+[!]http://thunderbolt.paytm.com
+[-]exception found, non-existant domain
+[!]http://thunderbolt-assets.paytm.com
+[-]exception found, non-existant domain
+[!]http://thunderbolt-staging.paytm.com
+[-]exception found, non-existant domain
+[!]http://tickets.paytm.com
+[-]exception found, non-existant domain
+[!]http://tickets-staging.paytm.com
+[-]exception found, non-existant domain
+[!]http://track.paytm.com
+[+]nothing found, you should check!
+[!]http://tracking.paytm.com
+[-]exception found, non-existant domain
+[!]http://travel.paytm.com
+[+]Sign In
+[!]http://travelblog.paytm.com
+[+]403 Forbidden
+[!]http://travelseller.paytm.com
+[+]Marketplace Hotel Agreement
+[!]http://updates.paytm.com
+[+]Welcome to nginx!
+[!]http://verify.paytm.com
+[+]nothing found, you should check!
+[!]http://walletchat-staging.paytm.com
+[-]exception found, non-existant domain
+[!]http://websms.paytm.com
+[-]exception found, non-existant domain
+** Successfully scanned **

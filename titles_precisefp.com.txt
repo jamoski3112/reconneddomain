@@ -1,0 +1,47 @@
+[+]Input file: input_precisefp.com.txt was found
+[+]Reading input file
+[+]========**************========
+[+]Recon_dom_title by Codarren Velvindron
+[+]========**************========
+[+]Version 0.5
+[!]Give me urls and I give titles!
+[!]Website Tested: precisefp.com
+[!]Your output filename was created !
+[!]Scanning titles for: 18 urls
+[!]http://www.precisefp.com
+-->Home | PreciseFP
+[!]http://app.precisefp.com
+-->PreciseFP
+[!]http://app006.precisefp.com
+[-]exception found, non-existant domain
+[!]http://app007.precisefp.com
+[-]exception found, non-existant domain
+[!]http://app008.precisefp.com
+[-]exception found, non-existant domain
+[!]http://app009.precisefp.com
+[-]exception found, non-existant domain
+[!]http://app010.precisefp.com
+[-]exception found, non-existant domain
+[!]http://beta.precisefp.com
+-->Home | PreciseFP
+[!]http://dev.precisefp.com
+[-]exception found, non-existant domain
+[!]http://four.precisefp.com
+-->PreciseFP
+[!]http://fp.precisefp.com
+[+]Financial Identities
+[!]http://help.precisefp.com
+[+]Help Center
+[!]http://node.precisefp.com
+[-]exception found, non-existant domain
+[!]http://nodefour.precisefp.com
+[+]nothing found, you should check!
+[!]http://prod.precisefp.com
+[-]exception found, non-existant domain
+[!]http://status.precisefp.com
+[+]nothing found, you should check!
+[!]http://support.precisefp.com
+[-]exception found, non-existant domain
+[!]http://uat.precisefp.com
+[-]exception found, non-existant domain
+** Successfully scanned **

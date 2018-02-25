@@ -1,0 +1,1208 @@
+[+]Input file: input_microsoft.com.txt was found
+[+]Reading input file
+[+]========**************========
+[+]Recon_dom_title by Codarren Velvindron
+[+]========**************========
+[+]Version 0.5
+[!]Give me urls and I give titles!
+[!]Website Tested: microsoft.com
+[!]Your output filename was created !
+[!]Scanning titles for: 589 urls
+[!]http://www.microsoft.com
+-->Microsoft - Official Home Page
+[!]http://academy.microsoft.com
+-->Microsoft Professional Program
+[!]http://account.microsoft.com
+-->Microsoft account | Sign In or Create Your Account Today
+[!]http://jcmsfd.account.microsoft.com
+[+]403 - Forbidden: Access is denied.
+[!]http://accounts.microsoft.com
+-->Microsoft account | Sign In or Create Your Account Today
+[!]http://activate.microsoft.com
+[-]exception found, non-existant domain
+[!]http://activex.microsoft.com
+[+]nothing found, you should check!
+[!]http://adfshelp.microsoft.com
+[+]Home - AD FS Help
+[!]http://admin-mva.microsoft.com
+-->Microsoft Virtual Academy
+[!]http://advertising.microsoft.com
+[+]Display Home - Bing Ads
+[!]http://agent360.microsoft.com
+[+]Agent 360
+[!]http://aischool.microsoft.com
+[+]AI School
+[!]http://ajax.microsoft.com
+-->Microsoft Ajax Content Delivery Network | Microsoft Docs
+[!]http://answers.microsoft.com
+-->Microsoft Community
+[!]http://www.answers.microsoft.com
+-->Microsoft Community
+[!]http://social.answers.microsoft.com
+[+]nothing found, you should check!
+[!]http://apportal.microsoft.com
+[+]MSX Apportal
+[!]http://apps.microsoft.com
+[+]Your request appears to be from an automated process
+[!]http://wscont.apps.microsoft.com
+[+]403 - Forbidden: Access is denied.
+[!]http://appsource.microsoft.com
+-->Find the right app | Microsoft AppSource
+[!]http://browser.pipe.aria.microsoft.com
+[-]exception found, non-existant domain
+[!]http://mobile.pipe.aria.microsoft.com
+[-]exception found, non-existant domain
+[!]http://assessment.microsoft.com
+-->Microsoft - Official Home Page
+[!]http://assets.microsoft.com
+[+]This file no longer exists.
+[!]http://assetsprod.microsoft.com
+[+]This file no longer exists.
+[!]http://azure.microsoft.com
+-->Microsoft Azure Cloud Computing Platform &amp; Services
+[!]http://azurecdn-licensing.microsoft.com
+[+]404 - Not Found
+[!]http://azuremarketplace.microsoft.com
+-->Microsoft Azure Marketplace
+[!]http://backup12.microsoft.com
+[-]exception found, non-existant domain
+[!]http://bayprofile01.microsoft.com
+[-]exception found, non-existant domain
+[!]http://bayprofile02.microsoft.com
+[-]exception found, non-existant domain
+[!]http://bayprofile10.microsoft.com
+[-]exception found, non-existant domain
+[!]http://bayprofile11.microsoft.com
+[-]exception found, non-existant domain
+[!]http://bayprofile12.microsoft.com
+[-]exception found, non-existant domain
+[!]http://bayvlsc01.microsoft.com
+[-]exception found, non-existant domain
+[!]http://bayvlsc02.microsoft.com
+[-]exception found, non-existant domain
+[!]http://help.bing.microsoft.com
+[+]nothing found, you should check!
+[!]http://bingads.microsoft.com
+[+]Bing Ads | Search Engine Marketing (SEM)
+[!]http://adinquiry.bingads.microsoft.com
+-->microsoft.com
+[!]http://adinsight.bingads.microsoft.com
+[+]Bing Ads | Search Engine Marketing (SEM)
+[!]http://ads.bingads.microsoft.com
+[+]Start your search engine marketing with us - Bing Ads
+[!]http://adslabs.bingads.microsoft.com
+[+]nothing found, you should check!
+[!]http://advertise.bingads.microsoft.com
+[+]Start your search engine marketing with us - Bing Ads
+[!]http://developers.bingads.microsoft.com
+-->Bing Ads Documentation - Bing Ads | Microsoft Docs
+[!]http://fd.bingads.microsoft.com
+[+]BingAds Frontdoor Market Detection
+[!]http://help.bingads.microsoft.com
+[+]nothing found, you should check!
+[!]http://secure.bingads.microsoft.com
+[+]Bing Ads | Search Engine Marketing (SEM)
+[!]http://ucm.bingads.microsoft.com
+[+]nothing found, you should check!
+[!]http://dev.ucm.bingads.microsoft.com
+[+]nothing found, you should check!
+[!]http://vnext.ucm.bingads.microsoft.com
+[+]nothing found, you should check!
+[!]http://bitlockerrecovery.microsoft.com
+[+]Sign in to your account
+[!]http://biu.microsoft.com
+[+]Bulk Import Utility
+[!]http://bizspark.microsoft.com
+-->Home | Microsoft for Startups
+[!]http://blogs.microsoft.com
+-->The Official Microsoft Blog
+[!]http://bn1cdnamail1.microsoft.com
+[-]exception found, non-existant domain
+[!]http://bn1vlsctest01.microsoft.com
+[-]exception found, non-existant domain
+[!]http://bn1vlsctest02.microsoft.com
+[-]exception found, non-existant domain
+[!]http://boards.microsoft.com
+[+]Folloze
+[!]http://build.microsoft.com
+-->Microsoft Build 2018 Developer Conference
+[!]http://register.build.microsoft.com
+-->Microsoft Build 2018 - Register - This is the landing page for the site
+[!]http://blogs.business.microsoft.com
+[-]exception found, non-existant domain
+[!]http://businessaccount.microsoft.com
+-->Welcome to Microsoft Next Generation Volume Licensing
+[!]http://businessstore.microsoft.com
+[+]nothing found, you should check!
+[!]http://buycenterconfig.microsoft.com
+[-]exception found, non-existant domain
+[!]http://buycenterconfigppe.microsoft.com
+[-]exception found, non-existant domain
+[!]http://www7.buyoffice.microsoft.com
+[-]exception found, non-existant domain
+[!]http://buysupportuat1.microsoft.com
+[-]exception found, non-existant domain
+[!]http://by2profiletest01.microsoft.com
+[-]exception found, non-existant domain
+[!]http://by2profiletest02.microsoft.com
+[-]exception found, non-existant domain
+[!]http://by2vlsctest51.microsoft.com
+[-]exception found, non-existant domain
+[!]http://c1.microsoft.com
+[+]nothing found, you should check!
+[!]http://c2r.microsoft.com
+[+]404 - File or directory not found.
+[!]http://calc.microsoft.com
+[+]nothing found, you should check!
+[!]http://samarium.carbon.microsoft.com
+[+]Samarium
+[!]http://careers.microsoft.com
+-->Microsoft Careers
+[!]http://catalyst.microsoft.com
+[+]Catalyst
+[!]http://ppe.catalyst.microsoft.com
+[+]Catalyst
+[!]http://ccmanage.microsoft.com
+[-]exception found, non-existant domain
+[!]http://choice.microsoft.com
+-->Microsoft account | Privacy
+[!]http://cla.microsoft.com
+-->Contributor License Agreement (CLA) - Microsoft Open Source
+[!]http://cloudblogs.microsoft.com
+[-]exception found, non-existant domain
+[!]http://ce.clouddam.microsoft.com
+[+]Welcome to Cloud & Enterprise
+[!]http://fm.clouddam.microsoft.com
+[+]Welcome to CloudDAM
+[!]http://retail.clouddam.microsoft.com
+[+]Welcome to CloudDAM
+[!]http://cloudsociety.microsoft.com
+-->Microsoft - The Cloud Society
+[!]http://cmsbn1test01.microsoft.com
+[-]exception found, non-existant domain
+[!]http://cmsbn1test02.microsoft.com
+[-]exception found, non-existant domain
+[!]http://cmsbn1test10.microsoft.com
+[-]exception found, non-existant domain
+[!]http://cmsbn1test11.microsoft.com
+[-]exception found, non-existant domain
+[!]http://cmsby2test51.microsoft.com
+[-]exception found, non-existant domain
+[!]http://cmsby2test60.microsoft.com
+[-]exception found, non-existant domain
+[!]http://cmsby2test61.microsoft.com
+[-]exception found, non-existant domain
+[!]http://cmsco2test51.microsoft.com
+[-]exception found, non-existant domain
+[!]http://cmsco2test60.microsoft.com
+[-]exception found, non-existant domain
+[!]http://cmsco2test61.microsoft.com
+[-]exception found, non-existant domain
+[!]http://cmscy1test51.microsoft.com
+[-]exception found, non-existant domain
+[!]http://cmscy1test60.microsoft.com
+[-]exception found, non-existant domain
+[!]http://buy.co1.microsoft.com
+[+]nothing found, you should check!
+[!]http://co1profile01.microsoft.com
+[-]exception found, non-existant domain
+[!]http://co1profile02.microsoft.com
+[-]exception found, non-existant domain
+[!]http://co1profile10.microsoft.com
+[-]exception found, non-existant domain
+[!]http://co1profile11.microsoft.com
+[-]exception found, non-existant domain
+[!]http://co1profile12.microsoft.com
+[-]exception found, non-existant domain
+[!]http://co1profiletest01.microsoft.com
+[-]exception found, non-existant domain
+[!]http://co1profiletest02.microsoft.com
+[-]exception found, non-existant domain
+[!]http://co1vlsc01.microsoft.com
+[-]exception found, non-existant domain
+[!]http://co1vlsc02.microsoft.com
+[-]exception found, non-existant domain
+[!]http://co2vlsctest51.microsoft.com
+[-]exception found, non-existant domain
+[!]http://codex.microsoft.com
+[-]exception found, non-existant domain
+[!]http://contentmoderator.cognitive.microsoft.com
+[+]Content Moderator
+[!]http://westus.dev.cognitive.microsoft.com
+-->Microsoft Cognitive Services
+[!]http://labs.cognitive.microsoft.com
+-->Microsoft Cognitive Services Labs - Cognitive Services LabsVisionProject GestureSearchProject Local InsightsProject Event TrackingKnowledgeProject Knowledge ExplorationProject Academic KnowledgeProject Entity Linking
+[!]http://commerce.microsoft.com
+-->Sign in to your Microsoft account
+[!]http://communication.microsoft.com
+[-]exception found, non-existant domain
+[!]http://compass.microsoft.com
+[+]nothing found, you should check!
+[!]http://compass-ssl.microsoft.com
+[+]nothing found, you should check!
+[!]http://connect.microsoft.com
+-->Microsoft Connect is Retired - Collaborate | Microsoft Docs
+[!]http://download.connect.microsoft.com
+[+]403 - Forbidden
+[!]http://courses.microsoft.com
+-->Sign into your Microsoft Learning Account | Microsoft Learning
+[!]http://access.tools.cp.microsoft.com
+[-]exception found, non-existant domain
+[!]http://cp-mlxprod-static.microsoft.com
+[+]nothing found, you should check!
+[!]http://crl.microsoft.com
+[+]nothing found, you should check!
+[!]http://customers.microsoft.com
+-->Microsoft Customers
+[!]http://www.cy1test51.microsoft.com
+[-]exception found, non-existant domain
+[!]http://www.cy1test60.microsoft.com
+[-]exception found, non-existant domain
+[!]http://www.cy1test61.microsoft.com
+[-]exception found, non-existant domain
+[!]http://d2em.microsoft.com
+[-]exception found, non-existant domain
+[!]http://settings-win.data.microsoft.com
+[-]exception found, non-existant domain
+[!]http://v10.vortex-win.data.microsoft.com
+[-]exception found, non-existant domain
+[!]http://datamigration.microsoft.com
+[+]nothing found, you should check!
+[!]http://datatransfer1.microsoft.com
+[-]exception found, non-existant domain
+[!]http://datatransferbr1.microsoft.com
+[-]exception found, non-existant domain
+[!]http://dcupload.microsoft.com
+[+]nothing found, you should check!
+[!]http://definitionupdates.microsoft.com
+-->Microsoft Download Center: Windows, Office, Xbox &amp; More
+[!]http://demos.microsoft.com
+-->Microsoft Demos
+[!]http://apps.dev.microsoft.com
+-->Sign in to your Microsoft account
+[!]http://developer.microsoft.com
+-->Microsoft Developer
+[!]http://devicepartner.microsoft.com
+[+]Device Partner Center
+[!]http://devicesupport.microsoft.com
+[+]nothing found, you should check!
+[!]http://dlbmodigital.microsoft.com
+[+]nothing found, you should check!
+[!]http://care.dlservice.microsoft.com
+[+]nothing found, you should check!
+[!]http://mse.dlservice.microsoft.com
+-->Microsoft Download Center: Windows, Office, Xbox &amp; More
+[!]http://silverlight.dlservice.microsoft.com
+-->Microsoft Download Center: Windows, Office, Xbox &amp; More
+[!]http://sqlserver.dlservice.microsoft.com
+[+]nothing found, you should check!
+[!]http://wb.dlservice.microsoft.com
+[+]nothing found, you should check!
+[!]http://wl.dlservice.microsoft.com
+-->Microsoft Download Center: Windows, Office, Xbox &amp; More
+[!]http://xpsp.dlservice.microsoft.com
+[+]nothing found, you should check!
+[!]http://docs.microsoft.com
+-->Technical documentation, API, and code examples | Microsoft Docs
+[!]http://download.microsoft.com
+-->Microsoft Download Center: Windows, Office, Xbox &amp; More
+[!]http://fullproduct.download.microsoft.com
+[+]nothing found, you should check!
+[!]http://downloadoffice2010.microsoft.com
+[+]Download Earlier Versions of Office
+[!]http://dpa-fwl.microsoft.com
+[+]nothing found, you should check!
+[!]http://dpcenter.microsoft.com
+[+]Device Partner Center
+[!]http://dpconnector.microsoft.com
+[+]Connector - Home
+[!]http://ds.microsoft.com
+-->Microsoft Custom Decision Service
+[!]http://dynamics.microsoft.com
+-->Microsoft Dynamics 365: Intelligent Business Applications
+[!]http://e.microsoft.com
+[-]exception found, non-existant domain
+[!]http://eagreements.microsoft.com
+[+]eAgreements - Log-In
+[!]http://ecs.microsoft.com
+[-]exception found, non-existant domain
+[!]http://education.microsoft.com
+-->Microsoft Educator Community home - Microsoft in Education
+[!]http://educationblog.microsoft.com
+[-]exception found, non-existant domain
+[!]http://einvoice.microsoft.com
+-->MS Invoice - Electronic Invoicing Tool at Microsoft
+[!]http://emails.microsoft.com
+[+]nothing found, you should check!
+[!]http://engineering.microsoft.com
+-->Microsoft Engineering Stories
+[!]http://enterprise.microsoft.com
+-->Microsoft Enterprise: Disruptive innovation in technology solutions
+[!]http://eopen.microsoft.com
+[-]exception found, non-existant domain
+[!]http://home.ep.microsoft.com
+[+]ITAuthorize EP
+[!]http://umt.ep.microsoft.com
+[+]ITAuthorize EP
+[!]http://es.microsoft.com
+[+]Sign in to your account
+[!]http://esbctp1.microsoft.com
+[-]exception found, non-existant domain
+[!]http://esbctpmb1.microsoft.com
+[-]exception found, non-existant domain
+[!]http://iso.esd.microsoft.com
+[+]nothing found, you should check!
+[!]http://web.esd.microsoft.com
+[+]nothing found, you should check!
+[!]http://esxp.microsoft.com
+[+]nothing found, you should check!
+[!]http://event.microsoft.com
+-->Microsoft Production Studios | stream.microsoft.com
+[!]http://examregistration.microsoft.com
+[+]nothing found, you should check!
+[!]http://expertzone.microsoft.com
+[+]Welcome
+[!]http://expression.microsoft.com
+[+]We are sorry, the page you requested cannot be found
+[!]http://social.expression.microsoft.com
+[+]We are sorry, the page you requested cannot be found
+[!]http://emsl.partners.extranet.microsoft.com
+[+]Login Page
+[!]http://iwsolve.partners.extranet.microsoft.com
+[+]Planning Services Partner Directory Management Console
+[!]http://msvreports.partners.extranet.microsoft.com
+[-]exception found, non-existant domain
+[!]http://planningservices.partners.extranet.microsoft.com
+[-]exception found, non-existant domain
+[!]http://pricing.partners.extranet.microsoft.com
+[-]exception found, non-existant domain
+[!]http://roclicensing.partners.extranet.microsoft.com
+[-]exception found, non-existant domain
+[!]http://sharepoint.partners.extranet.microsoft.com
+[-]exception found, non-existant domain
+[!]http://specserver.partners.extranet.microsoft.com
+[-]exception found, non-existant domain
+[!]http://telecomreporting.partners.extranet.microsoft.com
+[-]exception found, non-existant domain
+[!]http://vlscu1.partners.extranet.microsoft.com
+[+]403 - Forbidden: Access is denied.
+[!]http://settings.familysafety.microsoft.com
+[+]403 - Forbidden: Access is denied.
+[!]http://fasttrack.microsoft.com
+-->Microsoft FastTrack
+[!]http://findtime.microsoft.com
+[-]exception found, non-existant domain
+[!]http://flow.microsoft.com
+-->Automate processes + tasks | Microsoft Flow
+[!]http://fluent.microsoft.com
+[+]Fluent Design System
+[!]http://forefrontdl.microsoft.com
+[+]404 - File or directory not found.
+[!]http://forums.microsoft.com
+[-]exception found, non-existant domain
+[!]http://fs.microsoft.com
+[+]nothing found, you should check!
+[!]http://fs1.microsoft.com
+[-]exception found, non-existant domain
+[!]http://fuse.microsoft.com
+-->AI platform - Microsoft AI
+[!]http://getdevices.microsoft.com
+[+]nothing found, you should check!
+[!]http://go.microsoft.com
+-->Microsoft - Official Home Page
+[!]http://go2.microsoft.com
+-->Microsoft - Official Home Page
+[!]http://blugro1relay.groove.microsoft.com
+[+]nothing found, you should check!
+[!]http://blugro3relay.groove.microsoft.com
+[+]nothing found, you should check!
+[!]http://grv.microsoft.com
+-->Microsoft OneDrive - Access files anywhere. Create docs with free Office Online.
+[!]http://gtoinvoicing.microsoft.com
+[+]GTO Invoicing
+[!]http://dev.gtoinvoicing.microsoft.com
+[+]GTO Invoicing
+[!]http://handsondemos.microsoft.com
+-->Microsoft Demos
+[!]http://home.microsoft.com
+[+]MSN.com - Hotmail, Outlook, Skype, Bing, Latest News, Photos &amp; Videos
+[!]http://hotfixv4.microsoft.com
+[+]nothing found, you should check!
+[!]http://humanitarianresponse.microsoft.com
+[+]nothing found, you should check!
+[!]http://hup.microsoft.com
+-->Microsoft HUP - Register to purchase Microsoft Office Professional Plus 2016 at a discounted rate through the Home Use Program
+[!]http://identity.microsoft.com
+[-]exception found, non-existant domain
+[!]http://ie.microsoft.com
+[+]nothing found, you should check!
+[!]http://ie9cvlist.ie.microsoft.com
+[+]nothing found, you should check!
+[!]http://iecvlist.microsoft.com
+[+]nothing found, you should check!
+[!]http://ieonline.microsoft.com
+[+]Bing
+[!]http://ignite.microsoft.com
+-->Microsoft Ignite | Orlando, FL | September 25-29, 2017
+[!]http://ignitepartner.microsoft.com
+[-]exception found, non-existant domain
+[!]http://imagine.microsoft.com
+[+]Student Developer Tools, Resources and Experiences | Imagine
+[!]http://catalog.imagine.microsoft.com
+[+]nothing found, you should check!
+[!]http://imagineacademy.microsoft.com
+-->Microsoft Learning
+[!]http://info.microsoft.com
+-->Microsoft - Official Home Page
+[!]http://info1.microsoft.com
+[-]exception found, non-existant domain
+[!]http://inspire.microsoft.com
+-->Microsoft Inspire Home Page
+[!]http://register.inspire.microsoft.com
+-->Microsoft Inspire - Login
+[!]http://sponsorship.inspire.microsoft.com
+[-]exception found, non-existant domain
+[!]http://integratedcampaignprogram.microsoft.com
+[+]Integrated Campaign
+[!]http://invitations.microsoft.com
+[+]Welcome
+[!]http://studio.iris.microsoft.com
+[-]exception found, non-existant domain
+[!]http://itacademy.microsoft.com
+-->Microsoft Learning
+[!]http://iteasyinstaller.microsoft.com
+[-]exception found, non-existant domain
+[!]http://join.microsoft.com
+[-]exception found, non-existant domain
+[!]http://js.microsoft.com
+-->Microsoft - Official Home Page
+[!]http://ksp1.microsoft.com
+[-]exception found, non-existant domain
+[!]http://kspis1.microsoft.com
+[-]exception found, non-existant domain
+[!]http://kspv201.microsoft.com
+[-]exception found, non-existant domain
+[!]http://kspv202.microsoft.com
+[-]exception found, non-existant domain
+[!]http://kspv501.microsoft.com
+[-]exception found, non-existant domain
+[!]http://kspv502.microsoft.com
+[-]exception found, non-existant domain
+[!]http://learnanalytics.microsoft.com
+[+]Analytics - Learn AI
+[!]http://learning.microsoft.com
+-->Computer Training | Computer Certifications | Microsoft Learning
+[!]http://learningportal.microsoft.com
+--></title>
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="/scripts/jquery-1.11.3.min.js"></script>
+    <!-- Bootstrap & core CSS add reference here -->
+    <link rel="stylesheet" href="/Content/bootstrap.css">
+    <link href="/Content/styles.css" rel="stylesheet" type="text/css">
+    <link href="/Content/font-awesome.css" rel="stylesheet" type="text/css">
+    <link href="/Content/lp-styles.css" rel="stylesheet" type="text/css">
+    <script src="/Scripts/jquery-ui-1.12.1.js"></script>
+    <script src="https://use.fontawesome.com/3352f8709a.js"></script>
+    <script src="/Scripts/moment.js"></script>
+
+
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+
+    
+    <meta charset="utf-8">
+    <title>Microsoft learning portal
+[!]http://lexauthoring.microsoft.com
+[+]MLX Studio
+[!]http://lexincidentportal.microsoft.com
+[+]Sign in to your account
+[!]http://lexseat.microsoft.com
+[-]exception found, non-existant domain
+[!]http://licensing.microsoft.com
+-->Welcome to Microsoft Next Generation Volume Licensing
+[!]http://licensing-uat1.microsoft.com
+[-]exception found, non-existant domain
+[!]http://licensingadmin.microsoft.com
+[+]403 - Forbidden: Access is denied.
+[!]http://licensingsit1.microsoft.com
+[-]exception found, non-existant domain
+[!]http://licensinguat1.microsoft.com
+[-]exception found, non-existant domain
+[!]http://login.microsoft.com
+[+]Sign in to your account
+[!]http://lync.microsoft.com
+[+]404 error page
+[!]http://madeira.microsoft.com
+[-]exception found, non-existant domain
+[!]http://mail1.microsoft.com
+[-]exception found, non-existant domain
+[!]http://manage.microsoft.com
+-->Microsoft Intune
+[!]http://admin.manage.microsoft.com
+-->Microsoft Intune
+[!]http://admin.manage-beta.microsoft.com
+[+]Sign in to your account
+[!]http://admin.manage-dogfood.microsoft.com
+[-]exception found, non-existant domain
+[!]http://mbs.microsoft.com
+[+]403 - Forbidden: Access is denied.
+[!]http://mbs2.microsoft.com
+[+]
+[!]http://mbspartner.microsoft.com
+-->Microsoft Dynamics Learning Portal
+[!]http://mcp.microsoft.com
+-->Sign in to your Microsoft account
+[!]http://dmd.metaservices.microsoft.com
+[+]403 - Forbidden: Access is denied.
+[!]http://fai.music.metaservices.microsoft.com
+[+]403 - Forbidden: Access is denied.
+[!]http://info.music.metaservices.microsoft.com
+[+]403 - Forbidden: Access is denied.
+[!]http://redir.metaservices.microsoft.com
+[+]nothing found, you should check!
+[!]http://mfsa1.microsoft.com
+[-]exception found, non-existant domain
+[!]http://microsoft.microsoft.com
+[-]exception found, non-existant domain
+[!]http://microsoft365dashboard.microsoft.com
+-->Microsoft 365 Dashboard
+[!]http://microsoftedgetips.microsoft.com
+-->Microsoft Edge Tips
+[!]http://microsoftedgewelcome.microsoft.com
+-->Welcome to Microsoft Edge
+[!]http://military.microsoft.com
+-->Homepage - Microsoft Military Affairs
+[!]http://mla.microsoft.com
+-->Microsoft License Advisor
+[!]http://mms.microsoft.com
+[+]nothing found, you should check!
+[!]http://www.mms.microsoft.com
+[+]nothing found, you should check!
+[!]http://drew.portal.mms.microsoft.com
+[+]nothing found, you should check!
+[!]http://scbtportal.portal.mms.microsoft.com
+[+]nothing found, you should check!
+[!]http://welwitschia-operations.portal.mms.microsoft.com
+[-]exception found, non-existant domain
+[!]http://7.dl.delivery.mp.microsoft.com
+[+]403 - Forbidden: Access is denied.
+[!]http://tlu.dl.delivery.mp.microsoft.com
+[+]403 Forbidden
+[!]http://1a.tlu.dl.delivery.mp.microsoft.com
+[+]403 - Forbidden: Access is denied.
+[!]http://1b.tlu.dl.delivery.mp.microsoft.com
+[+]403 - Forbidden: Access is denied.
+[!]http://2.tlu.dl.delivery.mp.microsoft.com
+[+]nothing found, you should check!
+[!]http://3.tlu.dl.delivery.mp.microsoft.com
+[+]403 Forbidden
+[!]http://7.tlu.dl.delivery.mp.microsoft.com
+[+]nothing found, you should check!
+[!]http://cp601-prod.do.dsp.mp.microsoft.com
+[-]exception found, non-existant domain
+[!]http://cp701-prod.do.dsp.mp.microsoft.com
+[-]exception found, non-existant domain
+[!]http://tsfe.trafficshaping.dsp.mp.microsoft.com
+[-]exception found, non-existant domain
+[!]http://paymentinstruments.mp.microsoft.com
+[+]nothing found, you should check!
+[!]http://purchase.mp.microsoft.com
+[+]nothing found, you should check!
+[!]http://mran.microsoft.com
+[+]Home
+[!]http://supportportal-test.msapprovals.microsoft.com
+[+]MSApprovals Support Portal
+[!]http://msauction.microsoft.com
+[+]MSauction
+[!]http://msdl.microsoft.com
+[+]nothing found, you should check!
+[!]http://msdn.microsoft.com
+-->Learn to Develop with Microsoft Developer Network | MSDN
+[!]http://www.msdn.microsoft.com
+-->Learn to Develop with Microsoft Developer Network | MSDN
+[!]http://archive.msdn.microsoft.com
+[-]exception found, non-existant domain
+[!]http://blogs.msdn.microsoft.com
+-->MSDN Blogs &#8211; Get the latest information, insights, announcements, and news from Microsoft experts and developers in the MSDN blogs.
+[!]http://code.msdn.microsoft.com
+[+]Sample Code - MSDN Examples in C#, VB.NET, C++, JavaScript, F#
+[!]http://download.msdn.microsoft.com
+[+]403 - Forbidden
+[!]http://forums.msdn.microsoft.com
+[-]exception found, non-existant domain
+[!]http://i.msdn.microsoft.com
+-->Learn to Develop with Microsoft Developer Network | MSDN
+[!]http://samples.msdn.microsoft.com
+[+]MSDN Interactive Samples
+[!]http://search.msdn.microsoft.com
+-->Learn to Develop with Microsoft Developer Network | MSDN
+[!]http://social.msdn.microsoft.com
+-->Learn to Develop with Microsoft Developer Network | MSDN
+[!]http://visualstudiogallery.msdn.microsoft.com
+[+]Products and Extensions for Visual Studio
+[!]http://msdn2.microsoft.com
+-->Learn to Develop with Microsoft Developer Network | MSDN
+[!]http://msevents.microsoft.com
+[-]exception found, non-existant domain
+[!]http://www.msevents.microsoft.com
+[-]exception found, non-existant domain
+[!]http://www.mslearning.microsoft.com
+[+]nothing found, you should check!
+[!]http://msonlineppe2010.microsoft.com
+[-]exception found, non-existant domain
+[!]http://mspartner.microsoft.com
+-->Microsoft Partner Network - Home
+[!]http://epe.mspartner.microsoft.com
+-->Microsoft Azure Website - Welcome
+[!]http://logobuilder.mspartner.microsoft.com
+[+]Sign in to your account
+[!]http://msphonereg.microsoft.com
+[-]exception found, non-existant domain
+[!]http://msprotect.microsoft.com
+[+]Sign in to your account
+[!]http://portal.msrc.microsoft.com
+[+]nothing found, you should check!
+[!]http://msxpartnercenterbridge.microsoft.com
+[+]Send Opportunity To Partner Center
+[!]http://mva.microsoft.com
+[-]exception found, non-existant domain
+[!]http://mvp.microsoft.com
+-->Microsoft MVP Award
+[!]http://www.mvp.microsoft.com
+-->Microsoft MVP Award
+[!]http://myapps.microsoft.com
+[+]Sign in to your account
+[!]http://mybrowser.microsoft.com
+-->Microsoft - Official Home Page
+[!]http://mybuild.microsoft.com
+-->Microsoft Build 2017 - Microsoft Build 2017: Session Catalog
+[!]http://myenvision.microsoft.com
+[+]nothing found, you should check!
+[!]http://myinspire.microsoft.com
+-->Microsoft Inspire 2017 - Microsoft Inspire 2017: Sessions
+[!]http://mymfe.microsoft.com
+[-]exception found, non-existant domain
+[!]http://news.microsoft.com
+-->Stories | Microsoft news, features, events, and press materials
+[!]http://nonprofit.microsoft.com
+[+]nothing found, you should check!
+[!]http://note.microsoft.com
+-->Microsoft - Official Home Page
+[!]http://note0.microsoft.com
+[+]nothing found, you should check!
+[!]http://oca.microsoft.com
+[-]exception found, non-existant domain
+[!]http://ocss30.microsoft.com
+[-]exception found, non-existant domain
+[!]http://office.microsoft.com
+-->Microsoft Office | Productivity Tools for Home &amp; Office
+[!]http://www.office.microsoft.com
+-->Microsoft Office | Productivity Tools for Home &amp; Office
+[!]http://ocsa.office.microsoft.com
+-->Microsoft Office | Productivity Tools for Home &amp; Office
+[!]http://r.office.microsoft.com
+-->Office 365 Login | Microsoft Office
+[!]http://officecdn.microsoft.com
+[+]403 - Forbidden: Access is denied.
+[!]http://officeclient.microsoft.com
+[+]nothing found, you should check!
+[!]http://officeredir.microsoft.com
+-->Office 365 Login | Microsoft Office
+[!]http://o15.officeredir.microsoft.com
+-->Office 365 Login | Microsoft Office
+[!]http://officeupdate.microsoft.com
+-->Microsoft Office | Productivity Tools for Home &amp; Office
+[!]http://oms.microsoft.com
+-->Microsoft Cloud Platform - Advantages of Cloud Computing | Microsoft
+[!]http://drmlicense.one.microsoft.com
+[+]403 - Forbidden: Access is denied.
+[!]http://eiportal.one.microsoft.com
+[+]nothing found, you should check!
+[!]http://rsmext.one.microsoft.com
+[+]nothing found, you should check!
+[!]http://oneauth.microsoft.com
+[+]One Auth
+[!]http://onedrive.microsoft.com
+-->Microsoft OneDrive - Access files anywhere. Create docs with free Office Online.
+[!]http://int.onerf.microsoft.com
+[+]We are sorry, the page you requested cannot be found
+[!]http://onestore-int.microsoft.com
+[+]Your request appears to be from an automated process
+[!]http://onestore-ppe.microsoft.com
+[+]Your request appears to be from an automated process
+[!]http://online.microsoft.com
+[+]We are sorry, the page you requested cannot be found
+[!]http://onlinehelp.microsoft.com
+[+]Online Help
+[!]http://open.microsoft.com
+-->Microsoft + Open Source
+[!]http://openedx.microsoft.com
+-->| Microsoft Learning
+[!]http://opensource.microsoft.com
+-->Open Source - Microsoft
+[!]http://cla.opensource.microsoft.com
+-->Contributor License Agreement (CLA) - Microsoft Open Source
+[!]http://ops.microsoft.com
+[+]OPS Portal
+[!]http://packages.microsoft.com
+[+]Index of /
+[!]http://partner.microsoft.com
+-->Microsoft Partner Network - Home
+[!]http://logobuilder.partner.microsoft.com
+[+]Sign in to your account
+[!]http://partner-l1.microsoft.com
+-->Microsoft - Official Home Page
+[!]http://partnercenter.microsoft.com
+-->Microsoft Partner Center - Microsoft CSP Program
+[!]http://partnerdirectory.microsoft.com
+-->Microsoft Solution Providers
+[!]http://partners.microsoft.com
+[+]nothing found, you should check!
+[!]http://partnersales.microsoft.com
+[+]Connect
+[!]http://partnersupport.microsoft.com
+-->Microsoft Partners Forum
+[!]http://pdscloud.microsoft.com
+[+]nothing found, you should check!
+[!]http://phoenixadmin.microsoft.com
+[+]Phoenix
+[!]http://phoenixadminstg.microsoft.com
+[+]Phoenix
+[!]http://phoenixadminuat.microsoft.com
+[+]Phoenix
+[!]http://pinpoint.microsoft.com
+[+]nothing found, you should check!
+[!]http://test.playready.microsoft.com
+[+]PlayReady Test Server
+[!]http://plmt.microsoft.com
+[+]PLMT
+[!]http://msainsights.polaris.microsoft.com
+[-]exception found, non-existant domain
+[!]http://portal-partnerincentives.microsoft.com
+[-]exception found, non-existant domain
+[!]http://powerapps.microsoft.com
+-->Build Custom Business Apps | Microsoft PowerApps
+[!]http://powerbi.microsoft.com
+[+]Power BI | Interactive Data Visualization BI Tools
+[!]http://powerusers.microsoft.com
+[+]Home - Power Users Community
+[!]http://assets.ppv1.microsoft.com
+[-]exception found, non-existant domain
+[!]http://premier.microsoft.com
+[+]nothing found, you should check!
+[!]http://services.premier.microsoft.com
+[+]Home - Premier Proactive Services
+[!]http://privacy.microsoft.com
+[-]exception found, non-existant domain
+[!]http://profiletest1.microsoft.com
+[-]exception found, non-existant domain
+[!]http://prose.microsoft.com
+[+]PrOSE - Partner Operations and Support Experience
+[!]http://psa.microsoft.com
+[+]Personal Shopping Assistant
+[!]http://pubcenter.microsoft.com
+-->Microsoft pubCenter
+[!]http://internal.pubcenter.microsoft.com
+[+]Sign in to your account
+[!]http://pulse.microsoft.com
+-->Microsoft Pulse
+[!]http://quotecenter-int.microsoft.com
+[+]nothing found, you should check!
+[!]http://quotecenter-ppe.microsoft.com
+[+]nothing found, you should check!
+[!]http://rap01.microsoft.com
+[-]exception found, non-existant domain
+[!]http://rap02.microsoft.com
+[-]exception found, non-existant domain
+[!]http://reddas01.microsoft.com
+[-]exception found, non-existant domain
+[!]http://reddaspg01.microsoft.com
+[-]exception found, non-existant domain
+[!]http://reddaspg02.microsoft.com
+[-]exception found, non-existant domain
+[!]http://redmondts.microsoft.com
+[+]Error: Unable to display RD Web Access
+[!]http://referencesource.microsoft.com
+[+]Reference Source
+[!]http://research.microsoft.com
+[-]exception found, non-existant domain
+[!]http://academic.research.microsoft.com
+-->Microsoft Academic
+[!]http://centerstage.research.microsoft.com
+[+]Event Registration
+[!]http://cmt.research.microsoft.com
+-->Microsoft's Conference Management Toolkit
+[!]http://cmt3.research.microsoft.com
+[+]Conference Management Toolkit - Login
+[!]http://codesnippet.research.microsoft.com
+[+]Bing Code Search for C# in Visual Studio
+[!]http://ds3.research.microsoft.com
+[+]DS3 :: Home
+[!]http://entitycube.research.microsoft.com
+[-]exception found, non-existant domain
+[!]http://hxd.research.microsoft.com
+-->Human Experience and Design: Microsoft Research
+[!]http://natick.research.microsoft.com
+[+]Project Natick
+[!]http://puzzleday.research.microsoft.com
+[+]Home - Puzzleday 2017
+[!]http://puzzlehunt.research.microsoft.com
+[+]Home - Puzzlehunt 19
+[!]http://resnet.microsoft.com
+[+]Resnet
+[!]http://rewards.microsoft.com
+-->Microsoft Rewards - Search and shop with Microsoft
+[!]http://rr1mdmorgaz1.microsoft.com
+[-]exception found, non-existant domain
+[!]http://query.prod.cms.rt.microsoft.com
+[+]nothing found, you should check!
+[!]http://saestp01.microsoft.com
+[-]exception found, non-existant domain
+[!]http://auth.ship2.scdev.microsoft.com
+[+]Welcome to Sitecore
+[!]http://schemas.microsoft.com
+-->schemas.microsoft.com
+[!]http://sdsdk.microsoft.com
+[+]Service Desk
+[!]http://sdx.microsoft.com
+[+]SDX | SDX
+[!]http://origin.sdx.microsoft.com
+[+]SDX | SDX
+[!]http://seamnode1.microsoft.com
+[-]exception found, non-existant domain
+[!]http://search.microsoft.com
+[-]exception found, non-existant domain
+[!]http://secureit.microsoft.com
+[+]SecureIT
+[!]http://seller.microsoft.com
+-->Microsoft Seller Center
+[!]http://servicedesk.microsoft.com
+[+]nothing found, you should check!
+[!]http://servicedesk-int.microsoft.com
+[+]Service Desk
+[!]http://servicemodel.microsoft.com
+[+]Home Page - Declarative Service Model - 1.0.18010.2
+[!]http://mock.agent.services.microsoft.com
+[+]Membership Support Tool
+[!]http://dev.support.services.microsoft.com
+[+]nothing found, you should check!
+[!]http://survey.support.services.microsoft.com
+[+]nothing found, you should check!
+[!]http://serviceshub.microsoft.com
+[+]Services Hub
+[!]http://servicesuat.microsoft.com
+[+]nothing found, you should check!
+[!]http://servicetrust.microsoft.com
+[+]Service Trust Portal
+[!]http://sharepoint.microsoft.com
+[+]SharePoint 2016, Team Collaboration Software Tools
+[!]http://shopformusic.microsoft.com
+-->Microsoft - Official Home Page
+[!]http://simplifiedpo.microsoft.com
+[+]Purchase order
+[!]http://activation.sls.microsoft.com
+[-]exception found, non-existant domain
+[!]http://activation-v2.sls.microsoft.com
+[-]exception found, non-existant domain
+[!]http://validation-v2.sls.microsoft.com
+[-]exception found, non-existant domain
+[!]http://smartpartnermarketing.microsoft.com
+[+]Smart Partner Marketing
+[!]http://wut.smartscreen.microsoft.com
+[-]exception found, non-existant domain
+[!]http://scu.wut.smartscreen.microsoft.com
+[-]exception found, non-existant domain
+[!]http://smtphost1.microsoft.com
+[-]exception found, non-existant domain
+[!]http://social.microsoft.com
+-->Microsoft - Official Home Page
+[!]http://software-download.microsoft.com
+[-]exception found, non-existant domain
+[!]http://spoemco1.microsoft.com
+[-]exception found, non-existant domain
+[!]http://sppilotco1.microsoft.com
+[-]exception found, non-existant domain
+[!]http://spur.microsoft.com
+[+]
+[!]http://sqm.microsoft.com
+[+]nothing found, you should check!
+[!]http://staxnode1.microsoft.com
+[-]exception found, non-existant domain
+[!]http://staymodern.microsoft.com
+[-]exception found, non-existant domain
+[!]http://store.microsoft.com
+[+]Your request appears to be from an automated process
+[!]http://images2.store.microsoft.com
+[+]404 - Not Found
+[!]http://store-images.microsoft.com
+[+]nothing found, you should check!
+[!]http://stream.microsoft.com
+[-]exception found, non-existant domain
+[!]http://corp.sts.microsoft.com
+[+]IIS7
+[!]http://support.microsoft.com
+[+]nothing found, you should check!
+[!]http://www.support.microsoft.com
+[+]nothing found, you should check!
+[!]http://diagnostics.support.microsoft.com
+[+]403 - Forbidden: Access is denied.
+[!]http://fixitcenter.support.microsoft.com
+[-]exception found, non-existant domain
+[!]http://fud.community.services.support.microsoft.com
+[-]exception found, non-existant domain
+[!]http://smallbusiness.support.microsoft.com
+[+]Sign in to your account
+[!]http://support2.microsoft.com
+[+]nothing found, you should check!
+[!]http://surface-expertzone.microsoft.com
+[+]Welcome
+[!]http://svcs.microsoft.com
+[-]exception found, non-existant domain
+[!]http://sxp.microsoft.com
+[+]Site has been retired
+[!]http://sysdev.microsoft.com
+-->Sign in to your Microsoft account
+[!]http://tco.microsoft.com
+-->Total Cost of Ownership (TCO) Calculator - Azure TCO Calculator | Microsoft
+[!]http://www.tco.microsoft.com
+-->Total Cost of Ownership (TCO) Calculator - Azure TCO Calculator | Microsoft
+[!]http://teams.microsoft.com
+[+]Checking your credentials...
+[!]http://techcommunity.microsoft.com
+-->Home - Microsoft Tech Community
+[!]http://academy.techcommunity.microsoft.com
+-->Microsoft Tech Academy
+[!]http://resources.techcommunity.microsoft.com
+[-]exception found, non-existant domain
+[!]http://technet.microsoft.com
+[+]Resources and Tools for IT Professionals | TechNet
+[!]http://blogs.technet.microsoft.com
+-->TechNet Blogs &#8211; Get the latest information, insights, announcements, and news from Microsoft experts and IT professionals in the TechNet blogs.
+[!]http://gallery.technet.microsoft.com
+[+]TechNet downloads and scripts - IT pro&#39;s
+[!]http://mybulletins.technet.microsoft.com
+[+]My Security Bulletins Dashboard - My Bulletins
+[!]http://social.technet.microsoft.com
+[+]Resources and Tools for IT Professionals | TechNet
+[!]http://technet2.microsoft.com
+[+]nothing found, you should check!
+[!]http://birmingham.techsummit.microsoft.com
+[+]Loading...
+[!]http://sessioncatalog.techsummit.microsoft.com
+[+]Tech Summit Sydney - Session Browser
+[!]http://singapore.techsummit.microsoft.com
+[+]Loading...
+[!]http://watson.telemetry.microsoft.com
+[-]exception found, non-existant domain
+[!]http://testconnectivity.microsoft.com
+-->Microsoft Remote Connectivity Analyzer
+[!]http://tide001.microsoft.com
+[-]exception found, non-existant domain
+[!]http://tide002.microsoft.com
+[-]exception found, non-existant domain
+[!]http://tide010.microsoft.com
+[-]exception found, non-existant domain
+[!]http://tide110.microsoft.com
+[-]exception found, non-existant domain
+[!]http://tide111.microsoft.com
+[-]exception found, non-existant domain
+[!]http://tide120.microsoft.com
+[-]exception found, non-existant domain
+[!]http://tide130.microsoft.com
+[-]exception found, non-existant domain
+[!]http://tide131.microsoft.com
+[+]nothing found, you should check!
+[!]http://tide150.microsoft.com
+[-]exception found, non-existant domain
+[!]http://tide151.microsoft.com
+[-]exception found, non-existant domain
+[!]http://tide160.microsoft.com
+[-]exception found, non-existant domain
+[!]http://tide161.microsoft.com
+[-]exception found, non-existant domain
+[!]http://tide20.microsoft.com
+[-]exception found, non-existant domain
+[!]http://tide21.microsoft.com
+[-]exception found, non-existant domain
+[!]http://tide40.microsoft.com
+[-]exception found, non-existant domain
+[!]http://tide41.microsoft.com
+[-]exception found, non-existant domain
+[!]http://tide50.microsoft.com
+[-]exception found, non-existant domain
+[!]http://tide500.microsoft.com
+[-]exception found, non-existant domain
+[!]http://tide501.microsoft.com
+[-]exception found, non-existant domain
+[!]http://tide502.microsoft.com
+[-]exception found, non-existant domain
+[!]http://tide510.microsoft.com
+[-]exception found, non-existant domain
+[!]http://tide511.microsoft.com
+[-]exception found, non-existant domain
+[!]http://tide512.microsoft.com
+[-]exception found, non-existant domain
+[!]http://tide520.microsoft.com
+[-]exception found, non-existant domain
+[!]http://tide521.microsoft.com
+[-]exception found, non-existant domain
+[!]http://tide530.microsoft.com
+[-]exception found, non-existant domain
+[!]http://tide531.microsoft.com
+[-]exception found, non-existant domain
+[!]http://tide540.microsoft.com
+[-]exception found, non-existant domain
+[!]http://tide541.microsoft.com
+[-]exception found, non-existant domain
+[!]http://tide550.microsoft.com
+[-]exception found, non-existant domain
+[!]http://tide551.microsoft.com
+[-]exception found, non-existant domain
+[!]http://tide610.microsoft.com
+[-]exception found, non-existant domain
+[!]http://tide611.microsoft.com
+[-]exception found, non-existant domain
+[!]http://tide612.microsoft.com
+[-]exception found, non-existant domain
+[!]http://tide620.microsoft.com
+[-]exception found, non-existant domain
+[!]http://tide621.microsoft.com
+[-]exception found, non-existant domain
+[!]http://tide70.microsoft.com
+[-]exception found, non-existant domain
+[!]http://tide80.microsoft.com
+[-]exception found, non-existant domain
+[!]http://tide90.microsoft.com
+[-]exception found, non-existant domain
+[!]http://to-do.microsoft.com
+-->Welcome to Microsoft To-Do
+[!]http://todo.microsoft.com
+-->Welcome to Microsoft To-Do
+[!]http://trainingsupport.microsoft.com
+[+]Training, Certification, and Program Support
+[!]http://transform.microsoft.com
+-->Microsoft Business Value Programs
+[!]http://translator.microsoft.com
+-->Microsoft Translator | Conversations | Break the language barrier
+[!]http://update.microsoft.com
+[+]nothing found, you should check!
+[!]http://www.update.microsoft.com
+[+]nothing found, you should check!
+[!]http://catalog.update.microsoft.com
+-->Microsoft Update Catalog
+[!]http://www.catalog.update.microsoft.com
+-->Microsoft Update Catalog
+[!]http://fe1.update.microsoft.com
+[+]nothing found, you should check!
+[!]http://sls.update.microsoft.com
+[-]exception found, non-existant domain
+[!]http://sws.update.microsoft.com
+[-]exception found, non-existant domain
+[!]http://urs.microsoft.com
+[-]exception found, non-existant domain
+[!]http://vi.microsoft.com
+-->Microsoft Video Indexer - Unlock Video Insights
+[!]http://visio.microsoft.com
+-->Flowchart Maker &amp; Diagramming Software, Microsoft Visio
+[!]http://download.visualstudio.microsoft.com
+[-]exception found, non-existant domain
+[!]http://vvr.microsoft.com
+[+]403 - Forbidden: Access is denied.
+[!]http://watchtower.microsoft.com
+-->Watchtower - Microsoft
+[!]http://watson.microsoft.com
+[-]exception found, non-existant domain
+[!]http://demo.wd.microsoft.com
+[+]Home - Windows Defender Testground
+[!]http://blob.weather.microsoft.com
+[+]nothing found, you should check!
+[!]http://service.weather.microsoft.com
+[+]nothing found, you should check!
+[!]http://tile-service.weather.microsoft.com
+[+]nothing found, you should check!
+[!]http://download-fds.webapps.microsoft.com
+[+]nothing found, you should check!
+[!]http://download-support.webapps.microsoft.com
+[+]nothing found, you should check!
+[!]http://nds1.webapps.microsoft.com
+[+]nothing found, you should check!
+[!]http://webgallery.microsoft.com
+[+]Windows Web App Gallery - Home
+[!]http://windows.microsoft.com
+-->Windows | Official Site for Microsoft Windows 10 Home, S &amp; Pro OS, laptops, PCs, tablets &amp; more
+[!]http://redir.windows.microsoft.com
+-->Windows | Official Site for Microsoft Windows 10 Home, S &amp; Pro OS, laptops, PCs, tablets &amp; more
+[!]http://rssgov.windows.microsoft.com
+[+]nothing found, you should check!
+[!]http://search.windows.microsoft.com
+[+]nothing found, you should check!
+[!]http://windowshelp.microsoft.com
+-->Windows | Official Site for Microsoft Windows 10 Home, S &amp; Pro OS, laptops, PCs, tablets &amp; more
+[!]http://windowsupdate.microsoft.com
+[+]nothing found, you should check!
+[!]http://v4.windowsupdate.microsoft.com
+[+]nothing found, you should check!
+[!]http://winmail1.microsoft.com
+[-]exception found, non-existant domain
+[!]http://winqual.microsoft.com
+[-]exception found, non-existant domain
+[!]http://wwwbn1test51.microsoft.com
+[-]exception found, non-existant domain
+[!]http://wwwbn1test60.microsoft.com
+[-]exception found, non-existant domain
+[!]http://wwwbn1test61.microsoft.com
+[-]exception found, non-existant domain
+[!]http://wwwby2test51.microsoft.com
+[-]exception found, non-existant domain
+[!]http://wwwby2test60.microsoft.com
+[-]exception found, non-existant domain
+[!]http://wwwby2test61.microsoft.com
+[-]exception found, non-existant domain
+[!]http://wwwby2test70.microsoft.com
+[-]exception found, non-existant domain
+[!]http://wwwby2test71.microsoft.com
+[-]exception found, non-existant domain
+[!]http://wwwby2test80.microsoft.com
+[-]exception found, non-existant domain
+[!]http://wwwby2test81.microsoft.com
+[-]exception found, non-existant domain
+[!]http://wwwco1test01.microsoft.com
+[-]exception found, non-existant domain
+[!]http://wwwco1test02.microsoft.com
+[-]exception found, non-existant domain
+[!]http://wwwco1test10.microsoft.com
+[-]exception found, non-existant domain
+[!]http://wwwco1test11.microsoft.com
+[-]exception found, non-existant domain
+[!]http://wwwco1test20.microsoft.com
+[-]exception found, non-existant domain
+[!]http://wwwco1test21.microsoft.com
+[-]exception found, non-existant domain
+[!]http://wwwco1test30.microsoft.com
+[-]exception found, non-existant domain
+[!]http://wwwco1test31.microsoft.com
+[-]exception found, non-existant domain
+[!]http://wwwco1test40.microsoft.com
+[-]exception found, non-existant domain
+[!]http://wwwco1test41.microsoft.com
+[-]exception found, non-existant domain
+[!]http://wwwco1test50.microsoft.com
+[-]exception found, non-existant domain
+[!]http://wwwco1test51.microsoft.com
+[-]exception found, non-existant domain
+[!]http://wwwco2test51.microsoft.com
+[-]exception found, non-existant domain
+[!]http://wwwco2test60.microsoft.com
+[-]exception found, non-existant domain
+[!]http://wwwco2test61.microsoft.com
+[-]exception found, non-existant domain
+[!]http://wwwco2test70.microsoft.com
+[-]exception found, non-existant domain
+[!]http://wwwco2test71.microsoft.com
+[-]exception found, non-existant domain
+[!]http://wwwco2test80.microsoft.com
+[-]exception found, non-existant domain
+[!]http://wwwco2test81.microsoft.com
+[-]exception found, non-existant domain
+** Successfully scanned **

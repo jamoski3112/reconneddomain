@@ -1,0 +1,169 @@
+[+]Input file: input_airbnb.com.txt was found
+[+]Reading input file
+[+]========**************========
+[+]Recon_dom_title by Codarren Velvindron
+[+]========**************========
+[+]Version 0.5
+[!]Give me urls and I give titles!
+[!]Website Tested: airbnb.com
+[!]Your output filename was created !
+[!]Scanning titles for: 165 urls
+[!]http://www.airbnb.com
+-->Vacation Rentals, Homes, Experiences & Places - Airbnb
+[!]http://admin.airbnb.com
+[-]exception found, non-existant domain
+[!]http://api.admin.airbnb.com
+[-]exception found, non-existant domain
+[!]http://es.admin.airbnb.com
+[-]exception found, non-existant domain
+[!]http://isit.admin.airbnb.com
+[-]exception found, non-existant domain
+[!]http://us.isit.admin.airbnb.com
+[-]exception found, non-existant domain
+[!]http://admin-next.airbnb.com
+[-]exception found, non-existant domain
+[!]http://af.airbnb.com
+[-]exception found, non-existant domain
+[!]http://alexandria.airbnb.com
+[-]exception found, non-existant domain
+[!]http://api.airbnb.com
+[+]503 Service Temporarily Unavailable
+[!]http://zh.api.airbnb.com
+[-]exception found, non-existant domain
+[!]http://ar.airbnb.com
+[-]exception found, non-existant domain
+[!]http://assets.airbnb.com
+[+]nothing found, you should check!
+[!]http://aws.airbnb.com
+[-]exception found, non-existant domain
+[!]http://i-07d9f2e6.inst.aws.airbnb.com
+[-]exception found, non-existant domain
+[!]http://i-0db778ff70c98d043.inst.aws.airbnb.com
+[-]exception found, non-existant domain
+[!]http://i-405148bf.inst.aws.airbnb.com
+[-]exception found, non-existant domain
+[!]http://i-73a2e9f2.inst.aws.airbnb.com
+[-]exception found, non-existant domain
+[!]http://i-c105a63f.inst.aws.airbnb.com
+[-]exception found, non-existant domain
+[!]http://i-d1094605.inst.aws.airbnb.com
+[-]exception found, non-existant domain
+[!]http://i-dfcd865e.inst.aws.airbnb.com
+[-]exception found, non-existant domain
+[!]http://i-fd64504c.inst.aws.airbnb.com
+[-]exception found, non-existant domain
+[!]http://awww.airbnb.com
+[-]exception found, non-existant domain
+[!]http://be.airbnb.com
+[-]exception found, non-existant domain
+[!]http://blast2s.airbnb.com
+[-]exception found, non-existant domain
+[!]http://blog.airbnb.com
+[+]nothing found, you should check!
+[!]http://ca.airbnb.com
+[+]503 Service Temporarily Unavailable
+[!]http://callbacks.airbnb.com
+[+]403 Forbidden
+[!]http://mm.cdn.airbnb.com
+[-]exception found, non-existant domain
+[!]http://cerberus.airbnb.com
+[-]exception found, non-existant domain
+[!]http://charon.airbnb.com
+[-]exception found, non-existant domain
+[!]http://cn.airbnb.com
+[-]exception found, non-existant domain
+[!]http://cnb.airbnb.com
+[-]exception found, non-existant domain
+[!]http://community.airbnb.com
+-->Community Center - Airbnb Community
+[!]http://translate.google.comtr.airbnb.com
+[-]exception found, non-existant domain
+[!]http://corp.airbnb.com
+[-]exception found, non-existant domain
+[!]http://create.airbnb.com
+-->Vacation Rentals, Homes, Experiences & Places - Airbnb
+[!]http://cs.airbnb.com
+[-]exception found, non-existant domain
+[!]http://da.airbnb.com
+-->Ferieboliger, hjem, oplevelser og steder - Airbnb
+[!]http://de.airbnb.com
+[-]exception found, non-existant domain
+[!]http://api.dev.airbnb.com
+[-]exception found, non-existant domain
+[!]http://isit.dev.airbnb.com
+[-]exception found, non-existant domain
+[!]http://e.airbnb.com
+[-]exception found, non-existant domain
+[!]http://ed.airbnb.com
+[-]exception found, non-existant domain
+[!]http://el.airbnb.com
+[-]exception found, non-existant domain
+[!]http://email.airbnb.com
+[+]404 Not Found
+[!]http://o1.email.airbnb.com
+[-]exception found, non-existant domain
+[!]http://o10.email.airbnb.com
+[-]exception found, non-existant domain
+[!]http://o11.email.airbnb.com
+[-]exception found, non-existant domain
+[!]http://o12.email.airbnb.com
+[-]exception found, non-existant domain
+[!]http://o13.email.airbnb.com
+[-]exception found, non-existant domain
+[!]http://o14.email.airbnb.com
+[-]exception found, non-existant domain
+[!]http://o15.email.airbnb.com
+[-]exception found, non-existant domain
+[!]http://o16.email.airbnb.com
+[-]exception found, non-existant domain
+[!]http://o17.email.airbnb.com
+[-]exception found, non-existant domain
+[!]http://o18.email.airbnb.com
+[-]exception found, non-existant domain
+[!]http://o19.email.airbnb.com
+[-]exception found, non-existant domain
+[!]http://o2.email.airbnb.com
+[-]exception found, non-existant domain
+[!]http://o20.email.airbnb.com
+[-]exception found, non-existant domain
+[!]http://o21.email.airbnb.com
+[-]exception found, non-existant domain
+[!]http://o22.email.airbnb.com
+[-]exception found, non-existant domain
+[!]http://o23.email.airbnb.com
+[-]exception found, non-existant domain
+[!]http://o3.email.airbnb.com
+[-]exception found, non-existant domain
+[!]http://o4.email.airbnb.com
+[-]exception found, non-existant domain
+[!]http://o5.email.airbnb.com
+[-]exception found, non-existant domain
+[!]http://o6.email.airbnb.com
+[-]exception found, non-existant domain
+[!]http://o7.email.airbnb.com
+[-]exception found, non-existant domain
+[!]http://o8.email.airbnb.com
+[-]exception found, non-existant domain
+[!]http://o9.email.airbnb.com
+[-]exception found, non-existant domain
+[!]http://en.airbnb.com
+[-]exception found, non-existant domain
+[!]http://es.airbnb.com
+-->Alquileres vacacionales, casas, experiencias y lugares - Airbnb
+[!]http://www.es.airbnb.com
+[-]exception found, non-existant domain
+[!]http://ewww.airbnb.com
+[-]exception found, non-existant domain
+[!]http://fastly.airbnb.com
+[+]503 Service Temporarily Unavailable
+[!]http://fastly-staging.airbnb.com
+[+]503 Service Temporarily Unavailable
+[!]http://fi.airbnb.com
+[+]503 Service Temporarily Unavailable
+[!]http://fr.airbnb.com
+[-]exception found, non-existant domain
+[!]http://www.fr.airbnb.com
+[-]exception found, non-existant domain
+[!]http://frwww.airbnb.com
+[-]exception found, non-existant domain
+[!]http://git.airbnb.com

@@ -1,0 +1,99 @@
+[+]Input file: input_gocardless.com.txt was found
+[+]Reading input file
+[+]========**************========
+[+]Recon_dom_title by Codarren Velvindron
+[+]========**************========
+[+]Version 0.5
+[!]Give me urls and I give titles!
+[!]Website Tested: gocardless.com
+[!]Your output filename was created !
+[!]Scanning titles for: 44 urls
+[!]http://www.gocardless.com
+-->GoCardless
+[!]http://account.gocardless.com
+-->GoCardless
+[!]http://account-sandbox.gocardless.com
+-->GoCardless
+[!]http://lb.ams01.gocardless.com
+[-]exception found, non-existant domain
+[!]http://api.gocardless.com
+[+]nothing found, you should check!
+[!]http://api-sandbox.gocardless.com
+[+]nothing found, you should check!
+[!]http://blog.gocardless.com
+-->GoCardless Blog
+[!]http://brand.gocardless.com
+-->GoCardless brand guidelines - GoCardless Design Library
+[!]http://bulk-submissions.gocardless.com
+-->GoCardless
+[!]http://bulk-submissions-sandbox.gocardless.com
+-->GoCardless
+[!]http://connect.gocardless.com
+[+]nothing found, you should check!
+[!]http://connect-sandbox.gocardless.com
+[+]nothing found, you should check!
+[!]http://customer.gocardless.com
+[+]Customer dashboards no longer exist
+[!]http://customer-sandbox.gocardless.com
+[+]Customer dashboards no longer exist
+[!]http://dashboard.gocardless.com
+-->GoCardless
+[!]http://dashboard-sandbox.gocardless.com
+-->GoCardless
+[!]http://dashboard-sandbox-staging.gocardless.com
+-->GoCardless
+[!]http://developer.gocardless.com
+-->GoCardless Developers
+[!]http://developer-staging.gocardless.com
+-->GoCardless Developers
+[!]http://email.gocardless.com
+[+]404 Not Found
+[!]http://o1.email.gocardless.com
+[-]exception found, non-existant domain
+[!]http://exceptions.gocardless.com
+[+]Login | Sentry
+[!]http://files.gocardless.com
+[+]nothing found, you should check!
+[!]http://help.gocardless.com
+[+]Support Centre
+[!]http://www.help.gocardless.com
+[-]exception found, non-existant domain
+[!]http://lookup.gocardless.com
+-->GoCardless
+[!]http://mail.gocardless.com
+[-]exception found, non-existant domain
+[!]http://manage.gocardless.com
+-->GoCardless
+[!]http://manage-sandbox.gocardless.com
+-->GoCardless
+[!]http://mandate-previews.gocardless.com
+-->Error: Bad Request - GoCardless
+[!]http://oauth-demo.gocardless.com
+[+]Analytics-o-matic
+[!]http://partner.gocardless.com
+-->GoCardless
+[!]http://pay.gocardless.com
+[+]nothing found, you should check!
+[!]http://pay-sandbox.gocardless.com
+[+]nothing found, you should check!
+[!]http://chef.production.gocardless.com
+[-]exception found, non-existant domain
+[!]http://sage.gocardless.com
+[+]nothing found, you should check!
+[!]http://sandbox.gocardless.com
+-->GoCardless
+[!]http://sandbox-staging.gocardless.com
+-->GoCardless
+[!]http://staging.gocardless.com
+-->GoCardless
+[!]http://chef.staging.gocardless.com
+[-]exception found, non-existant domain
+[!]http://status.gocardless.com
+-->GoCardless Status
+[!]http://support.gocardless.com
+[+]Support Centre
+[!]http://uploads.gocardless.com
+[+]nothing found, you should check!
+[!]http://uploads-sandbox.gocardless.com
+[+]nothing found, you should check!
+** Successfully scanned **

@@ -1,0 +1,2037 @@
+[+]Input file: input_selz.com.txt was found
+[+]Reading input file
+[+]========**************========
+[+]Recon_dom_title by Codarren Velvindron
+[+]========**************========
+[+]Version 0.5
+[!]Give me urls and I give titles!
+[!]Website Tested: selz.com
+[!]Your output filename was created !
+[!]Scanning titles for: 1407 urls
+[!]http://www.selz.com
+-->Selz - Ecommerce to start and grow your business online. Free trial
+[!]http://123muse.selz.com
+[+]123Muse is now part of Musegrid.com
+[!]http://12resumes.selz.com
+[+]12 Resumes
+[!]http://1960furniture.selz.com
+-->404 - We couldn&#39;t find that - Selz
+[!]http://1jobzone.selz.com
+[+]#1 Job Zone Promo Services
+[!]http://www.1jobzone.selz.com
+[-]exception found, non-existant domain
+[!]http://1lokan.selz.com
+[+]The 1lokan Store
+[!]http://20nickelz.selz.com
+[+]20 Nickelz
+[!]http://21daylegfix.selz.com
+[+]FAST FIT : THE BENNETT METHOD
+[!]http://22centmusic.selz.com
+[+]Twenty-Second Century Music, LLC
+[!]http://2tour.selz.com
+[+]2Tour
+[!]http://3d-printer-supplies.selz.com
+-->404 - We couldn&#39;t find that - Selz
+[!]http://3rdsunentertainment.selz.com
+[+]3rd Sun Entertainment
+[!]http://504dymesmagazine.selz.com
+[+]504Dymes Magazine
+[!]http://5dollarsonly.selz.com
+[+]eBooks, Scripts, &amp; More!
+[!]http://aasat.selz.com
+[+]Douglas Weiss Ph.D
+[!]http://acgeneralstore.selz.com
+[+]AC General Store
+[!]http://actimix.selz.com
+[+]AUDIO &amp; VIDEO DJ
+[!]http://actors.selz.com
+[+]Your Short Film Project
+[!]http://acupressure-wellness.selz.com
+[+]Acupressure Wellness
+[!]http://adambaker.selz.com
+[+]Adam Baker
+[!]http://adambean.selz.com
+[+]Adam Bean
+[!]http://adamduff.selz.com
+[+]Adam Duff
+[!]http://adamwarren.selz.com
+[+]Adam Warren
+[!]http://addisonreads.selz.com
+[+]Samantha Munoz
+[!]http://adebayodawodu.selz.com
+[+]Adebayo Dawodu
+[!]http://adelineyeo.selz.com
+[+]Adeline Yeo
+[!]http://adrianscranton.selz.com
+[+]AD8
+[!]http://adrienefletcher.selz.com
+[+]Adriene Fletcher
+[!]http://advicefromacat.selz.com
+[+]Advice From A Cat
+[!]http://affiliates.selz.com
+-->Selz - Ecommerce to start and grow your business online. Free trial
+[!]http://affinitesociety.selz.com
+[+]AffiniteSociety
+[!]http://afiyamagazine.selz.com
+[+]AFIYA Magazine
+[!]http://aflyarraranges.selz.com
+[+]Afl Yarra Ranges
+[!]http://afponline.selz.com
+[+]Andy Falconer Projects
+[!]http://afrodreaming.selz.com
+[+]Afrodreaming
+[!]http://agnieszkakomorowska.selz.com
+[+]Agnieszka Komorowska
+[!]http://aidymatic.selz.com
+[+]AidyMatic!
+[!]http://aileen-sheron.selz.com
+[+]Aileen Sheron
+[!]http://akatshirts.selz.com
+[+]AKA T-SHIRTS
+[!]http://akomoledeoluwasegun.selz.com
+[+]Akomolede Oluwasegun
+[!]http://alankahn.selz.com
+[+]The Speed Bag Bible
+[!]http://aldislenio.selz.com
+[+]LenoFX.com
+[!]http://alexander-plaschko.selz.com
+[+]THOT Enterprises Limited
+[!]http://alexgamelin.selz.com
+[+]IceTwins Costume Closet Store
+[!]http://alexis123.selz.com
+[+]Alexis Assadi
+[!]http://alexisallen.selz.com
+[+]FoxySoft
+[!]http://alinabradford.selz.com
+[+]Alina Bradford
+[!]http://alisoncrosthwait.selz.com
+[+]Alison Crosthwait
+[!]http://alisonsmithparentcoach.selz.com
+[+]Alison Smith Coaching
+[!]http://alixgibbs.selz.com
+[+]Alix Gibbs
+[!]http://allearsenglish.selz.com
+[+]All Ears English
+[!]http://alterici.selz.com
+[+]Natasha Alterici
+[!]http://amandabisk.selz.com
+[+]Online Training Centre: - amandabisk.
+[!]http://amateurnester.selz.com
+[+]Amateur Nester's store
+[!]http://amberjewellery.selz.com
+[+]Amber Jewellery
+[!]http://ambiencedesigngroup.selz.com
+[+]Ambience Design Group
+[!]http://amenzonerebel.selz.com
+[+]Amenzone Rebel
+[!]http://amigurumissueosblanditos.selz.com
+[+]Amigurumis Sue&#241;os Blanditos
+[!]http://amonfocus.selz.com
+[+]Amon Focus
+[!]http://ancestralfindings.selz.com
+[+]AncestralFindings.com
+[!]http://andrea123456789.selz.com
+[+]Andrea Majewski - Dentalelle
+[!]http://andreagreene.selz.com
+[+]Andrea Greene
+[!]http://andredefreitasbjj.selz.com
+[+]Andre de Freitas Brazilian Jiu-Jitsu
+[!]http://andrejpirjevec.selz.com
+[+]Andrej Pirjevec
+[!]http://andremelton.selz.com
+[+]Andre Melton
+[!]http://andyhickton.selz.com
+[+]Andy Hickton
+[!]http://andyphilliphatchett.selz.com
+[+]ANDY PHILLIP HATCHETT
+[!]http://angelabooth.selz.com
+-->404 - We couldn&#39;t find that - Selz
+[!]http://angelicdisgrace.selz.com
+[+]Angelic Disgrace
+[!]http://angeljewellery.selz.com
+[+]Angel Jewellery
+[!]http://animan.selz.com
+-->Sorry - Selz
+[!]http://animationmethods.selz.com
+[+]Animation Methods
+[!]http://ann-tayo.selz.com
+[+]Ann Tayo
+[!]http://annaanthropy.selz.com
+[+]anna anthropy
+[!]http://annaferraromusic.selz.com
+[+]Anna Ferraro Music
+[!]http://annalieb.selz.com
+[+]Anna Lieb
+[!]http://anneliewendeberg.selz.com
+[+]Annelie Wendeberg
+[!]http://annjenrettethomas.selz.com
+[+]Ann Jenrette-Thomas
+[!]http://anothermotherrunner.selz.com
+[+]Another Mother Runner
+[!]http://anthonykenny.selz.com
+[+]CAPACITOR FAKS
+[!]http://anthonystclair.selz.com
+[+]Anthony St. Clair Online Author Store - Anthony St. Clair
+[!]http://anuschkarees.selz.com
+[+]Anuschka Rees
+[!]http://anxietysecrets.selz.com
+-->404 - We couldn&#39;t find that - Selz
+[!]http://api.selz.com
+[-]exception found, non-existant domain
+[!]http://api-develop.selz.com
+[-]exception found, non-existant domain
+[!]http://api-release.selz.com
+[-]exception found, non-existant domain
+[!]http://api-test.selz.com
+-->Selz.com Developer
+[!]http://api-z.selz.com
+-->Selz.com Developer
+[!]http://apologeticminds.selz.com
+[+]Apologetic Minds
+[!]http://aprillehunt.selz.com
+[+]Aprille Hunt
+[!]http://artandsmoke.selz.com
+[+]ART and SMOKE
+[!]http://artatdawn.selz.com
+[+]About Art At Dawn - Art At Dawn
+[!]http://www.artatdawn.selz.com
+[-]exception found, non-existant domain
+[!]http://artisttecinc.selz.com
+[+]ArtistTec, Inc.
+[!]http://artmackay.selz.com
+[+]Explore Art's Place Online
+[!]http://artofsun.selz.com
+[+]art_of_sun
+[!]http://artyka.selz.com
+[+]artyka
+[!]http://arun-trikha.selz.com
+[+]Arun Trikha
+[!]http://ashleytallas.selz.com
+[+]Ashley Tallas
+[!]http://atc.selz.com
+[+]Access Tonal Communications
+[!]http://atomhub.selz.com
+[+]Atom Hub
+[!]http://attemme.selz.com
+[+]Attemme
+[!]http://attentiongetting.selz.com
+[+]Attention Getting Marketing
+[!]http://atxbpo.selz.com
+[+]ATX BPO
+[!]http://audiobooksfree.selz.com
+[+]Audiobooks Inc
+[!]http://audreysimpsoncampbellhypnosis.selz.com
+[+]Audrey Simpson-Campbell Hypnosis
+[!]http://aurapublishing.selz.com
+[+]Aura Publishing
+[!]http://aurorebienetre.selz.com
+[+]Aurore Bien Etre
+[!]http://authorofmyfaith.selz.com
+[+]Afi Pittman - Author of My Faith
+[!]http://automatedaeronautics.selz.com
+[+]Automated Aeronautics
+[!]http://autourdunaturel.selz.com
+[+]Autour du Naturel
+[!]http://avalon-motivate-demo.selz.com
+[+]Ella Williams
+[!]http://avegankitchen.selz.com
+[+]A Vegan Kitchen
+[!]http://axefxtutorials.selz.com
+[+]AxeFxTutorials.com Store
+[!]http://badboyatnite.selz.com
+[+]BadboyAt Nite
+[!]http://bakaduckmusic.selz.com
+[+]The Duck Store
+[!]http://ballaratheritage.selz.com
+[+]Ballarat Heritage Services
+[!]http://ballisticplayz.selz.com
+[+]BallisticPlayzGFX
+[!]http://bamrecords.selz.com
+[+]BAM Records/Pangea
+[!]http://bankcsv.selz.com
+[+]BankCSV
+[!]http://barbaraschaer.selz.com
+[+]Photography, eBooks and services to create awareness - Barbara Schaer
+[!]http://www.barjutsu.selz.com
+[-]exception found, non-existant domain
+[!]http://barrellchannel.selz.com
+[+]The Barrell Channel
+[!]http://bcuklondon.selz.com
+[+]BCUK London
+[!]http://beardedbeedesigns.selz.com
+[+]Bearded Bee Designs
+[!]http://bearmanormedia.selz.com
+[+]BearManor Media ebooks, print books, and audiobooks
+[!]http://beatgenius.selz.com
+[+]Beat Genius
+[!]http://beatzgobang.selz.com
+[+]Beatz Go Bang
+[!]http://beautiesretreat.selz.com
+[+]Beauties Retreat-EpiLift
+[!]http://beautifulfoundationfund.selz.com
+[+]Beautiful Foundation Fund
+[!]http://beautyinvested.selz.com
+[+]www.GlutaInvested.com                                  *SMS/Viber/Call: +61478531949
+[!]http://bedazzleme.selz.com
+[+]BeDazzle Me
+[!]http://beesplendid.selz.com
+[+]Bee Splendid
+[!]http://before5am.selz.com
+[+]Before 5AM
+[!]http://beinspiredpr.selz.com
+[+]Be Inspired PR
+[!]http://believeintherun.selz.com
+[+]Believe in the Run
+[!]http://belindacrestani.selz.com
+[+]Belinda Crestani
+[!]http://bennsons.selz.com
+[+]Bennsons Business Solutions
+[!]http://bestsingingandrappingteaching-videoprograms.selz.com
+[+]Best ... Singing & Rapping Teaching-Video Programs
+[!]http://bethrigney.selz.com
+[+]Clinical Trial Developers
+[!]http://bethyarnall.selz.com
+[+]Use coupon code 20OFF at check out &amp; get 20% off your entire purchase
+[!]http://bhimages.selz.com
+[+]BHImages Store
+[!]http://bigbootytwerkers.selz.com
+[+]Big Booty Twerkers
+[!]http://bishopmvkelsey.selz.com
+[+]Bishop Michael V. Kelsey, Sr.
+[!]http://bitesizebio.selz.com
+[+]Bitesize Bio
+[!]http://bjorvalabonsaistudio.selz.com
+[+]Bjorvala Bonsai Studio
+[!]http://blacklabworld.selz.com
+[+]Black Lab
+[!]http://bloom.selz.com
+[+]Bloom Nutritionist
+[!]http://blueconceptgroup.selz.com
+[+]Blue Concept Group - Store
+[!]http://bobsmiley.selz.com
+[+]Bob Smiley
+[!]http://boditmf.selz.com
+[+]BodiTMF
+[!]http://bogartinc.selz.com
+[+]Bogart University App Ride Credits
+[!]http://bohimi.selz.com
+[+]BOHIMI
+[!]http://bookmarks4u.selz.com
+[+]Bookmarks &amp; More 4 U!
+[!]http://bornstein.selz.com
+[+]Bornstein &amp; Bornstein Services
+[!]http://borntoshop.selz.com
+[+]Born To Shop
+[!]http://botcomics.selz.com
+[+]BotComics
+[!]http://bradkuechler.selz.com
+[+]Brad Kuechler Ministries
+[!]http://brandforresults.selz.com
+[+]Brand For Results
+[!]http://brandiebutcher.selz.com
+[+]Brandie Butcher
+[!]http://breakingmuscle.selz.com
+[+]Breaking Muscle
+[!]http://brendanciccone.selz.com
+[+]Shawn Brown Foundation
+[!]http://brennanvisuals.selz.com
+[+]Brennan Nance
+[!]http://brianfoley.selz.com
+[+]Brian Foley
+[!]http://brianobrecht.selz.com
+[+]Brian Obrecht
+[!]http://brightonjive.selz.com
+[+]Brighton Jive
+[!]http://brightyellowmarketing.selz.com
+[+]Bright Yellow Marketing
+[!]http://brillianttwistedskulls.selz.com
+[+]Brilliant Twisted Skulls
+[!]http://brogendary.selz.com
+[+]Brogendary, Inc.
+[!]http://brunotarancon.selz.com
+[+]Bruno Tarancon
+[!]http://bryonpostlethwait.selz.com
+[+]Jeeves of Hudson Street LLC
+[!]http://bsmedia.selz.com
+[+]Black Sovereign Media
+[!]http://buf.selz.com
+[+]Bottoms Up! Fitness
+[!]http://builderdude35.selz.com
+[+]Builderdude35
+[!]http://businesscoach-authorvictoriasheffield.selz.com
+[+]Sheffield Enterprises
+[!]http://businessenglishace.selz.com
+[+]Wham Media Publisher
+[!]http://busylizziecrafts.selz.com
+[+]Busy Lizzie Crafts
+[!]http://buyalex.selz.com
+[+]Alex Parker
+[!]http://byronrempel.selz.com
+[+]Byron von Rempel
+[!]http://bzg.selz.com
+[+]BZG Inc.
+[!]http://c1music.selz.com
+[+]c1music.fm
+[!]http://callaghanoncanvas.selz.com
+[+]Callaghan on Canvas
+[!]http://camerasim.selz.com
+[+]CameraSim
+[!]http://campcult.selz.com
+[+]Camp Cult
+[!]http://canasta-junction-llc.selz.com
+[+]CANASTA JUNCTION, LLC
+[!]http://candacequinnharris.selz.com
+[+]Candace Quinn Harris, Mary Kay Independent Beauty Consultant
+[!]http://carbonfibrevinylwrap.selz.com
+[+]Carbon Fibre Vinyl Wrap - Selling The Best Vinyl Worldwide
+[!]http://carlabonnell.selz.com
+[+]East Coast Trading Post
+[!]http://carlaking.selz.com
+[+]Carla King
+[!]http://carlarjenkins.selz.com
+[+]Carla Jenkins
+[!]http://carlosfurtadopires.selz.com
+[+]Carlos Furtado Pires
+[!]http://carlosoliveira.selz.com
+[+]Carlos Oliveira
+[!]http://carlthomas.selz.com
+[+]Carl Thomas
+[!]http://carmenstreasuresafar.selz.com
+[+]Carmen&#39;s Treasures Afar
+[!]http://carolanndowsett.selz.com
+[+]Carolann Dowsett
+[!]http://carolinewylie.selz.com
+[+]Caroline Wylie
+[!]http://carolmurphy.selz.com
+[+]Carol Murphy
+[!]http://cartoonclothing.selz.com
+[+]Cartoon Clothing
+[!]http://cassimages.selz.com
+[+]CassImages
+[!]http://catholicsistas.selz.com
+[+]Catholic Through The Year
+[!]http://cdn.selz.com
+[+]Redirecting...
+[!]http://cellphonerepairkennewick.selz.com
+[+]Cellular 911 L.L.C. 509-582-5555
+[!]http://celticfairyandelfdoors.selz.com
+[+]Celtic Fairy and Elf Doors
+[!]http://center2celebrate.selz.com
+[+]Rev. Lucie King
+[!]http://cggooden.selz.com
+[+]CG Gooden
+[!]http://charlenecarr.selz.com
+[+]Charlene Carr
+[!]http://charlesebooks.selz.com
+[+]charles dick
+[!]http://charlottewharton.selz.com
+[+]Charlotte Wharton
+[!]http://chasing-cait.selz.com
+[+]Caitlin Taylor
+[!]http://chefbeats.selz.com
+[+]Chef Beats
+[!]http://chelseacameron.selz.com
+[+]Chelsea M. Cameron Books
+[!]http://chloeelise.selz.com
+[+]Chloe Elise
+[!]http://chokersncharms.selz.com
+[+]C H O K E R S & C H A R M S
+[!]http://chrisgrey.selz.com
+[+]Chris Grey
+[!]http://chrisleedc.selz.com
+[+]Chris Lee
+[!]http://chrisriney.selz.com
+[+]Family Surplus and More
+[!]http://christhomas1.selz.com
+[+]Chris Thomas
+[!]http://christianfellowshipchurch.selz.com
+[+]Christian Fellowship Church
+[!]http://christianimages.selz.com
+[+]Christian Images
+[!]http://christinaramseyphotography.selz.com
+[+]Christina Ramsey Photography Editing Tutorials
+[!]http://christopher-germany.selz.com
+[+]Christopher Germany
+[!]http://christydemetriades.selz.com
+[+]Dr. Christy Demetriades
+[!]http://chungkan.selz.com
+[+]Chung Kan
+[!]http://circleastore.selz.com
+[+]Circle A Store - Circle A Store
+[!]http://claire-murphy1.selz.com
+[+]Claire Murphy Yoga Resources
+[!]http://classfilms.selz.com
+[+]CLASSFilms
+[!]http://classic-cotton-demo.selz.com
+[+]Little Bear
+[!]http://classic-earth-demo.selz.com
+[+]Lake Tahoe Ceramics
+[!]http://classic-sugar-demo.selz.com
+[+]Sugarlove
+[!]http://claudette-copeland-ministries.selz.com
+[+]Claudette Copeland Ministries
+[!]http://claudiosetti.selz.com
+[+]Claudio Setti
+[!]http://claytonjennings.selz.com
+[+]Clayton Jennings
+[!]http://clearvisionfilms.selz.com
+[+]by Clear Vision Drama Company
+[!]http://cleverduck.selz.com
+[+]Clever Duck
+[!]http://click.selz.com
+[+]404 Not Found
+[!]http://clicks.selz.com
+[+]Cl!ck&#39;s Online Store
+[!]http://clicksound.selz.com
+-->Sorry - Selz
+[!]http://clifellis.selz.com
+[+]Clif Ellis Photography
+[!]http://clstone-approved.selz.com
+[+]C. L. Stone Approved
+[!]http://clulong.selz.com
+[+]SewOldSchool
+[!]http://cmcnairwilson.selz.com
+[+]C. McNair Wilson Books &amp; Curiosities
+[!]http://www.cmcnairwilson.selz.com
+[-]exception found, non-existant domain
+[!]http://cmykshades.selz.com
+[+]Shades
+[!]http://cncwave1.selz.com
+[+]CNC Wave
+[!]http://coaches-clinic.selz.com
+[+]Coaches-Clinic.com
+[!]http://cobblecamp.selz.com
+[+]CobbleCamp
+[!]http://codymiller.selz.com
+[+]Cody Miller
+[!]http://coffeeshopstartups.selz.com
+[+]Coffee Shop Startups
+[!]http://colorado-demo.selz.com
+[+]Colorado
+[!]http://colorstone.selz.com
+[+]Colorstone
+[!]http://combathapkido.selz.com
+[+]Combat Hapkido
+[!]http://compassparanormal.selz.com
+[+]Compass Paranormal
+[!]http://completestrength.selz.com
+[+]Complete-Strength Publications
+[!]http://computerclasses.selz.com
+[+]ComputerClasses.ie
+[!]http://confidentadult.selz.com
+[+]Confident Adult
+[!]http://conradrocks.selz.com
+[+]Conrad Rocks
+[!]http://cookingforbusymums.selz.com
+[+]Cooking For Busy Mums
+[!]http://cotcotcot.selz.com
+[+]CotCotCot Editions
+[!]http://counselloroncall.selz.com
+[+]COUNSELLOR-ON-CALL
+[!]http://counzila.selz.com
+[+]Counzila Digest
+[!]http://courtneyhauser.selz.com
+[+]Courtney Hauser&#39;s Official Online Store
+[!]http://craftworx.selz.com
+[+]Craftworx Jewellery Workshops - Craftworx Online Store
+[!]http://crazyofasia.selz.com
+[+]Crazy of Asia
+[!]http://creativebooster.selz.com
+[+]CreativeBooster
+[!]http://creativeimpulse.selz.com
+[+]The Creative Impulse PWYW Store
+[!]http://credmag.selz.com
+[+]CRED MAGAZINE
+[!]http://crossdashboard.selz.com
+[+]crossdashboard
+[!]http://crux.selz.com
+[+]Crux Collective
+[!]http://currency-counters.selz.com
+[+]Currency-Counters
+[!]http://curveball.selz.com
+[+]Jimmy Serrano
+[!]http://customcarsusa.selz.com
+[+]Custom Cars USA Photo Store
+[!]http://cutelittlepixie.selz.com
+[+]Cute Little Pixie
+[!]http://cutoutshop.selz.com
+[+]cutoutshop
+[!]http://cutting-records.selz.com
+[+]Cutting Records, Inc
+[!]http://dafactory.selz.com
+[+]Dafactory di Daniele Carrer
+[!]http://dahlingproductions.selz.com
+[+]Dahling Productions
+[!]http://www.dailydeals.selz.com
+[-]exception found, non-existant domain
+[!]http://dalelazarov.selz.com
+-->404 - We couldn&#39;t find that - Selz
+[!]http://dalerivard.selz.com
+[+]Dale Rivard
+[!]http://dallasquinley.selz.com
+[+]Dallas Quinley
+[!]http://danielleosimpson.selz.com
+[+]Daniel L&#233;o Simpson
+[!]http://danielpinkney.selz.com
+[+]Daniel Pinkney
+[!]http://danksigurd.selz.com
+[+]Dan K. Sigurd
+[!]http://danluvisi.selz.com
+[+]Dan LuVisi
+[!]http://darkravenchronicles.selz.com
+[+]Dark Raven Chronicles
+[!]http://darnisemartin.selz.com
+[+]Darnise Martin
+[!]http://daveburke.selz.com
+[+]Dave Burke
+[!]http://davecarey.selz.com
+[+]convergx
+[!]http://davejgiles.selz.com
+[+]Dave Giles
+[!]http://daviddehaas.selz.com
+[+]David de Haas
+[!]http://davidhosier1.selz.com
+[+]CTR Store
+[!]http://davidmcgraw.selz.com
+[+]David McGraw, MP3 Downloads
+[!]http://davidstentdc.selz.com
+[+]New Book - David&#39;sTentDC
+[!]http://deadpeasantllc.selz.com
+[+]Dead Peasant, LLC
+[!]http://debbailey.selz.com
+[+]Deb Bailey
+[!]http://deblucas.selz.com
+[+]Deb Lucas
+[!]http://deborahcooke.selz.com
+[+]Deborah Cooke's Books
+[!]http://deborahlester.selz.com
+[+]Deborah Lester, Artist &amp; Designer
+[!]http://debrajohnson.selz.com
+[+]Debra Johnson | Business &amp; Legal Training
+[!]http://debraredmanpeck.selz.com
+[+]Debra Redman Peck
+[!]http://deiseweddings.selz.com
+[+]Deise Weddings
+[!]http://deltareport.selz.com
+[+]Delta Report Online Store
+[!]http://denisepoulter.selz.com
+[+]Denise Poulter
+[!]http://denverbudcompany.selz.com
+[+]The Denver Bud Company
+[!]http://derekpackard.selz.com
+[+]Derek Packard
+[!]http://dereksnook.selz.com
+[+]Home - Derek Snook
+[!]http://designbykatt.selz.com
+[+]Design by Katt
+[!]http://develop.selz.com
+-->[D] Selz - Ecommerce to start and grow your business online. Free trial
+[!]http://developers.selz.com
+-->Selz.com Developer
+[!]http://devinquest.selz.com
+[+]Thuyen Nguyen
+[!]http://devonwilliams.selz.com
+[+]Devon Williams
+[!]http://devoraclark.selz.com
+[+]DeVora Clark COHEN Music
+[!]http://dialo-multimedia.selz.com
+[+]CARREFOUR-MULTIMEDIA
+[!]http://dialysistechniciantraininghub.selz.com
+[+]Dialysis Technician Training Hub
+[!]http://dianamccann1.selz.com
+[+]Client-Conscious Prospecting
+[!]http://dianeporteous.selz.com
+[+]Diane Porteous
+[!]http://diegomaricato.selz.com
+[+]Diego Maricato
+[!]http://diet20.selz.com
+[+]Diet20.com
+[!]http://diginucentz.selz.com
+[+]NuCentz Mag Digital Issue Store
+[!]http://digitalbox.selz.com
+[+]Digital Box
+[!]http://digitalimagesireland.selz.com
+[+]Digital Images Ireland
+[!]http://digitalproducts.selz.com
+[+]Digital Products
+[!]http://digitalproductshop.selz.com
+[+]Digital Product Shop
+[!]http://digitalproductsstore.selz.com
+[+]Digitalproductsstore
+[!]http://dimensionshop.selz.com
+[+]Max Gnin
+[!]http://dimes.selz.com
+[+]DJ DIMES OFFICIAL STORE
+[!]http://directtogarmentprinting.selz.com
+[+]direct to garment printing
+[!]http://discoverdoublebass.selz.com
+[+]Discover Double Bass
+[!]http://divasinbusiness.selz.com
+[+]Divas in Business
+[!]http://divineinnerlove.selz.com
+[+]Divine Inner Love
+[!]http://djinfluence.selz.com
+[+]DJ INFLUENCE
+[!]http://djinjijimenez.selz.com
+-->Sorry - Selz
+[!]http://djohnyalexandre.selz.com
+[+]Fitwirr
+[!]http://dollarsbuyssavings.selz.com
+[+]DBS Fashion Accessories
+[!]http://domains.selz.com
+[-]exception found, non-existant domain
+[!]http://domainsssl.selz.com
+-->404 - We couldn&#39;t find that - Selz
+[!]http://dominicqwek.selz.com
+[+]Dominic Qwek
+[!]http://donbraden-cpm.selz.com
+[+]Don Braden - Creative Perspective Music Store
+[!]http://donnamcdonald.selz.com
+[+]Author Donna McDonald's Bookstore - Author Donna McDonald's Bookstore
+[!]http://dorishardwick.selz.com
+[+]Doris Hardwick
+[!]http://dorothyjhwee.selz.com
+[+]Art of DJH Online Store
+[!]http://doug-carmody.selz.com
+[+]SafePilot Publishing
+[!]http://dougweiss.selz.com
+[+]Douglas Weiss Ph.D
+[!]http://doulcii.selz.com
+[+]Doulcii
+[!]http://dpdmnetwork.selz.com
+[+]DPDM Network
+[!]http://dragueurdeparis.selz.com
+[-]exception found, non-existant domain
+[!]http://drannahuynh.selz.com
+[+]Dr Anna Huynh
+[!]http://dreamav.selz.com
+[+]Dream AV
+[!]http://dreambundles.selz.com
+[+]DreamBundles
+[!]http://dreamholidayshop.selz.com
+[+]Rocco by SexHolidayAsia.com
+[!]http://driasvirginhair.selz.com
+[+]Beautiful 100% Virgin Brazilian and Peruvian hair - Dria's Virgin Hair
+[!]http://drkenyncureton.selz.com
+[+]Dr. Kenyn Cureton
+[!]http://drtonesdirtfishinamerica.selz.com
+[+]DrTones Dirtfishinamerica
+[!]http://dsigolf.selz.com
+[+]Homepage - DSI Golf
+[!]http://duoshop.selz.com
+[+]The DUO Shop
+[!]http://dwaynevance.selz.com
+[+]Dwayne Vance
+[!]http://dwgme.selz.com
+[+]Dreamweaver Graphix
+[!]http://easttexasestate.selz.com
+[+]East Texas Estate Liquidators
+[!]http://eatrunlift.selz.com
+[+]EATRUNLIFT.me
+[!]http://ecobasik.selz.com
+[+]ecobasik
+[!]http://edgarmaguyon.selz.com
+[+]Edgar Maguyon
+[!]http://ejkelly.selz.com
+[+]E.J. Kelly
+[!]http://www.elderhallelujah.selz.com
+[-]exception found, non-existant domain
+[!]http://elenatorsiello.selz.com
+[+]Elena Torsiello
+[!]http://elijahdevin.selz.com
+[+]Elijah Devin
+[!]http://elisesignature.selz.com
+[+]Elise Signature
+[!]http://ellenanon.selz.com
+[+]Ellen Anon
+[!]http://elliegonsalves.selz.com
+[+]Ellie Gonsalves
+[!]http://o1.email.selz.com
+[-]exception found, non-existant domain
+[!]http://emfclothing.selz.com
+[+]EMF Clothing
+[!]http://emmabrooke.selz.com
+[+]Emma Brooke
+[!]http://emmeliedelacruz.selz.com
+[+]Emmelie De La Cruz
+[!]http://emotionalorphan.selz.com
+[+]Jack Varnell - The Emotional Orphan
+[!]http://emphistorias.selz.com
+[+]Emprendiendo Historias
+[!]http://envioushandbags.selz.com
+[+]Envious Handbags &amp; Accessories
+[!]http://ericarceneaux.selz.com
+[+]Eric Arceneaux
+[!]http://erickashontawilliams.selz.com
+[+]Ericka Shonta Williams
+[!]http://erictharps.selz.com
+[+]Agap&#233; Christian Ministries
+[!]http://erikaginnis.selz.com
+[+]Erika Ginnis
+[!]http://erinn-owens.selz.com
+[+]Alkalessence LLC
+[!]http://errorface.selz.com
+[+]Errorface
+[!]http://www.eslbasics.selz.com
+[-]exception found, non-existant domain
+[!]http://eslbooksfromkorea.selz.com
+[+]ESL Books from Korea
+[!]http://espressoenglish.selz.com
+[+]Espresso English
+[!]http://estore4more.selz.com
+[+]estore4more
+[!]http://etcasubs.selz.com
+[+]ETCA
+[!]http://everyplace.selz.com
+[+]The Leadership Playground
+[!]http://evhales.selz.com
+[+]Ev Hales - artist / tutor - Ev Hales
+[!]http://evk.selz.com
+[+]EVK
+[!]http://exceleverest.selz.com
+[+]Excel Everest
+[!]http://executedtoday.selz.com
+[+]executedtoday
+[!]http://expertbusinesspresentations.selz.com
+[+]Johnny Giles
+[!]http://explicit.selz.com
+[+]Explicit
+[!]http://faithbuilt.selz.com
+[+]FAITHBUILT
+[!]http://fajrliterary.selz.com
+[+]Fajr Literary
+[!]http://fashionhound.selz.com
+[+]Fashion Hound
+[!]http://fayekufahl.selz.com
+[+]Faye Kufahl
+[!]http://fcpxtreme.selz.com
+[+]The Video Crush
+[!]http://fdeanhackett.selz.com
+[+]F. Dean Hackett
+[!]http://features.selz.com
+-->Features - Selz has all the features you need | Selz - Features
+[!]http://ffasc.selz.com
+[+]FFASC
+[!]http://www.ffasc.selz.com
+[-]exception found, non-existant domain
+[!]http://fibtools.selz.com
+[+]FibLines Store
+[!]http://filmlooks.selz.com
+[+]Film Look - From Filmlooks.com
+[!]http://finalcutproductions.selz.com
+[+]Purchase your Event Video produced by Final Cut Productions
+[!]http://finchmarketing.selz.com
+[+]Finch Media
+[!]http://firstlove.selz.com
+[+]First Love Media
+[!]http://fitwirr.selz.com
+[+]Fitwirr Shop | Yoga, Fitness, Apparel - FITWIRR
+[!]http://fjerotiphy.selz.com
+[+]FJErotiphy
+[!]http://flemingrecords.selz.com
+[+]Fleming Records
+[!]http://fliked.selz.com
+[+]Fliked
+[!]http://flixelpix.selz.com
+[+]FlixelPix
+[!]http://florriemarie.selz.com
+[+]FlorrieMarie
+[!]http://fondue.selz.com
+[+]BestFondue.com ~ RecettesdeFondue.ca
+[!]http://fortyfivenorthphoto.selz.com
+[+]45 North Nature Photography
+[!]http://founderu.selz.com
+-->Selz FounderU - Seriously simple selling
+[!]http://www.founderu.selz.com
+-->Selz FounderU - Seriously simple selling
+[!]http://fourhorsemencomedy.selz.com
+[+]The Four Horsemen
+[!]http://francoisadumas.selz.com
+[+]Francois A. Dumas
+[!]http://frankhong.selz.com
+[+]Frank Hong
+[!]http://franktzengart.selz.com
+[+]Frank Tzeng
+[!]http://franw.selz.com
+[+]Fran Wisniewski
+[!]http://frederickhelfers.selz.com
+[+]Nose Work Books
+[!]http://fredpeters.selz.com
+[+]Fred Peters
+[!]http://freebiesave.selz.com
+[+]Freebiesave
+[!]http://freefit.selz.com
+[+]VENTURE FITNESS ROCKS - Freefit Gear Shop
+[!]http://frogtown.selz.com
+[+]FROGTOWN
+[!]http://fromtraumatotriumph.selz.com
+[+]From Trauma to Triumph
+[!]http://frostblades.selz.com
+-->404 - We couldn&#39;t find that - Selz
+[!]http://funrover.selz.com
+[+]FunRover
+[!]http://futureglobalvision.selz.com
+[+]Future Global Vision
+[!]http://ga-haitian-chamber.selz.com
+[+]GA Haitian Chamber
+[!]http://gabrielclement.selz.com
+[+]Gabriel CLEMENT
+[!]http://ganttproject.selz.com
+[+]GanttProject Funding Store
+[!]http://gardensofeternity.selz.com
+[+]Gardens of Eternity
+[!]http://gdlguru.selz.com
+[+]GDL GURU
+[!]http://gekkographics.selz.com
+[+]Richard Chafer
+[!]http://gemmabennett.selz.com
+[+]Gemma Bennett
+[!]http://gemstonejewellery.selz.com
+[+]Gemstone Jewellery
+[!]http://geniushop.selz.com
+[+]Products
+[!]http://geoff.selz.com
+[+]Geoff
+[!]http://georgebewley.selz.com
+[+]George Bewley
+[!]http://georgethegeographer.selz.com
+[+]George the Geographer
+[!]http://geostelar.selz.com
+[+]Geostelar
+[!]http://gerhardbeck.selz.com
+[+]Gerhard Beck
+[!]http://getgooddrums.selz.com
+[+]GetGood Drums, LLC
+[!]http://getitfastmedia.selz.com
+[+]GETITFAST ONLINE MEDIA
+[!]http://getpaidforwatchingfootball.selz.com
+[+]Get Paid for Watching Football
+[!]http://ghostlypixels.selz.com
+-->404 - We couldn&#39;t find that - Selz
+[!]http://giftwishous.selz.com
+[+]Gift Wishous
+[!]http://gilespcroft.selz.com
+[+]Giles P Croft: Speaker
+[!]http://gillimoon.selz.com
+[+]take gilli moon home
+[!]http://girlfridayweddings.selz.com
+[+]Girl Friday Weddings
+[!]http://glamourglitzbubbly.selz.com
+[+]Glamour, Glitz &amp; Bubbly
+[!]http://glass0fwater.selz.com
+[+]Glass0f Water
+[!]http://gloriajeanroberts.selz.com
+[+]Gloria Jean Roberts
+[!]http://glt.selz.com
+[+]GLT
+[!]http://gmjunkies.selz.com
+[+]GM Junkies
+[!]http://golfpsp.selz.com
+[+]Official Store of The Little One Training Club by PSP Golf - buy direct and save
+[!]http://goodtreasure.selz.com
+[+]Good Treasure Ministries
+[!]http://gosportgraphics.selz.com
+[+]Gosport Graphics
+[!]http://gotsketch.selz.com
+[+]Got Sketch?
+[!]http://grassrootsliquidator.selz.com
+[+]Jay Hussle
+[!]http://grdeals.selz.com
+[+]GR DEALS
+[!]http://gregkocis.selz.com
+[+]Drum Loops
+[!]http://gregoryleslie.selz.com
+[+]Gregory Leslie
+[!]http://gregoryllipscomb.selz.com
+[+]Gregory L Lipscomb
+[!]http://groundcontrol.selz.com
+[+]Ground Control
+[!]http://growinggiantcomics.selz.com
+[+]Growing Giant Comics
+[!]http://growlpartnership.selz.com
+[+]Growl Partnership
+[!]http://gspinelli.selz.com
+[+]Gina Brockinton
+[!]http://gtgd.selz.com
+[+]&#214;mer
+[!]http://guianyandabout.selz.com
+[+]NY &amp; About
+[!]http://guitarvoice.selz.com
+[+]GuitarVoice Pro Jam Method
+[!]http://gumbomixonline.selz.com
+[+]GumboMixOnline.com
+[!]http://guywindsor.selz.com
+[+]Guy Windsor
+[!]http://hackspirit1.selz.com
+[+]Hack Spirit
+[!]http://hairmedia.selz.com
+[+]hairmedia.de
+[!]http://hal9kmusic.selz.com
+[+]Alessandro Alcinesio
+[!]http://hannahblackmore.selz.com
+[+]Hannah Blackmore
+[!]http://hansadrian.selz.com
+[+]Hans Adrian
+[!]http://happygleestore.selz.com
+[+]Happy Glee Store
+[!]http://haptime.selz.com
+[+]Andrea Grassi
+[!]http://harborcenter.selz.com
+[+]HARBORCENTER Cup Video - HarborCenter Cup Video
+[!]http://www.harmonyiswithin.selz.com
+[-]exception found, non-existant domain
+[!]http://harp-to-harp.selz.com
+[+]Harp to Harp
+[!]http://hausofclarity.selz.com
+[+]Haus of Clarity
+[!]http://headphonesr-us.selz.com
+[+]HeadPhonesR.us
+[!]http://healthyliving.selz.com
+[+]Laura&#39;s Health and Wellness Resource Store
+[!]http://heartsome.selz.com
+[+]Heartsome Publishing
+[!]http://heartspirations.selz.com
+[+]Valerie L. Moore
+[!]http://heidithompson.selz.com
+[+]Heidi Thompson
+[!]http://heirloomdesigncompany.selz.com
+[+]Heirloom Design Company
+[!]http://helengonzalez.selz.com
+[+]Helen Gonzalez
+[!]http://help.selz.com
+-->Selz Help
+[!]http://heroic.selz.com
+[+]Heroic Recordings.
+[!]http://hgentity.selz.com
+[+]HGentity The Art of Healing Goods &amp; Service
+[!]http://hicksteadtv.selz.com
+[+]Hickstead TV Store - Hickstead TV
+[!]http://highlevellistening.selz.com
+[+]High Level Listening
+[!]http://hindsightcommerce.selz.com
+[+]HINDSIGHT RADIO COMMERCE
+[!]http://histakesrc.selz.com
+[+]Hi Stakes Rc Tracks
+[!]http://holisticballet.selz.com
+[+]Holistic Ballet&#174;
+[!]http://hometeammediagroup.selz.com
+[+]Home Team Media Group
+[!]http://honestbirthtalk.selz.com
+[+]Honest Birth Talk
+[!]http://honestcrow.selz.com
+[+]Honest Crow Collective
+[!]http://honeybearlane.selz.com
+[+]Honeybear Lane
+[!]http://hopeuc.selz.com
+[+]Hope UC
+[!]http://horseladygifts.selz.com
+[+]Cindy Hughes
+[!]http://hoteliyo.selz.com
+[+]Hoteliyo E-Store
+[!]http://hrns.selz.com
+[+]HEALTHCARE RECRUITER NETWORK SERVICES
+[!]http://hsh.selz.com
+[+]Hannah Stonehouse Hudson
+[!]http://hstwindsurfingwithalancadiz.selz.com
+[+]HST Windsurfing with Alan Cadiz
+[!]http://huiledevie.selz.com
+[+]Huile De Vie
+[!]http://hupjr.selz.com
+[+]HUPJR Music
+[!]http://iam2gran.selz.com
+[+]iam2gran
+[!]http://iamhomebased.selz.com
+[+]I am homebased
+[!]http://iamnotthemedia.selz.com
+[+]I AM not the MEdia
+[!]http://iangamble.selz.com
+[+]Ian Gamble
+[!]http://iboxing.selz.com
+[+]PROR22T
+[!]http://icecream.selz.com
+[+]Ice Cream Stock Audio
+[!]http://icheats.selz.com
+[+]iCheats
+[!]http://ichurchnetworks.selz.com
+[+]iChurchNetworks.com FREE Digital Resource Center
+[!]http://iclassics.selz.com
+[+]iClassics
+[!]http://icloudremoverdatabase.selz.com
+[+]Icloud Remover
+[!]http://icysage.selz.com
+[+]IcySage&#39;s Stashes
+[!]http://ieatsucculent.selz.com
+[+]Succulent Cuisine
+[!]http://igoebooks.selz.com
+[+]iGO eBooks &#174;
+[!]http://iipa.selz.com
+[+]International Iridology Practitioners Association
+[!]http://ilahb.selz.com
+[+]Ilah B
+[!]http://imdone.selz.com
+[+]Jesse Piascik
+[!]http://immodernafrican.selz.com
+[+]ImModernAfrican
+[!]http://indezine.selz.com
+[+]Indezine
+[!]http://www.inmyzone.selz.com
+[-]exception found, non-existant domain
+[!]http://iphonion.selz.com
+[+]IPHONION LANKA
+[!]http://ipromx.selz.com
+[+]iProMx
+[!]http://iprotectme.selz.com
+[+]I Protect Me
+[!]http://irishentertainments.selz.com
+[+]Speed Quiz International Packs
+[!]http://ironkladstudios.selz.com
+[+]Ironklad Studios
+[!]http://irvinevansmusicmerchandise.selz.com
+[+]Irvin Evans Music | Merchandise
+[!]http://ivonnealexander.selz.com
+[+]Ivonne Alexander
+[!]http://jackmith204.selz.com
+[+]customerhelpline
+[!]http://jackwalsh.selz.com
+[+]Jack Walsh
+[!]http://jacobsalem.selz.com
+[+]Jacob Salem
+[!]http://jademcintosh.selz.com
+[+]Jade McIntosh
+[!]http://jaistone.selz.com
+[+]JaiStore - JaiStore
+[!]http://james-billings1.selz.com
+[+]TheHipHopMuseum
+[!]http://jamesmcallister.selz.com
+[+]James McAllister
+[!]http://jamespaick.selz.com
+[+]James Paick
+[!]http://jameyray.selz.com
+[+]Jamey Ray
+[!]http://jamie-thyer.selz.com
+[+]The Worried Men
+[!]http://janae-shatley-camp.selz.com
+[+]Janae Shatley Camp
+[!]http://janetmfortunato.selz.com
+[+]Janet M. Fortunato
+[!]http://jasonmorgan.selz.com
+[+]Jason Morgan Wildlife Art Tutorials
+[!]http://jasonsalas.selz.com
+[+]Jason Salas
+[!]http://jasonsani.selz.com
+[+]Jason Sani
+[!]http://jasontaff.selz.com
+[+]Jason Taff
+[!]http://javagenious.selz.com
+[+]Javagenious
+[!]http://javicasmith.selz.com
+[+]javicasmith
+[!]http://jay-cross.selz.com
+[+]Internet Time Press
+[!]http://jay12.selz.com
+[+]Jay
+[!]http://jazzco-fitness.selz.com
+[+]JazzCo Fitness
+[!]http://jeansjerome.selz.com
+[+]JS Jerome Institute
+[!]http://jeffbullas.selz.com
+[+]Jeff Bullas
+[!]http://jeffley.selz.com
+[+]JamesJeffley.com
+[!]http://jeffreydevos.selz.com
+[+]JustHax
+[!]http://jellyblingwatches.selz.com
+[+]Jelly Bling Watches
+[!]http://jemalee.selz.com
+[+]Jema Lee
+[!]http://jenniferdurrans.selz.com
+[+]jennifer durrans
+[!]http://jenniferesman.selz.com
+[+]Jennifer Esman
+[!]http://jerkpoet.selz.com
+[+]Jerkpoet
+[!]http://jeromesantucci.selz.com
+[+]Jerome Santucci
+[!]http://jerseysportsnow.selz.com
+[+]Jersey Sports Now
+[!]http://jessesandifer.selz.com
+[+]Jesse Sandifer
+[!]http://jessicabell.selz.com
+[+]Jessica Bell
+[!]http://jessicabrown.selz.com
+[+]Jessica Brown
+[!]http://jessicaconnorkennedy.selz.com
+[+]Jessica Connor Kennedy
+[!]http://jessicanettles.selz.com
+[+]Value &amp; Variety Ebook Store
+[!]http://jessicascott.selz.com
+[+]Jessica Scott
+[!]http://jessicasepel.selz.com
+[+]JSHealth
+[!]http://jessieblair.selz.com
+[+]Jessie Blair
+[!]http://www.jessieblair.selz.com
+[-]exception found, non-existant domain
+[!]http://jfx.selz.com
+[+]JFX
+[!]http://jilleysue.selz.com
+[+]Jilleysue
+[!]http://jilliannehamilton.selz.com
+[+]Jillianne Hamilton
+[!]http://www.jillmrichardson.selz.com
+[-]exception found, non-existant domain
+[!]http://jimmanuals.selz.com
+[+]JIM MANUALS
+[!]http://jiyanicolebadra.selz.com
+[+]Jiya Nicole Badra
+[!]http://jknelson91.selz.com
+[+]jknelson91@gmail.com
+[!]http://jl1.selz.com
+[+]Self Suck Autofellatio Guide eBook - Master the Art of Selfsucking Safely
+[!]http://jnrtraders.selz.com
+[+]JNR Traders
+[!]http://joannrosariocondrey.selz.com
+[+]Joann Rosario Condrey
+[!]http://jobsfactory.selz.com
+[+]Anon HK
+[!]http://www.jobsfactory.selz.com
+[-]exception found, non-existant domain
+[!]http://jodipatfield.selz.com
+[+]Jodi Patfield
+[!]http://joejohnstonsketchbook.selz.com
+[+]Joe Johnston Sketchbook
+[!]http://joeldevereux.selz.com
+[+]Joel Devereux
+[!]http://jogifford.selz.com
+[+]Jo Gifford
+[!]http://johanvanwyk.selz.com
+[+]Johan van Wyk
+[!]http://johnbranyan.selz.com
+[+]John Branyan Comedy
+[!]http://johncostello.selz.com
+[+]John Costello
+[!]http://johnfoulsham.selz.com
+[+]jpfbusinesssupplies.co.uk
+[!]http://johnfuller.selz.com
+[+]John Fuller
+[!]http://johnhelm.selz.com
+[+]People Props by John Helm
+[!]http://johnmoyer.selz.com
+[+]John Moyer
+[!]http://johnnygadgetzrocks.selz.com
+[+]Johnny Gadgetz
+[!]http://johnnywolford.selz.com
+[+]J.lee.tha riddla effect...
+[!]http://johnsalisbury.selz.com
+[+]John Salisbury
+[!]http://johnsweeney.selz.com
+[+]John Sweeney
+[!]http://johnwallinliberto.selz.com
+[+]John Wallin Liberto
+[!]http://johnwell.selz.com
+[+]fullmagic
+[!]http://jojoshowcali.selz.com
+[+]JoJo Showcali
+[!]http://jolhealing.selz.com
+[+]Jewels of Light Healing / Sophie Dangtran
+[!]http://jomysonplus.selz.com
+-->404 - We couldn&#39;t find that - Selz
+[!]http://jonasdero.selz.com
+[+]Jonas De Ro
+[!]http://jordanoram.selz.com
+[+]Jordan Oram
+[!]http://jordanrc.selz.com
+[+]JordanRC.com
+[!]http://josephcharlesmcdermott.selz.com
+[+]Joseph Charles McDermott
+[!]http://josephcouch1.selz.com
+[+]Pets And Wheels
+[!]http://josephmaloney.selz.com
+[+]Joemal Productions
+[!]http://joshenobakhare.selz.com
+[+]Josh Enobakhare
+[!]http://joshpcrockett.selz.com
+[+]Josh P Crockett
+[!]http://joshuatoddcrowther.selz.com
+[+]Joshua Todd Crowther
+[!]http://jrbutlerstore.selz.com
+[+]JR Butler Ministries E-Store
+[!]http://jrperry.selz.com
+[+]J R PERRY
+[!]http://jrungsi.selz.com
+[+]Justin Pichetrungsi
+[!]http://jstevenson.selz.com
+[+]Institute for Jaques-Dalcroze Education, LLC
+[!]http://jtunes.selz.com
+[+]JTunes
+[!]http://juan1.selz.com
+[+]Latin Edits
+[!]http://juancalina.selz.com
+[+]juanca lina
+[!]http://judah-a-kessler.selz.com
+[+]Judah A Kessler
+[!]http://judithmorgan.selz.com
+[+]Judith Morgan
+[!]http://judywoodworth.selz.com
+[+]Judy Woodworth
+[!]http://julian-sanchez.selz.com
+[+]JuJu Technologies
+[!]http://jumperring.selz.com
+[+]Jumper Ring
+[!]http://juneroca.selz.com
+[+]June Roca
+[!]http://justin-bray.selz.com
+[+]Pimped Out Graphics
+[!]http://justlikevelvet.selz.com
+[+]Just Like Velvet, LLC
+[!]http://kaceynielsen.selz.com
+[+]Kacey Nielsen
+[!]http://karaoke.selz.com
+[+]Karaoke Home Entertainment
+[!]http://karenmcmahon.selz.com
+[+]Karen McMahon
+[!]http://karenscarlett1.selz.com
+[+]Karen Scarlett
+[!]http://karenscott.selz.com
+[+]Karen Scott
+[!]http://karensealey.selz.com
+[+]Karen Sealey
+[!]http://karissapukas.selz.com
+[+]Karissa Pukas
+[!]http://kashmirichai.selz.com
+[+]World&#39;s First Instant Kashmir Chai Mix
+[!]http://kasiinsight.selz.com
+[+]KASI Insight Store
+[!]http://katelivingston.selz.com
+[+]Kate Livingston
+[!]http://katesilvia.selz.com
+[+]Kate Silvia Photography
+[!]http://kathleenbartholomew.selz.com
+[+]Kathleen Bartholomew
+[!]http://katoncallaway.selz.com
+[+]Katon Callaway
+[!]http://katrinacavazos.selz.com
+[+]Katrina Cavazos
+[!]http://katteacher.selz.com
+[+]Kat Teacher's English Lessons
+[!]http://kauaitalk.selz.com
+[+]Kauai Talk&#39;s Services and Products
+[!]http://kaydy.selz.com
+[+]Kaywanda Lamb Books &amp; Coaching for Single Moms
+[!]http://kaylahoward.selz.com
+[+]Kayla Howard
+[!]http://keeferroulette.selz.com
+[+]Make $ the easy way!!
+[!]http://kelkelzboutiquestore.selz.com
+[+]Kel Kelz Boutique Store
+[!]http://kellan-publishing.selz.com
+[+]Kellan Publishing Bookstore - Kellan Publishing
+[!]http://kellenmarson.selz.com
+[+]Kellen Marson
+[!]http://kelleybean.selz.com
+[+]Kelley Bean
+[!]http://kellyhowarth.selz.com
+[+]Kelly Howarth
+[!]http://kellysuniqueboutique.selz.com
+[+]Kellys Unique Boutique
+[!]http://kelsyenelson.selz.com
+[+]Courses by Kelsye Nelson
+[!]http://kelvinho.selz.com
+[+]Kelvin Milan
+[!]http://kelvinramaker.selz.com
+[+]Kelvin Ramaker
+[!]http://kelvintan.selz.com
+[+]Kelvin Tan
+[!]http://kenbradford.selz.com
+[+]Freelance Blog Writing: Writing Better Web Content
+[!]http://kentaart.selz.com
+[+]Kenta Art
+[!]http://kerbymellon.selz.com
+[+]JustDigitalz
+[!]http://kerripomarolli.selz.com
+[+]Kerri Pomarolli
+[!]http://kesblessedbooks.selz.com
+[+]K. E. S.  Blessed Books
+[!]http://keshiaartry.selz.com
+[+]Keshia Artry
+[!]http://ketree.selz.com
+[+]Kentree
+[!]http://kettlebellsworkouts.selz.com
+[+]Workouts by Greg Brookes
+[!]http://kevinjackaljohnston.selz.com
+[+]Kevin Jackal Johnston
+[!]http://kevinjones12.selz.com
+[+]OH SNAP ELECTRONICS!
+[!]http://keyke.selz.com
+[+]Keyke
+[!]http://keylight3dmodelpack.selz.com
+[+]Keylight - Anthony Petruzio
+[!]http://khaledallen.selz.com
+[+]AtlasWear Clothing
+[!]http://khaleghl-quinn.selz.com
+[+]Khaleghl Quinn's Enlightening Products Boutique
+[!]http://kidscantalk.selz.com
+[+]Kids Can Talk
+[!]http://kidsinharmony.selz.com
+[+]Kids in Harmony
+[!]http://kikispanties.selz.com
+[+]Kiki&#39;s Panties
+[!]http://killmoremutunzi.selz.com
+[+]TRANSFORMATION HUB- COACHING
+[!]http://kilocakesole.selz.com
+[+]kilocakesole@gmail.com
+[!]http://kimberlyjohnson.selz.com
+[+]Kimberly Johnson
+[!]http://kimcoles.selz.com
+[+]Kim Coles
+[!]http://kimvassar.selz.com
+[+]KimVassar
+[!]http://kingdomcomics.selz.com
+[+]Kingdom Comics
+[!]http://kingdomlyrics.selz.com
+[+]Kingdom Lyrics
+[!]http://kingdommuzic.selz.com
+[+]Rey Sandoval Soul Winner/Kingdom Muzic
+[!]http://kingyungfrost.selz.com
+[+]KiNG YuNG FROST
+[!]http://kirillchepizhko.selz.com
+[+]Kirill Chepizhko
+[!]http://kirstyannewatson.selz.com
+[+]Kirsty Anne Watson
+[!]http://kjgfilms.selz.com
+[+]Kell Graham
+[!]http://klbservices.selz.com
+[+]KLB Services
+[!]http://kmweiland.selz.com
+[+]K.M. Weiland
+[!]http://knnth.selz.com
+[+]inScopeStudios
+[!]http://knweb.selz.com
+[+]KN Web LTD
+[!]http://korimichele.selz.com
+-->404 - We couldn&#39;t find that - Selz
+[!]http://kratomdirect.selz.com
+-->404 - We couldn&#39;t find that - Selz
+[!]http://krazyteez.selz.com
+[+]Krazy Teez
+[!]http://kristinethornham.selz.com
+[+]Kristine Thornham
+[!]http://kristyoconnell.selz.com
+[+]Kristy O&#39;Connell
+[!]http://krystalmusic.selz.com
+[+]Krystal
+[!]http://kuciara.selz.com
+[+]West Side Story, LLC
+[!]http://kyanaminer.selz.com
+[+]Kyana Miner
+[!]http://kylieddirect.selz.com
+[+]Kylie D Direct.
+[!]http://kyngfx.selz.com
+[+]KYNGFX
+[!]http://kyudotsg.selz.com
+[+]Kyudot Singapore
+[!]http://l-james.selz.com
+[+]L James
+[!]http://label-boutique-demo.selz.com
+[+]Kali Stone
+[!]http://label-peak-demo.selz.com
+[+]Peaky
+[!]http://labibliotecadejustificaturespeusta.selz.com
+-->404 - We couldn&#39;t find that - Selz
+[!]http://ladysmithpetsupplies.selz.com
+[+]Ladysmith Pet Supplies
+[!]http://lagniappeframeshoppe.selz.com
+[+]Lagniappe Frame Shoppe
+[!]http://landarchs.selz.com
+[+]Landscape Architecture eBooks by Landscape Architects Network
+[!]http://lapastillaamarilla.selz.com
+[+]La Pastilla Amarilla
+[!]http://laptopforwriters.selz.com
+[+]Laptop for Writers
+[!]http://larryscher.selz.com
+[+]Larry Scher
+[!]http://lashaylaior.selz.com
+[+]Laior
+[!]http://lastgenerationpublishing.selz.com
+[+]Last Generation Publishing Digital Store
+[!]http://lasttrainfromhell.selz.com
+[+]Last Train From Hell - A True Story
+[!]http://latboyd.selz.com
+[+]LaTBoyd
+[!]http://latinlingo.selz.com
+[+]Latin Lingo Clothing
+[!]http://launchista.selz.com
+[+]Launchista
+[!]http://laurafountain.selz.com
+[+]Laura Fountain
+[!]http://laurajelinek.selz.com
+[+]Laura Jelinek
+[!]http://lauraloe.selz.com
+[+]Laura Loe
+[!]http://lauryndoll.selz.com
+[+]Lauryn Doll
+[!]http://lca.selz.com
+[+]YFC
+[!]http://leanbodyrules.selz.com
+[+]Lean Body Rules
+[!]http://leancontracts.selz.com
+[+]Lean Contracts
+[!]http://learnenglishwithafrica.selz.com
+[+]Learn English With Africa Store
+[!]http://learningdojo.selz.com
+[+]Learning Dojo
+[!]http://leecountysca.selz.com
+[+]Lee County School Counselor Association
+[!]http://leighannkopans.selz.com
+[+]LeighAnn Kopans
+[!]http://leroyford.selz.com
+[+]LEROY FORD ~ Speaker, 6-Time Author, Coach
+[!]http://lesleyernst.selz.com
+[+]Lesley Ernst
+[!]http://letspk.selz.com
+[+]LetsPK.org - Official Store
+[!]http://leztalk.selz.com
+[+]Lez Talk
+[!]http://lezzbiannikki.selz.com
+[+]Lezzbian Nikki
+[!]http://lferrl.selz.com
+[+]Lauralynn Ferrara Petsch
+[!]http://lgdashaptmusic.selz.com
+[+]lg dash apt
+[!]http://lichtpfad.selz.com
+[+]TouchDesigner Workshop by Licht Pfad Studio
+[!]http://lidocaineandlipstick.selz.com
+[+]Lidocaine &amp; Lipstick
+[!]http://lifeonboard.selz.com
+[+]life ON board
+[!]http://lifezonewellness.selz.com
+[+]Life Zone Wellness, LLC
+[!]http://lindseymanns.selz.com
+[+]Littlelinsy
+[!]http://lirantal.selz.com
+[+]Liran Tal
+[!]http://lisa-illman.selz.com
+[+]Lisa Illman
+[!]http://lisaellis.selz.com
+[+]Lisa Ellis
+[!]http://lisahutchison.selz.com
+[+]Lisa Hutchison LMHC
+[!]http://lisasaunders1.selz.com
+[+]&quot;A Date with Destiny&quot;
+[!]http://litadoolan.selz.com
+[+]lita doolan
+[!]http://littleyoungbeauty.selz.com
+[+]Little Young Beauty
+[!]http://lituppilatesandbarretraining.selz.com
+[+]Lit Up. Pilates &amp; Barre Training
+[!]http://liturgicalsong.selz.com
+[+]Liturgical Song
+[!]http://lizdexter.selz.com
+[+]Liz Dexter
+[!]http://lizhollowaydesign.selz.com
+[+]Liz Holloway Design
+[!]http://logicalsoundz.selz.com
+[+]Logical Soundz
+[!]http://longestway.selz.com
+[+]The Longest Way Home
+[!]http://loopsdelacreme.selz.com
+[+]Loops de la Cr&#232;me
+[!]http://lord-909.selz.com
+[+]Lord 909
+[!]http://loriabraham.selz.com
+[+]Lori Abraham
+[!]http://loud360.selz.com
+[+]Jabula Europe &amp; Asia LOUD Conference Store
+[!]http://louisetrotter.selz.com
+[+]Louise Trotter
+[!]http://lovedoctorshow.selz.com
+[+]The Doctor of Love Show
+[!]http://lpgebooks.selz.com
+[+]LPG EBooks &amp; Fields Of Vision Media
+[!]http://lrtdesilva.selz.com
+[+]L R Tharindu De Silva
+[!]http://luca-santi.selz.com
+[+]Luca Santi
+[!]http://lucianbane.selz.com
+[+]Bestselling Author Lucian Bane
+[!]http://lucygray.selz.com
+[+]Apple Customer Support and Service Call +1-800-501-2708
+[!]http://lukelab.selz.com
+[+]LukeLab.it
+[!]http://luvcravings.selz.com
+[+]LuvCravings
+[!]http://lynelle.selz.com
+[+]Lynelle
+[!]http://lynettecrosby.selz.com
+[+]Lynette Crosby
+[!]http://lynnecazaly.selz.com
+[+]Lynne Cazaly
+[!]http://lynneshankel.selz.com
+[+]Lynne Shankel
+[!]http://lynnetteluellen.selz.com
+[+]Lynnette Luellen
+[!]http://lynnwiesesneyd.selz.com
+[+]Lynn Wiese Sneyd
+[!]http://mademen.selz.com
+[+]MADE MEN
+[!]http://maestrooo.selz.com
+[+]Maestrooo
+[!]http://magicofstories.selz.com
+-->404 - We couldn&#39;t find that - Selz
+[!]http://mahoganycurls.selz.com
+[-]exception found, non-existant domain
+[!]http://majestychampioncentre.selz.com
+-->404 - We couldn&#39;t find that - Selz
+[!]http://makaihbeats.selz.com
+[+]Makaih Beats
+[!]http://makinmoves.selz.com
+[+]Makin Moves Entertainment
+[!]http://maksecgroup.selz.com
+[+]MAKSEC Group | M16, M1911, M14 CAD
+[!]http://manipurashop.selz.com
+[+]Manipura Online
+[!]http://manualvault.selz.com
+[+]manualvault
+[!]http://maquitaskyehill.selz.com
+[+]Maquita Skye Hill
+[!]http://marchaydengrant.selz.com
+[+]Marc Hayden
+[!]http://marciaannrosales.selz.com
+[+]Marcia-Ann
+[!]http://marconelor.selz.com
+[+]Marco Nelor
+[!]http://marcstevens.selz.com
+[+]marcstevens@mail.com
+[!]http://marekbidwell.selz.com
+[+]Marek Bidwell
+[!]http://marekokon.selz.com
+[+]Marek Okon
+[!]http://marianmartha.selz.com
+[+]Marian Martha Catholic Planner
+[!]http://mariekazalia.selz.com
+[+]Marie Kazalia
+[!]http://mariesexton.selz.com
+[+]Marie Sexton
+[!]http://marissahyatt.selz.com
+[+]MarissaHyatt.com
+[!]http://markmeldrum.selz.com
+[-]exception found, non-existant domain
+[!]http://www.markmeldrum.selz.com
+[-]exception found, non-existant domain
+[!]http://markmenendez.selz.com
+[+]Menendez Art Studio Store
+[!]http://markpowlett.selz.com
+[+]Mark Powlett Hypnotherapy in Redditch
+[!]http://markrichardson.selz.com
+[+]Camera Stupid
+[!]http://marksabbatini.selz.com
+[+]Mark Sabbatini
+[!]http://markshian.selz.com
+[+]Mark Shian
+[!]http://markstruczewski.selz.com
+[+]Mark Struczewski
+[!]http://martim-pinto.selz.com
+[+]Martim R&#250;ben Candeias Couto Pinto
+[!]http://martin-duffy.selz.com
+[+]Duff TV ~ Sports videos
+[!]http://martintwycross.selz.com
+[+]Martin Twycross Products
+[!]http://marvelavengersalliancebot.selz.com
+[+]Marvel Avengers Alliance Bot
+[!]http://maryannmuffins.selz.com
+[+]Mary Ann Muffin&#39;s
+[!]http://maryroux.selz.com
+[+]Photo Artistry
+[!]http://masketeers.selz.com
+[+]Masketeers
+[!]http://mastrodefencesystem.selz.com
+[+]Mastro Defence System
+[!]http://mathfilefoldergames.selz.com
+[+]MathFileFolderGames.com
+[!]http://mathmba.selz.com
+[+]Math for MBAs - mathmba
+[!]http://mathsright.selz.com
+[+]Mathsright
+[!]http://mattdixon.selz.com
+[+]Matt Dixon
+[!]http://matthewosltd.selz.com
+[+]MatthewOS LTD.
+[!]http://mattmaiberger.selz.com
+[+]Matt Maiberger
+[!]http://mattsgraphics.selz.com
+[+]MattsGraphics
+[!]http://maxprocheckpublishing.selz.com
+[+]BraineMatter&#39;s Place
+[!]http://maxshenkwrites.selz.com
+[+]Max Harrick Shenk, writer
+[!]http://maxwellivey.selz.com
+[+]maxwellivey@aol.com
+[!]http://mayacycle.selz.com
+[+]Maya Cycle Bike Trailer
+[!]http://mcbuniversity.selz.com
+[+]MCB University
+[!]http://mcdavis.selz.com
+[+]McDavis
+[!]http://mcwhorterrecords.selz.com
+[+]McWhorter Records
+[!]http://mdeleon.selz.com
+[+]mdeleon@icao.int
+[!]http://mealandexerciseplans.selz.com
+[+]Meal and Exercise Plans
+[!]http://mechanicallandscapes.selz.com
+[+]Mechanical Landscapes
+[!]http://media4worship.selz.com
+[+]media4worship
+[!]http://mehrdadsadri.selz.com
+[+]Mehrdad Sadri
+[!]http://meikospatton.selz.com
+[+]Meiko S. Patton
+[!]http://melaninoptics.selz.com
+[+]Melanin Optics Eyewear - Sunglasses
+[!]http://melvineypress.selz.com
+[+]Melviney Press
+[!]http://memphisblast.selz.com
+[+]Memphis Blast Fan Store
+[!]http://mentalotakkanan.selz.com
+[+]mental otak kanan
+[!]http://mercuryhrgroup.selz.com
+[+]MercuryHR
+[!]http://merx.selz.com
+[+]MERX
+[!]http://mfwbooks.selz.com
+[+]MFW Books
+[!]http://miccheck.selz.com
+[+]MIC CHECK, LLC
+[!]http://michaelangelo.selz.com
+[+]Michael Angelo
+[!]http://michaelblaney.selz.com
+[+]michael blaney
+[!]http://michaellaronn.selz.com
+[+]Michael La Ronn
+[!]http://michaelleggerie.selz.com
+[+]Michael Leggerie Music Store
+[!]http://michaeltapes.selz.com
+[+]Michael Tapes Design
+[!]http://microbusinessessentials.selz.com
+[+]Microbusiness Essentials
+[!]http://midastech.selz.com
+[+]MidasTech
+[!]http://midwestfinessemag.selz.com
+[+]MIDwest Finesse Shop
+[!]http://miesnermedia.selz.com
+[+]Miesner Media
+[!]http://mikeabell.selz.com
+[+]Mike Abell
+[!]http://mikemac2d.selz.com
+[+]Mike Mac
+[!]http://mikkois.selz.com
+[+]Mikko Is
+[!]http://millennium-games.selz.com
+[+]Millennium Games
+[!]http://miltonkeynesyfc.selz.com
+[+]Milton Keynes YFC
+[!]http://mimilupin.selz.com
+-->404 - We couldn&#39;t find that - Selz
+[!]http://minkusinemaria.selz.com
+[+]Min Kusine Maria
+[!]http://misleyhairland.selz.com
+[+]misleyhairland
+[!]http://misscottonthecomedian.selz.com
+[+]MissCotton TheComedian
+[!]http://missemma.selz.com
+[+]Daily SSP Code Mapping Lesson - SSP Shopping
+[!]http://missmookie.selz.com
+[+]Miss Mookie
+[!]http://misssuzettecom.selz.com
+[+]Miss-SUZETTE-Fun.com (2016)     Humour Author: Miss-SUZETTE.com
+[!]http://mjtpublishing.selz.com
+[+]MJT Publishing
+[!]http://mockupzone.selz.com
+[+]Mockup Zone
+[!]http://www.mockupzone.selz.com
+[-]exception found, non-existant domain
+[!]http://mod-pop-prints.selz.com
+[+]Mod Pop Prints
+[!]http://modernwarriormind.selz.com
+[+]Modern Warrior Mind
+[!]http://moki.selz.com
+[+]Moksh Naturals
+[!]http://mongoosegolfswing.selz.com
+[+]MONGOOSE GOLF SWING E-LOAD VID TUTORIAL - A SWING FOR ALL AGES
+[!]http://moolahceo.selz.com
+[+]MoolahCEO
+[!]http://mooneast.selz.com
+[+]Moon East the music of Justin Merritt
+[!]http://moonlitetechs.selz.com
+[+]MoonLite Techs
+[!]http://morgan2.selz.com
+[+]Morgan
+[!]http://morgansorgans.selz.com
+[+]Morgan&#39;s Organs
+[!]http://morizon.selz.com
+[+]Morizon
+[!]http://moshcam.selz.com
+[+]Moshcam
+[!]http://moshelang.selz.com
+[+]Moshe Lang
+[!]http://mossman.selz.com
+[+]Moss Man
+[!]http://movenourishbelieve.selz.com
+[+]Move Nourish Believe
+[!]http://mrexplainer.selz.com
+[+]MR EXPLAINER
+[!]http://mrflamez.selz.com
+[+]R
+[!]http://msnoworldorder.selz.com
+[+]Ms No World Order
+[!]http://mtsoftwaresolutions.selz.com
+[+]MT Software Solutions
+[!]http://muddcraft.selz.com
+[+]Mudd Craft
+[!]http://mureze.selz.com
+[+]mureze@tinoza.org
+[!]http://musiety.selz.com
+-->404 - We couldn&#39;t find that - Selz
+[!]http://muzenterprisemuzenterprise.selz.com
+[+]MUZ ENTERPRISEMUZ ENTERPRISE
+[!]http://mybarterworld.selz.com
+[+]MYBARTERWORLD.COM
+[!]http://mycolormusic.selz.com
+[+]ColorMusic Media
+[!]http://mydreamshape.selz.com
+[+]My Dream Shape
+[!]http://myfishingcapecod.selz.com
+[+]My Fishing Cape Cod
+[!]http://myhanoute.selz.com
+[+]eshoop
+[!]http://mythoreligio.selz.com
+[+]MythoReligio Book Store
+[!]http://mytuyo.selz.com
+[+]My Tuyo
+[!]http://myweightlossteacher.selz.com
+[+]My Weight Loss Teacher
+[!]http://nadegecreation.selz.com
+[-]exception found, non-existant domain
+[!]http://nam.selz.com
+[+]Nam
+[!]http://nataliewright.selz.com
+[+]Natalie Wright
+[!]http://natasha-nunez.selz.com
+[+]Natasha - The Artisan Life
+[!]http://nationbrothers.selz.com
+[+]Nation Brothers
+[!]http://naturalgodessco.selz.com
+[+]Natural Godess Co
+[!]http://nautilusrecords.selz.com
+[+]Nautilus Records, LLC
+[!]http://ned1.selz.com
+[+]Ned
+[!]http://neilpaddock.selz.com
+[+]Neil Paddock (How To Program Drums)
+[!]http://nek.selz.com
+[+]Adam Johnson
+[!]http://nervatkerdahi.selz.com
+[+]Nervat Kerdahi
+[!]http://nettiebee.selz.com
+[+]Nettie Bee Pics
+[!]http://newatlantisaudio.selz.com
+[+]New Atlantis Audio
+[!]http://newbreed.selz.com
+[+]New Breed
+[!]http://newclientmagnet.selz.com
+[+]New Client Magnet
+[!]http://newdharma.selz.com
+[+]New Dharma
+[!]http://newdimensionshealthclub.selz.com
+[+]New Dimensions Health Club
+[!]http://newforgerings.selz.com
+[+]Newforge Rings
+[!]http://newhorizon.selz.com
+[+]New Horizon
+[!]http://newworldorders.selz.com
+[+]NEW WORLD ORDERS Publishing
+[!]http://nextchallenge.selz.com
+[+]Next Challenge
+[!]http://niallbenvie.selz.com
+[+]Niall Benvie
+[!]http://nicecream.selz.com
+[+]Health and Bliss
+[!]http://nickfinzer.selz.com
+[+]Nick Finzer
+[!]http://nickgoodpd.selz.com
+[+]Nick Good Transformations
+[!]http://nicolasemple.selz.com
+[+]Nicola Semple
+[!]http://nicole-denise.selz.com
+[+]Nicole Denise
+[!]http://nicole1234.selz.com
+[+]Nicole
+[!]http://nikitudge.selz.com
+[+]DogNostics Career Center
+[!]http://nikkitester.selz.com
+[+]Ocean View Resources - Oceanview Resources
+[!]http://nindhitas.selz.com
+[+]Nindhita's Magic Hats.
+[!]http://ninjacrafters.selz.com
+[+]NinjaCrafters
+[!]http://niteowltheatre.selz.com
+[+]Nite Owl Theatre Online Digital Store
+[!]http://nitinsharma.selz.com
+[+]Nitin Sharma
+[!]http://nolamanblog.selz.com
+[+]Nolamanblog.com
+[!]http://nontoxicskin.selz.com
+-->404 - We couldn&#39;t find that - Selz
+[!]http://normandiefischer.selz.com
+[+]Sleepy Creek Press
+[!]http://normhastings.selz.com
+[+]Norm Hastings
+[!]http://nothingover20.selz.com
+[+]Nothing Over $20
+[!]http://ntaproduction.selz.com
+[+]NTA Production
+[!]http://ntjc.selz.com
+[+]North Texas Jeep Club
+[!]http://nulon.selz.com
+[+]Nulon Merchandise
+[!]http://nuware.selz.com
+[+]Jackie Blog
+[!]http://oceannomad.selz.com
+[+]Ocean Nomad
+[!]http://officialproducers.selz.com
+[+]Official Producers
+[!]http://offqc.selz.com
+[+]OffQc | Qu&#233;b&#233;cois French Guide
+[!]http://ogsrlibrary.selz.com
+[+]Ontario Oil, Gas &amp; Salt Resources Library
+[!]http://okongeorge.selz.com
+[+]Okon George
+[!]http://olehenrikskjelstad.selz.com
+[+]Ole Henrik Skjelstad
+[!]http://oliveracvetkovic.selz.com
+[+]Olivera Cvetkovic
+[!]http://ollymc.selz.com
+[+]The World of Legend
+[!]http://olyviamedia.selz.com
+[+]Erika Madden
+[!]http://omacdesign.selz.com
+[+]OMAC.design
+[!]http://oman-visions.selz.com
+[+]OMan Visions
+[!]http://omarmorales.selz.com
+[+]djfive
+[!]http://onepixelbrush.selz.com
+[+]Shaddy Safadi
+[!]http://onlineballetclass.selz.com
+[+]Online Ballet Class
+[!]http://onmakingmusic.selz.com
+[+]Adam Walton
+[!]http://onziemedition.selz.com
+[-]exception found, non-existant domain
+[!]http://opsdshop.selz.com
+[+]OPSD SHOP
+[!]http://optionslatte.selz.com
+[+]Optionslatte
+[!]http://oquacouture.selz.com
+[+]OQUA COUTURE
+[!]http://oregonlawpracticemanagement.selz.com
+[+]OLPM CLE on Demand - Oregon Law Practice Management
+[!]http://organums.selz.com
+-->Sorry - Selz
+[!]http://orionmarketing.selz.com
+[+]Orion Marketing
+[!]http://orwellclubkit.selz.com
+[+]The official club kit store for Orwell Wheelers Cycling Club - Orwell Club Kit
+[!]http://osebastian.selz.com
+[+]O. Sebastian
+[!]http://osprojectsoftware.selz.com
+[+]OS Project Software
+[!]http://otf.selz.com
+[+]Space Weather News
+[!]http://ourfamilyjewels2013.selz.com
+-->404 - We couldn&#39;t find that - Selz
+[!]http://pablander.selz.com
+[+]Pablander
+[!]http://paddlecanada.selz.com
+[+]Paddle Canada
+[!]http://paigebartholomew.selz.com
+[+]Paige Bartholomew
+[!]http://paperbloomsnmore.selz.com
+[+]Paper Blooms N More
+[!]http://paperreplika.selz.com
+[+]Paper Replika
+[!]http://parisbyvegan.selz.com
+[+]About me - Paris By Vegan
+[!]http://paroladelgiorno.selz.com
+[+]Parola del Giorno
+[!]http://passion4change.selz.com
+[+]Nicole Reichert
+[!]http://pastryandtravel.selz.com
+[+]Pastryandtravel
+[!]http://patchworkbliss.selz.com
+[+]403 Forbidden
+[!]http://pathoflow.selz.com
+[+]Pathoflow
+[!]http://patrickbaird.selz.com
+[+]Patrick Baird
+[!]http://patrickmclaughlin.selz.com
+[+]Patrick McLaughlin
+[!]http://patrickmcstay.selz.com
+[+]Patrick McStay
+[!]http://patty1.selz.com
+[+]Policy Patty Toolkit
+[!]http://paul-wessel.selz.com
+[+]Paul Wessel
+[!]http://www.paulchong.selz.com
+[-]exception found, non-existant domain
+[!]http://paulhogan.selz.com
+[+]Fresh Pup Music
+[!]http://paulskinner.selz.com
+[+]Paul Skinner . Boulevard Veneer
+[!]http://paulstanko.selz.com
+[+]Law Offices of Paul Stanko
+[!]http://pazzariaproductions.selz.com
+[+]Pazzaria Productions
+[!]http://pennylomas.selz.com
+[+]Penny Lomas
+[!]http://peoplebizinc.selz.com
+[+]People Biz, Inc.
+[!]http://petemosley.selz.com
+[+]Pete Mosley
+[!]http://peter-walder.selz.com
+[+]Peter Walder
+[!]http://peterjabrandt.selz.com
+[+]Peter Brandt
+[!]http://peterramshaw.selz.com
+[+]Peter Ramshaw
+[!]http://petiteelegance.selz.com
+[+]Petite Elegance
+[!]http://phatdrumsamples.selz.com
+-->Sorry - Selz
+[!]http://phccleicester.selz.com
+[+]Potter&#39;s House Church Leicester
+[!]http://philblank.selz.com
+[+]phil blank
+[!]http://philgerbyshak.selz.com
+[+]Phil Gerbyshak
+[!]http://photageme.selz.com
+[+]Rishona Studios
+[!]http://piettrojewelry.selz.com
+[+]Piettro Jewelry
+[!]http://pilatesisland.selz.com
+[+]Pilates Island Store
+[!]http://pinloomweaving.selz.com
+[+]Pin Loom Weaving
+[!]http://pippa-frame.selz.com
+[+]Pippa&#39;s Pilates &amp; Stretch
+[!]http://pittysupplystore.selz.com
+[+]Pitty Supply Store
+[!]http://pixelmoshpit.selz.com
+[+]Pixel Moshpit
+[!]http://planetfitness.selz.com
+[+]Planet Fitness
+[!]http://planning-helpers.selz.com
+[+]Planning Helpers
+[!]http://playerseye.selz.com
+[+]Players Eye
+[!]http://pmn.selz.com

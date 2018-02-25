@@ -1,0 +1,59 @@
+[+]Input file: input_wefact.nl.txt was found
+[+]Reading input file
+[+]========**************========
+[+]Recon_dom_title by Codarren Velvindron
+[+]========**************========
+[+]Version 0.5
+[!]Give me urls and I give titles!
+[!]Website Tested: wefact.nl
+[!]Your output filename was created !
+[!]Scanning titles for: 24 urls
+[!]http://www.wefact.nl
+[+]Factuurprogramma voor ondernemers & ZZP administratie
+[!]http://blog.wefact.nl
+[+]Factuurprogramma voor ondernemers & ZZP administratie
+[!]http://da01.wefact.nl
+[+]nothing found, you should check!
+[!]http://www.da01.wefact.nl
+[-]exception found, non-existant domain
+[!]http://da02.wefact.nl
+[-]exception found, non-existant domain
+[!]http://da03.wefact.nl
+[-]exception found, non-existant domain
+[!]http://db01.wefact.nl
+[-]exception found, non-existant domain
+[!]http://db02.wefact.nl
+[-]exception found, non-existant domain
+[!]http://db488.wefact.nl
+-->WeFact Hosting
+[!]http://db901.wefact.nl
+[-]exception found, non-existant domain
+[!]http://db939.wefact.nl
+[+]Klantenpaneel
+[!]http://db977.wefact.nl
+[+]403 Forbidden
+[!]http://fallback.wefact.nl
+[-]exception found, non-existant domain
+[!]http://hosting.wefact.nl
+-->WeFact Hosting
+[!]http://kennisbank.wefact.nl
+-->WeFact Standard Help
+[!]http://mail.wefact.nl
+[-]exception found, non-existant domain
+[!]http://ns1.wefact.nl
+[-]exception found, non-existant domain
+[!]http://ns2.wefact.nl
+[-]exception found, non-existant domain
+[!]http://virt01.wefact.nl
+[+]Factuurprogramma voor ondernemers & ZZP administratie
+[!]http://virt02.wefact.nl
+[+]Factuurprogramma voor ondernemers & ZZP administratie
+[!]http://virt03.wefact.nl
+[+]Factuurprogramma voor ondernemers & ZZP administratie
+[!]http://wijfact3.wefact.nl
+[+]Factuurprogramma voor ondernemers & ZZP administratie
+[!]http://www.wijfact3.wefact.nl
+[+]Factuurprogramma voor ondernemers & ZZP administratie
+[!]http://worker01.wefact.nl
+[-]exception found, non-existant domain
+** Successfully scanned **

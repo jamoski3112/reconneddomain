@@ -1,0 +1,121 @@
+[+]Input file: input_artsy.net.txt was found
+[+]Reading input file
+[+]========**************========
+[+]Recon_dom_title by Codarren Velvindron
+[+]========**************========
+[+]Version 0.5
+[!]Give me urls and I give titles!
+[!]Website Tested: artsy.net
+[!]Your output filename was created !
+[!]Scanning titles for: 55 urls
+[!]http://www.artsy.net
+-->Artsy - Discover, Research, and Collect the World's Best Art Online
+[!]http://2013.artsy.net
+-->See Artsy's 2013 Year in Review by the Numbers
+[!]http://2014.artsy.net
+-->Artsy 2014: A Year in Review
+[!]http://admin-fairs.artsy.net
+[+]nothing found, you should check!
+[!]http://admin-partners.artsy.net
+[-]exception found, non-existant domain
+[!]http://api.artsy.net
+[+]nothing found, you should check!
+[!]http://apply.artsy.net
+-->Applications | Artsy
+[!]http://auctions.artsy.net
+[+]nothing found, you should check!
+[!]http://badges.artsy.net
+[+]403 Forbidden
+[!]http://bearden.artsy.net
+[+]nothing found, you should check!
+[!]http://cms.artsy.net
+[+]nothing found, you should check!
+[!]http://collect.artsy.net
+[-]exception found, non-existant domain
+[!]http://www.collect.artsy.net
+[-]exception found, non-existant domain
+[!]http://delta.artsy.net
+[+]nothing found, you should check!
+[!]http://developers.artsy.net
+-->Artsy.net Public API
+[!]http://developers-staging.artsy.net
+-->Artsy.net Public API
+[!]http://email.artsy.net
+[+]404 Not Found
+[!]http://o1.email.artsy.net
+[-]exception found, non-existant domain
+[!]http://email-link.artsy.net
+[+]404 Not Found
+[!]http://events.artsy.net
+[+]Event Marketing Software - Splash
+[!]http://files.artsy.net
+[+]nothing found, you should check!
+[!]http://folio.artsy.net
+-->Folio: Artsy for Galleries
+[!]http://force.artsy.net
+-->Artsy - Discover, Research, and Collect the World's Best Art Online
+[!]http://fusion.artsy.net
+[-]exception found, non-existant domain
+[!]http://go.artsy.net
+[+]nothing found, you should check!
+[!]http://helix.artsy.net
+[+]nothing found, you should check!
+[!]http://insights.artsy.net
+[+]Gallery Insights
+[!]http://iphone.artsy.net
+-->Download the New Artsy iPhone App
+[!]http://link.artsy.net
+[+]nothing found, you should check!
+[!]http://live.artsy.net
+-->Auctions @ Artsy
+[!]http://m.artsy.net
+-->Artsy - Discover, Research, and Collect the World's Best Art Online
+[!]http://mass.artsy.net
+[-]exception found, non-existant domain
+[!]http://media.artsy.net
+[+]Gemini
+[!]http://metaphysics-production.artsy.net
+[+]nothing found, you should check!
+[!]http://pages.artsy.net
+-->Artsy - Discover, Research, and Collect the World's Best Art Online
+[!]http://reflection.artsy.net
+[+]nothing found, you should check!
+[!]http://rsvp.artsy.net
+[+]nothing found, you should check!
+[!]http://secure.artsy.net
+[-]exception found, non-existant domain
+[!]http://sell.artsy.net
+[-]exception found, non-existant domain
+[!]http://staging.artsy.net
+-->Artsy - Discover, Research, and Collect the World's Best Art Online
+[!]http://static.artsy.net
+[+]nothing found, you should check!
+[!]http://static0.artsy.net
+[-]exception found, non-existant domain
+[!]http://static00.artsy.net
+[+]nothing found, you should check!
+[!]http://static01.artsy.net
+[+]nothing found, you should check!
+[!]http://static02.artsy.net
+[+]nothing found, you should check!
+[!]http://static03.artsy.net
+[+]nothing found, you should check!
+[!]http://static1.artsy.net
+[-]exception found, non-existant domain
+[!]http://static2.artsy.net
+[-]exception found, non-existant domain
+[!]http://static3.artsy.net
+[-]exception found, non-existant domain
+[!]http://subscriptions.artsy.net
+[+]nothing found, you should check!
+[!]http://team.artsy.net
+[+]nothing found, you should check!
+[!]http://timelines.artsy.net
+[+]Timelines
+[!]http://webfonts.artsy.net
+[+]nothing found, you should check!
+[!]http://widgets.artsy.net
+-->Artsy Profile Widgets
+[!]http://writer.artsy.net
+[+]nothing found, you should check!
+** Successfully scanned **

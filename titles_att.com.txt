@@ -1,0 +1,1727 @@
+[+]Input file: input_att.com.txt was found
+[+]Reading input file
+[+]========**************========
+[+]Recon_dom_title by Codarren Velvindron
+[+]========**************========
+[+]Version 0.5
+[!]Give me urls and I give titles!
+[!]Website Tested: att.com
+[!]Your output filename was created !
+[!]Scanning titles for: 858 urls
+[!]http://www.att.com
+[-]exception found, non-existant domain
+[!]http://202020.att.com
+[+]nothing found, you should check!
+[!]http://myattdx.27.att.com
+[-]exception found, non-existant domain
+[!]http://28days.att.com
+[-]exception found, non-existant domain
+[!]http://about.att.com
+[+]AT&amp;T News, Wireless and Network Information | AT&amp;T Newsroom
+[!]http://access.att.com
+[-]exception found, non-existant domain
+[!]http://access-os2.att.com
+[-]exception found, non-existant domain
+[!]http://accessr01.att.com
+[+]Self Registration
+[!]http://acconesource.att.com
+[+]nothing found, you should check!
+[!]http://portal.acdn.att.com
+[+]Luna Control Center
+[!]http://ace.att.com
+[-]exception found, non-existant domain
+[!]http://expressticketing.acss.att.com
+[+]nothing found, you should check!
+[!]http://i901.acss.att.com
+[+]VitalSuite login
+[!]http://activearc.att.com
+[-]exception found, non-existant domain
+[!]http://adsolutions.att.com
+[+]Business Listings from YP. Yellow Pages Online Directory.
+[!]http://adworks.att.com
+[+]Leader In Addressable Advertising | AT&amp;T AdWorks
+[!]http://www.adworks.att.com
+[+]Leader In Addressable Advertising | AT&amp;T AdWorks
+[!]http://aflform.att.com
+[+]All For Less Login
+[!]http://agsdesktop.att.com
+[-]exception found, non-existant domain
+[!]http://aiobrand.att.com
+[+]Cricket
+[!]http://hccp.airs.att.com
+[+]&nbsp;  AT&T eService Ticket Management
+[!]http://alabama.att.com
+[+]AT&T Alabama
+[!]http://alaska.att.com
+[+]AT&T Alaska
+[!]http://esagw02.aldc.att.com
+[-]exception found, non-existant domain
+[!]http://alexasetup.att.com
+[+]Alexa AT&T Support Skill Setup
+[!]http://smart.alliance.att.com
+[-]exception found, non-existant domain
+[!]http://anuestramanera.att.com
+[-]exception found, non-existant domain
+[!]http://api-iotdevice.att.com
+[-]exception found, non-existant domain
+[!]http://aps.att.com
+[+]AT&amp;T Productivity Suite | AT&amp;T Productivity Suite
+[!]http://arizona.att.com
+[+]AT&T Arizona
+[!]http://armt.att.com
+[-]exception found, non-existant domain
+[!]http://ascforum.att.com
+[+]Business Apps & Solutions - AT&T Community
+[!]http://asecare.att.com
+[+]Advanced Solutions Customer Service
+[!]http://resourcecenter.asi.att.com
+[-]exception found, non-existant domain
+[!]http://ask.att.com
+[+]AT&T Support Center
+[!]http://attathome.att.com
+[+]nothing found, you should check!
+[!]http://anpw15ae.attpoc1.att.com
+[-]exception found, non-existant domain
+[!]http://anpw15wapswebext.attpoc1.att.com
+[-]exception found, non-existant domain
+[!]http://sip.attpoc1.att.com
+[-]exception found, non-existant domain
+[!]http://attroad.att.com
+[+]Unsupported browser
+[!]http://attuverselivetv.att.com
+[+]nothing found, you should check!
+[!]http://attwifidevice.att.com
+[-]exception found, non-existant domain
+[!]http://atyourservice.att.com
+[+]AT&T THANKS - Fast, Friendly Delivery and Setup
+[!]http://auth-dev1.att.com
+[-]exception found, non-existant domain
+[!]http://av0.att.com
+[-]exception found, non-existant domain
+[!]http://b2be.att.com
+[-]exception found, non-existant domain
+[!]http://bargaining.att.com
+[+]AT&amp;T - 2018 Bargaining
+[!]http://bbtcpe1.att.com
+[+]nothing found, you should check!
+[!]http://bettertv.att.com
+[+]AT&T Check Availability for DIRECTV, U-verse, Internet & Home Phone
+[!]http://beyondlimits.att.com
+[-]exception found, non-existant domain
+[!]http://biz.att.com
+[-]exception found, non-existant domain
+[!]http://bizcircle.att.com
+[+]Business Insights and Resources
+[!]http://bizcommunity.att.com
+[+]AT&T Business Forums - AT&T Community
+[!]http://bnc-businessmessaging.att.com
+[+]nothing found, you should check!
+[!]http://boost.att.com
+[-]exception found, non-existant domain
+[!]http://bp01.att.com
+[-]exception found, non-existant domain
+[!]http://bp02.att.com
+[-]exception found, non-existant domain
+[!]http://brandapprovals.att.com
+[+]Integrify
+[!]http://brandcenter.att.com
+[+]Brand Center
+[!]http://bugbounty.att.com
+[+]AT&T Bug Bounty - Welcome
+[!]http://bulkhvsmtp02.att.com
+[-]exception found, non-existant domain
+[!]http://bulksmtp02.att.com
+[-]exception found, non-existant domain
+[!]http://cdst.bus.att.com
+[-]exception found, non-existant domain
+[!]http://dsl.bus.att.com
+[+]AT&amp;T Digital Subscriber Line
+[!]http://iom.bus.att.com
+[-]exception found, non-existant domain
+[!]http://mapadvantage.bus.att.com
+[-]exception found, non-existant domain
+[!]http://obt.bus.att.com
+[-]exception found, non-existant domain
+[!]http://saml.bus.att.com
+[-]exception found, non-existant domain
+[!]http://business.att.com
+[+]AT&amp;T Business - Networking, Cloud, Cybersecurity, IoT, Collaboration
+[!]http://www.business.att.com
+[+]AT&amp;T Business - Networking, Cloud, Cybersecurity, IoT, Collaboration
+[!]http://businessdirect.att.com
+[+]nothing found, you should check!
+[!]http://www.businessdirect.att.com
+[+]nothing found, you should check!
+[!]http://businessready.att.com
+[+]Business Ready
+[!]http://businessreferralrewards.att.com
+[+]Home Page
+[!]http://buy-connectech.att.com
+[+]ConnecTech Home
+[!]http://buyasession.att.com
+[-]exception found, non-existant domain
+[!]http://buyback.att.com
+[+]AT&T Trade-in
+[!]http://c.att.com
+[-]exception found, non-existant domain
+[!]http://cabling.att.com
+[+]nothing found, you should check!
+[!]http://california.att.com
+[+]AT&T California
+[!]http://calnet.att.com
+[+]Bill Consolidator Login
+[!]http://carecentral.att.com
+[+]Invalid
+[!]http://cargoview.att.com
+[+]AT&amp;T Cargo View
+[!]http://cd2migration.att.com
+[+]AT&amp;T IoT Network and Connectivity Solutions
+[!]http://changelog-m2x.att.com
+[+]AT&T M2X Changelog
+[!]http://chinese.att.com
+[-]exception found, non-existant domain
+[!]http://clec.att.com
+[-]exception found, non-existant domain
+[!]http://cleveland2016.att.com
+[-]exception found, non-existant domain
+[!]http://clicks.att.com
+[+]nothing found, you should check!
+[!]http://us.cloudstorage.att.com
+[+]nothing found, you should check!
+[!]http://cloudwebsecurity.att.com
+[+]nothing found, you should check!
+[!]http://www.cnm.att.com
+[-]exception found, non-existant domain
+[!]http://codecloud.att.com
+[-]exception found, non-existant domain
+[!]http://colorado.att.com
+[+]AT&T Colorado
+[!]http://communities.att.com
+[-]exception found, non-existant domain
+[!]http://communitiesmember.att.com
+[-]exception found, non-existant domain
+[!]http://connectech.att.com
+[+]ConnecTech Home
+[!]http://www.connectech.att.com
+[+]ConnecTech Home
+[!]http://connected.att.com
+[+]CORE Communication Center - HOME
+[!]http://connecticut.att.com
+[+]AT&T Connecticut
+[!]http://connectmeeting.att.com
+[+]nothing found, you should check!
+[!]http://www.connectmeeting.att.com
+[+]nothing found, you should check!
+[!]http://consumer.att.com
+[-]exception found, non-existant domain
+[!]http://www.consumer.att.com
+[-]exception found, non-existant domain
+[!]http://core.att.com
+[+]Empty available site
+[!]http://www.corp.att.com
+[+]AT&amp;T Enterprise Business
+[!]http://cpr.att.com
+[+]nothing found, you should check!
+[!]http://cprodmasx.att.com
+[-]exception found, non-existant domain
+[!]http://cprodx.att.com
+[+]AT&amp;T
+[!]http://csdaccess-ext.att.com
+[-]exception found, non-existant domain
+[!]http://csi-tst-ext6.att.com
+[-]exception found, non-existant domain
+[!]http://customerservice.att.com
+[-]exception found, non-existant domain
+[!]http://www.customerservice.att.com
+[+]My Account
+[!]http://db.att.com
+[+]nothing found, you should check!
+[!]http://dbactmgrudtc.att.com
+[+]IBM HTTP Server 8.5.5
+[!]http://dc.att.com
+[+]AT&T District of Columbia
+[!]http://dcp2.att.com
+[-]exception found, non-existant domain
+[!]http://deeplink.att.com
+[+]nothing found, you should check!
+[!]http://developer.att.com
+[+]APIs, SDKs, and tools that bring ideas to life | AT&amp;T Developer
+[!]http://www.developer.att.com
+[-]exception found, non-existant domain
+[!]http://devsummit.att.com
+[+]AT&T Shape - AT&amp;T SHAPE
+[!]http://dg.att.com
+[+]403 - Forbidden: Access is denied.
+[!]http://digitaldesign.att.com
+[+]AT&amp;T Digital Design Hub
+[!]http://rms-s1-cmhs1.digitallife.att.com
+[-]exception found, non-existant domain
+[!]http://systest.digitallife.att.com
+[-]exception found, non-existant domain
+[!]http://digitalmagazines.att.com
+[-]exception found, non-existant domain
+[!]http://digitalyou.att.com
+[+]Home - Digital You
+[!]http://directvnowhq.att.com
+[+]DIRECTV NOW HQ
+[!]http://dladvantage.att.com
+[-]exception found, non-existant domain
+[!]http://dlc.att.com
+[+]nothing found, you should check!
+[!]http://dlife.att.com
+[-]exception found, non-existant domain
+[!]http://iiwc-intldemo.test.dlife.att.com
+[-]exception found, non-existant domain
+[!]http://intldemo.test.dlife.att.com
+[-]exception found, non-existant domain
+[!]http://movistar.test.dlife.att.com
+[-]exception found, non-existant domain
+[!]http://ui-hnm-dev.test.dlife.att.com
+[-]exception found, non-existant domain
+[!]http://dotspot.att.com
+[+]nothing found, you should check!
+[!]http://sitelauncher.dp.att.com
+[+]SiteLauncher
+[!]http://drive.att.com
+[+]AT&amp;T Drive
+[!]http://dropbox-lidbas.att.com
+[+]LIDB/AS Dropbox Management
+[!]http://dssbpe5-m.att.com
+[-]exception found, non-existant domain
+[!]http://dssbpe6-m.att.com
+[-]exception found, non-existant domain
+[!]http://www.e-access.att.com
+[-]exception found, non-existant domain
+[!]http://e2ef-ericssonlab.att.com
+[-]exception found, non-existant domain
+[!]http://ea.att.com
+[+]AT&T PC Maintenance Toolbox
+[!]http://ebiznet.att.com
+[-]exception found, non-existant domain
+[!]http://ec.att.com
+[+]nothing found, you should check!
+[!]http://egssmtp00.att.com
+[-]exception found, non-existant domain
+[!]http://egssmtp01.att.com
+[-]exception found, non-existant domain
+[!]http://egssmtp02.att.com
+[-]exception found, non-existant domain
+[!]http://egssmtp04.att.com
+[-]exception found, non-existant domain
+[!]http://bcsbill.eia.att.com
+[-]exception found, non-existant domain
+[!]http://eservice3.eia.att.com
+[+]Apache Tomcat/7.0.59 - Error report
+[!]http://hosting.eia.att.com
+[-]exception found, non-existant domain
+[!]http://iom.eia.att.com
+[-]exception found, non-existant domain
+[!]http://mapa.eia.att.com
+[-]exception found, non-existant domain
+[!]http://netcam.eia.att.com
+[-]exception found, non-existant domain
+[!]http://servicec.eia.att.com
+[-]exception found, non-existant domain
+[!]http://woi.eia.att.com
+[-]exception found, non-existant domain
+[!]http://electronics.att.com
+[+]AT&amp;T electronics | Shop
+[!]http://www.em.att.com
+[+]AT&amp;T Unified Messaging (SM)
+[!]http://www.emea.att.com
+[-]exception found, non-existant domain
+[!]http://businessdirect.emea.att.com
+[-]exception found, non-existant domain
+[!]http://www.emeapress.att.com
+[+]AT&T Home
+[!]http://empnmvpnalp01.att.com
+[-]exception found, non-existant domain
+[!]http://empnmvpnalp02.att.com
+[-]exception found, non-existant domain
+[!]http://empnmvpnff01.att.com
+[-]exception found, non-existant domain
+[!]http://empnmvpnff02.att.com
+[-]exception found, non-existant domain
+[!]http://empnmvpnga01.att.com
+[-]exception found, non-existant domain
+[!]http://empnmvpnsf01.att.com
+[-]exception found, non-existant domain
+[!]http://empnmvpnsf02.att.com
+[-]exception found, non-existant domain
+[!]http://engage.att.com
+[+]Message
+[!]http://envivo.att.com
+-->Inicio - Bienvenido a att.net
+[!]http://equipmentupgrade.att.com
+[-]exception found, non-existant domain
+[!]http://www.erate.att.com
+[+]AT&T E-Rate Support Site
+[!]http://ercm.att.com
+[-]exception found, non-existant domain
+[!]http://es-mp.att.com
+[-]exception found, non-existant domain
+[!]http://espanol.att.com
+[+]Tel&eacute;fono, Internet, Servicio M&oacute;vil, y Servicio de Atenci&oacute;n al Cliente en espa&ntilde;ol | AT&amp;T Espanol
+[!]http://www.espanol.att.com
+[+]Tel&eacute;fono, Internet, Servicio M&oacute;vil, y Servicio de Atenci&oacute;n al Cliente en espa&ntilde;ol | AT&amp;T Espanol
+[!]http://estore.att.com
+[+]AT&amp;T eStore
+[!]http://esupport.att.com
+[+]AT&T Support Center
+[!]http://eventaccess.att.com
+[-]exception found, non-existant domain
+[!]http://experiencemore.att.com
+[+]AT&amp;T Experience More
+[!]http://extrameasures.att.com
+[+]nothing found, you should check!
+[!]http://familymap.att.com
+[+]AT&T FamilyMap
+[!]http://feelthemusic.att.com
+[+]nothing found, you should check!
+[!]http://ffy.att.com
+[+]AT&amp;T &mdash; Fighting for you
+[!]http://filmforallnyc.att.com
+[-]exception found, non-existant domain
+[!]http://localcontrol.firstnet.att.com
+[+]FirstNet Local Control
+[!]http://test-profilemgt.firstnet.att.com
+[-]exception found, non-existant domain
+[!]http://fleetcenter.att.com
+[+]Fleet Center
+[!]http://florida.att.com
+[+]AT&T Florida
+[!]http://flow.att.com
+[-]exception found, non-existant domain
+[!]http://focus.att.com
+[+]nothing found, you should check!
+[!]http://forum-m2x.att.com
+[+]Page 1 - M2X Data Service - AT&amp;T Developer
+[!]http://forums.att.com
+[+]AT&amp;T Community Forums
+[!]http://forums-stage.att.com
+[+]401 Unauthorized
+[!]http://foundry.att.com
+[+]AT&amp;T Foundry Innovation Centers to Accelerate Technology | AT&amp;T
+[!]http://frontoftheline.att.com
+[-]exception found, non-existant domain
+[!]http://games.att.com
+[+]Free Online Games | Play Android, iPhone, iPad, Tablet, PC, Mac games | AT&amp;T Games
+[!]http://georgia.att.com
+[+]AT&T Georgia
+[!]http://getsocial.att.com
+[+]AT&T U-verse TV Forum - AT&T Community
+[!]http://giving.att.com
+[+]AT&T and AT&T Foundation Funding Requests
+[!]http://go.att.com
+[+]nothing found, you should check!
+[!]http://hawaii.att.com
+[+]AT&T Hawaii
+[!]http://hbcuunlimited.att.com
+[+]#HBCUunlimited | AT&T
+[!]http://help-mdm.att.com
+[+]nothing found, you should check!
+[!]http://help-officeathand.att.com
+[+]nothing found, you should check!
+[!]http://home.att.com
+-->Home - Welcome to att.net
+[!]http://hrtd.att.com
+[-]exception found, non-existant domain
+[!]http://pub.hvs.att.com
+[+]nothing found, you should check!
+[!]http://pub-cfg.hvs.att.com
+[+]403 Forbidden
+[!]http://pub-xs.hvs.att.com
+[+]nothing found, you should check!
+[!]http://pubxsp1.hvs.att.com
+[+]nothing found, you should check!
+[!]http://www.iadvantage.att.com
+[-]exception found, non-existant domain
+[!]http://training.iadvantage.att.com
+[-]exception found, non-existant domain
+[!]http://icesweb.att.com
+[-]exception found, non-existant domain
+[!]http://idaho.att.com
+[+]AT&T Idaho
+[!]http://fndirvint1.idc.att.com
+[-]exception found, non-existant domain
+[!]http://fndirvint2.idc.att.com
+[-]exception found, non-existant domain
+[!]http://ie.att.com
+[+]AT&T Security Server: Login
+[!]http://illinois.att.com
+[+]AT&T Illinois
+[!]http://imgateway02.att.com
+[-]exception found, non-existant domain
+[!]http://indiana.att.com
+[+]AT&T Indiana
+[!]http://info.att.com
+[+]nothing found, you should check!
+[!]http://investors.att.com
+[+]Investor Relations | AT&T
+[!]http://console.iot.att.com
+[+]Login - AT&amp;T IoT Platform Console
+[!]http://iotdevices.att.com
+[-]exception found, non-existant domain
+[!]http://iotpartnerprogram.att.com
+[+]AT&T IoT Partner Program | Internet of Things Partners
+[!]http://iotplatform.att.com
+[+]AT&amp;T IoT Platform - Build Solutions for the Internet of Things
+[!]http://iotservices.att.com
+[+]AT&amp;T IoT Platform - Build Solutions for the Internet of Things
+[!]http://iowa.att.com
+[+]AT&T Iowa
+[!]http://ipnetwork4sf.att.com
+[+]IP Network 4 SF
+[!]http://www.ipservices.att.com
+[+]AT&amp;T Business - Networking, Cloud, Cybersecurity, IoT, Collaboration
+[!]http://dsl.ipservices.att.com
+[+]nothing found, you should check!
+[!]http://iomdsl.ipservices.att.com
+[+]nothing found, you should check!
+[!]http://voip.ipvoice.att.com
+[-]exception found, non-existant domain
+[!]http://itcanwaitshop.att.com
+[-]exception found, non-existant domain
+[!]http://japanese.att.com
+[-]exception found, non-existant domain
+[!]http://www.jp.att.com
+[-]exception found, non-existant domain
+[!]http://kmsbpalweb.att.com
+[+]nothing found, you should check!
+[!]http://kmsbpffweb.att.com
+[+]nothing found, you should check!
+[!]http://kmsprodalweb.att.com
+[+]nothing found, you should check!
+[!]http://kmsprodffweb.att.com
+[+]nothing found, you should check!
+[!]http://korean.att.com
+[-]exception found, non-existant domain
+[!]http://smtools.labs.att.com
+[-]exception found, non-existant domain
+[!]http://landlinetexting.att.com
+[+]nothing found, you should check!
+[!]http://later-haters.att.com
+[+]403 Forbidden
+[!]http://liveproud.att.com
+[+]AT&T Live Proud | True Partners
+[!]http://lmt-d2d.att.com
+[-]exception found, non-existant domain
+[!]http://lmt-dmdr.att.com
+[-]exception found, non-existant domain
+[!]http://lmt-f.att.com
+[-]exception found, non-existant domain
+[!]http://lmt-lt.att.com
+[-]exception found, non-existant domain
+[!]http://lmt-pdc.att.com
+[-]exception found, non-existant domain
+[!]http://localization.att.com
+[+]AT&amp;T Site Map
+[!]http://louisiana.att.com
+[+]AT&T Louisiana
+[!]http://lyncwebp01.att.com
+[-]exception found, non-existant domain
+[!]http://lyncwebp10.att.com
+[-]exception found, non-existant domain
+[!]http://lyncws01.att.com
+[-]exception found, non-existant domain
+[!]http://lyncws02.att.com
+[-]exception found, non-existant domain
+[!]http://lyncws10.att.com
+[-]exception found, non-existant domain
+[!]http://lyncws11.att.com
+[-]exception found, non-existant domain
+[!]http://lyncws20.att.com
+[-]exception found, non-existant domain
+[!]http://lyncws20d.att.com
+[-]exception found, non-existant domain
+[!]http://lyncws21.att.com
+[-]exception found, non-existant domain
+[!]http://m.att.com
+[-]exception found, non-existant domain
+[!]http://m2x.att.com
+[+]AT&amp;T M2X: Build solutions for the Internet of Things
+[!]http://macmt.att.com
+-->ATT ConnecTech |  Mac Maintenance Toolbox
+[!]http://maine.att.com
+[+]AT&T Maine
+[!]http://mam.att.com
+[+]EASE Portal
+[!]http://marketplace.att.com
+[+]AT&amp;T IoT Marketplace
+[!]http://maryland.att.com
+[+]AT&T Maryland
+[!]http://media.att.com
+[+]nothing found, you should check!
+[!]http://meetings-officeathand.att.com
+[+]Office@Hand Meetings
+[!]http://membersecurity.att.com
+[+]AT&amp;T ConnecTech - Defend Your PC
+[!]http://memberwelcome.att.com
+[+]PC Toolbox
+[!]http://messagingtoolkit.att.com
+[-]exception found, non-existant domain
+[!]http://metrics.att.com
+[+]nothing found, you should check!
+[!]http://mhealthbabymonitors.att.com
+[+]AT&amp;T mHealth Baby Video and Audio Monitors
+[!]http://michigan.att.com
+[+]AT&T Michigan
+[!]http://asac.midwest.att.com
+[-]exception found, non-existant domain
+[!]http://minnesota.att.com
+[+]AT&T Minnesota
+[!]http://mississippi.att.com
+[+]AT&T Mississippi
+[!]http://mobile-cbus2.att.com
+[+]nothing found, you should check!
+[!]http://mobileforms.att.com
+[+]Paperless forms on tablets | AT&T Mobile Forms
+[!]http://mobileprotectionpack.att.com
+[+]AT&amp;T Device Protection
+[!]http://mobiletv.att.com
+[+]nothing found, you should check!
+[!]http://mobileworkplace.att.com
+[-]exception found, non-existant domain
+[!]http://montana.att.com
+[+]AT&T Montana
+[!]http://srvc.mss.att.com
+[+]AT&T Secure E-Mail Gateway Support
+[!]http://mssdx1.att.com
+[+]AT&amp;T MSS
+[!]http://my-digitallife.att.com
+[+]nothing found, you should check!
+[!]http://www.my-digitallife.att.com
+[-]exception found, non-existant domain
+[!]http://myaccount.att.com
+[+]Move along, nothing to see here.
+[!]http://myatt.att.com
+[+]nothing found, you should check!
+[!]http://myatt-bp01.att.com
+[-]exception found, non-existant domain
+[!]http://myatt-wg-ga.att.com
+[-]exception found, non-existant domain
+[!]http://myattbx01.att.com
+[+]nothing found, you should check!
+[!]http://myattbx02.att.com
+[+]nothing found, you should check!
+[!]http://myattbx03.att.com
+[+]nothing found, you should check!
+[!]http://myattbx04.att.com
+[+]nothing found, you should check!
+[!]http://myattbx05.att.com
+[+]nothing found, you should check!
+[!]http://myattbx06.att.com
+[+]nothing found, you should check!
+[!]http://myattbx07.att.com
+[+]nothing found, you should check!
+[!]http://myattbx08.att.com
+[+]nothing found, you should check!
+[!]http://myattbx09.att.com
+[+]nothing found, you should check!
+[!]http://myattbx10.att.com
+[+]nothing found, you should check!
+[!]http://myattbx11.att.com
+[+]nothing found, you should check!
+[!]http://myattbx12.att.com
+[+]nothing found, you should check!
+[!]http://myattbx13.att.com
+[+]nothing found, you should check!
+[!]http://myattbx14.att.com
+[+]nothing found, you should check!
+[!]http://myattbx15.att.com
+[+]nothing found, you should check!
+[!]http://myattbx16.att.com
+[+]nothing found, you should check!
+[!]http://myattbx17.att.com
+[+]nothing found, you should check!
+[!]http://myattbx18.att.com
+[+]nothing found, you should check!
+[!]http://myattbx19.att.com
+[+]nothing found, you should check!
+[!]http://myattbx20.att.com
+[+]nothing found, you should check!
+[!]http://myattbx21.att.com
+[+]nothing found, you should check!
+[!]http://myattbx22.att.com
+[+]nothing found, you should check!
+[!]http://myattbx23.att.com
+[+]nothing found, you should check!
+[!]http://myattbx24.att.com
+[+]nothing found, you should check!
+[!]http://myattbx25.att.com
+[+]nothing found, you should check!
+[!]http://myattbx26.att.com
+[+]nothing found, you should check!
+[!]http://myattbx27.att.com
+[+]nothing found, you should check!
+[!]http://myattbx28.att.com
+[+]nothing found, you should check!
+[!]http://myattbx29.att.com
+[+]nothing found, you should check!
+[!]http://myattbx30.att.com
+[+]nothing found, you should check!
+[!]http://myattbx31.att.com
+[+]nothing found, you should check!
+[!]http://myattbx32.att.com
+[+]nothing found, you should check!
+[!]http://myattbx33.att.com
+[+]nothing found, you should check!
+[!]http://myattdx00.att.com
+[+]nothing found, you should check!
+[!]http://myattdx01.att.com
+[+]nothing found, you should check!
+[!]http://myattdx02.att.com
+[+]nothing found, you should check!
+[!]http://myattdx03.att.com
+[+]nothing found, you should check!
+[!]http://myattdx05.att.com
+[+]nothing found, you should check!
+[!]http://myattdx06.att.com
+[+]nothing found, you should check!
+[!]http://myattdx07.att.com
+[+]nothing found, you should check!
+[!]http://myattdx09.att.com
+[+]nothing found, you should check!
+[!]http://myattdx10.att.com
+[+]nothing found, you should check!
+[!]http://myattdx11.att.com
+[+]nothing found, you should check!
+[!]http://myattdx13.att.com
+[+]nothing found, you should check!
+[!]http://myattdx14.att.com
+[+]nothing found, you should check!
+[!]http://myattdx15.att.com
+[+]nothing found, you should check!
+[!]http://myattdx17.att.com
+[+]nothing found, you should check!
+[!]http://myattdx18.att.com
+[+]nothing found, you should check!
+[!]http://myattdx19.att.com
+[+]nothing found, you should check!
+[!]http://myattdx21.att.com
+[+]nothing found, you should check!
+[!]http://myattdx22.att.com
+[+]nothing found, you should check!
+[!]http://myattdx23.att.com
+[+]nothing found, you should check!
+[!]http://myattdx25.att.com
+[+]nothing found, you should check!
+[!]http://myattdx26.att.com
+[+]nothing found, you should check!
+[!]http://myattdx27.att.com
+[+]nothing found, you should check!
+[!]http://myattdx29.att.com
+[+]nothing found, you should check!
+[!]http://myattdx30.att.com
+[+]nothing found, you should check!
+[!]http://myattdx31.att.com
+[+]nothing found, you should check!
+[!]http://myattdx33.att.com
+[+]nothing found, you should check!
+[!]http://myattlog.att.com
+[-]exception found, non-existant domain
+[!]http://myattp1w85.att.com
+[+]nothing found, you should check!
+[!]http://myattp1w86.att.com
+[+]nothing found, you should check!
+[!]http://myattp1w87.att.com
+[+]nothing found, you should check!
+[!]http://myattp1w88.att.com
+[+]nothing found, you should check!
+[!]http://myattp1w89.att.com
+[+]nothing found, you should check!
+[!]http://myattp1w90.att.com
+[+]nothing found, you should check!
+[!]http://myattp2w85.att.com
+[+]nothing found, you should check!
+[!]http://myattp2w86.att.com
+[+]nothing found, you should check!
+[!]http://myattp2w87.att.com
+[+]nothing found, you should check!
+[!]http://myattp2w88.att.com
+[+]nothing found, you should check!
+[!]http://myattp2w89.att.com
+[+]nothing found, you should check!
+[!]http://myattp2w90.att.com
+[+]nothing found, you should check!
+[!]http://myattp5w1.att.com
+[+]nothing found, you should check!
+[!]http://myattp5w2.att.com
+[+]nothing found, you should check!
+[!]http://myattp6w1.att.com
+[+]nothing found, you should check!
+[!]http://myattp6w2.att.com
+[+]nothing found, you should check!
+[!]http://myattwg.att.com
+[-]exception found, non-existant domain
+[!]http://myattwx01.att.com
+[+]nothing found, you should check!
+[!]http://myattwx02.att.com
+[+]nothing found, you should check!
+[!]http://myattwx03.att.com
+[+]nothing found, you should check!
+[!]http://myattwx05.att.com
+[+]nothing found, you should check!
+[!]http://myattwx06.att.com
+[+]nothing found, you should check!
+[!]http://myattwx07.att.com
+[+]nothing found, you should check!
+[!]http://myattwx09.att.com
+[+]nothing found, you should check!
+[!]http://myattwx10.att.com
+[+]nothing found, you should check!
+[!]http://myattwx11.att.com
+[+]nothing found, you should check!
+[!]http://myattwx13.att.com
+[+]nothing found, you should check!
+[!]http://myattwx14.att.com
+[+]nothing found, you should check!
+[!]http://myattwx15.att.com
+[+]nothing found, you should check!
+[!]http://myattwx17.att.com
+[+]nothing found, you should check!
+[!]http://myattwx18.att.com
+[+]nothing found, you should check!
+[!]http://myattwx19.att.com
+[+]nothing found, you should check!
+[!]http://myattwx21.att.com
+[+]nothing found, you should check!
+[!]http://myattwx22.att.com
+[+]nothing found, you should check!
+[!]http://myattwx23.att.com
+[+]nothing found, you should check!
+[!]http://myattwx25.att.com
+[+]nothing found, you should check!
+[!]http://myattwx26.att.com
+[+]nothing found, you should check!
+[!]http://myattwx27.att.com
+[+]nothing found, you should check!
+[!]http://myattwx29.att.com
+[+]nothing found, you should check!
+[!]http://myattwx30.att.com
+[+]nothing found, you should check!
+[!]http://myattwx31.att.com
+[+]nothing found, you should check!
+[!]http://myattwx33.att.com
+[+]nothing found, you should check!
+[!]http://myattwxbp01.att.com
+[-]exception found, non-existant domain
+[!]http://myattwxbp02.att.com
+[-]exception found, non-existant domain
+[!]http://myattzone-bp1.att.com
+[-]exception found, non-existant domain
+[!]http://myattzone-bp2.att.com
+[-]exception found, non-existant domain
+[!]http://myattzone-bp3.att.com
+[-]exception found, non-existant domain
+[!]http://myattzone-dsk-bp1.att.com
+[-]exception found, non-existant domain
+[!]http://myattzone-dsk-bp2.att.com
+[+]nothing found, you should check!
+[!]http://myattzone-dsk-bp3.att.com
+[-]exception found, non-existant domain
+[!]http://myattzone-dsk-qa1.att.com
+[+]nothing found, you should check!
+[!]http://myattzone-dsk-qa2.att.com
+[+]nothing found, you should check!
+[!]http://myattzone-dsk-qa3.att.com
+[+]nothing found, you should check!
+[!]http://myattzone-qa1.att.com
+[-]exception found, non-existant domain
+[!]http://myattzone-qa2.att.com
+[-]exception found, non-existant domain
+[!]http://myattzone-qa3.att.com
+[-]exception found, non-existant domain
+[!]http://myconnectedcar.att.com
+[+]AT&amp;T &#45; Mobilizing Your World&#8482;
+[!]http://mydebitcard.att.com
+[-]exception found, non-existant domain
+[!]http://mydesktop-central01.att.com
+[+]VMware Horizon
+[!]http://mydesktop-central04.att.com
+[-]exception found, non-existant domain
+[!]http://mydesktop-intl13.att.com
+[-]exception found, non-existant domain
+[!]http://mydesktop-west01.att.com
+[-]exception found, non-existant domain
+[!]http://mydesktop-west03.att.com
+[-]exception found, non-existant domain
+[!]http://mydesktop-west04.att.com
+[-]exception found, non-existant domain
+[!]http://myhomenetwork.att.com
+[+]nothing found, you should check!
+[!]http://myvehicle.att.com
+[+]nothing found, you should check!
+[!]http://ndoc.att.com
+[-]exception found, non-existant domain
+[!]http://nebraska.att.com
+[+]AT&T Nebraska
+[!]http://networkassessment.att.com
+[+]Access CT and MyConnection Server network assessment testing, network route performance, VoIP quality testing
+[!]http://networkingexchangeblog.att.com
+[+]Business Insights and Resources
+[!]http://nevada.att.com
+[+]AT&T Nevada
+[!]http://news-m2x.att.com
+[+]AT&amp;T IoT Platform - Build Solutions for the Internet of Things
+[!]http://newyork.att.com
+[+]AT&T New York
+[!]http://next02.att.com
+[-]exception found, non-existant domain
+[!]http://nfsdportal.att.com
+[+]Login
+[!]http://northcarolina.att.com
+[+]AT&T North Carolina
+[!]http://northdakota.att.com
+[+]AT&T North Dakota
+[!]http://nrc.att.com
+[-]exception found, non-existant domain
+[!]http://officeathand.att.com
+[+]AT&amp;T RingCentral Office@Hand
+[!]http://officewebapps2.att.com
+[-]exception found, non-existant domain
+[!]http://ohio.att.com
+[+]AT&T Ohio
+[!]http://oklahoma.att.com
+[+]AT&T Oklahoma
+[!]http://onlinefax.att.com
+[+]Online Fax
+[!]http://onlinefaxtwo.att.com
+[+]Online Fax
+[!]http://opssp1w2.att.com
+[+]nothing found, you should check!
+[!]http://opssp1w3.att.com
+[+]nothing found, you should check!
+[!]http://opssp1w5.att.com
+[+]nothing found, you should check!
+[!]http://opssp1w6.att.com
+[+]nothing found, you should check!
+[!]http://opssp1w7.att.com
+[+]nothing found, you should check!
+[!]http://opssp3w1.att.com
+[+]nothing found, you should check!
+[!]http://opssp3w3.att.com
+[+]nothing found, you should check!
+[!]http://opssp3w5.att.com
+[+]nothing found, you should check!
+[!]http://opssp3w7.att.com
+[+]nothing found, you should check!
+[!]http://opssp3w8.att.com
+[+]nothing found, you should check!
+[!]http://opusld.att.com
+[-]exception found, non-existant domain
+[!]http://opuslde1.att.com
+[-]exception found, non-existant domain
+[!]http://opusldw1.att.com
+[-]exception found, non-existant domain
+[!]http://opusselfinstall.att.com
+[+]OPUS Self Install Tool
+[!]http://origin-jservice-bhdc.att.com
+[-]exception found, non-existant domain
+[!]http://origin-jservice-sfdc.att.com
+[-]exception found, non-existant domain
+[!]http://origin-onemap-bhdc.att.com
+[-]exception found, non-existant domain
+[!]http://origin-onemap-sfdc.att.com
+[+]503 Service Temporarily Unavailable
+[!]http://origin-sales-sfdc.att.com
+[-]exception found, non-existant domain
+[!]http://origin-shop-bhdc.att.com
+[-]exception found, non-existant domain
+[!]http://origin-shop-sfdc.att.com
+[-]exception found, non-existant domain
+[!]http://origin-static-bhdc.att.com
+[-]exception found, non-existant domain
+[!]http://origin-static-ffdc.att.com
+[-]exception found, non-existant domain
+[!]http://origin-static-sfdc.att.com
+[-]exception found, non-existant domain
+[!]http://origin-urock-bhdc.att.com
+[-]exception found, non-existant domain
+[!]http://origin-urock-sfdc.att.com
+[-]exception found, non-existant domain
+[!]http://osm.att.com
+[-]exception found, non-existant domain
+[!]http://osstoolbar.att.com
+[-]exception found, non-existant domain
+[!]http://osstoolbar-sat.att.com
+[-]exception found, non-existant domain
+[!]http://ourlivingroom.att.com
+[+]Home | AT&T Digital Life - our living room
+[!]http://partnerexchange.att.com
+[+]AT&amp;T Partner Exchange
+[!]http://payitfourward.att.com
+[-]exception found, non-existant domain
+[!]http://paymentstatus.att.com
+[+]AT&amp;T Payment Status Facility
+[!]http://intl.paymentstatus.att.com
+[+]AT&T International Payment Status Facility
+[!]http://pccheck.att.com
+[+]IIS Windows Server
+[!]http://pcmt.att.com
+[+]AT&T PC Maintenance Toolbox
+[!]http://pcscan.att.com
+[+]Welcome to AT&T ConnecTech
+[!]http://pctoolbox.att.com
+[+]nothing found, you should check!
+[!]http://pdcqc-ca.att.com
+[-]exception found, non-existant domain
+[!]http://pennsylvania.att.com
+[+]AT&T Pennsylvania
+[!]http://pensionchoice.att.com
+[-]exception found, non-existant domain
+[!]http://philly2016.att.com
+[-]exception found, non-existant domain
+[!]http://photos.att.com
+[+]nothing found, you should check!
+[!]http://pittsburgh-attsn.att.com
+[+]AT&amp;T SportsNet | PIT
+[!]http://planning-collab.att.com
+[-]exception found, non-existant domain
+[!]http://policycerts1.att.com
+[+]nothing found, you should check!
+[!]http://policyforum.att.com
+[+]403 Forbidden
+[!]http://polish.att.com
+[-]exception found, non-existant domain
+[!]http://pr.att.com
+[-]exception found, non-existant domain
+[!]http://pre-developer.att.com
+[+]APIs, SDKs, and tools that bring ideas to life | AT&amp;T Developer
+[!]http://prf1.att.com
+[-]exception found, non-existant domain
+[!]http://primeaccess.att.com
+[-]exception found, non-existant domain
+[!]http://prnoc2.att.com
+[-]exception found, non-existant domain
+[!]http://prod-taxexempt.att.com
+-->ATT TAX EXEMPT WEB TOOL | Home Page
+[!]http://projectone.att.com
+[-]exception found, non-existant domain
+[!]http://promise.att.com
+[+]AT&amp;T Our Promise - Site
+[!]http://promotioncard.att.com
+[+]AT&amp;T
+[!]http://protectioncenter.att.com
+[+]AT&amp;T Device Protection
+[!]http://pttca.att.com
+[+]Single Sign On - Push to Talk Admin
+[!]http://purchasingdev1.att.com
+[-]exception found, non-existant domain
+[!]http://quickstart-prod.att.com
+[+]AT&amp;T QuickStart 1.0
+[!]http://rbtapp.att.com
+[+]Page Not Found. Error 404
+[!]http://rc.att.com
+[-]exception found, non-existant domain
+[!]http://realyp.att.com
+[-]exception found, non-existant domain
+[!]http://www.realyp.att.com
+[-]exception found, non-existant domain
+[!]http://relayservices.att.com
+[+]nothing found, you should check!
+[!]http://remotesupport.att.com
+[+]ConnecTech Home
+[!]http://repair.att.com
+[+]nothing found, you should check!
+[!]http://www.research.att.com
+[+]AT&T Labs Research - April 2017
+[!]http://nfsight.research.att.com
+[+]Nfsight
+[!]http://public.research.att.com
+[+]AT&T Labs Research - April 2017
+[!]http://r.research.att.com
+[+]R for Mac OS X - developer's page
+[!]http://stats.research.att.com
+[+]nothing found, you should check!
+[!]http://web2.research.att.com
+[+]AT&T Labs Research - April 2017
+[!]http://www2.research.att.com
+[+]AT&T Labs Research - April 2017
+[!]http://resources.att.com
+[+]nothing found, you should check!
+[!]http://retailplanningtest1.att.com
+[-]exception found, non-existant domain
+[!]http://retiree.att.com
+[-]exception found, non-existant domain
+[!]http://rewardcenter.att.com
+[+]
+[!]http://rewardinfo.att.com
+[+]AT&T Reward Info - Reward Process
+[!]http://rhodeisland.att.com
+[+]AT&T Rhode Island
+[!]http://rmsoca.att.com
+[+]Authentication and Access Control
+[!]http://rockymountain-attsn.att.com
+[+]AT&amp;T SportsNet. | RM
+[!]http://rs.att.com
+[+]AT&T ConnecTech
+[!]http://rsc.att.com
+[+]404 Not Found
+[!]http://russian.att.com
+[-]exception found, non-existant domain
+[!]http://savings.att.com
+[+]New Site
+[!]http://scmpurchasing.att.com
+[-]exception found, non-existant domain
+[!]http://scmstore.att.com
+[-]exception found, non-existant domain
+[!]http://access.seg.att.com
+[-]exception found, non-existant domain
+[!]http://support.seg.att.com
+[+]AT&T Secure E-Mail Gateway Support
+[!]http://service.att.com
+[+]nothing found, you should check!
+[!]http://service-officeathand.att.com
+[+]nothing found, you should check!
+[!]http://serviceguide.att.com
+[+]AT&amp;T Business Service Guide
+[!]http://www.serviceguide.att.com
+[+]AT&amp;T Business Service Guide
+[!]http://new.serviceguide.att.com
+[+]AT&amp;T Business Service Guide
+[!]http://serviceguidenew.att.com
+[+]AT&amp;T Business Service Guide
+[!]http://servicioderelevo.att.com
+[+]nothing found, you should check!
+[!]http://shape.att.com
+[+]AT&T Shape - AT&amp;T SHAPE
+[!]http://www.shop.att.com
+[-]exception found, non-existant domain
+[!]http://signmeup.att.com
+[+]Get Deals &amp; Special Offers by Email from AT&amp;T
+[!]http://simmanagement.att.com
+[+]nothing found, you should check!
+[!]http://singlebill.att.com
+[+]Bill Consolidator Login
+[!]http://sipfed.att.com
+[-]exception found, non-existant domain
+[!]http://sipfed0.att.com
+[-]exception found, non-existant domain
+[!]http://sipfed2.att.com
+[-]exception found, non-existant domain
+[!]http://smallbiz.att.com
+[+]AT&amp;T Small Business Phone, Internet, TV &amp; Tech Services
+[!]http://www.smallbiz.att.com
+[+]AT&amp;T Small Business Phone, Internet, TV &amp; Tech Services
+[!]http://smallbusiness.att.com
+[+]AT&amp;T Small Business Phone, Internet, TV &amp; Tech Services
+[!]http://smartlimits.att.com
+[+]AT&amp;T Smart Limits
+[!]http://smartvideo.att.com
+[-]exception found, non-existant domain
+[!]http://smb.att.com
+[+]AT&T Account Manager
+[!]http://smbsolutions.att.com
+[+]AT&amp;T Unified Messaging(SM)
+[!]http://smbtelephones.att.com
+[+]AT&amp;T SMB phone store | Small &amp; medium business phone Systems - SMB telephones
+[!]http://smrc.att.com
+[+]AT&amp;T : GMO SMRC
+[!]http://snapshot-qc.att.com
+[-]exception found, non-existant domain
+[!]http://snapshot-qc-e1.att.com
+[-]exception found, non-existant domain
+[!]http://snapshot-qc1.att.com
+[-]exception found, non-existant domain
+[!]http://snapshot-qc2.att.com
+[-]exception found, non-existant domain
+[!]http://soc.att.com
+[+]nothing found, you should check!
+[!]http://social.att.com
+[+]nothing found, you should check!
+[!]http://som-officeathand.att.com
+[-]exception found, non-existant domain
+[!]http://sourceb.att.com
+[-]exception found, non-existant domain
+[!]http://sourcec.att.com
+[-]exception found, non-existant domain
+[!]http://southcarolina.att.com
+[+]AT&T South Carolina
+[!]http://southdakota.att.com
+[+]AT&T South Dakota
+[!]http://southernliving.att.com
+[-]exception found, non-existant domain
+[!]http://southwest-attsn.att.com
+[+]AT&amp;T SportsNet. | SW
+[!]http://speedtest.att.com
+[+]AT&amp;T High Speed Internet Speed Test
+[!]http://sponsoreddata.att.com
+[+]nothing found, you should check!
+[!]http://src.att.com
+[+]AT&amp;T Security Research Center
+[!]http://sskqc-a4.att.com
+[-]exception found, non-existant domain
+[!]http://stage.att.com
+[-]exception found, non-existant domain
+[!]http://boost.stage.att.com
+[-]exception found, non-existant domain
+[!]http://cgate.stage.att.com
+[+]nothing found, you should check!
+[!]http://cgatemas.stage.att.com
+[-]exception found, non-existant domain
+[!]http://customerservice.stage.att.com
+[-]exception found, non-existant domain
+[!]http://dcommng.stage.att.com
+[-]exception found, non-existant domain
+[!]http://dssdev2-m.stage.att.com
+[-]exception found, non-existant domain
+[!]http://dssqa1-m.stage.att.com
+[-]exception found, non-existant domain
+[!]http://dssqa5-m.stage.att.com
+[-]exception found, non-existant domain
+[!]http://dssqa7-m.stage.att.com
+[-]exception found, non-existant domain
+[!]http://dssqa9-m.stage.att.com
+[-]exception found, non-existant domain
+[!]http://final.stage.att.com
+[+]nothing found, you should check!
+[!]http://labworx-fs-a.stage.att.com
+[+]nothing found, you should check!
+[!]http://m.stage.att.com
+[-]exception found, non-existant domain
+[!]http://marketplace.stage.att.com
+[+]AT&amp;T IoT Marketplace
+[!]http://my-digitallife-qa1.stage.att.com
+[-]exception found, non-existant domain
+[!]http://my-digitallife-qa2.stage.att.com
+[-]exception found, non-existant domain
+[!]http://myatt-qa1.stage.att.com
+[+]AT&T - DIRECTV, Wireless, Cell Phones & Internet Service
+[!]http://myatt-qa3.stage.att.com
+[+]AT&T - DIRECTV, Wireless, Cell Phones & Internet Service
+[!]http://opss-agile1.stage.att.com
+[-]exception found, non-existant domain
+[!]http://opss-qa1.stage.att.com
+[-]exception found, non-existant domain
+[!]http://opss-stub.stage.att.com
+[-]exception found, non-existant domain
+[!]http://perf-ecms-alph.stage.att.com
+[-]exception found, non-existant domain
+[!]http://perf-ecms-sfld.stage.att.com
+[-]exception found, non-existant domain
+[!]http://portal.stage.att.com
+[+]Eguide
+[!]http://starterkit-2.stage.att.com
+[+]AT&amp;T IoT Marketplace
+[!]http://umcsfstesta.stage.att.com
+[+]nothing found, you should check!
+[!]http://usa.stage.att.com
+[-]exception found, non-existant domain
+[!]http://bizcircle.stage-e.att.com
+[+]nothing found, you should check!
+[!]http://staging-ericssonlab.att.com
+[-]exception found, non-existant domain
+[!]http://starterkit.att.com
+[+]AT&amp;T IoT Marketplace
+[!]http://status-m2x.att.com
+[+]AT&amp;T M2X Status
+[!]http://stream-digitallife.att.com
+[-]exception found, non-existant domain
+[!]http://www.support.att.com
+[+]AT&T Support Center
+[!]http://globalnetwork.support.att.com
+[-]exception found, non-existant domain
+[!]http://support-officeathand.att.com
+[+]nothing found, you should check!
+[!]http://swvpn01.att.com
+[-]exception found, non-existant domain
+[!]http://swvpn02.att.com
+[-]exception found, non-existant domain
+[!]http://synaptic.att.com
+[+]nothing found, you should check!
+[!]http://www.synaptic.att.com
+[+]nothing found, you should check!
+[!]http://att-ap-nrt-hkg-00001.apacnorth.synaptic.att.com
+[-]exception found, non-existant domain
+[!]http://clouduser.synaptic.att.com
+[+]nothing found, you should check!
+[!]http://emea.synaptic.att.com
+[-]exception found, non-existant domain
+[!]http://9f283a94cff0f36fe8830bb47ef0952277e1bee6.efss.emea.synaptic.att.com
+[-]exception found, non-existant domain
+[!]http://att-eu-lhr-ams-00001.euwest.synaptic.att.com
+[-]exception found, non-existant domain
+[!]http://mobileapp.synaptic.att.com
+[+]AT&T Synaptic Storage as a Service
+[!]http://att-amereast-00001.naeast.synaptic.att.com
+[-]exception found, non-existant domain
+[!]http://att-amereast-00002.naeast.synaptic.att.com
+[-]exception found, non-existant domain
+[!]http://att-amerwest-00001.nawest.synaptic.att.com
+[-]exception found, non-existant domain
+[!]http://att-amerwest-00002.nawest.synaptic.att.com
+[-]exception found, non-existant domain
+[!]http://att-us-sfo-dfw-00001.nawest2.synaptic.att.com
+[-]exception found, non-existant domain
+[!]http://att-us-san-stl-00001.nawest3.synaptic.att.com
+[-]exception found, non-existant domain
+[!]http://att-us-sfo-dfw-00002.nawest4.synaptic.att.com
+[-]exception found, non-existant domain
+[!]http://portal.synaptic.att.com
+[+]nothing found, you should check!
+[!]http://storage.synaptic.att.com
+[-]exception found, non-existant domain
+[!]http://cc.storage.synaptic.att.com
+[-]exception found, non-existant domain
+[!]http://wc.storage.synaptic.att.com
+[-]exception found, non-existant domain
+[!]http://tagalog.att.com
+[+]AT&amp;T World Home
+[!]http://targetc.att.com
+[-]exception found, non-existant domain
+[!]http://tawkster.att.com
+[+]nothing found, you should check!
+[!]http://tcdirectorylink.att.com
+[+]TC Directory Info Link
+[!]http://tchosted.att.com
+[-]exception found, non-existant domain
+[!]http://tech360.att.com
+[+]AT&T Tech Support 360
+[!]http://tech360backup.att.com
+[+]nothing found, you should check!
+[!]http://techchannel.att.com
+[+]AT&amp;T Tech Channel : Home
+[!]http://techgating.att.com
+[-]exception found, non-existant domain
+[!]http://teleconference.att.com
+[-]exception found, non-existant domain
+[!]http://www.teleconference.att.com
+[+]nothing found, you should check!
+[!]http://telephones.att.com
+[+]Official AT&T&reg; Telephone Store for Home & Small Offices
+[!]http://www.telephones.att.com
+[+]Official AT&T&reg; Telephone Store for Home & Small Offices
+[!]http://telepresencemeeting.att.com
+[+]nothing found, you should check!
+[!]http://tennessee.att.com
+[+]AT&T Tennessee
+[!]http://myfleet.test.att.com
+[+]Unsupported browser
+[!]http://thesummit.att.com
+[+]The Summit | AT&amp;T Business - Dallas, TX 2017
+[!]http://tickettwosdays.att.com
+[-]exception found, non-existant domain
+[!]http://tngtest1.att.com
+[-]exception found, non-existant domain
+[!]http://touchtrivia.att.com
+[+]Touch Trivia
+[!]http://tracking-officeathand.att.com
+[+]nothing found, you should check!
+[!]http://tradein.att.com
+[+]AT&T Trade-in
+[!]http://tradein-program.att.com
+[+]AT&T Trade-in
+[!]http://troubleshoot.att.com
+[+]Troubleshoot Phones, Tablets &amp; Wireless Devices - AT&amp;T
+[!]http://troubleshoot-qa.att.com
+[-]exception found, non-existant domain
+[!]http://tspace.att.com
+[+]AT&amp;T Cloud Auth SSO
+[!]http://tsr.att.com
+[+]AT&T PC Maintenance Toolbox
+[!]http://uc.att.com
+[+]AT&amp;T Connect Support| AT&amp;T
+[!]http://www.uc.att.com
+[+]AT&amp;T Connect Support| AT&amp;T
+[!]http://ahconnect.uc.att.com
+[-]exception found, non-existant domain
+[!]http://amdocsconnect.uc.att.com
+[-]exception found, non-existant domain
+[!]http://apacwesttcs.uc.att.com
+[-]exception found, non-existant domain
+[!]http://apacwesttcs1.uc.att.com
+[-]exception found, non-existant domain
+[!]http://apacwesttcs2.uc.att.com
+[-]exception found, non-existant domain
+[!]http://apacwesttcs3.uc.att.com
+[-]exception found, non-existant domain
+[!]http://att.uc.att.com
+[-]exception found, non-existant domain
+[!]http://attapaceastpx1.uc.att.com
+[-]exception found, non-existant domain
+[!]http://attapaceastpx2.uc.att.com
+[-]exception found, non-existant domain
+[!]http://attapaceastpx3.uc.att.com
+[-]exception found, non-existant domain
+[!]http://attapaceasttcsb.uc.att.com
+[-]exception found, non-existant domain
+[!]http://attapaceasttcsb1.uc.att.com
+[-]exception found, non-existant domain
+[!]http://attapaceasttcsb2.uc.att.com
+[-]exception found, non-existant domain
+[!]http://attapaceasttcsb3.uc.att.com
+[-]exception found, non-existant domain
+[!]http://attapacwestpx3.uc.att.com
+[-]exception found, non-existant domain
+[!]http://attapacwestpx6.uc.att.com
+[-]exception found, non-existant domain
+[!]http://attces.uc.att.com
+[-]exception found, non-existant domain
+[!]http://attee.uc.att.com
+[-]exception found, non-existant domain
+[!]http://atteueastlgtcs.uc.att.com
+[-]exception found, non-existant domain
+[!]http://atteueastpx2.uc.att.com
+[-]exception found, non-existant domain
+[!]http://atteueastpx3.uc.att.com
+[-]exception found, non-existant domain
+[!]http://atteueastpx4.uc.att.com
+[-]exception found, non-existant domain
+[!]http://atteueastpx5.uc.att.com
+[-]exception found, non-existant domain
+[!]http://atteueastpx6.uc.att.com
+[-]exception found, non-existant domain
+[!]http://atteueasttcs1.uc.att.com
+[-]exception found, non-existant domain
+[!]http://atteueasttcs11.uc.att.com
+[-]exception found, non-existant domain
+[!]http://atteueasttcs12.uc.att.com
+[-]exception found, non-existant domain
+[!]http://atteuwestlgtcs.uc.att.com
+[-]exception found, non-existant domain
+[!]http://atteuwestpx10.uc.att.com
+[-]exception found, non-existant domain
+[!]http://atteuwestpx12.uc.att.com
+[-]exception found, non-existant domain
+[!]http://atteuwestpx13.uc.att.com
+[-]exception found, non-existant domain
+[!]http://atteuwestpx16.uc.att.com
+[-]exception found, non-existant domain
+[!]http://atteuwestpx17.uc.att.com
+[-]exception found, non-existant domain
+[!]http://atteuwesttcs1.uc.att.com
+[-]exception found, non-existant domain
+[!]http://atteuwesttcs11.uc.att.com
+[-]exception found, non-existant domain
+[!]http://atteuwesttcs12.uc.att.com
+[-]exception found, non-existant domain
+[!]http://atteuwesttcs13.uc.att.com
+[-]exception found, non-existant domain
+[!]http://attnaeastlgtcs.uc.att.com
+[-]exception found, non-existant domain
+[!]http://attnaeastpx17.uc.att.com
+[-]exception found, non-existant domain
+[!]http://attnaeastpx20.uc.att.com
+[-]exception found, non-existant domain
+[!]http://attnaeastpx26.uc.att.com
+[-]exception found, non-existant domain
+[!]http://attnaeastpx28.uc.att.com
+[-]exception found, non-existant domain
+[!]http://attnaeastpx29.uc.att.com
+[-]exception found, non-existant domain
+[!]http://attnaeastpx31.uc.att.com
+[-]exception found, non-existant domain
+[!]http://attnaeastpx32.uc.att.com
+[-]exception found, non-existant domain
+[!]http://attnaeastpx33.uc.att.com
+[-]exception found, non-existant domain
+[!]http://attnaeastpx35.uc.att.com
+[-]exception found, non-existant domain
+[!]http://attnaeastpx36.uc.att.com
+[-]exception found, non-existant domain
+[!]http://attnaeastpx37.uc.att.com
+[-]exception found, non-existant domain
+[!]http://attnaeastpx38.uc.att.com
+[-]exception found, non-existant domain
+[!]http://attnaeastpx39.uc.att.com
+[-]exception found, non-existant domain
+[!]http://attnaeastpx40.uc.att.com
+[-]exception found, non-existant domain
+[!]http://attnaeastpx41.uc.att.com
+[-]exception found, non-existant domain
+[!]http://attnaeastpx43.uc.att.com
+[-]exception found, non-existant domain
+[!]http://attnaeasttcs.uc.att.com
+[-]exception found, non-existant domain
+[!]http://attnaeasttcs2.uc.att.com
+[-]exception found, non-existant domain
+[!]http://attnaeasttcs3.uc.att.com
+[-]exception found, non-existant domain
+[!]http://attnaeasttcs4.uc.att.com
+[-]exception found, non-existant domain
+[!]http://attnawestlgtcs.uc.att.com
+[-]exception found, non-existant domain
+[!]http://attnawestpx21.uc.att.com
+[-]exception found, non-existant domain
+[!]http://attnawestpx25.uc.att.com
+[-]exception found, non-existant domain
+[!]http://attnawestpx26.uc.att.com
+[-]exception found, non-existant domain
+[!]http://attnawestpx32.uc.att.com
+[-]exception found, non-existant domain
+[!]http://attnawestpx33.uc.att.com
+[-]exception found, non-existant domain
+[!]http://attnawestpx35.uc.att.com
+[-]exception found, non-existant domain
+[!]http://attnawestpx36.uc.att.com
+[-]exception found, non-existant domain
+[!]http://attnawestpx37.uc.att.com
+[-]exception found, non-existant domain
+[!]http://attnawestpx38.uc.att.com
+[-]exception found, non-existant domain
+[!]http://attnawestpx40.uc.att.com
+[-]exception found, non-existant domain
+[!]http://attnawestpx42.uc.att.com
+[-]exception found, non-existant domain
+[!]http://attnawesttcs1.uc.att.com
+[-]exception found, non-existant domain
+[!]http://attnawesttcs11.uc.att.com
+[-]exception found, non-existant domain
+[!]http://attnawesttcs12.uc.att.com
+[-]exception found, non-existant domain
+[!]http://attnawesttcs13.uc.att.com
+[-]exception found, non-existant domain
+[!]http://boslbtcsb.uc.att.com
+[-]exception found, non-existant domain
+[!]http://ccs.uc.att.com
+[+]Thank You
+[!]http://charmapi.uc.att.com
+[-]exception found, non-existant domain
+[!]http://conferencecenter.uc.att.com
+[+]Thank You
+[!]http://confsystem.uc.att.com
+[-]exception found, non-existant domain
+[!]http://connect.uc.att.com
+[-]exception found, non-existant domain
+[!]http://connect1.uc.att.com
+[-]exception found, non-existant domain
+[!]http://connect10.uc.att.com
+[-]exception found, non-existant domain
+[!]http://connect12.uc.att.com
+[-]exception found, non-existant domain
+[!]http://connect13.uc.att.com
+[-]exception found, non-existant domain
+[!]http://connect14.uc.att.com
+[-]exception found, non-existant domain
+[!]http://connect15.uc.att.com
+[-]exception found, non-existant domain
+[!]http://connect16.uc.att.com
+[-]exception found, non-existant domain
+[!]http://connect17.uc.att.com
+[-]exception found, non-existant domain
+[!]http://connect18.uc.att.com
+[-]exception found, non-existant domain
+[!]http://connect19.uc.att.com
+[-]exception found, non-existant domain
+[!]http://connect2.uc.att.com
+[-]exception found, non-existant domain
+[!]http://connect20.uc.att.com
+[-]exception found, non-existant domain
+[!]http://connect22.uc.att.com
+[-]exception found, non-existant domain
+[!]http://connect23.uc.att.com
+[-]exception found, non-existant domain
+[!]http://connect25.uc.att.com
+[-]exception found, non-existant domain
+[!]http://connect26.uc.att.com
+[-]exception found, non-existant domain
+[!]http://connect28.uc.att.com
+[-]exception found, non-existant domain
+[!]http://connect3.uc.att.com
+[-]exception found, non-existant domain
+[!]http://connect4.uc.att.com
+[-]exception found, non-existant domain
+[!]http://connect5.uc.att.com
+[-]exception found, non-existant domain
+[!]http://connect6.uc.att.com
+[-]exception found, non-existant domain
+[!]http://connect7.uc.att.com
+[-]exception found, non-existant domain
+[!]http://connect8.uc.att.com
+[-]exception found, non-existant domain
+[!]http://connect9.uc.att.com
+[-]exception found, non-existant domain
+[!]http://detroitms.uc.att.com
+[-]exception found, non-existant domain
+[!]http://downloads.uc.att.com
+[+]IIS7
+[!]http://eueasttcsb1.uc.att.com
+[-]exception found, non-existant domain
+[!]http://euwesttcsb1.uc.att.com
+[-]exception found, non-existant domain
+[!]http://euwesttcsb11.uc.att.com
+[-]exception found, non-existant domain
+[!]http://euwesttcsb12.uc.att.com
+[-]exception found, non-existant domain
+[!]http://euwesttcsb13.uc.att.com
+[-]exception found, non-existant domain
+[!]http://events.uc.att.com
+[-]exception found, non-existant domain
+[!]http://intermec.uc.att.com
+[-]exception found, non-existant domain
+[!]http://largeevents.uc.att.com
+[-]exception found, non-existant domain
+[!]http://lsu.uc.att.com
+[+]IIS7
+[!]http://merck.uc.att.com
+[-]exception found, non-existant domain
+[!]http://mytime.uc.att.com
+[-]exception found, non-existant domain
+[!]http://nawesttcsb1.uc.att.com
+[-]exception found, non-existant domain
+[!]http://nova.uc.att.com
+[-]exception found, non-existant domain
+[!]http://provost.uc.att.com
+[-]exception found, non-existant domain
+[!]http://sapa.uc.att.com
+[-]exception found, non-existant domain
+[!]http://schindler.uc.att.com
+[-]exception found, non-existant domain
+[!]http://schindler-zeu.uc.att.com
+[-]exception found, non-existant domain
+[!]http://swissre.uc.att.com
+[-]exception found, non-existant domain
+[!]http://systemcheck.uc.att.com
+[+]Thank You
+[!]http://teleconference.uc.att.com
+[-]exception found, non-existant domain
+[!]http://trial.uc.att.com
+[-]exception found, non-existant domain
+[!]http://www.trial.uc.att.com
+[-]exception found, non-existant domain
+[!]http://vertrieb.uc.att.com
+[-]exception found, non-existant domain
+[!]http://wkitaly.uc.att.com
+[-]exception found, non-existant domain
+[!]http://ucvuadmin.uccentral.att.com
+[-]exception found, non-existant domain
+[!]http://ucfedst1.att.com
+[-]exception found, non-existant domain
+[!]http://uconnect.att.com
+[-]exception found, non-existant domain
+[!]http://ucservices.att.com
+[+]AT&amp;T UC Services
+[!]http://ufix.att.com
+[+]AT&amp;T Troubleshoot &amp; Resolve
+[!]http://ufix-deviv.att.com
+[-]exception found, non-existant domain
+[!]http://ufix-qa.att.com
+[+]404 Not Found
+[!]http://ufo.att.com
+[+]AT&T PC Maintenance Toolbox
+[!]http://uguide.att.com
+[-]exception found, non-existant domain
+[!]http://um.att.com
+[+]AT&amp;T Unified Messaging (SM)
+[!]http://dal01.um.att.com
+[+]AT&amp;T Unified Messaging (SM)
+[!]http://uma.att.com
+[-]exception found, non-existant domain
+[!]http://umcsfsa.att.com
+[+]AT&amp;T
+[!]http://unad.att.com
+[+]Validation request
+[!]http://www.unad.att.com
+[+]Validation request
+[!]http://www.usa.att.com
+[+]Your AT&amp;T Deals Thing
+[!]http://usaaeva1.att.com
+[-]exception found, non-existant domain
+[!]http://usaavna1.att.com
+[-]exception found, non-existant domain
+[!]http://uverseactivation.att.com
+[+]AT&amp;T U-verse
+[!]http://uversecentral.att.com
+[+]AT&amp;T
+[!]http://uversecentral1.att.com
+[+]AT&amp;T
+[!]http://uversecentral2.att.com
+[+]AT&amp;T
+[!]http://uversecentral2a.att.com
+[+]AT&amp;T
+[!]http://uversecentral3.att.com
+[+]AT&amp;T
+[!]http://uversecentral3a.att.com
+[+]AT&amp;T
+[!]http://uverseemployee.att.com
+[-]exception found, non-existant domain
+[!]http://uversevacation.att.com
+[+]
+[!]http://video.att.com
+[-]exception found, non-existant domain
+[!]http://vietnamese.att.com
+[-]exception found, non-existant domain
+[!]http://virginia.att.com
+[+]AT&T Virginia
+[!]http://virginislands.att.com
+[+]AT&T Virgin Islands
+[!]http://vlr.att.com
+[+]Adobe Connect Central Login
+[!]http://vm.att.com
+[+]AT&amp;T Unified Messaging (SM)
+[!]http://www.vm.att.com
+[+]AT&amp;T Unified Messaging (SM)
+[!]http://voltage-pp-0000.att.com
+[-]exception found, non-existant domain
+[!]http://washington.att.com
+[+]AT&T Washington
+[!]http://mycsp.web.att.com
+[-]exception found, non-existant domain
+[!]http://webconf0.att.com
+[-]exception found, non-existant domain
+[!]http://webconf2.att.com
+[-]exception found, non-existant domain
+[!]http://webhosting.att.com
+[+]Web Design, Web Hosting & Online Marketing | AT&T Website Solutions
+[!]http://webinars.att.com
+[+]nothing found, you should check!
+[!]http://webmeeting.att.com
+[+]nothing found, you should check!
+[!]http://www.webmeeting.att.com
+[+]nothing found, you should check!
+[!]http://websecurity.att.com
+[-]exception found, non-existant domain
+[!]http://websitesmail.att.com
+[+]nothing found, you should check!
+[!]http://websitesportal.att.com
+[+]Control Panel
+[!]http://westvirginia.att.com
+[+]AT&T West Virginia
+[!]http://apps.wholesale.att.com
+[-]exception found, non-existant domain
+[!]http://bbqual.wholesale.att.com
+[+]OneQual Login
+[!]http://lqs.wholesale.att.com
+[+]OneQual Login
+[!]http://portal.wholesale.att.com
+[-]exception found, non-existant domain
+[!]http://wireless.att.com
+[-]exception found, non-existant domain
+[!]http://www.wireless.att.com
+[+]AT&amp;T Wireless - Cell Phones, Plans, &amp; Accessories
+[!]http://bac.wireless.att.com
+[+]PAOS2.0 User Login
+[!]http://eod.wireless.att.com
+[-]exception found, non-existant domain
+[!]http://familymap.wireless.att.com
+[+]AT&T FamilyMap
+[!]http://forums.wireless.att.com
+[+]AT&T Wireless & Cell Phones - AT&T Community
+[!]http://gophoneactivations.wireless.att.com
+[+]nothing found, you should check!
+[!]http://mymessages.wireless.att.com
+[-]exception found, non-existant domain
+[!]http://simcontrolcenter.wireless.att.com
+[+]nothing found, you should check!
+[!]http://voicedial.wireless.att.com
+[+]VoiceDial | AT&amp;T
+[!]http://wireless4la.att.com
+[+]Building LA's Wireless Infrastructure
+[!]http://wireless4sd.att.com
+[+]Wireless 4 San Diego
+[!]http://wirelessgiftcard.att.com
+[+]Cell Phones and cell phone plans - Wireless from AT&amp;T, formerly Cingular
+[!]http://wisconsin.att.com
+[+]AT&T Wisconsin
+[!]http://workforcemanager.att.com
+[+]Sign in | AT&amp;T Workforce Manager
+[!]http://world.att.com
+[+]AT&T World Home
+[!]http://yaengage.att.com
+[-]exception found, non-existant domain
+[!]http://ymmobilet01.att.com
+[-]exception found, non-existant domain
+[!]http://youachieve.att.com
+[+]you Achieve | Landing
+** Successfully scanned **

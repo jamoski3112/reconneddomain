@@ -1,0 +1,53 @@
+[+]Input file: input_jumplead.com.txt was found
+[+]Reading input file
+[+]========**************========
+[+]Recon_dom_title by Codarren Velvindron
+[+]========**************========
+[+]Version 0.5
+[!]Give me urls and I give titles!
+[!]Website Tested: jumplead.com
+[!]Your output filename was created !
+[!]Scanning titles for: 21 urls
+[!]http://www.jumplead.com
+-->Jumplead - Lead Generation &amp; Marketing Automation Software Platform | Simple, Easy, Affordable. B2B Inbound Online Marketing Automation for SMB | The Best Small Business Marketing Tools Combined
+[!]http://admin.jumplead.com
+[+]nothing found, you should check!
+[!]http://alfred.jumplead.com
+[-]exception found, non-existant domain
+[!]http://alfred_sc.jumplead.com
+[+]nothing found, you should check!
+[!]http://api.jumplead.com
+-->Jumplead Status
+[!]http://app.jumplead.com
+-->Jumplead
+[!]http://blog.assets.jumplead.com
+[+]nothing found, you should check!
+[!]http://avatar-initials.jumplead.com
+[+]nothing found, you should check!
+[!]http://beta-tracking.jumplead.com
+-->Jumplead Status
+[!]http://blog.jumplead.com
+[+]Blog
+[!]http://cdn.jumplead.com
+[+]403 Forbidden
+[!]http://developer.jumplead.com
+-->Marketing Automation for Developers |  Jumplead Inbound Online Marketing Automation Software
+[!]http://go.jumplead.com
+-->Jumplead Status
+[!]http://help.jumplead.com
+-->Jumplead Help Center
+[!]http://join-us.jumplead.com
+-->Join us | Jumplead Marketing Software
+[!]http://manager.jumplead.com
+-->Marketing Automation Software Platform for Agencies and Resellers | Jumplead Manager the Inbound Agency Software
+[!]http://marketing.jumplead.com
+-->Jumplead Help Center
+[!]http://pages.jumplead.com
+-->Jumplead Status
+[!]http://profile.jumplead.com
+-->Jumplead Profile
+[!]http://status.jumplead.com
+-->Welcome - Jumplead Status
+[!]http://tracking.jumplead.com
+-->Jumplead Status
+** Successfully scanned **

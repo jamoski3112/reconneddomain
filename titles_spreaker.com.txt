@@ -1,0 +1,67 @@
+[+]Input file: input_spreaker.com.txt was found
+[+]Reading input file
+[+]========**************========
+[+]Recon_dom_title by Codarren Velvindron
+[+]========**************========
+[+]Version 0.5
+[!]Give me urls and I give titles!
+[!]Website Tested: spreaker.com
+[!]Your output filename was created !
+[!]Scanning titles for: 28 urls
+[!]http://www.spreaker.com
+-->Listen to the world&#039;s trendiest podcasts or create your own on Spreaker!
+[!]http://api.spreaker.com
+[+]nothing found, you should check!
+[!]http://blog.spreaker.com
+[+]403 Forbidden
+[!]http://developers.spreaker.com
+-->Spreaker for Developers
+[!]http://download.spreaker.com
+[+]nothing found, you should check!
+[!]http://elasticemail.spreaker.com
+[-]exception found, non-existant domain
+[!]http://elasticmta1.spreaker.com
+[-]exception found, non-existant domain
+[!]http://elasticmta2.spreaker.com
+[-]exception found, non-existant domain
+[!]http://en_gb.spreaker.com
+-->Listen to the world&#039;s trendiest podcasts or create your own on Spreaker!
+[!]http://en_us.spreaker.com
+-->Listen to the world&#039;s trendiest podcasts or create your own on Spreaker!
+[!]http://es_es.spreaker.com
+[-]exception found, non-existant domain
+[!]http://forum.spreaker.com
+-->Spreaker Support
+[!]http://fr_fr.spreaker.com
+-->Listen to the world&#039;s trendiest podcasts or create your own on Spreaker!
+[!]http://help.spreaker.com
+-->Welcome - Spreaker Support
+[!]http://api.iheart.spreaker.com
+[-]exception found, non-existant domain
+[!]http://it_it.spreaker.com
+[-]exception found, non-existant domain
+[!]http://m.spreaker.com
+[-]exception found, non-existant domain
+[!]http://search.spreaker.com
+[+]nothing found, you should check!
+[!]http://secure.spreaker.com
+-->Listen to the world&#039;s trendiest podcasts or create your own on Spreaker!
+[!]http://sk_sk.spreaker.com
+-->Listen to the world&#039;s trendiest podcasts or create your own on Spreaker!
+[!]http://static.spreaker.com
+[+]nothing found, you should check!
+[!]http://staticcdn.spreaker.com
+[+]nothing found, you should check!
+[!]http://status.spreaker.com
+-->Spreaker Status
+[!]http://svn.spreaker.com
+[-]exception found, non-existant domain
+[!]http://try.spreaker.com
+-->Pro Podcasting Made Easy - Spreaker
+[!]http://www.try.spreaker.com
+[-]exception found, non-existant domain
+[!]http://upload.spreaker.com
+-->Listen to the world&#039;s trendiest podcasts or create your own on Spreaker!
+[!]http://widget.spreaker.com
+-->Spreaker
+** Successfully scanned **

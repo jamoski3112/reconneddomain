@@ -1,0 +1,65 @@
+[+]Input file: input_btcc.com.txt was found
+[+]Reading input file
+[+]========**************========
+[+]Recon_dom_title by Codarren Velvindron
+[+]========**************========
+[+]Version 0.5
+[!]Give me urls and I give titles!
+[!]Website Tested: btcc.com
+[!]Your output filename was created !
+[!]Scanning titles for: 27 urls
+[!]http://www.btcc.com
+[+]nothing found, you should check!
+[!]http://account.btcc.com
+-->BTCC - Your Bitcoin Company
+[!]http://api.btcc.com
+[+]404
+[!]http://cnwww.btcc.com
+[+]Test Page for the Nginx HTTP Server on Fedora
+[!]http://data.btcc.com
+[+]404 Not Found
+[!]http://dax.btcc.com
+[+]nothing found, you should check!
+[!]http://etcpool.btcc.com
+[-]exception found, non-existant domain
+[!]http://exchange.btcc.com
+-->BTCC - Your Bitcoin Company
+[!]http://forever.btcc.com
+[-]exception found, non-existant domain
+[!]http://mint.btcc.com
+[-]exception found, non-existant domain
+[!]http://multi.btcc.com
+[-]exception found, non-existant domain
+[!]http://pay.btcc.com
+[+]nothing found, you should check!
+[!]http://pool.btcc.com
+[-]exception found, non-existant domain
+[!]http://pro.btcc.com
+[-]exception found, non-existant domain
+[!]http://pro-data.btcc.com
+[+]Test Page for the Nginx HTTP Server on the Amazon Linux AMI
+[!]http://pro-reports.btcc.com
+[+]Express
+[!]http://pro-ws.btcc.com
+[-]exception found, non-existant domain
+[!]http://procn.btcc.com
+[+]nothing found, you should check!
+[!]http://promo.btcc.com
+[-]exception found, non-existant domain
+[!]http://seed.btcc.com
+[-]exception found, non-existant domain
+[!]http://sio.btcc.com
+[+]nothing found, you should check!
+[!]http://spot.btcc.com
+[+]nothing found, you should check!
+[!]http://spotusd-data.btcc.com
+[+]Test Page for the Nginx HTTP Server on the Amazon Linux AMI
+[!]http://static.btcc.com
+[-]exception found, non-existant domain
+[!]http://store.btcc.com
+-->BTCC Mint &ndash; BTCC Mint Coins
+[!]http://trade.btcc.com
+[-]exception found, non-existant domain
+[!]http://websocket.btcc.com
+[+]nothing found, you should check!
+** Successfully scanned **

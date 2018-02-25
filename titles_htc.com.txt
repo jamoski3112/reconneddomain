@@ -1,0 +1,561 @@
+[+]Input file: input_htc.com.txt was found
+[+]Reading input file
+[+]========**************========
+[+]Recon_dom_title by Codarren Velvindron
+[+]========**************========
+[+]Version 0.5
+[!]Give me urls and I give titles!
+[!]Website Tested: htc.com
+[!]Your output filename was created !
+[!]Scanning titles for: 275 urls
+[!]http://www.htc.com
+-->HTC United States
+[!]http://MQTT.htc.com
+[-]exception found, non-existant domain
+[!]http://admin.htc.com
+[+]403 - Forbidden: Access is denied.
+[!]http://america.htc.com
+-->HTC Support - Index | HTC Global
+[!]http://www.america.htc.com
+-->HTC Support - Index | HTC Global
+[!]http://member.america.htc.com
+[-]exception found, non-existant domain
+[!]http://ams-adfs.htc.com
+[-]exception found, non-existant domain
+[!]http://andchin.htc.com
+[+]nothing found, you should check!
+[!]http://andchin-2.htc.com
+[-]exception found, non-existant domain
+[!]http://shop.apac.htc.com
+-->HTC United States
+[!]http://api-theme.htc.com
+[-]exception found, non-existant domain
+[!]http://api-zhuti.htc.com
+[-]exception found, non-existant domain
+[!]http://apu-chin.htc.com
+[+]nothing found, you should check!
+[!]http://apu-chin2.htc.com
+[-]exception found, non-existant domain
+[!]http://apu-liveimage.htc.com
+[-]exception found, non-existant domain
+[!]http://apu-msg.htc.com
+[+]nothing found, you should check!
+[!]http://apu-msg2.htc.com
+[-]exception found, non-existant domain
+[!]http://apus-liveimage.htc.com
+-->HTC Global Careers
+[!]http://apus-liveimage-test.htc.com
+[-]exception found, non-existant domain
+[!]http://asia.htc.com
+[-]exception found, non-existant domain
+[!]http://www.asia.htc.com
+[+]nothing found, you should check!
+[!]http://e2e.asia.htc.com
+[-]exception found, non-existant domain
+[!]http://hsc.asia.htc.com
+[+]nothing found, you should check!
+[!]http://asiaapi.htc.com
+[-]exception found, non-existant domain
+[!]http://asiaws.htc.com
+[+]IIS7
+[!]http://shop.au.htc.com
+-->HTC United States
+[!]http://autodiscover.htc.com
+[+]403 - Forbidden: Access is denied.
+[!]http://aws.htc.com
+[+]nothing found, you should check!
+[!]http://awsapi.htc.com
+[-]exception found, non-existant domain
+[!]http://azureblob.htc.com
+[+]nothing found, you should check!
+[!]http://bbs.htc.com
+[-]exception found, non-existant domain
+[!]http://s.bbs.htc.com
+[-]exception found, non-existant domain
+[!]http://bbs-test.htc.com
+[-]exception found, non-existant domain
+[!]http://blog.htc.com
+[-]exception found, non-existant domain
+[!]http://asset-files.blog.htc.com
+[+]404 Not Found
+[!]http://files.blog.htc.com
+[+]404 Not Found
+[!]http://boost.htc.com
+[+]Boost+ &#8211; optimize, clean and boost performance and battery for android phone
+[!]http://builtindiaglog.htc.com
+[-]exception found, non-existant domain
+[!]http://careers.htc.com
+-->HTC Global Careers
+[!]http://citest.cct.htc.com
+[-]exception found, non-existant domain
+[!]http://cdc.htc.com
+[+]EAP 6
+[!]http://changethegame.htc.com
+-->HTC United Kingdom
+[!]http://cits.htc.com
+[-]exception found, non-existant domain
+[!]http://cl.htc.com
+[-]exception found, non-existant domain
+[!]http://cl60.htc.com
+[-]exception found, non-existant domain
+[!]http://userfeedback.cn.htc.com
+[+]nothing found, you should check!
+[!]http://cnmail.htc.com
+[-]exception found, non-existant domain
+[!]http://www.cnmail.htc.com
+[-]exception found, non-existant domain
+[!]http://community.htc.com
+[+]Page Redirection
+[!]http://competitions.htc.com
+[+]401 Authorization Required
+[!]http://connect.htc.com
+[-]exception found, non-existant domain
+[!]http://contactus.htc.com
+[+]ContactUs Login
+[!]http://cota-chin.htc.com
+[+]nothing found, you should check!
+[!]http://cota-liveimage.htc.com
+[+]403 Forbidden
+[!]http://customercare.htc.com
+[+]IIS7
+[!]http://demo.htc.com
+-->HTC DemoFLO
+[!]http://demoflo.htc.com
+[+]nothing found, you should check!
+[!]http://developer.htc.com
+-->Welcome to HTCdev
+[!]http://dl.htc.com
+[-]exception found, non-existant domain
+[!]http://dl2.htc.com
+[+]nothing found, you should check!
+[!]http://dl3.htc.com
+[+]404 Not Found
+[!]http://dl4.htc.com
+[+]403 - Forbidden: Access is denied.
+[!]http://download-wmp11.htc.com
+-->Product and Support - HTC Greece | HTC United States
+[!]http://downloaduk.htc.com
+[+]nothing found, you should check!
+[!]http://dream.htc.com
+[-]exception found, non-existant domain
+[!]http://duoeffectsgallery.htc.com
+[-]exception found, non-existant domain
+[!]http://e2e.htc.com
+-->HTC smart mobility
+[!]http://e2e-asia.htc.com
+[+]Error
+[!]http://e2e-tracking-asia.htc.com
+[-]exception found, non-existant domain
+[!]http://e2e-tracking-us.htc.com
+[-]exception found, non-existant domain
+[!]http://e2easiaws1.htc.com
+[+]nothing found, you should check!
+[!]http://e2ekpi.htc.com
+[-]exception found, non-existant domain
+[!]http://easyservice.htc.com
+[-]exception found, non-existant domain
+[!]http://eaw.htc.com
+[+]nothing found, you should check!
+[!]http://eawqat.htc.com
+[+]nothing found, you should check!
+[!]http://ecare1.htc.com
+[+]Error
+[!]http://ecshoptest.htc.com
+[-]exception found, non-existant domain
+[!]http://elevate.htc.com
+-->HTC elevate - Home
+[!]http://elevate-admin.htc.com
+-->HTC elevate - Sign In
+[!]http://shop.emea.htc.com
+[-]exception found, non-existant domain
+[!]http://endusertraining.htc.com
+[-]exception found, non-existant domain
+[!]http://epmchina.htc.com
+[+]nothing found, you should check!
+[!]http://epmchina-admin.htc.com
+[+]nothing found, you should check!
+[!]http://epqcs.htc.com
+[-]exception found, non-existant domain
+[!]http://eshop.htc.com
+[+]nothing found, you should check!
+[!]http://esports.htc.com
+-->Homepage | HTC Esports
+[!]http://www.esports.htc.com
+-->Homepage | HTC Esports
+[!]http://esportstest.htc.com
+[-]exception found, non-existant domain
+[!]http://estore.htc.com
+[+]nothing found, you should check!
+[!]http://shop.eu.htc.com
+-->Smartphones | HTC United Kingdom
+[!]http://europe.htc.com
+-->HTC United Kingdom
+[!]http://www.europe.htc.com
+-->HTC United Kingdom
+[!]http://contactus.europe.htc.com
+[-]exception found, non-existant domain
+[!]http://mail.europe.htc.com
+[+]403 - Forbidden: Access is denied.
+[!]http://mail1.europe.htc.com
+[-]exception found, non-existant domain
+[!]http://mail2.europe.htc.com
+[-]exception found, non-existant domain
+[!]http://tpimss.europe.htc.com
+[-]exception found, non-existant domain
+[!]http://tyimss.europe.htc.com
+[-]exception found, non-existant domain
+[!]http://ews.htc.com
+[-]exception found, non-existant domain
+[!]http://exthtccsddc.htc.com
+[-]exception found, non-existant domain
+[!]http://fbapps.htc.com
+[-]exception found, non-existant domain
+[!]http://www.fbapps.htc.com
+[-]exception found, non-existant domain
+[!]http://forwarder.htc.com
+[+]nothing found, you should check!
+[!]http://fotadl.htc.com
+[+]nothing found, you should check!
+[!]http://fotadl-az.htc.com
+[+]nothing found, you should check!
+[!]http://fotadl-cn.htc.com
+[-]exception found, non-existant domain
+[!]http://fotadls.htc.com
+[+]nothing found, you should check!
+[!]http://fotadls-cn.htc.com
+[-]exception found, non-existant domain
+[!]http://fotadls-org-az.htc.com
+[+]nothing found, you should check!
+[!]http://fotadls-org-cnc.htc.com
+[+]nothing found, you should check!
+[!]http://fotadls-test.htc.com
+[+]nothing found, you should check!
+[!]http://fotamsg.htc.com
+[+]nothing found, you should check!
+[!]http://fotamsg-2.htc.com
+[-]exception found, non-existant domain
+[!]http://getstart.htc.com
+-->HTC Get Started
+[!]http://hcare.htc.com
+[-]exception found, non-existant domain
+[!]http://hcare-test.htc.com
+[-]exception found, non-existant domain
+[!]http://htccnmail.htc.com
+[-]exception found, non-existant domain
+[!]http://htcdownload.htc.com
+[+]nothing found, you should check!
+[!]http://htceas2.htc.com
+[+]nothing found, you should check!
+[!]http://htcpartners.htc.com
+[-]exception found, non-existant domain
+[!]http://htcpipe6.htc.com
+[-]exception found, non-existant domain
+[!]http://htcspam.htc.com
+[-]exception found, non-existant domain
+[!]http://htctao1.htc.com
+[-]exception found, non-existant domain
+[!]http://htctao2.htc.com
+[-]exception found, non-existant domain
+[!]http://htctaomail.htc.com
+[-]exception found, non-existant domain
+[!]http://htctaorelay.htc.com
+[-]exception found, non-existant domain
+[!]http://htctpe1.htc.com
+[-]exception found, non-existant domain
+[!]http://htctpe2.htc.com
+[-]exception found, non-existant domain
+[!]http://htctpemail.htc.com
+[-]exception found, non-existant domain
+[!]http://htctperelay.htc.com
+[-]exception found, non-existant domain
+[!]http://htcusmail.htc.com
+[-]exception found, non-existant domain
+[!]http://htcusrelay.htc.com
+[-]exception found, non-existant domain
+[!]http://hybridmail.htc.com
+[+]403 - Forbidden: Access is denied.
+[!]http://ifolderuk.htc.com
+[-]exception found, non-existant domain
+[!]http://imei.htc.com
+[+]CN Warranty...
+[!]http://investors.htc.com
+-->HTC Investors - Overview
+[!]http://japan.htc.com
+[-]exception found, non-existant domain
+[!]http://lance.htc.com
+[-]exception found, non-existant domain
+[!]http://www.lance.htc.com
+[-]exception found, non-existant domain
+[!]http://learning-development.htc.com
+[-]exception found, non-existant domain
+[!]http://liveimage.htc.com
+[+]nothing found, you should check!
+[!]http://m.htc.com
+[-]exception found, non-existant domain
+[!]http://mail.htc.com
+[-]exception found, non-existant domain
+[!]http://mail2.htc.com
+[-]exception found, non-existant domain
+[!]http://mam.htc.com
+[-]exception found, non-existant domain
+[!]http://weather.manila1.htc.com
+[+]nothing found, you should check!
+[!]http://masd-outsource.htc.com
+[+]nothing found, you should check!
+[!]http://mcm.htc.com
+[-]exception found, non-existant domain
+[!]http://mdm.htc.com
+[-]exception found, non-existant domain
+[!]http://media.htc.com
+[-]exception found, non-existant domain
+[!]http://media-careers.htc.com
+-->HTC Global Careers
+[!]http://media1.htc.com
+[-]exception found, non-existant domain
+[!]http://member.htc.com
+[-]exception found, non-existant domain
+[!]http://metrics.htc.com
+[+]nothing found, you should check!
+[!]http://mobile.htc.com
+-->HTC
+[!]http://mqtt.htc.com
+[-]exception found, non-existant domain
+[!]http://www.mqtt.htc.com
+[-]exception found, non-existant domain
+[!]http://mqttmember.htc.com
+[-]exception found, non-existant domain
+[!]http://music.htc.com
+[-]exception found, non-existant domain
+[!]http://myhtc.htc.com
+[+]nothing found, you should check!
+[!]http://news.htc.com
+[-]exception found, non-existant domain
+[!]http://ocsac.htc.com
+[+]nothing found, you should check!
+[!]http://ocsav.htc.com
+[+]nothing found, you should check!
+[!]http://ocsfetw.htc.com
+[-]exception found, non-existant domain
+[!]http://ocsfeuk.htc.com
+[-]exception found, non-existant domain
+[!]http://ocsfeus.htc.com
+[-]exception found, non-existant domain
+[!]http://ocswebconf.htc.com
+[+]nothing found, you should check!
+[!]http://ocswebconfuk.htc.com
+[-]exception found, non-existant domain
+[!]http://ocswebconfus.htc.com
+[-]exception found, non-existant domain
+[!]http://ocswebtw.htc.com
+[-]exception found, non-existant domain
+[!]http://as.ocswebtw.htc.com
+[-]exception found, non-existant domain
+[!]http://download.ocswebtw.htc.com
+[-]exception found, non-existant domain
+[!]http://ocswebuk.htc.com
+[-]exception found, non-existant domain
+[!]http://as.ocswebuk.htc.com
+[-]exception found, non-existant domain
+[!]http://download.ocswebuk.htc.com
+[-]exception found, non-existant domain
+[!]http://ocswebus.htc.com
+[-]exception found, non-existant domain
+[!]http://one.htc.com
+[-]exception found, non-existant domain
+[!]http://origin-www.htc.com
+-->404 | HTC
+[!]http://originatt.htc.com
+[-]exception found, non-existant domain
+[!]http://otp.htc.com
+[+]nothing found, you should check!
+[!]http://par.htc.com
+-->HTC : PAR System
+[!]http://partnerotp.htc.com
+[-]exception found, non-existant domain
+[!]http://partnersptw.htc.com
+[-]exception found, non-existant domain
+[!]http://partnerspuk.htc.com
+[-]exception found, non-existant domain
+[!]http://pnsptw.htc.com
+[+]nothing found, you should check!
+[!]http://preorder.htc.com
+[-]exception found, non-existant domain
+[!]http://preview.htc.com
+-->HTC Preview
+[!]http://preview-www.htc.com
+[-]exception found, non-existant domain
+[!]http://promotion-estore.htc.com
+[+]nothing found, you should check!
+[!]http://promotioncenter.htc.com
+[-]exception found, non-existant domain
+[!]http://recruiting.htc.com
+[+]nothing found, you should check!
+[!]http://repair.htc.com
+[+]nothing found, you should check!
+[!]http://research.htc.com
+[-]exception found, non-existant domain
+[!]http://rest.htc.com
+[-]exception found, non-existant domain
+[!]http://rest-b.htc.com
+[-]exception found, non-existant domain
+[!]http://rest-b1.htc.com
+[-]exception found, non-existant domain
+[!]http://reviews.htc.com
+[-]exception found, non-existant domain
+[!]http://rewardcenter.htc.com
+-->HTC Promotion - Logon
+[!]http://rmaiii.htc.com
+[-]exception found, non-existant domain
+[!]http://s.htc.com
+[+]Branded Short Domain Powered by Bitly
+[!]http://salestraining.htc.com
+[+]403 - Forbidden: Access is denied.
+[!]http://salestrainingms.htc.com
+[-]exception found, non-existant domain
+[!]http://sdogtm.htc.com
+[+]Error
+[!]http://search.htc.com
+[-]exception found, non-existant domain
+[!]http://secure.htc.com
+[-]exception found, non-existant domain
+[!]http://secure-media.htc.com
+[-]exception found, non-existant domain
+[!]http://sensehome.htc.com
+[+]Sense Home &#8211; Sense Home combines the news-gathering power of BlinkFeed and the customizability of Themes to create a deeply personal phone experience.
+[!]http://sfadfs.htc.com
+[+]nothing found, you should check!
+[!]http://sfile.htc.com
+[+]nothing found, you should check!
+[!]http://share.htc.com
+[-]exception found, non-existant domain
+[!]http://shield.htc.com
+[-]exception found, non-existant domain
+[!]http://www.shield.htc.com
+[-]exception found, non-existant domain
+[!]http://uk.shop.htc.com
+[-]exception found, non-existant domain
+[!]http://shopamerica.htc.com
+-->Smartphones | Crafting Your Next Smartphone | HTC United States
+[!]http://www.shopamerica.htc.com
+[-]exception found, non-existant domain
+[!]http://sip.htc.com
+[-]exception found, non-existant domain
+[!]http://sits.htc.com
+[-]exception found, non-existant domain
+[!]http://smartbattery.htc.com
+[+]nothing found, you should check!
+[!]http://smartpartner.htc.com
+[+]Logon
+[!]http://smartpartneremea.htc.com
+[-]exception found, non-existant domain
+[!]http://smetrics.htc.com
+[+]nothing found, you should check!
+[!]http://www.smetrics.htc.com
+[-]exception found, non-existant domain
+[!]http://smp.htc.com
+[-]exception found, non-existant domain
+[!]http://sp.htc.com
+[+]nothing found, you should check!
+[!]http://sqa.htc.com
+[+]IIS7
+[!]http://sso.htc.com
+-->HTC System
+[!]http://start.htc.com
+-->HTC Get Started
+[!]http://store.htc.com
+[+]404 Not Found
+[!]http://tw.store-test.htc.com
+[-]exception found, non-existant domain
+[!]http://supplierportal.htc.com
+[-]exception found, non-existant domain
+[!]http://support.htc.com
+-->HTC United States
+[!]http://www.support.htc.com
+[-]exception found, non-existant domain
+[!]http://survey.htc.com
+[+]IIS7
+[!]http://t.htc.com
+[-]exception found, non-existant domain
+[!]http://taomail.htc.com
+[-]exception found, non-existant domain
+[!]http://team.htc.com
+-->Team HTC - Home
+[!]http://team-admin.htc.com
+-->Team HTC - Sign In
+[!]http://theme.htc.com
+-->HTC Themes
+[!]http://thememaker.htc.com
+[-]exception found, non-existant domain
+[!]http://themes.htc.com
+-->HTC Themes
+[!]http://timeasia.htc.com
+[-]exception found, non-existant domain
+[!]http://tpemail.htc.com
+[-]exception found, non-existant domain
+[!]http://tpimss.htc.com
+[-]exception found, non-existant domain
+[!]http://tpimss-2.htc.com
+[-]exception found, non-existant domain
+[!]http://tracking.htc.com
+-->::: HTC ::: Smart mobility :::
+[!]http://tw-investors.htc.com
+[-]exception found, non-existant domain
+[!]http://tyimss.htc.com
+[-]exception found, non-existant domain
+[!]http://tyimss-2.htc.com
+[-]exception found, non-existant domain
+[!]http://uhoh-cr.htc.com
+[+]nothing found, you should check!
+[!]http://unlock-kill-switch.htc.com
+[-]exception found, non-existant domain
+[!]http://us.htc.com
+[-]exception found, non-existant domain
+[!]http://shop.us.htc.com
+[-]exception found, non-existant domain
+[!]http://store.us.htc.com
+-->HTC United States
+[!]http://uslyeda01.htc.com
+[-]exception found, non-existant domain
+[!]http://uslyedwc01.htc.com
+[-]exception found, non-existant domain
+[!]http://uslyncac.htc.com
+[-]exception found, non-existant domain
+[!]http://uslyncav.htc.com
+[-]exception found, non-existant domain
+[!]http://uslyncwc.htc.com
+[-]exception found, non-existant domain
+[!]http://usmail.htc.com
+[-]exception found, non-existant domain
+[!]http://www.usmail.htc.com
+[-]exception found, non-existant domain
+[!]http://vcse.vc.htc.com
+[-]exception found, non-existant domain
+[!]http://vits.htc.com
+[-]exception found, non-existant domain
+[!]http://vpn.htc.com
+[-]exception found, non-existant domain
+[!]http://vpncn.htc.com
+[-]exception found, non-existant domain
+[!]http://vpntw.htc.com
+[-]exception found, non-existant domain
+[!]http://vpnuk.htc.com
+[-]exception found, non-existant domain
+[!]http://websurvey.htc.com
+[+]IIS7
+[!]http://welfare.htc.com
+[-]exception found, non-existant domain
+[!]http://ws.htc.com
+[+]nothing found, you should check!
+[!]http://www-test.htc.com
+-->HTC United States
+[!]http://xlearning.htc.com
+[+]IIS7
+[!]http://zhuti.htc.com
+-->HTC Themes
+[!]http://zoe.htc.com
+[+]Announcement
+[!]http://zoeshare.htc.com
+[-]exception found, non-existant domain
+[!]http://zoeshare-test.htc.com
+[-]exception found, non-existant domain
+** Successfully scanned **

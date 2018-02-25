@@ -1,0 +1,91 @@
+[+]Input file: input_matomo.org.txt was found
+[+]Reading input file
+[+]========**************========
+[+]Recon_dom_title by Codarren Velvindron
+[+]========**************========
+[+]Version 0.5
+[!]Give me urls and I give titles!
+[!]Website Tested: matomo.org
+[!]Your output filename was created !
+[!]Scanning titles for: 40 urls
+[!]http://www.matomo.org
+[+]#1 Free Web &amp; Mobile Analytics Software
+[!]http://api.matomo.org
+[+]nothing found, you should check!
+[!]http://builds.matomo.org
+[+]Index of /
+[!]http://builds-artifacts.matomo.org
+[+]UI tests viewer - Repositories
+[!]http://certification.matomo.org
+-->Matomo Certified Professional - Matomo Analytics Certification
+[!]http://cn.matomo.org
+[+]#1 Free Web &amp; Mobile Analytics Software
+[!]http://da.matomo.org
+[+]#1 Free Web &amp; Mobile Analytics Software
+[!]http://de.matomo.org
+[+]#1 Free Web &amp; Mobile Analytics Software
+[!]http://debian.matomo.org
+[+]Index of /
+[!]http://demo.matomo.org
+-->virtual-drums.com - Saturday, February 24, 2018 - Web Analytics Reports -                     Matomo
+[!]http://demo-anonymous.matomo.org
+-->Piwik App Usage (opted-in) - 2018 - Web Analytics Reports -                     Matomo
+[!]http://demo2.matomo.org
+-->Sign in -                     Matomo
+[!]http://demo3.matomo.org
+[-]exception found, non-existant domain
+[!]http://developer.matomo.org
+-->Matomo Analytics (formerly Piwik Analytics) - Developer Docs - v3
+[!]http://developers.matomo.org
+-->Matomo Analytics (formerly Piwik Analytics) - Developer Docs - v3
+[!]http://docs.matomo.org
+[+]PiwikTracker
+[!]http://el.matomo.org
+[+]#1 Free Web &amp; Mobile Analytics Software
+[!]http://es.matomo.org
+[+]#1 Free Web &amp; Mobile Analytics Software
+[!]http://forum.matomo.org
+-->Matomo forums
+[!]http://fr.matomo.org
+[+]#1 Free Web &amp; Mobile Analytics Software
+[!]http://glossary.matomo.org
+[+]Glossary of Analytics Terms - Web & Mobile Analytics
+[!]http://id.matomo.org
+[+]#1 Free Web &amp; Mobile Analytics Software
+[!]http://ios.matomo.org
+-->Matomo Mobile for iOS
+[!]http://issues.matomo.org
+-->Matomo Issues
+[!]http://it.matomo.org
+[+]#1 Free Web &amp; Mobile Analytics Software
+[!]http://ja.matomo.org
+[+]#1 Free Web &amp; Mobile Analytics Software
+[!]http://kr.matomo.org
+[+]#1 Free Web &amp; Mobile Analytics Software
+[!]http://oa.matomo.org
+[+]#1 Free Web &amp; Mobile Analytics Software
+[!]http://pl.matomo.org
+[+]#1 Free Web &amp; Mobile Analytics Software
+[!]http://plugins.matomo.org
+-->Marketplace - Matomo Plugins Marketplace
+[!]http://ru.matomo.org
+[+]#1 Free Web &amp; Mobile Analytics Software
+[!]http://shop.matomo.org
+-->Self hosted premium features for Matomo Analytics (formerly Piwik Analytics)
+[!]http://staging.matomo.org
+[+]Free Web Analytics Software
+[!]http://staging-plugins.matomo.org
+[+]403 Forbidden
+[!]http://staging-shop.matomo.org
+[+]403 Forbidden
+[!]http://staging-themes.matomo.org
+[+]403 Forbidden
+[!]http://survey.matomo.org
+[+]Piwik Surveys
+[!]http://sv.matomo.org
+[+]#1 Free Web &amp; Mobile Analytics Software
+[!]http://themes.matomo.org
+-->Marketplace - Matomo Themes Marketplace
+[!]http://translations.matomo.org
+-->Matomo localization
+** Successfully scanned **

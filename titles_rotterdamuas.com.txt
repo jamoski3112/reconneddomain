@@ -1,0 +1,25 @@
+[+]Input file: input_rotterdamuas.com.txt was found
+[+]Reading input file
+[+]========**************========
+[+]Recon_dom_title by Codarren Velvindron
+[+]========**************========
+[+]Version 0.5
+[!]Give me urls and I give titles!
+[!]Website Tested: rotterdamuas.com
+[!]Your output filename was created !
+[!]Scanning titles for: 7 urls
+[!]http://www.rotterdamuas.com
+[+]Home - Rotterdam University of Applied Sciences
+[!]http://images.rotterdamuas.com
+[-]exception found, non-existant domain
+[!]http://my.rotterdamuas.com
+[+]Login Hogeschool Rotterdam
+[!]http://web1.rotterdamuas.com
+[-]exception found, non-existant domain
+[!]http://web2.rotterdamuas.com
+[-]exception found, non-existant domain
+[!]http://www1.rotterdamuas.com
+[-]exception found, non-existant domain
+[!]http://www2.rotterdamuas.com
+[-]exception found, non-existant domain
+** Successfully scanned **

@@ -1,0 +1,27 @@
+[+]Input file: input_sony.com.ph.txt was found
+[+]Reading input file
+[+]========**************========
+[+]Recon_dom_title by Codarren Velvindron
+[+]========**************========
+[+]Version 0.5
+[!]Give me urls and I give titles!
+[!]Website Tested: sony.com.ph
+[!]Your output filename was created !
+[!]Scanning titles for: 8 urls
+[!]http://www.sony.com.ph
+-->Sony Philippines | Latest Technology &amp; News | Electronics | Entertainment | Sony PH
+[!]http://m.sony.com.ph
+-->Sony Philippines | Latest Technology &amp; News | Electronics | Entertainment | Sony PH
+[!]http://ns1.sony.com.ph
+[-]exception found, non-existant domain
+[!]http://ns2.sony.com.ph
+[-]exception found, non-existant domain
+[!]http://ns3.sony.com.ph
+[-]exception found, non-existant domain
+[!]http://preview-production-pdp.sony.com.ph
+[+]nothing found, you should check!
+[!]http://production-pdp.sony.com.ph
+[+]nothing found, you should check!
+[!]http://sdw.sony.com.ph
+[+]SDW-Home
+** Successfully scanned **

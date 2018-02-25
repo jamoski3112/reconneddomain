@@ -1,0 +1,37 @@
+[+]Input file: input_hasselblad.com.txt was found
+[+]Reading input file
+[+]========**************========
+[+]Recon_dom_title by Codarren Velvindron
+[+]========**************========
+[+]Version 0.5
+[!]Give me urls and I give titles!
+[!]Website Tested: hasselblad.com
+[!]Your output filename was created !
+[!]Scanning titles for: 13 urls
+[!]http://www.hasselblad.com
+-->Hasselblad
+[!]http://account.hasselblad.com
+-->HasselbladUserCenter
+[!]http://admin.hasselblad.com
+[-]exception found, non-existant domain
+[!]http://br.hasselblad.com
+-->Hasselblad
+[!]http://cdn.hasselblad.com
+[+]nothing found, you should check!
+[!]http://cdn-store.hasselblad.com
+[+]nothing found, you should check!
+[!]http://cn.hasselblad.com
+-->Hasselblad
+[!]http://ftp.hasselblad.com
+[-]exception found, non-existant domain
+[!]http://htv.hasselblad.com
+[+]Video marketing platform and video CMS for digital agencies | MediaTank
+[!]http://press.hasselblad.com
+-->Hasselblad
+[!]http://static.hasselblad.com
+[+]403 Forbidden
+[!]http://store.hasselblad.com
+-->Hasselblad Store
+[!]http://support.hasselblad.com
+-->Hasselblad - SelfService
+** Successfully scanned **

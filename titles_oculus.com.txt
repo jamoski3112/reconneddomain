@@ -1,0 +1,221 @@
+[+]Input file: input_oculus.com.txt was found
+[+]Reading input file
+[+]========**************========
+[+]Recon_dom_title by Codarren Velvindron
+[+]========**************========
+[+]Version 0.5
+[!]Give me urls and I give titles!
+[!]Website Tested: oculus.com
+[!]Your output filename was created !
+[!]Scanning titles for: 105 urls
+[!]http://www.oculus.com
+[+]nothing found, you should check!
+[!]http://*.oculus.com
+[-]exception found, non-existant domain
+[!]http://a.oculus.com
+[+]nothing found, you should check!
+[!]http://acco.oculus.com
+[+]nothing found, you should check!
+[!]http://accou.oculus.com
+[+]nothing found, you should check!
+[!]http://accoun.oculus.com
+[+]nothing found, you should check!
+[!]http://account.oculus.com
+[+]nothing found, you should check!
+[!]http://an.oculus.com
+[+]nothing found, you should check!
+[!]http://ans.oculus.com
+[+]nothing found, you should check!
+[!]http://answ.oculus.com
+[+]nothing found, you should check!
+[!]http://answer.oculus.com
+[+]nothing found, you should check!
+[!]http://www.answer.oculus.com
+[+]nothing found, you should check!
+[!]http://answers.oculus.com
+[-]exception found, non-existant domain
+[!]http://www.answers.oculus.com
+[+]nothing found, you should check!
+[!]http://answr.oculus.com
+[+]nothing found, you should check!
+[!]http://answre.oculus.com
+[+]nothing found, you should check!
+[!]http://answres.oculus.com
+[+]nothing found, you should check!
+[!]http://api.oculus.com
+[+]nothing found, you should check!
+[!]http://www.api.oculus.com
+[+]nothing found, you should check!
+[!]http://auth.oculus.com
+[+]nothing found, you should check!
+[!]http://autodiscover.oculus.com
+[+]Outlook Web App
+[!]http://beta.oculus.com
+[+]nothing found, you should check!
+[!]http://blog.oculus.com
+[+]nothing found, you should check!
+[!]http://butterfly.oculus.com
+[+]nothing found, you should check!
+[!]http://c.oculus.com
+[+]nothing found, you should check!
+[!]http://careers.oculus.com
+[+]nothing found, you should check!
+[!]http://cdn.oculus.com
+[+]nothing found, you should check!
+[!]http://www.cdn.oculus.com
+[+]nothing found, you should check!
+[!]http://www.cms.oculus.com
+[+]nothing found, you should check!
+[!]http://cshop.oculus.com
+[+]nothing found, you should check!
+[!]http://dashboard.oculus.com
+[+]nothing found, you should check!
+[!]http://developer.oculus.com
+[+]nothing found, you should check!
+[!]http://www.developer.oculus.com
+[+]nothing found, you should check!
+[!]http://developer-stage.oculus.com
+[-]exception found, non-existant domain
+[!]http://developer2.oculus.com
+[+]nothing found, you should check!
+[!]http://developer3.oculus.com
+[+]nothing found, you should check!
+[!]http://developers.oculus.com
+[+]nothing found, you should check!
+[!]http://www.developers.oculus.com
+[+]nothing found, you should check!
+[!]http://developerstage.oculus.com
+[+]nothing found, you should check!
+[!]http://devstage.oculus.com
+[+]nothing found, you should check!
+[!]http://e.oculus.com
+[+]nothing found, you should check!
+[!]http://ec2.oculus.com
+[+]nothing found, you should check!
+[!]http://emailtrack.oculus.com
+[+]nothing found, you should check!
+[!]http://forum.oculus.com
+[+]nothing found, you should check!
+[!]http://forums.oculus.com
+-->Oculus Discussion Forums
+[!]http://www.forums.oculus.com
+[+]nothing found, you should check!
+[!]http://ghe.oculus.com
+[-]exception found, non-existant domain
+[!]http://graph.oculus.com
+[-]exception found, non-existant domain
+[!]http://groups.oculus.com
+[+]nothing found, you should check!
+[!]http://help.oculus.com
+[+]nothing found, you should check!
+[!]http://www.help.oculus.com
+[+]nothing found, you should check!
+[!]http://id.oculus.com
+[+]nothing found, you should check!
+[!]http://www.id.oculus.com
+[+]nothing found, you should check!
+[!]http://intern.oculus.com
+[+]nothing found, you should check!
+[!]http://inyour.oculus.com
+[+]nothing found, you should check!
+[!]http://jump.oculus.com
+[+]nothing found, you should check!
+[!]http://cmra1.jump.oculus.com
+[-]exception found, non-existant domain
+[!]http://kb.oculus.com
+[+]nothing found, you should check!
+[!]http://latest.oculus.com
+[+]nothing found, you should check!
+[!]http://live.oculus.com
+-->Oculus Live | Oculus
+[!]http://www.live.oculus.com
+[+]nothing found, you should check!
+[!]http://lookaside.oculus.com
+[+]nothing found, you should check!
+[!]http://mail.oculus.com
+[-]exception found, non-existant domain
+[!]http://my.oculus.com
+[+]nothing found, you should check!
+[!]http://newsletter.oculus.com
+[+]nothing found, you should check!
+[!]http://pord.oculus.com
+[+]nothing found, you should check!
+[!]http://prod.oculus.com
+[+]nothing found, you should check!
+[!]http://m.prod.oculus.com
+[+]Error
+[!]http://product-guides.oculus.com
+[+]nothing found, you should check!
+[!]http://s.oculus.com
+[+]nothing found, you should check!
+[!]http://secure.oculus.com
+[+]nothing found, you should check!
+[!]http://securecd.oculus.com
+[+]nothing found, you should check!
+[!]http://securecdn.oculus.com
+[+]nothing found, you should check!
+[!]http://share.oculus.com
+[-]exception found, non-existant domain
+[!]http://www.share.oculus.com
+[+]nothing found, you should check!
+[!]http://ko.share.oculus.com
+[-]exception found, non-existant domain
+[!]http://share-resources.oculus.com
+[+]nothing found, you should check!
+[!]http://sharestage.oculus.com
+[+]nothing found, you should check!
+[!]http://shop.oculus.com
+[+]nothing found, you should check!
+[!]http://www.shop.oculus.com
+[+]nothing found, you should check!
+[!]http://stadium.oculus.com
+[+]nothing found, you should check!
+[!]http://stage.oculus.com
+[+]nothing found, you should check!
+[!]http://static.oculus.com
+[+]nothing found, you should check!
+[!]http://store.oculus.com
+[+]nothing found, you should check!
+[!]http://www.store.oculus.com
+[+]nothing found, you should check!
+[!]http://storystudio.oculus.com
+[+]nothing found, you should check!
+[!]http://www.storystudio.oculus.com
+[+]nothing found, you should check!
+[!]http://support.oculus.com
+[+]nothing found, you should check!
+[!]http://www.support.oculus.com
+[+]nothing found, you should check!
+[!]http://support2.oculus.com
+[+]nothing found, you should check!
+[!]http://tickets.oculus.com
+-->Oculus Support
+[!]http://trunkstable.oculus.com
+[+]nothing found, you should check!
+[!]http://www.vr.oculus.com
+[+]nothing found, you should check!
+[!]http://vrforgood.oculus.com
+[+]nothing found, you should check!
+[!]http://wiki.oculus.com
+[+]nothing found, you should check!
+[!]http://www-stage.oculus.com
+[+]nothing found, you should check!
+[!]http://www1.oculus.com
+[+]nothing found, you should check!
+[!]http://www.www1.oculus.com
+[+]nothing found, you should check!
+[!]http://www1-stage.oculus.com
+[+]nothing found, you should check!
+[!]http://www2.oculus.com
+[+]nothing found, you should check!
+[!]http://www.www2.oculus.com
+[+]nothing found, you should check!
+[!]http://www3.oculus.com
+[+]nothing found, you should check!
+[!]http://www.www3.oculus.com
+[+]nothing found, you should check!
+[!]http://wwwstage.oculus.com
+[+]nothing found, you should check!
+[!]http://xn--www-rp0a.oculus.com
+[+]nothing found, you should check!
+** Successfully scanned **

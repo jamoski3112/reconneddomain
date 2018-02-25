@@ -1,0 +1,4895 @@
+[+]Input file: input_sony.com.txt was found
+[+]Reading input file
+[+]========**************========
+[+]Recon_dom_title by Codarren Velvindron
+[+]========**************========
+[+]Version 0.5
+[!]Give me urls and I give titles!
+[!]Website Tested: sony.com
+[!]Your output filename was created !
+[!]Scanning titles for: 2442 urls
+[!]http://www.sony.com
+-->Sony USA - Electronics, PlayStation, Movies, Music, Product Support
+[!]http://25m-guest-wifi.sony.com
+[-]exception found, non-existant domain
+[!]http://25mguestwifi.sony.com
+[-]exception found, non-existant domain
+[!]http://?.?.sony.com
+[-]exception found, non-existant domain
+[!]http://Test-ADFS.EU.sony.com
+[-]exception found, non-existant domain
+[!]http://Lyncdiscover.sony.com
+[-]exception found, non-existant domain
+[!]http://LyncdiscoverInternal.sony.com
+[-]exception found, non-existant domain
+[!]http://account.sony.com
+[-]exception found, non-existant domain
+[!]http://acm.account.sony.com
+[+]Create Account
+[!]http://c1-np.account.sony.com
+[-]exception found, non-existant domain
+[!]http://my.c1-np.account.sony.com
+[-]exception found, non-existant domain
+[!]http://www.my.c1-np.account.sony.com
+[-]exception found, non-existant domain
+[!]http://c1-pmgt.account.sony.com
+[-]exception found, non-existant domain
+[!]http://my.c1-pmgt.account.sony.com
+[-]exception found, non-existant domain
+[!]http://www.my.c1-pmgt.account.sony.com
+[-]exception found, non-existant domain
+[!]http://auth.cim.account.sony.com
+[+]nothing found, you should check!
+[!]http://www.auth.cim.account.sony.com
+[-]exception found, non-existant domain
+[!]http://batch.cim.account.sony.com
+[+]nothing found, you should check!
+[!]http://www.batch.cim.account.sony.com
+[-]exception found, non-existant domain
+[!]http://d5.cim.account.sony.com
+[-]exception found, non-existant domain
+[!]http://e1.cim.account.sony.com
+[-]exception found, non-existant domain
+[!]http://resource.cim.account.sony.com
+[+]nothing found, you should check!
+[!]http://www.resource.cim.account.sony.com
+[-]exception found, non-existant domain
+[!]http://d1-np.account.sony.com
+[-]exception found, non-existant domain
+[!]http://d1-pmgt.account.sony.com
+[-]exception found, non-existant domain
+[!]http://d1-pqa.account.sony.com
+[-]exception found, non-existant domain
+[!]http://d1-spint.account.sony.com
+[-]exception found, non-existant domain
+[!]http://d2-np.account.sony.com
+[-]exception found, non-existant domain
+[!]http://d2-pmgt.account.sony.com
+[-]exception found, non-existant domain
+[!]http://d2-pqa.account.sony.com
+[-]exception found, non-existant domain
+[!]http://d2-spint.account.sony.com
+[-]exception found, non-existant domain
+[!]http://d3-np.account.sony.com
+[-]exception found, non-existant domain
+[!]http://d3-pmgt.account.sony.com
+[-]exception found, non-existant domain
+[!]http://d3-pqa.account.sony.com
+[-]exception found, non-existant domain
+[!]http://d3-spint.account.sony.com
+[-]exception found, non-existant domain
+[!]http://d5-np.account.sony.com
+[-]exception found, non-existant domain
+[!]http://d5-pmgt.account.sony.com
+[-]exception found, non-existant domain
+[!]http://d5-pqa.account.sony.com
+[-]exception found, non-existant domain
+[!]http://d5-spint.account.sony.com
+[-]exception found, non-existant domain
+[!]http://e1-np.account.sony.com
+[-]exception found, non-existant domain
+[!]http://e1-pmgt.account.sony.com
+[-]exception found, non-existant domain
+[!]http://e1-pqa.account.sony.com
+[-]exception found, non-existant domain
+[!]http://e1-spint.account.sony.com
+[-]exception found, non-existant domain
+[!]http://gciminq.account.sony.com
+[-]exception found, non-existant domain
+[!]http://h0-np.account.sony.com
+[-]exception found, non-existant domain
+[!]http://h0-pmgt.account.sony.com
+[-]exception found, non-existant domain
+[!]http://h0-pqa.account.sony.com
+[-]exception found, non-existant domain
+[!]http://h0-spint.account.sony.com
+[-]exception found, non-existant domain
+[!]http://l1-np.account.sony.com
+[-]exception found, non-existant domain
+[!]http://l1-pmgt.account.sony.com
+[-]exception found, non-existant domain
+[!]http://l1-pqa.account.sony.com
+[-]exception found, non-existant domain
+[!]http://l1-spint.account.sony.com
+[-]exception found, non-existant domain
+[!]http://link.account.sony.com
+[+]nothing found, you should check!
+[!]http://www.link.account.sony.com
+[-]exception found, non-existant domain
+[!]http://mgmt.account.sony.com
+[-]exception found, non-existant domain
+[!]http://prod-qa.account.sony.com
+[-]exception found, non-existant domain
+[!]http://q1-np.account.sony.com
+[-]exception found, non-existant domain
+[!]http://q1-pmgt.account.sony.com
+[-]exception found, non-existant domain
+[!]http://q1-pqa.account.sony.com
+[-]exception found, non-existant domain
+[!]http://q1-spint.account.sony.com
+[-]exception found, non-existant domain
+[!]http://q2-np.account.sony.com
+[-]exception found, non-existant domain
+[!]http://q2-pmgt.account.sony.com
+[-]exception found, non-existant domain
+[!]http://q2-pqa.account.sony.com
+[-]exception found, non-existant domain
+[!]http://q2-spint.account.sony.com
+[-]exception found, non-existant domain
+[!]http://sp-int.account.sony.com
+[-]exception found, non-existant domain
+[!]http://actioncam.sony.com
+[-]exception found, non-existant domain
+[!]http://adfs.sony.com
+[-]exception found, non-existant domain
+[!]http://am.sony.com
+[-]exception found, non-existant domain
+[!]http://25m-guest-wifi.am.sony.com
+[-]exception found, non-existant domain
+[!]http://25mguestwifi.am.sony.com
+[-]exception found, non-existant domain
+[!]http://3DAudioTest.am.sony.com
+[-]exception found, non-existant domain
+[!]http://3daudiotest.am.sony.com
+[-]exception found, non-existant domain
+[!]http://Amculyncpool01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://Autodiscover.am.sony.com
+[-]exception found, non-existant domain
+[!]http://Citrix.am.sony.com
+[-]exception found, non-existant domain
+[!]http://HGPESM01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://Hybrid.am.sony.com
+[-]exception found, non-existant domain
+[!]http://Hybrid1.am.sony.com
+[-]exception found, non-existant domain
+[!]http://Hybrid2.am.sony.com
+[-]exception found, non-existant domain
+[!]http://Hybrid3.am.sony.com
+[-]exception found, non-existant domain
+[!]http://Hybrid4.am.sony.com
+[-]exception found, non-existant domain
+[!]http://Intramag.am.sony.com
+[-]exception found, non-existant domain
+[!]http://Lyncdiscover.am.sony.com
+[-]exception found, non-existant domain
+[!]http://LyncdiscoverInternal.am.sony.com
+[-]exception found, non-existant domain
+[!]http://Owamail.am.sony.com
+[-]exception found, non-existant domain
+[!]http://SGGDCDD1EM01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USCULARCAPD25V.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USCULARCWEB21DV.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USCULASEGINP01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USCULASEGINP02.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USCULASEGINT01V.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USCULCISEAPP01V.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USCULCISEAPP02V.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USCULEPICAPP01V.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USCULSNDMAIL01V.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USCULSNDMAIL02V.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USCULSNDMAIL03V.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USCULSNDMAIL04V.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USCULSNDMAIL04v.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USCULSQLSS18V.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USCULWEBMSQLD2C.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USCULXCAS01v.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USCULXCAS02v.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USCULXCAS03v.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USCULXCAS04v.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USCULXCAS05v.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USCULXCAS06v.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USCULXCAS07v.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USCULXCAS08v.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USCULXCAS09v.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USCULXCAS10v.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USCULXCAS11v.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USCULXCAS12v.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USCULXCAS13v.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USCULXCAS14v.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USCULXCAS15v.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USCULXCAS16v.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USCULXCAS17v.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USCULXCAS18v.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USCULXCAS19v.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USCULXCAS20v.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USCULXCAS21v.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USCULXCAS22v.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USCULXCASSL02V.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USCULXOFF01v.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USCULXOFF02V.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USCULXOFF03v.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USCULXOFF04v.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USHerSCAKVMFor.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USLANPPORTAL01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USLVEAPE01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USLVEASUS01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USLVEBLD01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USLVEBLD02.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USLVEBLD03.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USLVEBLD04.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USLVEBLD05.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USLVEBLD06.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USLVEBLD07.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USLVEBLD08.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USLVEBLD09.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USLVEBLD10.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USLVEBLD101.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USLVEBLD12.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USLVEBLD13.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USLVEBLD14.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USLVEBLD15.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USLVEBLD16.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USLVECAGCI01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USLVECASPERDEV01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USLVEDRONE01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USLVEJKCI03.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USLVEKJCI01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USLVEKJCI02.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USLVEKJCI03.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USLVEKJCI04.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USLVEMBAM01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USLVEOKTA01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USLVEOPTIMUS01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USLVEQAHDSN01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USLVERESILSYS01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USLVESCNGFRT01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USLVESKYNET01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USLVESLKAPP01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USSDISBLD01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USSDISBLDSL01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USSDISJENKINS02.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USSDISP4WEB01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USSDISPPORTAL01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USSDISQAAT01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USSDISQATSTRNR01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USSDISRB01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://USSFRSBUILD03.am.sony.com
+[-]exception found, non-existant domain
+[!]http://UsculwebmsqlD2C.am.sony.com
+[-]exception found, non-existant domain
+[!]http://Usculyncmedpool.am.sony.com
+[-]exception found, non-existant domain
+[!]http://ah-interim.am.sony.com
+[-]exception found, non-existant domain
+[!]http://ise.auth.am.sony.com
+[-]exception found, non-existant domain
+[!]http://autodiscover.am.sony.com
+[-]exception found, non-existant domain
+[!]http://awspass.am.sony.com
+[-]exception found, non-existant domain
+[!]http://cepap00.am.sony.com
+[-]exception found, non-existant domain
+[!]http://citrix.am.sony.com
+[-]exception found, non-existant domain
+[!]http://confluence.am.sony.com
+[-]exception found, non-existant domain
+[!]http://crashplan.am.sony.com
+[-]exception found, non-existant domain
+[!]http://crpap00.am.sony.com
+[-]exception found, non-existant domain
+[!]http://crpap01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://crpap02.am.sony.com
+[-]exception found, non-existant domain
+[!]http://crpap03.am.sony.com
+[-]exception found, non-existant domain
+[!]http://crpap04.am.sony.com
+[-]exception found, non-existant domain
+[!]http://crpap05.am.sony.com
+[-]exception found, non-existant domain
+[!]http://crwweb.am.sony.com
+[-]exception found, non-existant domain
+[!]http://csrap00.am.sony.com
+[-]exception found, non-existant domain
+[!]http://depap00.am.sony.com
+[-]exception found, non-existant domain
+[!]http://devappnvts1.am.sony.com
+[-]exception found, non-existant domain
+[!]http://directory.am.sony.com
+[-]exception found, non-existant domain
+[!]http://drpap00.am.sony.com
+[-]exception found, non-existant domain
+[!]http://drwweb.am.sony.com
+[-]exception found, non-existant domain
+[!]http://dsrap00.am.sony.com
+[-]exception found, non-existant domain
+[!]http://egrc.am.sony.com
+[-]exception found, non-existant domain
+[!]http://erpm.am.sony.com
+[-]exception found, non-existant domain
+[!]http://erpm-agl.am.sony.com
+[-]exception found, non-existant domain
+[!]http://erpm-b.am.sony.com
+[-]exception found, non-existant domain
+[!]http://erpm-dr.am.sony.com
+[-]exception found, non-existant domain
+[!]http://es-interim.am.sony.com
+[-]exception found, non-existant domain
+[!]http://es-splunk.am.sony.com
+[-]exception found, non-existant domain
+[!]http://grc-portal.am.sony.com
+[-]exception found, non-existant domain
+[!]http://groupoffice.am.sony.com
+[-]exception found, non-existant domain
+[!]http://gsirt-splunk.am.sony.com
+[-]exception found, non-existant domain
+[!]http://gsirtapps.am.sony.com
+[-]exception found, non-existant domain
+[!]http://gsirtapps-bak.am.sony.com
+[-]exception found, non-existant domain
+[!]http://gsirtmon.am.sony.com
+[-]exception found, non-existant domain
+[!]http://gsirtpass.am.sony.com
+[-]exception found, non-existant domain
+[!]http://gsirtss.am.sony.com
+[-]exception found, non-existant domain
+[!]http://iam.am.sony.com
+[-]exception found, non-existant domain
+[!]http://iam-esso.am.sony.com
+[-]exception found, non-existant domain
+[!]http://iam-esso-test.am.sony.com
+[-]exception found, non-existant domain
+[!]http://iam-prov.am.sony.com
+[-]exception found, non-existant domain
+[!]http://iam-wsso-stg.am.sony.com
+[-]exception found, non-existant domain
+[!]http://iam-wsso-test.am.sony.com
+[-]exception found, non-existant domain
+[!]http://iamds-cul.am.sony.com
+[-]exception found, non-existant domain
+[!]http://iamds-sen.am.sony.com
+[-]exception found, non-existant domain
+[!]http://iampwd.am.sony.com
+[-]exception found, non-existant domain
+[!]http://idp.am.sony.com
+[-]exception found, non-existant domain
+[!]http://idp-test.am.sony.com
+[-]exception found, non-existant domain
+[!]http://inbound-sendmail.am.sony.com
+[-]exception found, non-existant domain
+[!]http://inside.am.sony.com
+[-]exception found, non-existant domain
+[!]http://wfc.intranet.am.sony.com
+[-]exception found, non-existant domain
+[!]http://jpjdcaeshx01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://jpjdcaeshx02.am.sony.com
+[-]exception found, non-existant domain
+[!]http://jptknitesm01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://lyncdiscover.am.sony.com
+[-]exception found, non-existant domain
+[!]http://mail.am.sony.com
+[-]exception found, non-existant domain
+[!]http://mxsfeadss01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://mysptaxdev.am.sony.com
+[-]exception found, non-existant domain
+[!]http://nimbus.am.sony.com
+[-]exception found, non-existant domain
+[!]http://nimbus-qa.am.sony.com
+[-]exception found, non-existant domain
+[!]http://office-latin.am.sony.com
+[-]exception found, non-existant domain
+[!]http://opco-splunk.am.sony.com
+[-]exception found, non-existant domain
+[!]http://owa.am.sony.com
+[-]exception found, non-existant domain
+[!]http://owamail.am.sony.com
+[-]exception found, non-existant domain
+[!]http://oxide.am.sony.com
+[-]exception found, non-existant domain
+[!]http://paqman.am.sony.com
+[-]exception found, non-existant domain
+[!]http://dev.paqman.am.sony.com
+[-]exception found, non-existant domain
+[!]http://pepap00.am.sony.com
+[-]exception found, non-existant domain
+[!]http://pod.am.sony.com
+[-]exception found, non-existant domain
+[!]http://prdappredmine01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://prdappxen18.am.sony.com
+[-]exception found, non-existant domain
+[!]http://prdappxen19.am.sony.com
+[-]exception found, non-existant domain
+[!]http://prdappxen20.am.sony.com
+[-]exception found, non-existant domain
+[!]http://prdappxen21.am.sony.com
+[-]exception found, non-existant domain
+[!]http://prdappxen22.am.sony.com
+[-]exception found, non-existant domain
+[!]http://prdappxen23.am.sony.com
+[-]exception found, non-existant domain
+[!]http://prdappxen24.am.sony.com
+[-]exception found, non-existant domain
+[!]http://prdmgtisea03.am.sony.com
+[-]exception found, non-existant domain
+[!]http://prdmgtisea05.am.sony.com
+[-]exception found, non-existant domain
+[!]http://prdmgtisea06.am.sony.com
+[-]exception found, non-existant domain
+[!]http://prdmgtss.am.sony.com
+[-]exception found, non-existant domain
+[!]http://prdmgtss02.am.sony.com
+[-]exception found, non-existant domain
+[!]http://prdmgtss101.am.sony.com
+[-]exception found, non-existant domain
+[!]http://prdxenapp03.am.sony.com
+[-]exception found, non-existant domain
+[!]http://prdxenapp04.am.sony.com
+[-]exception found, non-existant domain
+[!]http://prdxenapp05.am.sony.com
+[-]exception found, non-existant domain
+[!]http://prdxenapp10.am.sony.com
+[-]exception found, non-existant domain
+[!]http://prdxenapp11.am.sony.com
+[-]exception found, non-existant domain
+[!]http://prdxenapp12.am.sony.com
+[-]exception found, non-existant domain
+[!]http://prdxenapp16.am.sony.com
+[-]exception found, non-existant domain
+[!]http://prdxenapp17.am.sony.com
+[-]exception found, non-existant domain
+[!]http://prdxenstf02.am.sony.com
+[-]exception found, non-existant domain
+[!]http://prdxenstf03.am.sony.com
+[-]exception found, non-existant domain
+[!]http://prpap00.am.sony.com
+[-]exception found, non-existant domain
+[!]http://prpap01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://prpap02.am.sony.com
+[-]exception found, non-existant domain
+[!]http://prpap03.am.sony.com
+[-]exception found, non-existant domain
+[!]http://prpap04.am.sony.com
+[-]exception found, non-existant domain
+[!]http://prpap05.am.sony.com
+[-]exception found, non-existant domain
+[!]http://prpap06.am.sony.com
+[-]exception found, non-existant domain
+[!]http://prpap07.am.sony.com
+[-]exception found, non-existant domain
+[!]http://prpap08.am.sony.com
+[-]exception found, non-existant domain
+[!]http://prpap09.am.sony.com
+[-]exception found, non-existant domain
+[!]http://prpap10.am.sony.com
+[-]exception found, non-existant domain
+[!]http://prpap11.am.sony.com
+[-]exception found, non-existant domain
+[!]http://prwweb.am.sony.com
+[-]exception found, non-existant domain
+[!]http://ps.am.sony.com
+[-]exception found, non-existant domain
+[!]http://PRDMGTAZEXPC01.ps.am.sony.com
+[-]exception found, non-existant domain
+[!]http://PRDMGTAZTFTP01.ps.am.sony.com
+[-]exception found, non-existant domain
+[!]http://PRDMGTBPCMSUB02.ps.am.sony.com
+[-]exception found, non-existant domain
+[!]http://PRDMGTSVCMSUB03.ps.am.sony.com
+[-]exception found, non-existant domain
+[!]http://PRDMGTSVCMSUB04.ps.am.sony.com
+[-]exception found, non-existant domain
+[!]http://PRDMGTSVTFTP01.ps.am.sony.com
+[-]exception found, non-existant domain
+[!]http://RDMGTSVCMPUB01.ps.am.sony.com
+[-]exception found, non-existant domain
+[!]http://conference-2-SIEA.ps.am.sony.com
+[-]exception found, non-existant domain
+[!]http://conference-2-StandAloneCluster9b124.ps.am.sony.com
+[-]exception found, non-existant domain
+[!]http://conference-3-SIEA.ps.am.sony.com
+[-]exception found, non-existant domain
+[!]http://conference-3-StandAloneCluster9b124.ps.am.sony.com
+[-]exception found, non-existant domain
+[!]http://grcdev.ps.am.sony.com
+[-]exception found, non-existant domain
+[!]http://hyperiondev.ps.am.sony.com
+[-]exception found, non-existant domain
+[!]http://hyperiondev2.ps.am.sony.com
+[-]exception found, non-existant domain
+[!]http://hyperionprod.ps.am.sony.com
+[-]exception found, non-existant domain
+[!]http://hyperionprod2.ps.am.sony.com
+[-]exception found, non-existant domain
+[!]http://hyperiontest.ps.am.sony.com
+[-]exception found, non-existant domain
+[!]http://hyperiontest2.ps.am.sony.com
+[-]exception found, non-existant domain
+[!]http://prdappgsa01.ps.am.sony.com
+[-]exception found, non-existant domain
+[!]http://prdmgtazcmsub05.ps.am.sony.com
+[-]exception found, non-existant domain
+[!]http://prdmgtazcmsub06.ps.am.sony.com
+[-]exception found, non-existant domain
+[!]http://prdmgtazimp01.ps.am.sony.com
+[-]exception found, non-existant domain
+[!]http://prdmgtsvimp02.ps.am.sony.com
+[-]exception found, non-existant domain
+[!]http://srmpre.ps.am.sony.com
+[-]exception found, non-existant domain
+[!]http://srmqa.ps.am.sony.com
+[-]exception found, non-existant domain
+[!]http://pscitrix.am.sony.com
+[-]exception found, non-existant domain
+[!]http://psrap00.am.sony.com
+[-]exception found, non-existant domain
+[!]http://pssr-jenkins.am.sony.com
+[-]exception found, non-existant domain
+[!]http://qas-poc.am.sony.com
+[-]exception found, non-existant domain
+[!]http://qepap00.am.sony.com
+[-]exception found, non-existant domain
+[!]http://qrpap00.am.sony.com
+[-]exception found, non-existant domain
+[!]http://qrpap01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://qrpap02.am.sony.com
+[-]exception found, non-existant domain
+[!]http://qrpap03.am.sony.com
+[-]exception found, non-existant domain
+[!]http://qrwweb.am.sony.com
+[-]exception found, non-existant domain
+[!]http://qsrap00.am.sony.com
+[-]exception found, non-existant domain
+[!]http://remedy.am.sony.com
+[-]exception found, non-existant domain
+[!]http://repository.am.sony.com
+[-]exception found, non-existant domain
+[!]http://scasecurityportal.am.sony.com
+[-]exception found, non-existant domain
+[!]http://scasp.am.sony.com
+[-]exception found, non-existant domain
+[!]http://test.scasp.am.sony.com
+[-]exception found, non-existant domain
+[!]http://sd1-fwx-c01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://sftp-ss.am.sony.com
+[-]exception found, non-existant domain
+[!]http://sggdceaeshx01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://sip.am.sony.com
+[-]exception found, non-existant domain
+[!]http://sm-recap.am.sony.com
+[-]exception found, non-existant domain
+[!]http://smefdm11prod.am.sony.com
+[-]exception found, non-existant domain
+[!]http://snei.am.sony.com
+[-]exception found, non-existant domain
+[!]http://my.snei.am.sony.com
+[-]exception found, non-existant domain
+[!]http://spappq.am.sony.com
+[-]exception found, non-existant domain
+[!]http://sparkulinux.am.sony.com
+[-]exception found, non-existant domain
+[!]http://spe-ext.am.sony.com
+[-]exception found, non-existant domain
+[!]http://spe-splunk.am.sony.com
+[-]exception found, non-existant domain
+[!]http://sps.am.sony.com
+[-]exception found, non-existant domain
+[!]http://sps13.am.sony.com
+[-]exception found, non-existant domain
+[!]http://sps13-qa.am.sony.com
+[-]exception found, non-existant domain
+[!]http://sps13stub-qa.am.sony.com
+[-]exception found, non-existant domain
+[!]http://sptaxdev.am.sony.com
+[-]exception found, non-existant domain
+[!]http://sqash.am.sony.com
+[-]exception found, non-existant domain
+[!]http://sqashdev.am.sony.com
+[-]exception found, non-existant domain
+[!]http://sra.am.sony.com
+[-]exception found, non-existant domain
+[!]http://stgappxen01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://stgddcxen01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://stgstfxen01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://support.am.sony.com
+[-]exception found, non-existant domain
+[!]http://swlundsmehx01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://swlundsomchx01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://toolbox01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://tst-ext.am.sony.com
+[-]exception found, non-existant domain
+[!]http://tstappcode4201.am.sony.com
+[-]exception found, non-existant domain
+[!]http://ubesua721.am.sony.com
+[-]exception found, non-existant domain
+[!]http://ucdbwp01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://ukrhaeshx01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://ukrhnitesm01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://usashsqllie01v.am.sony.com
+[-]exception found, non-existant domain
+[!]http://usashsqllie02v.am.sony.com
+[-]exception found, non-existant domain
+[!]http://usculaeshx.am.sony.com
+[-]exception found, non-existant domain
+[!]http://usculamaginp07v.am.sony.com
+[-]exception found, non-existant domain
+[!]http://usculamaginp08v.am.sony.com
+[-]exception found, non-existant domain
+[!]http://uscularcapd25v.am.sony.com
+[-]exception found, non-existant domain
+[!]http://uscularcapp24dv.am.sony.com
+[-]exception found, non-existant domain
+[!]http://uscularchwbp02v.am.sony.com
+[-]exception found, non-existant domain
+[!]http://uscularcsqld01v.am.sony.com
+[-]exception found, non-existant domain
+[!]http://uscularcweb02v.am.sony.com
+[-]exception found, non-existant domain
+[!]http://uscularcweb03v.am.sony.com
+[-]exception found, non-existant domain
+[!]http://uscularcweb11qv.am.sony.com
+[-]exception found, non-existant domain
+[!]http://usculaseginp03v.am.sony.com
+[-]exception found, non-existant domain
+[!]http://usculaseginp04v.am.sony.com
+[-]exception found, non-existant domain
+[!]http://usculcaasql01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://usculciseapp01v.am.sony.com
+[-]exception found, non-existant domain
+[!]http://usculciseapp02v.am.sony.com
+[-]exception found, non-existant domain
+[!]http://usculepomast01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://usculfemgt01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://usculfltpmo01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://usculfltpmo02.am.sony.com
+[-]exception found, non-existant domain
+[!]http://usculgdcwcrits01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://usculnitesm2a.am.sony.com
+[-]exception found, non-existant domain
+[!]http://usculoffapp.am.sony.com
+[-]exception found, non-existant domain
+[!]http://usculoffapp-dev.am.sony.com
+[-]exception found, non-existant domain
+[!]http://usculoffapp-qa.am.sony.com
+[-]exception found, non-existant domain
+[!]http://usculofftxd01v.am.sony.com
+[-]exception found, non-existant domain
+[!]http://usculpaqmapp01v.am.sony.com
+[-]exception found, non-existant domain
+[!]http://usculpaqmapp02v.am.sony.com
+[-]exception found, non-existant domain
+[!]http://usculpaqmapp03v.am.sony.com
+[-]exception found, non-existant domain
+[!]http://usculpaqmapp04v.am.sony.com
+[-]exception found, non-existant domain
+[!]http://usculpaqmapp05v.am.sony.com
+[-]exception found, non-existant domain
+[!]http://usculpmo-vip.am.sony.com
+[-]exception found, non-existant domain
+[!]http://usculpmo01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://usculremtw01v.am.sony.com
+[-]exception found, non-existant domain
+[!]http://usculrsa01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://usculrsa02.am.sony.com
+[-]exception found, non-existant domain
+[!]http://usculscajump01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://usculsmehx01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://usculsndmail01v.am.sony.com
+[-]exception found, non-existant domain
+[!]http://usculsndmail02v.am.sony.com
+[-]exception found, non-existant domain
+[!]http://usculsndmail03v.am.sony.com
+[-]exception found, non-existant domain
+[!]http://usculsndmail04v.am.sony.com
+[-]exception found, non-existant domain
+[!]http://usculsolwapp01v.am.sony.com
+[-]exception found, non-existant domain
+[!]http://usculsqllie01v.am.sony.com
+[-]exception found, non-existant domain
+[!]http://usculsqllie02v.am.sony.com
+[-]exception found, non-existant domain
+[!]http://usculsqsh01pv.am.sony.com
+[-]exception found, non-existant domain
+[!]http://uscultaxapp04v.am.sony.com
+[-]exception found, non-existant domain
+[!]http://uscultrp01v.am.sony.com
+[-]exception found, non-existant domain
+[!]http://usculvagdcwccsg01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://usculvordsm01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://usculvordsm02.am.sony.com
+[-]exception found, non-existant domain
+[!]http://usculwebmsqld2c.am.sony.com
+[-]exception found, non-existant domain
+[!]http://usculwebmsqlp2c.am.sony.com
+[-]exception found, non-existant domain
+[!]http://usculwinjmp01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://usculyncavpool.am.sony.com
+[-]exception found, non-existant domain
+[!]http://usculyncedg.am.sony.com
+[-]exception found, non-existant domain
+[!]http://usculyncfe01v.am.sony.com
+[-]exception found, non-existant domain
+[!]http://usculyncfe02v.am.sony.com
+[-]exception found, non-existant domain
+[!]http://usculyncfe03v.am.sony.com
+[-]exception found, non-existant domain
+[!]http://usculyncfe04v.am.sony.com
+[-]exception found, non-existant domain
+[!]http://usculyncmed01v.am.sony.com
+[-]exception found, non-existant domain
+[!]http://usculyncmed02v.am.sony.com
+[-]exception found, non-existant domain
+[!]http://usculzlarc.am.sony.com
+[-]exception found, non-existant domain
+[!]http://usfcsvn01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://usherfemas01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://ushergitlabdev01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://ushervaepo01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://ushervagitlab01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://ushervajira01p.am.sony.com
+[-]exception found, non-existant domain
+[!]http://ushervawatchlist01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://uslanpportal01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://uslveadclb01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://uslveape01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://uslveappli01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://uslveasus01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://uslvebld01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://uslvebld02.am.sony.com
+[-]exception found, non-existant domain
+[!]http://uslvebld03.am.sony.com
+[-]exception found, non-existant domain
+[!]http://uslvebld04.am.sony.com
+[-]exception found, non-existant domain
+[!]http://uslvebld06.am.sony.com
+[-]exception found, non-existant domain
+[!]http://uslvebld07.am.sony.com
+[-]exception found, non-existant domain
+[!]http://uslvebld08.am.sony.com
+[-]exception found, non-existant domain
+[!]http://uslvebld09.am.sony.com
+[-]exception found, non-existant domain
+[!]http://uslvebld10.am.sony.com
+[-]exception found, non-existant domain
+[!]http://uslvebld101.am.sony.com
+[-]exception found, non-existant domain
+[!]http://uslvebld11.am.sony.com
+[-]exception found, non-existant domain
+[!]http://uslvebld12.am.sony.com
+[-]exception found, non-existant domain
+[!]http://uslvebld13.am.sony.com
+[-]exception found, non-existant domain
+[!]http://uslvebld14.am.sony.com
+[-]exception found, non-existant domain
+[!]http://uslvebld16.am.sony.com
+[-]exception found, non-existant domain
+[!]http://uslvecagci01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://uslvecasper01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://uslvedrone01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://uslveghepolicy01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://uslvegrnkpr01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://uslvekjci01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://uslvekjci02.am.sony.com
+[-]exception found, non-existant domain
+[!]http://uslvekjci03.am.sony.com
+[-]exception found, non-existant domain
+[!]http://uslvekjci04.am.sony.com
+[-]exception found, non-existant domain
+[!]http://uslveoptimus01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://uslveqahdsn01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://uslvesarchint01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://uslvescngfrt01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://uslveskynet01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://uslvespdevapp02.am.sony.com
+[-]exception found, non-existant domain
+[!]http://uslvespprdapp01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://uslvespqaowa01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://uslvespstgapp01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://uslvespwtrapp01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://uslvetableau01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://uslveuxweb01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://usmadgit.am.sony.com
+[-]exception found, non-existant domain
+[!]http://usmadgit01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://usnvlvsneihx01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://usphxspe-hxi01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://ussdisbld01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://ussdisbld02.am.sony.com
+[-]exception found, non-existant domain
+[!]http://ussdisbld03.am.sony.com
+[-]exception found, non-existant domain
+[!]http://ussdisbld04.am.sony.com
+[-]exception found, non-existant domain
+[!]http://ussdisbld05.am.sony.com
+[-]exception found, non-existant domain
+[!]http://ussdisbldsl01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://ussdisjenkins01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://ussdisjenkins02.am.sony.com
+[-]exception found, non-existant domain
+[!]http://ussdisokta01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://ussdisp4web01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://ussdispgp01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://ussdisqaat01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://ussdisqahdsn01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://ussdisqatstrnr01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://ussdisrb01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://ussdisweb01.am.sony.com
+[-]exception found, non-existant domain
+[!]http://ussfrsbuild02.am.sony.com
+[-]exception found, non-existant domain
+[!]http://wolftrack.am.sony.com
+[-]exception found, non-existant domain
+[!]http://ap.sony.com
+[-]exception found, non-existant domain
+[!]http://www.ap.sony.com
+[-]exception found, non-existant domain
+[!]http://APOCSpool01.ap.sony.com
+[-]exception found, non-existant domain
+[!]http://Lyncdiscover.ap.sony.com
+[-]exception found, non-existant domain
+[!]http://LyncdiscoverInternal.ap.sony.com
+[-]exception found, non-existant domain
+[!]http://SGAPOCS01.ap.sony.com
+[-]exception found, non-existant domain
+[!]http://SGAPOCS02.ap.sony.com
+[-]exception found, non-existant domain
+[!]http://SGAPOCS03.ap.sony.com
+[-]exception found, non-existant domain
+[!]http://av.ap.sony.com
+[-]exception found, non-existant domain
+[!]http://content.ap.sony.com
+[-]exception found, non-existant domain
+[!]http://www.css.ap.sony.com
+[-]exception found, non-existant domain
+[!]http://download.css.ap.sony.com
+[-]exception found, non-existant domain
+[!]http://www.thsupport.css.ap.sony.com
+[-]exception found, non-existant domain
+[!]http://erpm-dr.ap.sony.com
+[-]exception found, non-existant domain
+[!]http://ice.ap.sony.com
+[-]exception found, non-existant domain
+[!]http://ls15.ap.sony.com
+[-]exception found, non-existant domain
+[!]http://autodiscover.ls15.ap.sony.com
+[-]exception found, non-existant domain
+[!]http://dialin.ls15.ap.sony.com
+[-]exception found, non-existant domain
+[!]http://ls15se01.ls15.ap.sony.com
+[-]exception found, non-existant domain
+[!]http://lync2013ap.ls15.ap.sony.com
+[-]exception found, non-existant domain
+[!]http://lync2013dp.ls15.ap.sony.com
+[-]exception found, non-existant domain
+[!]http://lync2013pooldrwebservices.ls15.ap.sony.com
+[-]exception found, non-existant domain
+[!]http://lync2013poolwebservices.ls15.ap.sony.com
+[-]exception found, non-existant domain
+[!]http://lyncdiscover.ls15.ap.sony.com
+[-]exception found, non-existant domain
+[!]http://mail.ls15.ap.sony.com
+[-]exception found, non-existant domain
+[!]http://meet.ls15.ap.sony.com
+[-]exception found, non-existant domain
+[!]http://office2013webapps.ls15.ap.sony.com
+[-]exception found, non-existant domain
+[!]http://sip.ls15.ap.sony.com
+[-]exception found, non-existant domain
+[!]http://access.lyncpoc.ap.sony.com
+[-]exception found, non-existant domain
+[!]http://sip.lyncpoc.ap.sony.com
+[-]exception found, non-existant domain
+[!]http://webconf.lyncpoc.ap.sony.com
+[-]exception found, non-existant domain
+[!]http://meet.ap.sony.com
+[-]exception found, non-existant domain
+[!]http://mysony.ap.sony.com
+[+]403 Forbidden
+[!]http://ns1.ap.sony.com
+[-]exception found, non-existant domain
+[!]http://oriss.ap.sony.com
+[-]exception found, non-existant domain
+[!]http://www.oriss.ap.sony.com
+[-]exception found, non-existant domain
+[!]http://sdw.ap.sony.com
+[+]403 Forbidden
+[!]http://sip.ap.sony.com
+[-]exception found, non-existant domain
+[!]http://sipfed.ap.sony.com
+[-]exception found, non-existant domain
+[!]http://smap.ap.sony.com
+[-]exception found, non-existant domain
+[!]http://www.smap.ap.sony.com
+[-]exception found, non-existant domain
+[!]http://autodiscover.sony.com
+[-]exception found, non-existant domain
+[!]http://aws-preview-production-pdp.sony.com
+[+]nothing found, you should check!
+[!]http://b2b.sony.com
+[-]exception found, non-existant domain
+[!]http://b2bqa.sony.com
+[-]exception found, non-existant domain
+[!]http://blog.sony.com
+-->Sony
+[!]http://ces.blog.sony.com
+-->CES 2018 | Sony
+[!]http://dev.blog.sony.com
+[-]exception found, non-existant domain
+[!]http://qa.blog.sony.com
+[-]exception found, non-existant domain
+[!]http://bookstore.sony.com
+[+]Reader Store is Closed.
+[!]http://www.bpla.sony.com
+[-]exception found, non-existant domain
+[!]http://careers.sony.com
+[-]exception found, non-existant domain
+[!]http://cdn.sony.com
+[-]exception found, non-existant domain
+[!]http://www.cierge.sony.com
+-->Consumer Electronics | Sony US
+[!]http://cnmqa.sony.com
+[-]exception found, non-existant domain
+[!]http://community.sony.com
+[+]Home - the Community
+[!]http://www.community.sony.com
+[+]Home - the Community
+[!]http://www.cs3.sony.com
+[-]exception found, non-existant domain
+[!]http://csbd.sony.com
+-->Latest Component Solutions News | Sony Component Solutions Business Division
+[!]http://csx.sony.com
+[-]exception found, non-existant domain
+[!]http://cds.csx.sony.com
+[+]nothing found, you should check!
+[!]http://mds.csx.sony.com
+[+]nothing found, you should check!
+[!]http://sip.dadc.sony.com
+[-]exception found, non-existant domain
+[!]http://developer.sony.com
+-->Front page - Sony Developer World
+[!]http://android.developer.sony.com
+-->Front page - Sony Developer World
+[!]http://camera.developer.sony.com
+-->Front page - Sony Developer World
+[!]http://cebpartner.developer.sony.com
+[+]CEB Partner Site
+[!]http://code.developer.sony.com
+[+]403 Forbidden
+[!]http://cs.developer.sony.com
+[-]exception found, non-existant domain
+[!]http://dev.developer.sony.com
+[+]404 Not Found
+[!]http://dl.developer.sony.com
+[+]nothing found, you should check!
+[!]http://dl-dev.developer.sony.com
+[+]nothing found, you should check!
+[!]http://dl-stage.developer.sony.com
+[+]nothing found, you should check!
+[!]http://draft.developer.sony.com
+[+]404 Not Found
+[!]http://draft-dev.developer.sony.com
+[+]404 Not Found
+[!]http://draft-stage.developer.sony.com
+[+]404 Not Found
+[!]http://es.developer.sony.com
+[+]403 Forbidden
+[!]http://partner.developer.sony.com
+[+]nothing found, you should check!
+[!]http://qa.developer.sony.com
+[-]exception found, non-existant domain
+[!]http://android.qa.developer.sony.com
+[-]exception found, non-existant domain
+[!]http://service.qa.developer.sony.com
+[-]exception found, non-existant domain
+[!]http://res.developer.sony.com
+[-]exception found, non-existant domain
+[!]http://service.developer.sony.com
+-->Front page - Sony Developer World
+[!]http://stage.developer.sony.com
+[+]404 Not Found
+[!]http://static.developer.sony.com
+[-]exception found, non-existant domain
+[!]http://static-dev.developer.sony.com
+[-]exception found, non-existant domain
+[!]http://static-stage.developer.sony.com
+[-]exception found, non-existant domain
+[!]http://wp.developer.sony.com
+[+]404 Not Found
+[!]http://wp-dev.developer.sony.com
+[+]404 Not Found
+[!]http://wp-stage.developer.sony.com
+[+]404 Not Found
+[!]http://us.digitalcinema.sony.com
+[+]nothing found, you should check!
+[!]http://direct.sony.com
+-->Direct.Sony.com
+[!]http://dl.sony.com
+[+]Neural Network Console
+[!]http://blog.dl.sony.com
+[+]SUPPORT - Neural Network Console
+[!]http://console-api.dl.sony.com
+[+]nothing found, you should check!
+[!]http://getconsole.dl.sony.com
+[+]nothing found, you should check!
+[!]http://support.dl.sony.com
+[+]SUPPORT - Neural Network Console
+[!]http://docs.sony.com
+-->Sony eSupport - Manuals &amp; Specs - Select a Model
+[!]http://www.docs.sony.com
+-->Sony eSupport - Manuals &amp; Specs - Select a Model
+[!]http://download.sony.com
+-->Sony eSupport - Software Update
+[!]http://s02.download.sony.com
+-->Sony eSupport - Software Update
+[!]http://ebook.sony.com
+[+]Reader Store is Closed.
+[!]http://www.ebooks.sony.com
+[+]Reader Store is Closed.
+[!]http://www.ebooksstore.sony.com
+[+]Reader Store is Closed.
+[!]http://ebookstore.sony.com
+[+]Reader Store is Closed.
+[!]http://www.ebookstore.sony.com
+[+]Reader Store is Closed.
+[!]http://direct.ebookstore.sony.com
+[-]exception found, non-existant domain
+[!]http://lu.ebookstore.sony.com
+[+]Reader Store is Closed.
+[!]http://ebridge.sony.com
+[-]exception found, non-existant domain
+[!]http://analytics.ebridge.sony.com
+[-]exception found, non-existant domain
+[!]http://us.ebridge.sony.com
+[-]exception found, non-existant domain
+[!]http://eduqa.sony.com
+[-]exception found, non-existant domain
+[!]http://enterpriseqa.sony.com
+[-]exception found, non-existant domain
+[!]http://eservice.sony.com
+-->Sony eSupport - Electronics - Service &amp; Repair
+[!]http://totqa.eservice.sony.com
+[-]exception found, non-existant domain
+[!]http://eserviceprod.sony.com
+[-]exception found, non-existant domain
+[!]http://esupport.sony.com
+-->Sony eSupport - Electronics
+[!]http://www.esupport.sony.com
+-->Sony eSupport - Electronics
+[!]http://S01.esupport.sony.com
+[-]exception found, non-existant domain
+[!]http://admin.esupport.sony.com
+[-]exception found, non-existant domain
+[!]http://content.esupport.sony.com
+[+]nothing found, you should check!
+[!]http://dev.esupport.sony.com
+[-]exception found, non-existant domain
+[!]http://docs.esupport.sony.com
+[+]nothing found, you should check!
+[!]http://qa.esupport.sony.com
+[-]exception found, non-existant domain
+[!]http://s01.esupport.sony.com
+[-]exception found, non-existant domain
+[!]http://stage.esupport.sony.com
+[-]exception found, non-existant domain
+[!]http://ets.sony.com
+[-]exception found, non-existant domain
+[!]http://eu.sony.com
+[-]exception found, non-existant domain
+[!]http://CWA.eu.sony.com
+[-]exception found, non-existant domain
+[!]http://AS.CWA.eu.sony.com
+[-]exception found, non-existant domain
+[!]http://DOWNLOAD.CWA.eu.sony.com
+[-]exception found, non-existant domain
+[!]http://EUBASOCS1.eu.sony.com
+[-]exception found, non-existant domain
+[!]http://EUBASOCS2.eu.sony.com
+[-]exception found, non-existant domain
+[!]http://EUBASOCWA1.eu.sony.com
+[-]exception found, non-existant domain
+[!]http://EUBASODIR1.eu.sony.com
+[-]exception found, non-existant domain
+[!]http://EUBASOEDG.eu.sony.com
+[-]exception found, non-existant domain
+[!]http://EUOCSPOOL1.eu.sony.com
+[-]exception found, non-existant domain
+[!]http://GB-BAS-VC-VBP-01.eu.sony.com
+[-]exception found, non-existant domain
+[!]http://GB-WEY-VC-VBP-01.eu.sony.com
+[-]exception found, non-existant domain
+[!]http://GlobalRAS.eu.sony.com
+[-]exception found, non-existant domain
+[!]http://Intergatep.eu.sony.com
+[-]exception found, non-existant domain
+[!]http://Lyncdiscover.eu.sony.com
+[-]exception found, non-existant domain
+[!]http://LyncdiscoverInternal.eu.sony.com
+[-]exception found, non-existant domain
+[!]http://OCSAV.eu.sony.com
+[-]exception found, non-existant domain
+[!]http://OCSCONF.eu.sony.com
+[-]exception found, non-existant domain
+[!]http://OCSMEETINGS.eu.sony.com
+[-]exception found, non-existant domain
+[!]http://adfs.eu.sony.com
+[-]exception found, non-existant domain
+[!]http://www.adfs.eu.sony.com
+[-]exception found, non-existant domain
+[!]http://cevmnt185.eu.sony.com
+[-]exception found, non-existant domain
+[!]http://collabedge.eu.sony.com
+[-]exception found, non-existant domain
+[!]http://cwa.eu.sony.com
+[-]exception found, non-existant domain
+[!]http://as.cwa.eu.sony.com
+[-]exception found, non-existant domain
+[!]http://download.cwa.eu.sony.com
+[-]exception found, non-existant domain
+[!]http://uat.ecat.eu.sony.com
+[-]exception found, non-existant domain
+[!]http://eubasocs1.eu.sony.com
+[-]exception found, non-existant domain
+[!]http://eubasocs2.eu.sony.com
+[-]exception found, non-existant domain
+[!]http://eubasocwa1.eu.sony.com
+[-]exception found, non-existant domain
+[!]http://eubasodir1.eu.sony.com
+[-]exception found, non-existant domain
+[!]http://eubasoedg.eu.sony.com
+[-]exception found, non-existant domain
+[!]http://euocspool1.eu.sony.com
+[-]exception found, non-existant domain
+[!]http://www.gb-bas-vc-vbp-01.eu.sony.com
+[-]exception found, non-existant domain
+[!]http://www.gb-wey-vc-vbp-01.eu.sony.com
+[-]exception found, non-existant domain
+[!]http://gbwwsldnapp36.eu.sony.com
+[-]exception found, non-existant domain
+[!]http://www.globalras.eu.sony.com
+[-]exception found, non-existant domain
+[!]http://intergatet.eu.sony.com
+[-]exception found, non-existant domain
+[!]http://join.eu.sony.com
+[-]exception found, non-existant domain
+[!]http://keys.eu.sony.com
+[-]exception found, non-existant domain
+[!]http://meet.eu.sony.com
+[-]exception found, non-existant domain
+[!]http://ocsav.eu.sony.com
+[-]exception found, non-existant domain
+[!]http://ocsconf.eu.sony.com
+[-]exception found, non-existant domain
+[!]http://ocsmeetings.eu.sony.com
+[-]exception found, non-existant domain
+[!]http://pic.eu.sony.com
+[-]exception found, non-existant domain
+[!]http://cevmnt185.servers.sce.eu.sony.com
+[-]exception found, non-existant domain
+[!]http://mdmadmin.siee.eu.sony.com
+[-]exception found, non-existant domain
+[!]http://mdmds.siee.eu.sony.com
+[-]exception found, non-existant domain
+[!]http://sip.eu.sony.com
+[-]exception found, non-existant domain
+[!]http://sipfed.eu.sony.com
+[-]exception found, non-existant domain
+[!]http://snyvcwmsa1.eu.sony.com
+[-]exception found, non-existant domain
+[!]http://snyvcwmsa2.eu.sony.com
+[-]exception found, non-existant domain
+[!]http://snyvcwmsm1.eu.sony.com
+[-]exception found, non-existant domain
+[!]http://snyvcwmsm2.eu.sony.com
+[-]exception found, non-existant domain
+[!]http://snyvvcse1.eu.sony.com
+[-]exception found, non-existant domain
+[!]http://snyvvcse2.eu.sony.com
+[-]exception found, non-existant domain
+[!]http://test-adfs.eu.sony.com
+[-]exception found, non-existant domain
+[!]http://www.test-adfs.eu.sony.com
+[-]exception found, non-existant domain
+[!]http://webconf.eu.sony.com
+[-]exception found, non-existant domain
+[!]http://webconfadmin.eu.sony.com
+[-]exception found, non-existant domain
+[!]http://usbmasweb05.eworkplace.sony.com
+[-]exception found, non-existant domain
+[!]http://usbmasweb12.eworkplace.sony.com
+[-]exception found, non-existant domain
+[!]http://usbmasweb13.eworkplace.sony.com
+[-]exception found, non-existant domain
+[!]http://experience.sony.com
+[-]exception found, non-existant domain
+[!]http://piratessweeps.experience.sony.com
+[+]IIS7
+[!]http://smsweeps.experience.sony.com
+[-]exception found, non-existant domain
+[!]http://stg.experience.sony.com
+[-]exception found, non-existant domain
+[!]http://surveysweeps.experience.sony.com
+[-]exception found, non-existant domain
+[!]http://unchartedsweeps.experience.sony.com
+[-]exception found, non-existant domain
+[!]http://expressnet.sony.com
+-->Sony - Logon
+[!]http://expressnetqa.sony.com
+[-]exception found, non-existant domain
+[!]http://expressnetstg.sony.com
+[-]exception found, non-existant domain
+[!]http://familycenter.sony.com
+[+]Family Center US
+[!]http://first-flight.sony.com
+[+]First Flight
+[!]http://go.sony.com
+[+]Branded Short Domain Powered by Bitly
+[!]http://grc-portal.sony.com
+[-]exception found, non-existant domain
+[!]http://hrconnect.sony.com
+-->Sony Login
+[!]http://int.sony.com
+[-]exception found, non-existant domain
+[!]http://intqa.sony.com
+[-]exception found, non-existant domain
+[!]http://jp.sony.com
+[-]exception found, non-existant domain
+[!]http://Lyncdiscover.jp.sony.com
+[-]exception found, non-existant domain
+[!]http://LyncdiscoverInternal.jp.sony.com
+[-]exception found, non-existant domain
+[!]http://dialin.jp.sony.com
+[-]exception found, non-existant domain
+[!]http://lyncdiscover.jp.sony.com
+[-]exception found, non-existant domain
+[!]http://lyncwebext.jp.sony.com
+[-]exception found, non-existant domain
+[!]http://meet.jp.sony.com
+[-]exception found, non-existant domain
+[!]http://sip.jp.sony.com
+[-]exception found, non-existant domain
+[!]http://sipfed.jp.sony.com
+[-]exception found, non-existant domain
+[!]http://kb.sony.com
+[-]exception found, non-existant domain
+[!]http://br.en.kb.sony.com
+-->SONY | eSupport - Find Answers
+[!]http://ca.en.kb.sony.com
+-->SONY | eSupport - Find Answers
+[!]http://la.en.kb.sony.com
+-->SONY | eSupport - Find Answers
+[!]http://us.en.kb.sony.com
+-->SONY | eSupport - Find Answers
+[!]http://la.es.kb.sony.com
+-->SONY | eSupport - Buscar respuestas
+[!]http://us.es.kb.sony.com
+-->SONY | eSupport - Buscar respuestas
+[!]http://ca.fr.kb.sony.com
+[-]exception found, non-existant domain
+[!]http://br.pt.kb.sony.com
+-->SONY | eSupport - Localizar Respostas
+[!]http://rn.kb.sony.com
+[-]exception found, non-existant domain
+[!]http://lifelog.sony.com
+[+]400 Bad Request
+[!]http://lyncdiscover.sony.com
+[-]exception found, non-existant domain
+[!]http://mailflow.sony.com
+[-]exception found, non-existant domain
+[!]http://mediago.sony.com
+-->Features - Media Go - Sony Network Entertainment
+[!]http://meet.sony.com
+[-]exception found, non-existant domain
+[!]http://prod.messagecenter.sony.com
+[+]nothing found, you should check!
+[!]http://www.prod.messagecenter.sony.com
+[-]exception found, non-existant domain
+[!]http://test.messagecenter.sony.com
+[-]exception found, non-existant domain
+[!]http://www.test.messagecenter.sony.com
+[-]exception found, non-existant domain
+[!]http://metrics.sony.com
+[+]nothing found, you should check!
+[!]http://motivation.sony.com
+[-]exception found, non-existant domain
+[!]http://my.sony.com
+[-]exception found, non-existant domain
+[!]http://www.myhomemanager.sony.com
+[-]exception found, non-existant domain
+[!]http://catonwhale.myhomemanager.sony.com
+[+]nothing found, you should check!
+[!]http://elog.mylog.sony.com
+[-]exception found, non-existant domain
+[!]http://elog-ids.mylog.sony.com
+[-]exception found, non-existant domain
+[!]http://elog-idstest.mylog.sony.com
+[-]exception found, non-existant domain
+[!]http://elog-wss.mylog.sony.com
+[-]exception found, non-existant domain
+[!]http://ns1.sony.com
+[-]exception found, non-existant domain
+[!]http://ns21.sony.com
+[-]exception found, non-existant domain
+[!]http://ns22.sony.com
+[-]exception found, non-existant domain
+[!]http://ns3.sony.com
+[-]exception found, non-existant domain
+[!]http://ns5.sony.com
+[-]exception found, non-existant domain
+[!]http://pet-pdp.sony.com
+[+]nothing found, you should check!
+[!]http://philatelist.sony.com
+[-]exception found, non-existant domain
+[!]http://www.philatelist.sony.com
+[-]exception found, non-existant domain
+[!]http://metasan.playstation.sony.com
+[-]exception found, non-existant domain
+[!]http://quarantine.playstation.sony.com
+[-]exception found, non-existant domain
+[!]http://www.quarantine.playstation.sony.com
+[-]exception found, non-existant domain
+[!]http://vpn.playstation.sony.com
+[-]exception found, non-existant domain
+[!]http://work.playstation.sony.com
+[-]exception found, non-existant domain
+[!]http://www.work.playstation.sony.com
+[-]exception found, non-existant domain
+[!]http://store.pmsq.sony.com
+[-]exception found, non-existant domain
+[!]http://www.store.pmsq.sony.com
+[-]exception found, non-existant domain
+[!]http://pr.sony.com
+[-]exception found, non-existant domain
+[!]http://pre.sony.com
+[-]exception found, non-existant domain
+[!]http://preqa.sony.com
+[-]exception found, non-existant domain
+[!]http://preview-production-pdp.sony.com
+[+]nothing found, you should check!
+[!]http://preview-uat-pdp.sony.com
+[+]nothing found, you should check!
+[!]http://pro.sony.com
+[+]nothing found, you should check!
+[!]http://m.info.pro.sony.com
+[+]404
+[!]http://res.info.pro.sony.com
+[+]404
+[!]http://t.info.pro.sony.com
+[+]404
+[!]http://production-pdp.sony.com
+[+]nothing found, you should check!
+[!]http://productregistration.sony.com
+-->Register a Product (US) | Sony Product Registration
+[!]http://www.productregistration.sony.com
+[-]exception found, non-existant domain
+[!]http://us.professional.sony.com
+-->4K Digital Cinema : United States of America : Sony Professional
+[!]http://www.us.professional.sony.com
+[-]exception found, non-existant domain
+[!]http://readerstore.sony.com
+[+]Reader Store is Closed.
+[!]http://api.readerstore.sony.com
+[+]nothing found, you should check!
+[!]http://lu.api.readerstore.sony.com
+[+]nothing found, you should check!
+[!]http://at.readerstore.sony.com
+[+]Reader Store is Closing.
+[!]http://au.readerstore.sony.com
+[+]Reader Store is Closing.
+[!]http://ch.readerstore.sony.com
+[+]nothing found, you should check!
+[!]http://de.readerstore.sony.com
+[+]Reader Store is Closing.
+[!]http://gb.readerstore.sony.com
+[+]Reader Store is Closing.
+[!]http://it.readerstore.sony.com
+[-]exception found, non-existant domain
+[!]http://tx.mail01.readerstore.sony.com
+[+]403 - Forbidden: Access is denied.
+[!]http://tx.mail02.readerstore.sony.com
+[+]403 - Forbidden: Access is denied.
+[!]http://na.readerstore.sony.com
+[-]exception found, non-existant domain
+[!]http://mail.na.readerstore.sony.com
+[+]redm12.cheetahmail.com OK
+[!]http://ebm.mail.na.readerstore.sony.com
+[+]nj5pebm02 OK
+[!]http://tx.response.readerstore.sony.com
+[+]403 - Forbidden: Access is denied.
+[!]http://rms.sony.com
+[-]exception found, non-existant domain
+[!]http://sa.sony.com
+[-]exception found, non-existant domain
+[!]http://scajobs.sony.com
+[+]Site Maintenance in Process
+[!]http://scea.sony.com
+[-]exception found, non-existant domain
+[!]http://www.scea.sony.com
+[-]exception found, non-existant domain
+[!]http://scesh.sony.com
+[-]exception found, non-existant domain
+[!]http://care.sde.sony.com
+[-]exception found, non-existant domain
+[!]http://qa.care.sde.sony.com
+[-]exception found, non-existant domain
+[!]http://cirus.sde.sony.com
+[-]exception found, non-existant domain
+[!]http://qa.cirus.sde.sony.com
+[-]exception found, non-existant domain
+[!]http://stage.cirus.sde.sony.com
+[-]exception found, non-existant domain
+[!]http://sa.sde.sony.com
+[+]nothing found, you should check!
+[!]http://sdm.sony.com
+[-]exception found, non-existant domain
+[!]http://www.sdm.sony.com
+-->Sony DADC
+[!]http://secure.sony.com
+[-]exception found, non-existant domain
+[!]http://www.secure.sony.com
+[-]exception found, non-existant domain
+[!]http://sel.sony.com
+[+]403 Forbidden
+[!]http://www.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://Iam.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://Iam-test.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://app.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://qa.app.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://asc.sel.sony.com
+-->Sony Authorized Servicers Login Page
+[!]http://b2b.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://b2bprd.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://b2bstaging.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://biz.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://bssc.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://cbiz.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://dash.dash.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://dash-tdn.dash.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://dashdemo.dash.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://dbiz.sel.sony.com
+-->Sony Global - Sony Global Headquarters
+[!]http://dbiz-staging.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://tx.dealer.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://dealersource.sel.sony.com
+[+]400 Bad Request
+[!]http://dealersourcestage.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://ebiz.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://edirect.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://click.em-sel.sel.sony.com
+[+]Redirect Link
+[!]http://image.em-sel.sel.sony.com
+[+]nothing found, you should check!
+[!]http://click.email.sel.sony.com
+[+]Redirect Link
+[!]http://image.email.sel.sony.com
+[+]nothing found, you should check!
+[!]http://mta2.email.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://mta3.email.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://mta4.email.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://pages.email.sel.sony.com
+[+]Problem Loading Page
+[!]http://view.email.sel.sony.com
+[+]nothing found, you should check!
+[!]http://etrain.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://fed.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://fed-test.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://forum.sel.sony.com
+[+]Home - the Community
+[!]http://d.forum.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://dealer.forum.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://d.dealer.forum.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://s.dealer.forum.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://dev.forum.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://qa.forum.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://s.forum.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://green.sel.sony.com
+-->Sustainable Development | Go Green Environmental Policy | Sony US
+[!]http://iam.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://iam-test.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://iamc.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://iamc-test.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://iamcfed.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://iampwd.sel.sony.com
+[+]nothing found, you should check!
+[!]http://idm.sel.sony.com
+[+]nothing found, you should check!
+[!]http://idp.sel.sony.com
+[+]nothing found, you should check!
+[!]http://idp-test.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://www.ita.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://itreg.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://me.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://buy.me.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://call.me.sel.sony.com
+[+]nothing found, you should check!
+[!]http://d.me.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://distribute.me.sel.sony.com
+[+]nothing found, you should check!
+[!]http://help.me.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://retail.me.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://sell.me.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://test.me.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://d.test.me.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://u.test.me.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://u.me.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://news.sel.sony.com
+-->Sony
+[!]http://probiz.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://productregistration.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://products.sel.sony.com
+[+]nothing found, you should check!
+[!]http://prooutlet.sel.sony.com
+-->Consumer Electronics | Sony US
+[!]http://click.protectionplus.sel.sony.com
+[+]Redirect Link
+[!]http://image.protectionplus.sel.sony.com
+[+]nothing found, you should check!
+[!]http://view.protectionplus.sel.sony.com
+[+]nothing found, you should check!
+[!]http://recycling.sel.sony.com
+[+]nothing found, you should check!
+[!]http://sawebp1.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://www.sdp.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://csbd.sdp.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://sso.sdp.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://www-test.sdp.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://www2.sdp.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://tx.sel-email.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://selmfg.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://selmfg-test.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://service-asc.sel.sony.com
+[+]Request Rejected
+[!]http://servicesales.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://servicesplus.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://www.servicesplus.sel.sony.com
+-->Sony ServicesPLUS site for Bulletins, Parts, Repairs, Service Agreements, Software, Training.
+[!]http://admin.servicesplus.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://snap.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://sharepoint.sony-ste.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://sso-test.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://staging-biz.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://studione.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://subscribe.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://www.subscribe.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://tokens.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://vaiocare.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://vaiodirect.sel.sony.com
+[+]nothing found, you should check!
+[!]http://vaiooobe.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://vendorportal.sel.sony.com
+-->.:. SONY | Vendor Portal .:.
+[!]http://www.vendorportal.sel.sony.com
+-->.:. SONY | Vendor Portal .:.
+[!]http://vu.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://ws.sel.sony.com
+[+]Request Rejected
+[!]http://xross.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://xross-stage.sel.sony.com
+[-]exception found, non-existant domain
+[!]http://selsp.sony.com
+[-]exception found, non-existant domain
+[!]http://test.selsp.sony.com
+[-]exception found, non-existant domain
+[!]http://careqa.services.sony.com
+[-]exception found, non-existant domain
+[!]http://dev.garata.services.sony.com
+[-]exception found, non-existant domain
+[!]http://dev2.garata.services.sony.com
+[-]exception found, non-existant domain
+[!]http://prod.garata.services.sony.com
+[-]exception found, non-existant domain
+[!]http://prod2.garata.services.sony.com
+[-]exception found, non-existant domain
+[!]http://stage.garata.services.sony.com
+[-]exception found, non-existant domain
+[!]http://stage2.garata.services.sony.com
+[-]exception found, non-existant domain
+[!]http://apps.sie.sony.com
+[+]403 Forbidden
+[!]http://artifactory.sie.sony.com
+[-]exception found, non-existant domain
+[!]http://artifactory.aws.sie.sony.com
+[-]exception found, non-existant domain
+[!]http://backstage.sie.sony.com
+[-]exception found, non-existant domain
+[!]http://bobjdev.sie.sony.com
+[-]exception found, non-existant domain
+[!]http://bobjqa.sie.sony.com
+[-]exception found, non-existant domain
+[!]http://centerstage.sie.sony.com
+-->Sony Interactive Entertainment - Prod - Sign In
+[!]http://confluence.sie.sony.com
+[-]exception found, non-existant domain
+[!]http://core-dev.sie.sony.com
+[-]exception found, non-existant domain
+[!]http://core-qa.sie.sony.com
+[-]exception found, non-existant domain
+[!]http://core-stg.sie.sony.com
+[-]exception found, non-existant domain
+[!]http://apps.dev.sie.sony.com
+[-]exception found, non-existant domain
+[!]http://centerstage.dev.sie.sony.com
+-->Sony Network Entertainment - Preview - Sign In
+[!]http://confluence.dev.sie.sony.com
+[-]exception found, non-existant domain
+[!]http://jira.dev.sie.sony.com
+[-]exception found, non-existant domain
+[!]http://people.dev.sie.sony.com
+[-]exception found, non-existant domain
+[!]http://profile.dev.sie.sony.com
+[-]exception found, non-existant domain
+[!]http://rooms.dev.sie.sony.com
+[-]exception found, non-existant domain
+[!]http://drone.sie.sony.com
+[-]exception found, non-existant domain
+[!]http://eagleray-jenkins.sie.sony.com
+[-]exception found, non-existant domain
+[!]http://cloud.eu.sie.sony.com
+[-]exception found, non-existant domain
+[!]http://cloud-s1.eu.sie.sony.com
+[-]exception found, non-existant domain
+[!]http://cloud-s2.eu.sie.sony.com
+[-]exception found, non-existant domain
+[!]http://github.sie.sony.com
+[-]exception found, non-existant domain
+[!]http://grcdev.sie.sony.com
+[-]exception found, non-existant domain
+[!]http://jira.sie.sony.com
+[-]exception found, non-existant domain
+[!]http://jira.jps.sie.sony.com
+[-]exception found, non-existant domain
+[!]http://lastguardian.sie.sony.com
+[-]exception found, non-existant domain
+[!]http://lockit.sie.sony.com
+[-]exception found, non-existant domain
+[!]http://lockit-dev.sie.sony.com
+[-]exception found, non-existant domain
+[!]http://mail.sie.sony.com
+[-]exception found, non-existant domain
+[!]http://moveit.sie.sony.com
+[-]exception found, non-existant domain
+[!]http://people.sie.sony.com
+[+]People Search
+[!]http://profile.sie.sony.com
+[+]403 Forbidden
+[!]http://psnowux.sie.sony.com
+[-]exception found, non-existant domain
+[!]http://apps.qa.sie.sony.com
+[-]exception found, non-existant domain
+[!]http://centerstage.qa.sie.sony.com
+-->Sony Interactive Entertainment - Prod - Sign In
+[!]http://confluence.qa.sie.sony.com
+[-]exception found, non-existant domain
+[!]http://jira.qa.sie.sony.com
+[-]exception found, non-existant domain
+[!]http://people.qa.sie.sony.com
+[-]exception found, non-existant domain
+[!]http://profile.qa.sie.sony.com
+[-]exception found, non-existant domain
+[!]http://qtest.qa.sie.sony.com
+[-]exception found, non-existant domain
+[!]http://rooms.qa.sie.sony.com
+[-]exception found, non-existant domain
+[!]http://qtest.sie.sony.com
+[-]exception found, non-existant domain
+[!]http://rancher.sie.sony.com
+[-]exception found, non-existant domain
+[!]http://rancher-aws.sie.sony.com
+[-]exception found, non-existant domain
+[!]http://rancher-test.sie.sony.com
+[-]exception found, non-existant domain
+[!]http://rooms.sie.sony.com
+[+]403 Forbidden
+[!]http://s4hanadev.sie.sony.com
+[-]exception found, non-existant domain
+[!]http://s4hanaprd.sie.sony.com
+[-]exception found, non-existant domain
+[!]http://s4hanapre.sie.sony.com
+[-]exception found, non-existant domain
+[!]http://s4hanaqa.sie.sony.com
+[-]exception found, non-existant domain
+[!]http://safemetrics.sie.sony.com
+[-]exception found, non-existant domain
+[!]http://sap-enable-now.sie.sony.com
+[-]exception found, non-existant domain
+[!]http://shield-rancher.sie.sony.com
+[-]exception found, non-existant domain
+[!]http://srmdev.sie.sony.com
+[-]exception found, non-existant domain
+[!]http://srmpre.sie.sony.com
+[-]exception found, non-existant domain
+[!]http://srmqa.sie.sony.com
+[-]exception found, non-existant domain
+[!]http://confluence.stg.sie.sony.com
+[-]exception found, non-existant domain
+[!]http://jira.stg.sie.sony.com
+[-]exception found, non-existant domain
+[!]http://qtest.stg.sie.sony.com
+[-]exception found, non-existant domain
+[!]http://tableau.sie.sony.com
+[-]exception found, non-existant domain
+[!]http://uslvespprdowafarm.sie.sony.com
+[-]exception found, non-existant domain
+[!]http://uslvespwtrowafarm.sie.sony.com
+[-]exception found, non-existant domain
+[!]http://vpn.sie.sony.com
+[+]SIE VPN
+[!]http://phx.vpn.sie.sony.com
+[+]SIE Remote Access
+[!]http://sc9.vpn.sie.sony.com
+[+]SIE VPN
+[!]http://sd1.vpn.sie.sony.com
+[+]SIE Remote Access
+[!]http://sip.sony.com
+[-]exception found, non-existant domain
+[!]http://Lyncdiscover.sm.sony.com
+[-]exception found, non-existant domain
+[!]http://LyncdiscoverInternal.sm.sony.com
+[-]exception found, non-existant domain
+[!]http://aws-test.sm.sony.com
+[-]exception found, non-existant domain
+[!]http://lyncdiscover.sm.sony.com
+[-]exception found, non-existant domain
+[!]http://sip.sm.sony.com
+[-]exception found, non-existant domain
+[!]http://www.exsite.smap.sony.com
+[-]exception found, non-existant domain
+[!]http://smb.sony.com
+[-]exception found, non-existant domain
+[!]http://smbqa.sony.com
+[-]exception found, non-existant domain
+[!]http://smetrics.sony.com
+[-]exception found, non-existant domain
+[!]http://SMSS-LV-SSL01.smss.sony.com
+[-]exception found, non-existant domain
+[!]http://la-vpn.smss.sony.com
+[-]exception found, non-existant domain
+[!]http://mail.smss.sony.com
+[-]exception found, non-existant domain
+[!]http://ns1.smss.sony.com
+[-]exception found, non-existant domain
+[!]http://sd-vpn.smss.sony.com
+[-]exception found, non-existant domain
+[!]http://snei.sony.com
+[-]exception found, non-existant domain
+[!]http://backstage.snei.sony.com
+[-]exception found, non-existant domain
+[!]http://confluence.snei.sony.com
+[-]exception found, non-existant domain
+[!]http://core-dev.snei.sony.com
+[-]exception found, non-existant domain
+[!]http://core-qa.snei.sony.com
+[-]exception found, non-existant domain
+[!]http://core-stg.snei.sony.com
+[-]exception found, non-existant domain
+[!]http://confluence.dev.snei.sony.com
+[-]exception found, non-existant domain
+[!]http://jira.dev.snei.sony.com
+[-]exception found, non-existant domain
+[!]http://docker-registry.snei.sony.com
+[-]exception found, non-existant domain
+[!]http://drone.snei.sony.com
+[-]exception found, non-existant domain
+[!]http://github.snei.sony.com
+[-]exception found, non-existant domain
+[!]http://greenkeeper.snei.sony.com
+[-]exception found, non-existant domain
+[!]http://jira.snei.sony.com
+[-]exception found, non-existant domain
+[!]http://jira-agile-poc.snei.sony.com
+[-]exception found, non-existant domain
+[!]http://jira-dev.snei.sony.com
+[-]exception found, non-existant domain
+[!]http://la-vpn.snei.sony.com
+[-]exception found, non-existant domain
+[!]http://lockit.snei.sony.com
+[-]exception found, non-existant domain
+[!]http://lockit-dev.snei.sony.com
+[-]exception found, non-existant domain
+[!]http://mail.snei.sony.com
+[-]exception found, non-existant domain
+[!]http://moveit.snei.sony.com
+-->Sony
+[!]http://osiris.snei.sony.com
+[-]exception found, non-existant domain
+[!]http://confluence.qa.snei.sony.com
+[-]exception found, non-existant domain
+[!]http://jira.qa.snei.sony.com
+[-]exception found, non-existant domain
+[!]http://rancher.snei.sony.com
+[-]exception found, non-existant domain
+[!]http://safemetrics.snei.sony.com
+[-]exception found, non-existant domain
+[!]http://sd-vpn.snei.sony.com
+[-]exception found, non-existant domain
+[!]http://confluence.stg.snei.sony.com
+[-]exception found, non-existant domain
+[!]http://jira.stg.snei.sony.com
+[-]exception found, non-existant domain
+[!]http://uslvespprdowafarm.snei.sony.com
+[-]exception found, non-existant domain
+[!]http://uslvespstgowafarm.snei.sony.com
+[-]exception found, non-existant domain
+[!]http://wiki.snei.sony.com
+[-]exception found, non-existant domain
+[!]http://www.soe.sony.com
+[-]exception found, non-existant domain
+[!]http://spe.sony.com
+[-]exception found, non-existant domain
+[!]http://www.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://1afx.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://2fa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://2fa-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://Autodiscover.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://ESS-DEV.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://ESS-QA.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://GOLD-inbound.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://GOLD-inbound-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://GOLD-outbound.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://Gateway.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://Integrify.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://Lyncdiscover.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://LyncdiscoverInternal.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://RightCrowdNA.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://STARINO1.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://SalesBankBI4.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://Suresite.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://UKLONSPE-RAS01.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://USDWH0013.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://USDWH0044.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://USLAXEDC-RAS01.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://USPWH0279.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://USPWH0356.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://USPWH0361.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://USPWH0451.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://USQWH0050.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://USQWH0059.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://USQWH0204.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://WMSvc-USPWH0451.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://WMSvc-uspwh0451.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://Webmail.spe.sony.com
+[+]nothing found, you should check!
+[!]http://accutrac.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://accutrac-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://acorn.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://acorn-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://acorn-ws.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://kibana.adm.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://kibana-qa.adm.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://iiq.admins.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://iiq-qa.admins.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://iiq-stg.admins.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://aft01.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://aft02.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://aft03.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://aft1.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://aft2.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://aft3.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://aim-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://alfresco-ext-int.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://alfresco-kofax.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://alfresco-kofax-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://alfresco-kofax-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://alfresco-share.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://alfresco-share-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://alfresco-share-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://alfresco-share02.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://alfresco-share02-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://alfresco-share02-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://alfresco-share03.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://alfresco-share03-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://alfresco01.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://alfresco01-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://alfresco01-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://alfresco02.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://alfresco02-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://alfresco02-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://alfresco03.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://alfresco03-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://alfresco03-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://alfresco04.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://alfresco04-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://alfresco04-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://alfresco06.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://alfresco06-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://alfresco06-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://alfresco07.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://alfresco07-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://alfresco07-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://alfresco08.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://alfresco08-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://alfresco08-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://alfresco09.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://alfresco09-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://alfresco09-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://alfresco10.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://alfresco10-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://alfresco10-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://alfresco11.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://alfresco11-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://alfresco11-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://alfresco12.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://alfresco12-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://alfresco12-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://alfresco20.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://alfresco20-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://alfresco21.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://alfrescosolr-share03.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://alfrescosolr-share03-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://alfrescosolr20.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://alfrescosolr20-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://alfrescosolr21.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://alm.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://alm-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://amis.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://appdynamics.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://geoserver.appdynamics.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://apps.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://apps-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://controller.appvance.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://dev.appvance.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://testnode1.appvance.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://testnode2.appvance.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://archibus.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://archibus-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://archive.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://ariba.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://ariba-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://ariba-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://ariba-sso.spe.sony.com
+[+]nothing found, you should check!
+[!]http://ariba-sso-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://ariba-sso-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://ariba-sso-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://aribacloud-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://aribacloud-qaup.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://arma.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://asap.spe.sony.com
+[+]nothing found, you should check!
+[!]http://asap-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://asap-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://asap-qa2.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://asap-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://aspcon.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://aspera1-london.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://asproxy01.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://asv.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://autodiscover.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://automfa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://awardsadmin.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://dev.awardsadmin.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://awardsadmin-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://b2b01.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://backbone.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://bebanjo.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://bebanjo-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://benefits.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://benefits-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://benefitscenter.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://benefitscenter-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://birt.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://birt-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://bod.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://bop.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://boq.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://bos.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://c2.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://c2-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://c2-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://c2-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://c2c.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://c2c-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://c2c-dev10.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://c2c-dev11.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://c2c-dev12.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://c2c-dev4.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://c2c-dev5.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://c2c-dev6.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://c2c-dev7.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://c2c-dev8.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://c2c-dev9.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://c2c-dr.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://c2c-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://c2c-qa2.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://c2c-qa3.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://c2c-qa4.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://c2c-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://c2crpa-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://c2focus.spe.sony.com
+[+]C2 Suite - Login
+[!]http://c2focus-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://c2focus-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://c2focus-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://c2ust.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://c2ust-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://c2ust2-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://c2ust3-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://c2ust3dp-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://cadency.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://cardinus.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://cardsort.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://cast.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://cdsso.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://chameleon.spe.sony.com
+[+]nothing found, you should check!
+[!]http://chameleon-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://chameleon-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://cims.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://cims-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://cims-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://cims-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://cineshareplus.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://cinestor.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://cmsprddw.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://cmsqadw.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://cfs1.colorworks.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://competitive.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://competitive-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://competitive-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://competitive-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://competitivereleases-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://concur.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://concur-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://convercent.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://convercent-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://copal.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://www.copal.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://copal-dr.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://www.copal-dr.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://copal-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://copal-test.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://copyright2.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://copyright2-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://copyright2-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://copyright2-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://corp-esb-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://corp-esb-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://counsellink.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://counsellink-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://crb.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://crb-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://crb-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://crb-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://creativestudio.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://creativestudio-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://creativestudio-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://creativestudio-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://ct.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://ct-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://ct-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://ct-reporting-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://ct-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://cx.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://cx-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://cx-dev-ag-int.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://cx-dir.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://cx-dir-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://cx-dr.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://cx-sf.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://cx-sf-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://cxemea.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://cxvdi-ag-ext.spe.sony.com
+[+]Netscaler Gateway
+[!]http://cxvdi-ag-int.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://cxvdi-agdev-ext.spe.sony.com
+[+]Netscaler Gateway
+[!]http://cxvdi-agdev-int.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://cxvdi-dev-ag-int.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://cxvdi-dev-agdev-int.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://cxvdi-dir.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://cxvdi-dir-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://cxvdi-sf.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://cxvdi-sf-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://dbm.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://dbm-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://dbm-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://dctagility.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://dctcetusweb.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://dctconductor1.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://dctelemental1.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://dctelemental2.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://dctelemental3.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://dctelemental4.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://dctfaspex.spe.sony.com
+[+]Aspera Faspex
+[!]http://dctorchestrator.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://dctshares.spe.sony.com
+[+]Shares
+[!]http://dctvantage.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://ddpe-es.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://devops.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://devops-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://devops-jrebel.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://dex-spiritworld.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://dex-spiritworld-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://dicer.spe.sony.com
+[+]nothing found, you should check!
+[!]http://dicer-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://dicer-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://dicer-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://dicersony.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://dicersony-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://dj.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://dj-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://dj-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://djdr.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://cineshare-svc.dmci.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://dmcnapp01.dmci.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://dmcplaiwh201.dmci.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://dmcqlailv307.dmci.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://dmcqlaiwv303.dmci.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://dmcslaiwv409.dmci.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://dmg-git.dmci.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://dmg-jenkins.dmci.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://dmg-watermarking-api.dmci.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://dmr.dmci.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://dmr-qa.dmci.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://dmr-stage.dmci.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://spt-sro-services.dmci.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://dmg-files.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://dmg-mobile-express.spe.sony.com
+[+]Test Page for the Nginx HTTP Server on EPEL
+[!]http://dmgmobile.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://dmgstream.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://dmgstream2.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://dmgstreamcontrol.spe.sony.com
+[+]Wowza Streaming Engine 4 Perpetual Edition 4.5.0 build18676
+[!]http://dmiplaeuh05.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://dmiplaewh02.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://dmiplaewh12.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uslaxzadc01.dmz.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usphxzadc01.dmz.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://www.docbox.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://www.docboxphx.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://www.docboxqa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://dropzone.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://dropzone-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://dropzone-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://dropzone-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://dsc.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://dsc-node1.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://dsc-node2.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://eagl.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://eagl-images.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://eagl-images-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://eagl-images-stage.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://eagl-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://eagl-stage.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://eai01.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://eai02.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://ecar.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://ecar-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://ecar-ext-int.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://ecar-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://ecomp.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://ecomp-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://edays.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://edc-egw.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://egw.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://github.eis.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://jenkins.eis.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://jenkins-dev.eis.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://phabricator.eis.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://satellite.eis.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://eis-dsc.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://apac.eis-dsc.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://apac-nonprod.eis-dsc.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://apac-testing.eis-dsc.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://emea.eis-dsc.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://emea-nonprod.eis-dsc.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://emea-testing.eis-dsc.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://latam.eis-dsc.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://latam-nonprod.eis-dsc.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://latam-testing.eis-dsc.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://na.eis-dsc.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://na-nonprod.eis-dsc.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://na-testing.eis-dsc.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://emeaprint.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://employeesurvey.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://encore.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://epaystub.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://epaystub-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://epaystub-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://epaystub-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://equifax.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://equifax-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://esm.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://essbase-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://eumdm.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://everbridge.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://everbridgetest.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://exnts01.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://exnts03.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://exsmli01.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://exsmlo01.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://exsprd01.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://exsprd02.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://exsprd03.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://iiq.external.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://iiq-qa.external.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://extjbsan.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://extjbsan-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://extjbsan-dr.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://extjbsan-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://extjbsan-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://extjbsan2.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://extjbsanidm.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://extwlsan.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://extwlsan-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://extwlsan-dr.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://extwlsan-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://extwlsan-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://fa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://fa-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://fa-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://fcl.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://fcl-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://fcl-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://fcl-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://federation.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://federationdev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://federationqa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://flight.spe.sony.com
+[+]nothing found, you should check!
+[!]http://flight-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://flight-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://flight-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://flights.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://fps.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://fps-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://fps-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://gatekeeper-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://gateway.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://gfms-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://github.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://github-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://github-prod.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://github-scm.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://gmdmamq-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://gmdmamq-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://asp01.gms.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://gmsmam.gms.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://gold.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://gold-inbound-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://gpas.spe.sony.com
+[+]nothing found, you should check!
+[!]http://gpas-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://gpas-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://gpas-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://gpms.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://gpms-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://gpms-dr.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://gpms-mdmcenter.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://gpms-mdmcenter-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://gpms-mdmcenter-pilot.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://gpms-mdmcenter-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://gpms-ods-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://gpms-ods-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://gpms-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://gpms-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://gpms-uat.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://gpms1-3p-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://gpms1-3p-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://gpms2.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://gpms2-3p-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://gpms2-3p-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://gpms2-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://gpms2-dr.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://gpms2-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://gpms2-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://gpms2-uat.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://gpmstip.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://gpmstip-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://gpmstip-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://gpmstip-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://gpmstip-uat.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://gpmswss.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://gpmswss-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://gpmswss-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://gpmswss-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://gsdsupport.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://guest.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://hdap.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://hightail.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://hightail-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://hkhkgext-dmz-ras01.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://horizon.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://horizon-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://horizon-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://hub.spe.sony.com
+[+]nothing found, you should check!
+[!]http://hub-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://hub-dev2.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://hub-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://hub-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://humanconcepts.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://i2-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://i2dm.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://ibop.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://id.spe.sony.com
+[+]403 Forbidden
+[!]http://id-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://id-external.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://id-pam.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://id-pam-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://id-pam-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://id-pam-rest.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://id-pam-rest-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://id-pam-rest-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://id-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://id-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://identity.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://identity-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://identity-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://identity-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://idmsandbox.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://ihrs.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://ihrs-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://ihrs-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://ihrs-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://iiq.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://iiq-admins.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://iiq-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://iiq-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://iiq-qa-admins.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://iiq-qa-tasks.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://iiq-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://iiq-tasks.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://infoview.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://infoview-boxi.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://infoview-dr.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://infoview-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://insights-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://inspectntrack.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://interplan.spe.sony.com
+[+]nothing found, you should check!
+[!]http://interplan-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://interplan-dev2.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://interplan-dev3.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://interplan-dev4.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://interplan-dev5.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://interplan-dr.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://interplan-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://interplan-qa2.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://interplan-qa3.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://interplan-qa4.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://interplan-qa5.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://interplan-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://interplan2-uat.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://intjbsan.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://intjbsan-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://intjbsan-dr.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://intjbsan-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://intjbsan-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://intjbsan2.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://intjbsangpms.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://intjbsangpms-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://intjbsangpms-dr.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://intjbsangpms-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://intjbsangpms-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://intjbsanidm.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://intjbsanidm-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://intjbsanidm-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://intjbsanpam.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://intpamdd.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://intpamsf.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://intramcg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://intramcgt.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://ints.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://ints-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://ints-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://ints-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://intwlsan.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://intwlsan-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://intwlsan-dr.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://intwlsan-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://intwlsan-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://intwlsangpms.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://intwlsangpms-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://intwlsangpms-dr.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://intwlsangpms-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://intwlsangpms-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://inventory.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://ios.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://ios-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://iris.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://ita.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://itps-extsan.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://itps-intsan.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://itpsjss.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://itpsjss-test.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://itpsjssadmin.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://itracker.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://jamfdistro1.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://jenkins.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://jrebel.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://kace1k.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://kace1k-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://kace1k-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://kibana-apps.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://kibana-syslog.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://kibana-windows.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://largefile2.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://lbgroup200.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://lbgroup201.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://lbgroup328.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://lmts.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://lmts-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://lmts-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://lmts-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://lyncdiscover.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://m2fa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://mabdb.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://mag.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://magic.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://magic-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://magic-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://magic-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://magic-uat.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://magic-uat1.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://mba.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://mba-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://mba-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://mba-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://mcm.mc.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://mcm-dev.mc.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://mcm-ext.mc.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://mcm-ext-dev.mc.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://mcm-ext-qa.mc.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://mcm-qa.mc.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://mcm-stg.mc.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://mcmplayer.mc.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://mcmplayer-dev.mc.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://mcmplayer-qa.mc.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://mcmplayer-stg.mc.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://sptshares.mc.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://support.mc.spe.sony.com
+-->Sign into : Sony Pictures AWS Support
+[!]http://mcg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://mcgt.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://mcm.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://mcm-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://mcm-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://mcmext.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://mdm.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://mdmadmin.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://mdmenroll.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://medgate.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://medgate-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://mgmtuk.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://mgmtus.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://mobile.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://mobile-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://mobiledirapp.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://mobiledirapp-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://mobiledirapp-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://mpsharedservices.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://mpsharedservices-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://mpsharedservices-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://mpsharedservices-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://mws.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://mx1.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://my.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://my-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://my-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://mycareer.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://myorg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://mypss.spe.sony.com
+[+]nothing found, you should check!
+[!]http://mypss-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://mypss-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://mypss-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://myspe-onenet-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://mytoken.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://newcadency.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://nexus.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://nexus3.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://nexus3-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://novatus.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://o365.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://o365-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://oci-poc.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://odin.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://odin-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://odin-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://odin-qa1.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://odin-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://optionscalendar.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://optionscalendar-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://optionscalendar-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://optionscalendar-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://osp.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://oversight.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://oversight-ap.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://oversight-ap-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://oversight-ap-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://oversight-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://oversight-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://owa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://eu.owa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://owapp.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://eu.owapp.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://owarsa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://pa-portal.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://pam.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://panopta.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://partnerships.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://partnerships-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://partnerships-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://pathfinder1.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://pathfinder1-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://pathfinder1-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://pathfinder1-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://paws.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://paws-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://paws-ie11.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://paws-ie11-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://paws-ie11-test.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://paws-master.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://paws-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://paws-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://paws-stg-ie11.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://paws-test.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://paws-tfs.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://pbbaft01.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://pdl.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://percadmin.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://percadmin-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://percadmin-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://percadmin-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://perspective.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://perspective-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://photos-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://phx-egw.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://picasso.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://picasso-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://picasso-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://picasso-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://pidev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://pin.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://pinnacleweb.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://piqa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://playbook.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://playlist.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://playlist-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://playlist-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://pmcaspera.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://pnara.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://potracker.spe.sony.com
+[+]nothing found, you should check!
+[!]http://potracker-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://potracker-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://potracker-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://ppfaft01.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://ppm.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://ppm-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://ppm-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://ppm-train.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://printpreview-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://prism.spe.sony.com
+[+]nothing found, you should check!
+[!]http://prism-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://prism-dr.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://prism-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://prism-solr.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://prism-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://prodportal.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://prodportal-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://productionsafety.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://productionsafety-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://projects.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://promo.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://promo-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://promo-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://promotions-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://pss.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://pss-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://pss-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://pss-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://qa-bomgar.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://qa-cineshareplus.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://qagateway.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://qc.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://redtouch.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://redtouchfs.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://relativity.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://relativity-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://researchadmin.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://rightcrowd-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://rightcrowd-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://rightcrowd-trn.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://rightsline.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://rightsline-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://rover.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://rover-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://rover-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://rover-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://rpm.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://rpm-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://rpm-dev10.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://rpm-dev11.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://rpm-dev12.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://rpm-dev2.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://rpm-dev3.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://rpm-dev4.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://rpm-dev5.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://rpm-dev6.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://rpm-dev7.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://rpm-dev8.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://rpm-dev9.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://rpm-dr.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://rpm-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://rpm-qa2.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://rpm-qa3.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://rpm-qa4.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://rpm-qa5.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://rpm-qa6.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://rpm-qa7.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://rpm-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://rpmmq.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://rpmmq-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://rpmmq-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://rpmmq-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://rpmmq10-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://rpmmq11-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://rpmmq12-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://rpmmq2-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://rpmmq3-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://rpmmq3-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://rpmmq4-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://rpmmq4-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://rpmmq5-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://rpmmq5-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://rpmmq6-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://rpmmq6-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://rpmmq7-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://rpmmq7-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://rpmmq8-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://rpmmq9-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://sa-optioncalendar.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://sa-optioncalendar-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://sa-optioncalendar-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://sa-optioncalendar-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://salesbankbi4.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://saml.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://sandbox.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://screeners.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://scry.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://scry-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://scry-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://scry-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://servicenow.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://servicenow-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://servicenow-integration.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://servicenow-project.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://servicenow-project1.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://servicenow-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://servicenow-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://servicenow-test.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://servicenow-train.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://set.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://set-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://set-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://set-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://sgsinaxn-dmz-ras01.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://sgsinrds01.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://sgsinvwh09.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://sgsinxapp01.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://sgspenacontent.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://share.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://share-adam.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://share-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://share-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://sharepoint.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://sharepoint-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://shinyr.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://showmgr.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://showmgr-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://simplelists.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://simplelists-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://sip.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://sirup.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://skillsoft.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://skillsoft-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://skillsportal.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://skillsportal-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://sm2fapoc.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://smart-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://smart-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://smartengine.spe.sony.com
+[+]nothing found, you should check!
+[!]http://smartengine-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://smartengine-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://smartengine-qa2.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://smartengine-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://smartr.spe.sony.com
+[+]SMarTr
+[!]http://smartr-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://smartr-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://smartr-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://soar2.spe.sony.com
+[+]nothing found, you should check!
+[!]http://soar2-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://soar2-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://sonar.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://sonypicturestest.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://spe-ocrdatacap.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://spe-ocrdatacapdev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://speapnetscaler.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://speapvdi.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://spearchive.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://spearchiveiis.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://speasus4.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://speasus6.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://specialevents.spe.sony.com
+[+].:: Special Events Login ::.
+[!]http://specialevents-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://specialevents-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://specialevents-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://spehkvdi.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://spehkvdi2.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://spehkvone.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://spehkxapp1.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://speinfohub.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://speitsgnt01.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://spemft2.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://speqc.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://speqc-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://speqc-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://speremote.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://spesecure.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://spesecure-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://spesecure2.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://spesgvwh10.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://spetest.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://spethchk01.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://sphe-broker.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://sphe-broker-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://spheconnect.spe.sony.com
+[+]nothing found, you should check!
+[!]http://spheconnect-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://spheconnect-dev2.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://spheconnect-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://spheconnect-qa2.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://spheconnect-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://spheconnect2.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://spidr2.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://spidr2-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://spidr2-ext.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://spidr2-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://spidr2-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://spiritworld.spe.sony.com
+[+]nothing found, you should check!
+[!]http://spiritworld-copy.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://spiritworld-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://spiritworld-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://spiritworld-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://spiritworld-uat.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://splunk.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://sprbd.spe.sony.com
+[+]nothing found, you should check!
+[!]http://sprbd-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://sprbd-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://sprbd-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usdw02epo.sprod.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uslaxeadc01.sprod.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uslaxeadc02.sprod.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uslaxeadc10v.sprod.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uslaxeadc11v.sprod.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usphxeadc01.sprod.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usphxeadc02.sprod.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspw01epo.sprod.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspw02epo.sprod.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://spt.spe.sony.com
+[+]nothing found, you should check!
+[!]http://spt-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://spt-presenter.spe.sony.com
+[+]nothing found, you should check!
+[!]http://spt-presenter-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://spt-presenter-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://spt-presenter-qa1.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://spt-presenter-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://spt-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://spt-qa1.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://spt-qa2.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://spt-sro.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://spt-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://sptb2bmq.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://sptevents.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://sptevents-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://sptevents-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://sptevents-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://sptftp.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://spti.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://spti-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://spti-dev1.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://spti-dev10.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://spti-dev11.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://spti-dev2.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://spti-dev3.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://spti-dev7.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://spti-dev8.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://spti-dev9.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://spti-dr.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://spti-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://spti-qa2.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://spti-qa3.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://spti-qa4.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://spti-qa5.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://spti-qa6.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://spti-qa7.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://spti-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://sptiprojects.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://sso.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://sso-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://sso365.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://ssoext.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://ssoext-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://ssozone.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://ssozone-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://ssozoneext.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://ssozoneext-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://starin01.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://starino1.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://starout01.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://studioiptv.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://studioiptv-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://studioiptv-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://studioiptv-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://subversion.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://subversion-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://supplier.spe.sony.com
+-->Sony Pictures Supplier Information
+[!]http://supplier-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://supplier-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://supplier-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://suresite.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://taas.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://taas-core.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://taas-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://taas-dev-admin.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://taas-dev2.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://taas-dr.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://taas-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://taas-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://taas-stress.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://taascognos-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://taascognosdev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://tabextgw.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://tabextgw-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://tabgw-ext1.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://tableau.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://tableau-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://tableau-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://tableauhyper.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://tableauspt.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://iiq.tasks.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://iiq-qa.tasks.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://tbp.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://tbp-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://tbp-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://techops-faspex.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://tekzone.spe.sony.com
+[+]nothing found, you should check!
+[!]http://tekzone-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://tekzone-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://tekzone-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://thedeal.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://thedeal-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://thedeal-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://thedeal-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://thelearninghub.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://tigres-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://tigres-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://tigres-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://titles.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://titles-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://titles-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://titles-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://tot.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://totalrewards.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://trailer-tracker-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://trailer-tracker-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://training.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://training-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://trs.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://tuition.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://tvcast.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://tvesb.spe.sony.com
+[+]403 Forbidden
+[!]http://tvesb-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://tvesb-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://tvesb-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://tvesbint.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://tvesbint-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://tvesbint-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://tvesbint-qa1.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://tvesbint-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://tview.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://tview-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://tview-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://tview-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://tview-test.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uklonadc01.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uklonadc02.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uklonadc10v.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uklonadc11v.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uklondmz-cgw01.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uklonext-dmz-ras01.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uklonext-dmz-rasdev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uklonext-pag01.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uklonspe-ras01.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usculadldaps01.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usculspadc01.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usculspadc02.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usdah0003.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usdah0004.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usdah0009.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usdah0010.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usdl046.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usdl054.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usdl432.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usdl456.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usdl457.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usdl458.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usdl459.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usdl539.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usdl553.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usdl556.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usdl557.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usdl582.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usdl583.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usdl584.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usdl585.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usdl588.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usdl590.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usdl597.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usdl599.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usdwh0007.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usdwh0008.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usdwh0013.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usdwh0014.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usdwh0019.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usdwh0024.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usdwh0027.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usdwh0045.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usdwh0139.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usdwh0140.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usdwh0141.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usdwh0142.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usdwh0175.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usdwh0516.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usdwh0519.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usdwh0531.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usdwh0532.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usdwh0533.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usdwh0534.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usdwh0535.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usdwh0537.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usdwh0540.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usdwh0541.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uslaxadc01.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uslaxadc02.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uslaxadc03.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uslaxadc10v.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uslaxadc11v.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uslaxadc12v.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uslaxadldaps01.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uslaxedc-cer01.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uslaxedc-inet-ro01.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uslaxedc-xpc01.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uslaxns01-snip.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspah0008.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspah0020.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspah0028.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspah0029.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspah0030.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspah0044.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspah0045.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usphxadc01.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usphxadc02.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usphxadc03.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usphxadc10v.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usphxadc11v.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usphxadldaps01.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usphxspe-cer02.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usphxspe-dmz-ras01.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usphxspe-esm01.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usphxspe-inet-ro01.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspl163.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspl360.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspl633.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspl646.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspl647.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspl697.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspl698.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspl699.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspl700.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspl721.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspl722.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspl723.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspwh0028.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspwh0029.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspwh0038.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspwh0040.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspwh0047.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspwh0048.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspwh0061.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspwh0069.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspwh0088.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspwh0090.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspwh0091.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspwh0092.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspwh0098.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspwh0104.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspwh0106.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspwh0136.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspwh0247.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspwh0254.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspwh0255.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspwh0263.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspwh0264.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspwh0279.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspwh0301.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspwh0356.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspwh0357.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://nat.uspwh0361.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspwh0362.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspwh0363.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspwh0364.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspwh0370.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspwh0433.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspwh0451.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspwh0455.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspwh0456.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspwh0461.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspwh0516.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspwh0523.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspwh0524.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspwh0525.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspwh0534.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspwh0535.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspwh0536.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspwh0537.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspwh0538.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspwh0539.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspwh0540.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspwh0582.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspwh0583.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspxh010p1.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspxh010p2.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspxh010p3.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspxh010p4.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspxh010p8.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspxh011p1.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspxh011p2.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspxh011p3.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspxh011p4.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspxh011p5.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspxh011p6.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspxh012p1.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspxh012p2.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspxh012p3.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspxh012p4.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspxh012p5.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspxh012p6.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspxh012p7.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspxh012p9.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspxh102d2.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspxh102d3.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspxh102d4.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspxh102d5.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspxh102d6.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspxh102d7.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspxh102d8.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspxh102p1.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspxh102q2.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspxh103d2.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspxh103d3.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspxh103d5.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspxh103d6.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspxh103d7.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspxh103p1.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspxh103q1.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspxh103q2.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspxh104d1.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspxh104d2.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspxh104d3.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspxh104d4.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspxh104d5.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspxh104d6.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspxh104d8.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspxh104d9.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspxh104da.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspxh104db.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspxh104p1.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspxh104q1.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspxh104q3.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://uspxh104s1.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usqah0001.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usquh02d5.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usqwh0012.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usqwh0019.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usqwh0025.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usqwh0092.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usqwh0146.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usqwh0176.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usqwh0177.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usqwh0179.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usqwh0204.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usrl027.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usrl028.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usrl031.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://usrl032.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://vdiddc1.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://vdiddc2.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://vdidevddc1.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://vdidevddc2.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://vdidevsf1.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://vdidevsf2.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://vdisf1.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://vdisf2.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://vds.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://vds-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://vds-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://vdsdr.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://ventana.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://ventana-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://ventana-dev1.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://ventana-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://ventana-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://ventana2.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://ventana2-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://ventana2-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://ventana2-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://viasat-spt.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://viasat-spt-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://viasat-spt-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://vizdm.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://vizdm-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://vmuk-esft01.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://vmuk-fmkr01.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://vmuk-prnt01.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://vpn.spe.sony.com
+[+]nothing found, you should check!
+[!]http://ap.vpn.spe.sony.com
+[+]nothing found, you should check!
+[!]http://eu.vpn.spe.sony.com
+[+]nothing found, you should check!
+[!]http://na.vpn.spe.sony.com
+[+]nothing found, you should check!
+[!]http://vpndev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://vpx-lbvip.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://vpx-lbvip1.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://waf.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://watchdox.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://wdg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://wdg-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://webauth.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://webi65.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://webmail.spe.sony.com
+[+]nothing found, you should check!
+[!]http://webmethods01.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://webmethodsdev01.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://webmethodsqa01.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://wespire.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://wespire-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://workday.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://workday-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://wpfqc.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://wpfqc-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://wpfqc-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://wpts.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://wpts-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://wpts-dev2.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://wpts-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://wpts-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://wwp.spe.sony.com
+[+]nothing found, you should check!
+[!]http://wwp-dev.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://wwp-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://wwp-stg.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://xmatters.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://xmatters-qa.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://xmsharefile.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://xpressconnect.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://zengum.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://zmobile.spe.sony.com
+[-]exception found, non-existant domain
+[!]http://station.sony.com
+[-]exception found, non-existant domain
+[!]http://www.station.sony.com
+[-]exception found, non-existant domain
+[!]http://account.station.sony.com
+[-]exception found, non-existant domain
+[!]http://auth.station.sony.com
+[-]exception found, non-existant domain
+[!]http://blog.station.sony.com
+[-]exception found, non-existant domain
+[!]http://download.station.sony.com
+[-]exception found, non-existant domain
+[!]http://eq2players.station.sony.com
+[-]exception found, non-existant domain
+[!]http://eqlive.station.sony.com
+[-]exception found, non-existant domain
+[!]http://eqplayers.station.sony.com
+[-]exception found, non-existant domain
+[!]http://events.station.sony.com
+[-]exception found, non-existant domain
+[!]http://forums.station.sony.com
+[-]exception found, non-existant domain
+[!]http://foyer55.station.sony.com
+[-]exception found, non-existant domain
+[!]http://help.station.sony.com
+[-]exception found, non-existant domain
+[!]http://jeopardy.station.sony.com
+[-]exception found, non-existant domain
+[!]http://legendsofnorrath.station.sony.com
+[-]exception found, non-existant domain
+[!]http://lgelements.station.sony.com
+[-]exception found, non-existant domain
+[!]http://maintenance.station.sony.com
+[-]exception found, non-existant domain
+[!]http://newsletters.station.sony.com
+[-]exception found, non-existant domain
+[!]http://parentalcontrols-test.station.sony.com
+[-]exception found, non-existant domain
+[!]http://patch.station.sony.com
+[-]exception found, non-existant domain
+[!]http://cw.patch.station.sony.com
+[-]exception found, non-existant domain
+[!]http://dcuo.patch.station.sony.com
+[-]exception found, non-existant domain
+[!]http://eq.patch.station.sony.com
+[-]exception found, non-existant domain
+[!]http://eq2.patch.station.sony.com
+[-]exception found, non-existant domain
+[!]http://eqnext-landmark.patch.station.sony.com
+[-]exception found, non-existant domain
+[!]http://faydwer.patch.station.sony.com
+[-]exception found, non-existant domain
+[!]http://fr.patch.station.sony.com
+[-]exception found, non-existant domain
+[!]http://launchpad.patch.station.sony.com
+[-]exception found, non-existant domain
+[!]http://manifest.patch.station.sony.com
+[-]exception found, non-existant domain
+[!]http://odus.patch.station.sony.com
+[-]exception found, non-existant domain
+[!]http://pls.patch.station.sony.com
+[-]exception found, non-existant domain
+[!]http://piratesoftheburningsea.station.sony.com
+[-]exception found, non-existant domain
+[!]http://planetside.station.sony.com
+[-]exception found, non-existant domain
+[!]http://recap.station.sony.com
+[-]exception found, non-existant domain
+[!]http://starwarsgalaxies.station.sony.com
+[-]exception found, non-existant domain
+[!]http://store.station.sony.com
+[-]exception found, non-existant domain
+[!]http://support.station.sony.com
+[-]exception found, non-existant domain
+[!]http://vgplayers.station.sony.com
+[-]exception found, non-existant domain
+[!]http://wiki.station.sony.com
+[-]exception found, non-existant domain
+[!]http://www2.station.sony.com
+[-]exception found, non-existant domain
+[!]http://store.sony.com
+-->Consumer Electronics | Sony US
+[!]http://www.store.sony.com
+-->Consumer Electronics | Sony US
+[!]http://aos.store.sony.com
+[-]exception found, non-existant domain
+[!]http://discover.store.sony.com
+[+]nothing found, you should check!
+[!]http://link.store.sony.com
+[+]nothing found, you should check!
+[!]http://m.store.sony.com
+-->Consumer Electronics | Sony US
+[!]http://reviews.store.sony.com
+[+]nothing found, you should check!
+[!]http://smb.store.sony.com
+-->Consumer Electronics | Sony US
+[!]http://aos.smb.store.sony.com
+[-]exception found, non-existant domain
+[!]http://t.store.sony.com
+-->Sony USA - Electronics, PlayStation, Movies, Music, Product Support
+[!]http://stories.sony.com
+[-]exception found, non-existant domain
+[!]http://surveys.sony.com
+[-]exception found, non-existant domain
+[!]http://www.surveys.sony.com
+[-]exception found, non-existant domain
+[!]http://swebanalytics.sony.com
+[-]exception found, non-existant domain
+[!]http://file.systemwatch.sony.com
+[-]exception found, non-existant domain
+[!]http://flm.systemwatch.sony.com
+[-]exception found, non-existant domain
+[!]http://repository.systemwatch.sony.com
+[-]exception found, non-existant domain
+[!]http://techbulletins.systemwatch.sony.com
+[-]exception found, non-existant domain
+[!]http://test.sony.com
+[-]exception found, non-existant domain
+[!]http://www.thestation.sony.com
+[-]exception found, non-existant domain
+[!]http://tot.sony.com
+[-]exception found, non-existant domain
+[!]http://eservice.totprod.sony.com
+[-]exception found, non-existant domain
+[!]http://uat-pdp.sony.com
+[+]nothing found, you should check!
+[!]http://vaio-online.sony.com
+[-]exception found, non-existant domain
+[!]http://vaioimprovement.sony.com
+[+]nothing found, you should check!
+[!]http://www.vaioimprovement.sony.com
+[-]exception found, non-existant domain
+[!]http://vaioimprovementvalidation.sony.com
+[-]exception found, non-existant domain
+[!]http://www.vaioimprovementvalidation.sony.com
+[-]exception found, non-existant domain
+[!]http://vstream.sony.com
+-->Sony Login
+[!]http://wondertechlab.sony.com
+[-]exception found, non-existant domain
+[!]http://world.sony.com
+-->Sony Global - Sony Global Headquarters
+[!]http://www.world.sony.com
+-->Sony Global - Sony Global Headquarters
+[!]http://status.wws.sony.com
+-->Sony Interactive Entertainment - Prod - Sign In
+[!]http://cdn.www.sony.com
+[-]exception found, non-existant domain
+[!]http://www2.sony.com
+[-]exception found, non-existant domain
+[!]http://xscape.sony.com
+[-]exception found, non-existant domain
+** Successfully scanned **

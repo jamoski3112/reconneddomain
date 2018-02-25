@@ -1,0 +1,97 @@
+[+]Input file: input_alarm.com.txt was found
+[+]Reading input file
+[+]========**************========
+[+]Recon_dom_title by Codarren Velvindron
+[+]========**************========
+[+]Version 0.5
+[!]Give me urls and I give titles!
+[!]Website Tested: alarm.com
+[!]Your output filename was created !
+[!]Scanning titles for: 43 urls
+[!]http://www.alarm.com
+-->Alarm.com - Home Security Systems, Alarm Monitoring, Video & Energy Management.
+[!]http://academy.alarm.com
+-->Alarm.com Dealer Site Login Page
+[!]http://alarmadmin.alarm.com
+-->Alarm.com Dealer Site Login Page
+[!]http://alarmreport.alarm.com
+[-]exception found, non-existant domain
+[!]http://alrm-smtp1-ash.alarm.com
+[-]exception found, non-existant domain
+[!]http://alrm-smtp1-phx.alarm.com
+[-]exception found, non-existant domain
+[!]http://alrm-smtp2-ash.alarm.com
+[-]exception found, non-existant domain
+[!]http://alrm-smtp2-phx.alarm.com
+[-]exception found, non-existant domain
+[!]http://answers.alarm.com
+-->Alarm.com Dealer Site Login Page
+[!]http://autodiscover.alarm.com
+-->Alarm.com - Sign In
+[!]http://beta.alarm.com
+[+]Welcome to our feedback community. Please log in below.
+[!]http://deviceapi.alarm.com
+[+]403 - Forbidden: Access is denied.
+[!]http://get.alarm.com
+[+]nothing found, you should check!
+[!]http://www.get.alarm.com
+[-]exception found, non-existant domain
+[!]http://home.alarm.com
+[+]nothing found, you should check!
+[!]http://www.home.alarm.com
+[-]exception found, non-existant domain
+[!]http://hq00mta.alarm.com
+[-]exception found, non-existant domain
+[!]http://investors.alarm.com
+-->Our Company | Alarm.com
+[!]http://learnmore.alarm.com
+[+]403 - Forbidden: Access is denied.
+[!]http://marketingportal.alarm.com
+[+]SAML 2.0 POST
+[!]http://mx.alarm.com
+[+]nothing found, you should check!
+[!]http://myfrontpoint.alarm.com
+[-]exception found, non-existant domain
+[!]http://na01wsmtpp01.alarm.com
+[-]exception found, non-existant domain
+[!]http://na01wsmtpp02.alarm.com
+[-]exception found, non-existant domain
+[!]http://ntp.alarm.com
+[+]403 - Forbidden: Access is denied.
+[!]http://relayvideo.alarm.com
+[-]exception found, non-existant domain
+[!]http://remote.alarm.com
+[-]exception found, non-existant domain
+[!]http://security.alarm.com
+[+]nothing found, you should check!
+[!]http://www.security.alarm.com
+[-]exception found, non-existant domain
+[!]http://smarthome.alarm.com
+[+]nothing found, you should check!
+[!]http://www.smarthome.alarm.com
+[-]exception found, non-existant domain
+[!]http://suddenlink.alarm.com
+[-]exception found, non-existant domain
+[!]http://video.alarm.com
+-->Alarm.com - Home Security Systems, Alarm Monitoring, Video & Energy Management.
+[!]http://www.video.alarm.com
+[-]exception found, non-existant domain
+[!]http://videostream.alarm.com
+[+]403 - Forbidden: Access is denied.
+[!]http://videovpn.alarm.com
+[-]exception found, non-existant domain
+[!]http://videovpn10.alarm.com
+[-]exception found, non-existant domain
+[!]http://videovpn11.alarm.com
+[-]exception found, non-existant domain
+[!]http://videovpn6.alarm.com
+[-]exception found, non-existant domain
+[!]http://videovpn7.alarm.com
+[-]exception found, non-existant domain
+[!]http://videovpn8.alarm.com
+[-]exception found, non-existant domain
+[!]http://videovpn9.alarm.com
+[-]exception found, non-existant domain
+[!]http://wiserenergy.alarm.com
+[+]Schneider Electric &middot Wiser
+** Successfully scanned **

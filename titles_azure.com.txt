@@ -1,0 +1,2198 @@
+[+]Input file: input_azure.com.txt was found
+[+]Reading input file
+[+]========**************========
+[+]Recon_dom_title by Codarren Velvindron
+[+]========**************========
+[+]Version 0.5
+[!]Give me urls and I give titles!
+[!]Website Tested: azure.com
+[!]Your output filename was created !
+[!]Scanning titles for: 1092 urls
+[!]http://www.azure.com
+-->Microsoft Azure Cloud Computing Platform &amp; Services
+[!]http://adds.aadconnecthealth.azure.com
+[-]exception found, non-existant domain
+[!]http://account.azure.com
+-->Azure
+[!]http://s1.adhybridhealth.azure.com
+[+]The resource cannot be found.
+[!]http://analysisservices.azure.com
+[+]Analysis Services Web Designer
+[!]http://morsp.eastus2.cloud.app.azure.com
+[-]exception found, non-existant domain
+[!]http://banking.azure.com
+-->Banking & Capital Markets On Azure
+[!]http://magnabatchtest.eastus.batch.azure.com
+[-]exception found, non-existant domain
+[!]http://chatbatch.northeurope.batch.azure.com
+[-]exception found, non-existant domain
+[!]http://fdcprdneflightsbatch.northeurope.batch.azure.com
+[-]exception found, non-existant domain
+[!]http://gbnbatchservice.southeastasia.batch.azure.com
+[-]exception found, non-existant domain
+[!]http://mybatch.southeastasia.batch.azure.com
+[-]exception found, non-existant domain
+[!]http://dtwparallelized.westeurope.batch.azure.com
+[-]exception found, non-existant domain
+[!]http://ezbatch.westeurope.batch.azure.com
+[-]exception found, non-existant domain
+[!]http://fdc.westeurope.batch.azure.com
+[-]exception found, non-existant domain
+[!]http://fdcbatchdev.westeurope.batch.azure.com
+[-]exception found, non-existant domain
+[!]http://fdcnppebatch.westeurope.batch.azure.com
+[-]exception found, non-existant domain
+[!]http://fdcprdpebatch.westeurope.batch.azure.com
+[-]exception found, non-existant domain
+[!]http://fdcprdwepebatch.westeurope.batch.azure.com
+[-]exception found, non-existant domain
+[!]http://hsrbatch.westeurope.batch.azure.com
+[-]exception found, non-existant domain
+[!]http://ratosbatch.westeurope.batch.azure.com
+[-]exception found, non-existant domain
+[!]http://rngbatchsrzmlt.westeurope.batch.azure.com
+[-]exception found, non-existant domain
+[!]http://srrngldevaba.westeurope.batch.azure.com
+[-]exception found, non-existant domain
+[!]http://srzmlt.westeurope.batch.azure.com
+[-]exception found, non-existant domain
+[!]http://testttt.westeurope.batch.azure.com
+[-]exception found, non-existant domain
+[!]http://batchaitraining.azure.com
+[+]Batch AI
+[!]http://bl2prod-dacsvc.azure.com
+[-]exception found, non-existant domain
+[!]http://blog.azure.com
+[-]exception found, non-existant domain
+[!]http://by1prod-dacsvc.azure.com
+[-]exception found, non-existant domain
+[!]http://cla.azure.com
+-->Azure Contribution License Agreement
+[!]http://nbnmtm.australiaeast.cloudapp.azure.com
+[+]NBN MTM Alpha
+[!]http://bluebetblog.australiasoutheast.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://ifsappsrvprd01.australiasoutheast.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://ifsappsrvtest01.australiasoutheast.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://ifswebsrvsit01.australiasoutheast.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://scvstream.australiasoutheast.cloudapp.azure.com
+[+]Test Page for the Apache HTTP Server on Red Hat Enterprise Linux
+[!]http://torquexsv1.australiasoutheast.cloudapp.azure.com
+[+]Torquex Demos
+[!]http://afixcode.brazilsouth.cloudapp.azure.com
+[+]IIS Windows Server
+[!]http://associacaoviking.brazilsouth.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://avauniorka.brazilsouth.cloudapp.azure.com
+[+]AVA Uniorka: Acesso ao site
+[!]http://biolab.brazilsouth.cloudapp.azure.com
+[+]BIOLAB
+[!]http://blubalusite.brazilsouth.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://ericssonw.brazilsouth.cloudapp.azure.com
+[+]IIS Windows Server
+[!]http://focusgroup.brazilsouth.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://inova-prod.brazilsouth.cloudapp.azure.com
+[+]Apache Tomcat/9.0.0.M22
+[!]http://msystems.brazilsouth.cloudapp.azure.com
+[+]MSystems - Softwares customizados
+[!]http://online.brazilsouth.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://otk.brazilsouth.cloudapp.azure.com
+[+]IIS Windows Server
+[!]http://portal-arbos.brazilsouth.cloudapp.azure.com
+[+]IIS Windows Server
+[!]http://promove-wp.brazilsouth.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://qliksense-qap.brazilsouth.cloudapp.azure.com
+[+]Qlik Sense
+[!]http://riomed.brazilsouth.cloudapp.azure.com
+[+]Portal Riomed
+[!]http://riskex.brazilsouth.cloudapp.azure.com
+[+]IIS Windows Server
+[!]http://sigma4.brazilsouth.cloudapp.azure.com
+[+]IIS Windows Server
+[!]http://sistemaflcapoio.brazilsouth.cloudapp.azure.com
+[+]LOGIN - RSystem
+[!]http://srvdnn02.brazilsouth.cloudapp.azure.com
+[+]Home
+[!]http://wmsplantar.brazilsouth.cloudapp.azure.com
+[+]SIGLO - GL2
+[!]http://wmspremisse.brazilsouth.cloudapp.azure.com
+[+]SIGLO - GL2
+[!]http://ccannav01.canadacentral.cloudapp.azure.com
+[+]IIS Windows Server
+[!]http://csg001-harm01.canadacentral.cloudapp.azure.com
+[+]Page Redirection
+[!]http://putitor.canadacentral.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://termowebsrv.canadacentral.cloudapp.azure.com
+[+]nothing found, you should check!
+[!]http://app-fedgate.centralindia.cloudapp.azure.com
+[+]nothing found, you should check!
+[!]http://cargoman.centralindia.cloudapp.azure.com
+[+]
+[!]http://cisinternalwiki.centralindia.cloudapp.azure.com
+[+]user's Wiki!
+[!]http://dev20med.centralindia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://fieldview.centralindia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://git.centralindia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://gsptst.centralindia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://icici-app1.centralindia.cloudapp.azure.com
+[+]IIS Windows Server
+[!]http://jgateplusdb1.centralindia.cloudapp.azure.com
+[+]Library Technology Conclave 2018
+[!]http://mu-otbs-lb.centralindia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://petrocil.centralindia.cloudapp.azure.com
+[+]IIS Windows Server
+[!]http://pmcprodws1.centralindia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://pmcprodws2.centralindia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://profmspl.centralindia.cloudapp.azure.com
+[+]First Medical Services
+[!]http://sensorise.centralindia.cloudapp.azure.com
+[+]IIS Windows Server
+[!]http://smu-oebs-lb.centralindia.cloudapp.azure.com
+[+]IIS Windows Server
+[!]http://vedcloudcicsweb.centralindia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://vit-otbs-lb.centralindia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://vlab-mulesoft-07.centralindia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://vyas1.centralindia.cloudapp.azure.com
+[+]IIS Windows Server
+[!]http://war-qa.centralindia.cloudapp.azure.com
+[+]IIS Windows Server
+[!]http://war-rc.centralindia.cloudapp.azure.com
+[+]IIS Windows Server
+[!]http://zee-adsparxacs.centralindia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://cmvantagetest1.centralus.cloudapp.azure.com
+[+]IIS Windows Server
+[!]http://easyflux-web.centralus.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://fortytwoblog.centralus.cloudapp.azure.com
+[+]Forty Two - Its a blog.
+[!]http://grcidle.centralus.cloudapp.azure.com
+[+]nothing found, you should check!
+[!]http://grp.centralus.cloudapp.azure.com
+[+]GrassRoots Home - GrassRoots Promotion
+[!]http://kankakee.centralus.cloudapp.azure.com
+[+]IIS Windows Server
+[!]http://nihf-prod1.centralus.cloudapp.azure.com
+[+]Home | National Inventors Hall of Fame
+[!]http://rjrtdocs.centralus.cloudapp.azure.com
+[+]rjrtdocs - Home
+[!]http://sam.centralus.cloudapp.azure.com
+[+]System Architecture Mapper
+[!]http://webserverpub1.centralus.cloudapp.azure.com
+[+]eSmart Login
+[!]http://acc.eastasia.cloudapp.azure.com
+[+]nothing found, you should check!
+[!]http://amoogi-cent73.eastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://ccafstestsp.eastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://charmsanmisc.eastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://cnnode2.eastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://cnnode3.eastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://commtechasia.eastasia.cloudapp.azure.com
+[+]Commtech Asia - Independent Commissioning Specialists
+[!]http://cuhkclap.eastasia.cloudapp.azure.com
+[+]CLAP for Youth @ JC
+[!]http://esop.eastasia.cloudapp.azure.com
+[+]Apache Tomcat/7.0.47
+[!]http://festo.eastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://firvm.eastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://fordecloud.eastasia.cloudapp.azure.com
+[+]Forde HR : HR App
+[!]http://fswebsrv01.eastasia.cloudapp.azure.com
+[+]Microsoft Internet Information Services 8
+[!]http://fuvm.eastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://gitlab-01.eastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://gshshop.eastasia.cloudapp.azure.com
+[+]IIS Windows Server
+[!]http://his-azure-prod-05.eastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://hkrankings.eastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://kksholgw.eastasia.cloudapp.azure.com
+[+]Kinaxis - RapidResponse - Secure Customer Sign In
+[!]http://kzsafe.eastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://maldemo.eastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://mbsprodnode1.eastasia.cloudapp.azure.com
+[+]IIS Windows Server
+[!]http://mohammadbazzari.eastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://mscsplrdatamgmt.eastasia.cloudapp.azure.com
+[+]Sign in to your Microsoft account
+[!]http://mvdsafe.eastasia.cloudapp.azure.com
+[+]MVD SAFE
+[!]http://myumoca.eastasia.cloudapp.azure.com
+[+]Apache2 Ubuntu Default Page: It works
+[!]http://nanometer.eastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://navasia2017.eastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://newbenq-multib.eastasia.cloudapp.azure.com
+[+]Projector, Monitor, Digital Signage  | BenQ Global
+[!]http://oc2302.eastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://projectserver.eastasia.cloudapp.azure.com
+[+]IIS Windows Server
+[!]http://qorosservicefabric.eastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://ra-tce-ap-demosvr.eastasia.cloudapp.azure.com
+[+]Re-direct to VantagePoint Portal
+[!]http://ra-tce-ap-testsvr.eastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://rkdev1.eastasia.cloudapp.azure.com
+[+]IIS Windows Server
+[!]http://rns.eastasia.cloudapp.azure.com
+[+]&#50508;&#50532;&#50640;&#49828;&#53076;&#47532;&#50500; - RNS
+[!]http://simxdata1.eastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://tdprcwebvm.eastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://testlinkmultilaser.eastasia.cloudapp.azure.com
+[+]Apache2 Ubuntu Default Page: It works
+[!]http://testslp2.eastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://tvbanywhere3app.eastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://tycg.eastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://untsqlna.eastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://ushop.eastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://xyzrobot-faceapi.eastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://zidneiapp.eastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://adib.eastus.cloudapp.azure.com
+[+]Abu Dhabi Islamic Bank (ADIB) - Egypt
+[!]http://adx-prd1.eastus.cloudapp.azure.com
+[+]Home&nbsp;&middot; Basic Portal
+[!]http://ahcaproject.eastus.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://alabs.eastus.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://aukshen.eastus.cloudapp.azure.com
+[+]Aukshen.com
+[!]http://auxuadyvirtual.eastus.cloudapp.azure.com
+[+]Index of /
+[!]http://azure-gazette.eastus.cloudapp.azure.com
+-->The Azure Gazette - Microsoft Azure News and Tutorials
+[!]http://bingkids-backyard.eastus.cloudapp.azure.com
+[+]Bing Kids
+[!]http://bitdefender-antivirus.eastus.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://bullrockcapital.eastus.cloudapp.azure.com
+[+]BullRock Capital
+[!]http://carrotcut.eastus.cloudapp.azure.com
+[+]CarrotCut
+[!]http://ccsdashboard.eastus.cloudapp.azure.com
+[+]Server Login
+[!]http://chattigo-prd-wordpress.eastus.cloudapp.azure.com
+[+]Chattigo - Chattigo
+[!]http://classes.eastus.cloudapp.azure.com
+[+]nothing found, you should check!
+[!]http://clearsky.eastus.cloudapp.azure.com
+[+]nothing found, you should check!
+[!]http://clientcriobyte.eastus.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://clientereddos.eastus.cloudapp.azure.com
+[+]RedDos
+[!]http://cota.eastus.cloudapp.azure.com
+[+]IIS Windows Server
+[!]http://cs-ithaca.eastus.cloudapp.azure.com
+[+]nothing found, you should check!
+[!]http://demo1-sungardps.eastus.cloudapp.azure.com
+[+]IIS Windows Server
+[!]http://demoavl.eastus.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://devsanabriafc.eastus.cloudapp.azure.com
+[+]403 - Forbidden: Access is denied.
+[!]http://dnadc-msp.eastus.cloudapp.azure.com
+[+]"Logon"
+[!]http://docuboxportal.eastus.cloudapp.azure.com
+[+]Docubox Document Management
+[!]http://escudociudadano.eastus.cloudapp.azure.com
+[+]SurveyDemo
+[!]http://firsttitle.eastus.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://fmsmw.eastus.cloudapp.azure.com
+[+]
+[!]http://geotourism.eastus.cloudapp.azure.com
+[+]GeoTourism
+[!]http://gordblog.eastus.cloudapp.azure.com
+[+]gordon.byers.me - my code scratchpad
+[!]http://hbl.eastus.cloudapp.azure.com
+[+]Home
+[!]http://hhc.eastus.cloudapp.azure.com
+[+]Log in
+[!]http://initial.eastus.cloudapp.azure.com
+[+]Sigma | Login
+[!]http://inxazure.eastus.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://isdemuwww.eastus.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://itiq-otrs.eastus.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://kksholgw.eastus.cloudapp.azure.com
+[+]Kinaxis - RapidResponse - Secure Customer Sign In
+[!]http://lfocus2-stage.eastus.cloudapp.azure.com
+[+]Leadership Focus
+[!]http://lidonavserver.eastus.cloudapp.azure.com
+[+]Microsoft Dynamics NAV 2017 US Demonstration Environment
+[!]http://livewpobw2c5ym6cc4k.eastus.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://lpgasmagazine.eastus.cloudapp.azure.com
+[+]LP Gas
+[!]http://mh1.eastus.cloudapp.azure.com
+[+]Microsoft Dynamics NAV Demonstration Environment
+[!]http://midsouth.eastus.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://moodlefidal.eastus.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://mue1-shasta-rrsipv46-prod.eastus.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://myxx-dev-nginx-01.eastus.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://navdemo2017.eastus.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://north-hc-test.eastus.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://nsl.eastus.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://openedxdemo.eastus.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://oritelsqlsrvstd01.eastus.cloudapp.azure.com
+[+]Home Page ORITEL - SIDRO
+[!]http://perficientprodcd.eastus.cloudapp.azure.com
+[+]Perficient, Inc. - Digital Transformation Consulting | vision. execution. value.  | Perficient, Inc
+[!]http://portalskyiisvm1.eastus.cloudapp.azure.com
+[+]VeTV
+[!]http://ra-tce-na-demosvr.eastus.cloudapp.azure.com
+[+]Re-direct to VantagePoint Portal
+[!]http://racbi-thin1.eastus.cloudapp.azure.com
+[+]nothing found, you should check!
+[!]http://rocket.eastus.cloudapp.azure.com
+[+]nothing found, you should check!
+[!]http://rua-admin.eastus.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://saopenproject.eastus.cloudapp.azure.com
+[+]OpenProject | Ingresar
+[!]http://sigani.eastus.cloudapp.azure.com
+[+]ITS Gestion - SIG
+[!]http://sisunedstag.eastus.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://siswebserver.eastus.cloudapp.azure.com
+[+]Login - Air University
+[!]http://smartscore.eastus.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://solaredx1000.eastus.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://spxflow.eastus.cloudapp.azure.com
+[+]Global Industrial Equipment & Global Manufacturing | SPX FLOW
+[!]http://staging-sofy.eastus.cloudapp.azure.com
+[+]SOFY is a Machine Learning and AI powered software testing assistant
+[!]http://swannocprtg.eastus.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://tcclog1.eastus.cloudapp.azure.com
+[+]Bitnami Redmine Stack
+[!]http://tecnoliq.eastus.cloudapp.azure.com
+[+]TECNOLIQ - Tecnology
+[!]http://thedemons.eastus.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://v3bkeastustm7hroqmuil62.eastus.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://v4freastus4zwb5jv5xepga.eastus.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://v4freastustm7hroqmuil62.eastus.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://viapack.eastus.cloudapp.azure.com
+[+]Viapack - Viaggi
+[!]http://westconbr.eastus.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://whs.eastus.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://xqa-testrail.eastus.cloudapp.azure.com
+[+]nothing found, you should check!
+[!]http://adessaplatformrancher.eastus2.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://adsgoogle.eastus2.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://aesir-prod-agents.eastus2.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://atscalecluster-atscalevm.eastus2.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://aurisprdchile.eastus2.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://bohlerwsphase2.eastus2.cloudapp.azure.com
+[+]Bohler Engineering
+[!]http://cadmusprojects.eastus2.cloudapp.azure.com
+[+]IIS Windows Server
+[!]http://chanquillo.eastus2.cloudapp.azure.com
+[+]403 - Forbidden: Access is denied.
+[!]http://citrix-ntvspor.eastus2.cloudapp.azure.com
+[+]Sporun Adresi - T&#252;rkiye ve D&#252;nyadan Spor Haberleri | NTVSpor.net
+[!]http://citrix-startv.eastus2.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://cnmedia.eastus2.cloudapp.azure.com
+[+]Cablenoticias.tv
+[!]http://conreg.eastus2.cloudapp.azure.com
+[+]IIS Windows Server
+[!]http://dataged.eastus2.cloudapp.azure.com
+[+]IIS 8.5 Detailed Error - 403.14 - Forbidden
+[!]http://desasql001.eastus2.cloudapp.azure.com
+[+]IIS Windows Server
+[!]http://dev-solr2.eastus2.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://dom-preprod.eastus2.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://ecsserver.eastus2.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://epaycloud3.eastus2.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://eridanus.eastus2.cloudapp.azure.com
+[+]nothing found, you should check!
+[!]http://evtesting.eastus2.cloudapp.azure.com
+[+]IIS Windows Server
+[!]http://exitusapp-2.eastus2.cloudapp.azure.com
+[+]IIS Windows Server
+[!]http://fonafemoodle.eastus2.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://freedom-ap-test.eastus2.cloudapp.azure.com
+[+]Apache Tomcat/7.0.65
+[!]http://gamebox.eastus2.cloudapp.azure.com
+[+]:: GameBox - Easy Application - V 2.1 ::
+[!]http://haelbcd.eastus2.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://hs-estudiosfarmacoeconomicos-moodle.eastus2.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://ingresouade.eastus2.cloudapp.azure.com
+[+]UADE Inscripciones
+[!]http://intraubu16intracomdev.eastus2.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://inverpaca-web.eastus2.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://jrmi-web.eastus2.cloudapp.azure.com
+[+]Welcome to Direct Source Products!
+[!]http://kenticokusabase.eastus2.cloudapp.azure.com
+[+]IIS Windows Server
+[!]http://kerrnav.eastus2.cloudapp.azure.com
+[+]Kerr Industries Microsoft Dynamics NAV 2016 NA Environment
+[!]http://knnkln.eastus2.cloudapp.azure.com
+[+]Welcome to nginx!
+[!]http://l48saphanasandbox.eastus2.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://missioncontrolppe-data.eastus2.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://mktgsrv1.eastus2.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://morsp.eastus2.cloudapp.azure.com
+[+]nothing found, you should check!
+[!]http://mows1120.eastus2.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://nachaagents.eastus2.cloudapp.azure.com
+[+]Log in | NACHA - Risk Management Portal
+[!]http://nationalbi.eastus2.cloudapp.azure.com
+[+]nothing found, you should check!
+[!]http://nextechzabbix.eastus2.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://nof1-edc-demo.eastus2.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://nof1-epro-demo.eastus2.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://nof1-v180-dev.eastus2.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://nof1-v200-dev.eastus2.cloudapp.azure.com
+[+]403 - Forbidden: Access is denied.
+[!]http://nos-cccb-jira.eastus2.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://ntpstage.eastus2.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://ntptest.eastus2.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://participacionbogota.eastus2.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://pike.eastus2.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://pixel-compliance.eastus2.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://pncapifestwiki.eastus2.cloudapp.azure.com
+[+]Apache2 Ubuntu Default Page: It works
+[!]http://portaldevelopment.eastus2.cloudapp.azure.com
+[+]nothing found, you should check!
+[!]http://portfbctp.eastus2.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://praxisapp.eastus2.cloudapp.azure.com
+[+]IIS Windows Server
+[!]http://prd-eus2-web-ws.eastus2.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://prercip-pii4a-af.eastus2.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://pseceng.eastus2.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://rsnacrowdquant2.eastus2.cloudapp.azure.com
+[+]Crowds Cure Cancer
+[!]http://sampads.eastus2.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://sanjosevegas.eastus2.cloudapp.azure.com
+[+]IIS Windows Server
+[!]http://shares-web-01.eastus2.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://sigamweb01.eastus2.cloudapp.azure.com
+[+]SIGAM/SMA/CETESB
+[!]http://skittest2.eastus2.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://sparkslave30.eastus2.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://tmgconsulting.eastus2.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://tritondnsqa.eastus2.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://truevueappprod.eastus2.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://v-u2-apps-ap.eastus2.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://v-u2-cook-ap.eastus2.cloudapp.azure.com
+[+]403 - Forbidden: Access is denied.
+[!]http://v-u2-cookie.eastus2.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://v-u2-dtrc-ws.eastus2.cloudapp.azure.com
+[+]403 - Forbidden: Access is denied.
+[!]http://vermontmed.eastus2.cloudapp.azure.com
+[+]IIS Windows Server
+[!]http://vmintraubu1601intraqa.eastus2.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://web-1.eastus2.cloudapp.azure.com
+[+]personalizer.io Open API
+[!]http://web-2.eastus2.cloudapp.azure.com
+[+]personalizer.io Open API
+[!]http://wp-auraportal.eastus2.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://chatbot.japaneast.cloudapp.azure.com
+[+]CS Chatbot
+[!]http://fjmwsmall2testserver.japaneast.cloudapp.azure.com
+[+]FUJITSU IoT Solution UBIQUITOUSWARE
+[!]http://guava.japaneast.cloudapp.azure.com
+[+]TRUSTDELETE OP - Login
+[!]http://japan-masters-swimming.japaneast.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://movecorp-cloud.japaneast.cloudapp.azure.com
+[+]IIS7
+[!]http://smartearthsite.japaneast.cloudapp.azure.com
+[+]IIS Windows Server
+[!]http://spaia-cms-author.japaneast.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://spcexternalsrv1.japaneast.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://stress-cc.japaneast.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://tknewcomer.japaneast.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://topotest.japaneast.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://trendviewer.japaneast.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://ailspubweb0dev.japanwest.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://coreserver-main.japanwest.cloudapp.azure.com
+[+]IIS7
+[!]http://dk-redmine.japanwest.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://meatsugimoto.japanwest.cloudapp.azure.com
+[+]IIS Windows Server
+[!]http://moodle-sql-sv2.japanwest.cloudapp.azure.com
+[+]Minatogawa LMS Site
+[!]http://ngrvm.japanwest.cloudapp.azure.com
+[+]IIS Windows Server
+[!]http://ohkawa-production-web02.japanwest.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://tateyama.japanwest.cloudapp.azure.com
+[+]401 - Unauthorized: Access is denied due to invalid credentials.
+[!]http://thinkgood.japanwest.cloudapp.azure.com
+[+]Welcome Page
+[!]http://toms.koreacentral.cloudapp.azure.com
+[+]nothing found, you should check!
+[!]http://whosknow.koreasouth.cloudapp.azure.com
+[+]TACKLE TOX
+[!]http://atlantis.northcentralus.cloudapp.azure.com
+[+]Apache HTTP Server Test Page powered by CentOS
+[!]http://biserver1.northcentralus.cloudapp.azure.com
+[+]IIS Windows Server
+[!]http://blue.northcentralus.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://coalitiondeparents.northcentralus.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://csor.northcentralus.cloudapp.azure.com
+[+]IIS Windows Server
+[!]http://drake.northcentralus.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://ohdebwp01.northcentralus.cloudapp.azure.com
+[+]Microsoft Office - Resource Centre
+[!]http://qrk-isacadevqxps.northcentralus.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://ridgewater.northcentralus.cloudapp.azure.com
+[+]Ridgewater College - Ridgewater College
+[!]http://northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://acav8.northeurope.cloudapp.azure.com
+[+]IIS Windows Server
+[!]http://accelamedevweb.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://afdeveloper.northeurope.cloudapp.azure.com
+[+]AF Developer
+[!]http://amalthea.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://asyadhrms.northeurope.cloudapp.azure.com
+[+]Main Login
+[!]http://azospvr.northeurope.cloudapp.azure.com
+[+]Microsoft Internet Information Services 8
+[!]http://azpsp02.northeurope.cloudapp.azure.com
+[+]Microsoft Internet Information Services 8
+[!]http://bariba.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://bizerbacloudplatform.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://blmvo.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://bluewp.northeurope.cloudapp.azure.com
+[+]Master your swimming stroke | SmartPaddle
+[!]http://btvn01.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://camundabpm.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://canersvl648301.northeurope.cloudapp.azure.com
+[+]nothing found, you should check!
+[!]http://cardano-prd-ne.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://cdstesting.northeurope.cloudapp.azure.com
+[+]DreamFactory
+[!]http://chef.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://cl-menpre.northeurope.cloudapp.azure.com
+[+]nothing found, you should check!
+[!]http://cloud4nav01.northeurope.cloudapp.azure.com
+[+]IIS Windows Server
+[!]http://cmsrdcro.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://coboard.northeurope.cloudapp.azure.com
+[+]nothing found, you should check!
+[!]http://contextmoodle.northeurope.cloudapp.azure.com
+[+]Context-Online
+[!]http://cz-demo2-cs51.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://debsharp.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://dihweb.northeurope.cloudapp.azure.com
+[+]nothing found, you should check!
+[!]http://dmhsbc.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://docs-api-peg.northeurope.cloudapp.azure.com
+[+]nothing found, you should check!
+[!]http://docsuiteacq.northeurope.cloudapp.azure.com
+[+]Microsoft Internet Information Services 8
+[!]http://e61tagetik.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://easy401.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://easymed.northeurope.cloudapp.azure.com
+[+]Homepage
+[!]http://edisoftwaresito.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://edxatea02.northeurope.cloudapp.azure.com
+[+]| ATEA edX
+[!]http://eu1cd01.northeurope.cloudapp.azure.com
+[+]nothing found, you should check!
+[!]http://femetedev.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://fitiw5-forum.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://frcpmurcm1pip.northeurope.cloudapp.azure.com
+[+]- Mall of Scandinavia - Stockholm
+[!]http://frereetsoeurs.northeurope.cloudapp.azure.com
+[+]Frere &amp; Soeurs
+[!]http://governify6.northeurope.cloudapp.azure.com
+[+]nothing found, you should check!
+[!]http://hhdemo.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://horizon.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://icmpvbc.northeurope.cloudapp.azure.com
+[+]403 - Forbidden: Access is denied.
+[!]http://infobric.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://infoline.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://infrab-gitlab.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://infrab-graphiteb.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://infrapvpn.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://innodemov2.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://isaitb2.northeurope.cloudapp.azure.com
+[+]nothing found, you should check!
+[!]http://iscango.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://iteronav2017demo.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://kapp-boarding.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://larsfugl.northeurope.cloudapp.azure.com
+[+]Microsoft Dynamics NAV 2017 DK Demonstration Environment
+[!]http://leverateweblb.northeurope.cloudapp.azure.com
+[+]IIS7
+[!]http://linderaone.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://linkup-db.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://loadbalancedlamp.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://loosi-info.northeurope.cloudapp.azure.com
+[+]Loosien ja leirien sivusto
+[!]http://lovemyidroyalmail.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://luxotticaintsrv.northeurope.cloudapp.azure.com
+[+]IIS Windows Server
+[!]http://magusgrafana.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://meadowlark-tracker.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://menfin.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://minstersrv01.northeurope.cloudapp.azure.com
+[+]IIS7
+[!]http://mnra-30ans-sps2.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://myappsean.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://navitecnia.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://noddle.northeurope.cloudapp.azure.com
+[+]Noddle | Free For Life Credit Report And Credit Score
+[!]http://none.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://nsldome.northeurope.cloudapp.azure.com
+[+]Dome - Smart Enforcement
+[!]http://nslvtestip.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://nuxeo.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://olm-eu-01.northeurope.cloudapp.azure.com
+[+]Please Log In
+[!]http://onedealer-bmwappserver1.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://p-redcap-a0.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://panoramah.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://pddpps-reverse-proxy-en.northeurope.cloudapp.azure.com
+[+]404
+[!]http://perlacollaudo.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://phishingadmin.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://pimpreprod.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://plasstraining.northeurope.cloudapp.azure.com
+[+]IIS 8.5 Detailed Error - 403.14 - Forbidden
+[!]http://poms-vpn.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://portalinteractivoclientes-asefarma.northeurope.cloudapp.azure.com
+[+]nothing found, you should check!
+[!]http://poskiwoko.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://prebid-ssl.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://printclick.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://prosjekt.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://pub-wp-cd-lv3.northeurope.cloudapp.azure.com
+[+]Home  | Sheffield Hallam University
+[!]http://pub-www-lbip.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://puritylog.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://pwpsso.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://qapvmssmatlab.northeurope.cloudapp.azure.com
+[+]403 - Forbidden: Access is denied.
+[!]http://rac-adv-cg-prod-d.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://rac-adv-sf-msdev-p.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://rac-adv-sf-prod-d.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://rac-adv-sf-prod-p.northeurope.cloudapp.azure.com
+[+]nothing found, you should check!
+[!]http://rac-adv-sf-qa-d.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://rac-adv-sf-qa-p.northeurope.cloudapp.azure.com
+[+]nothing found, you should check!
+[!]http://rbac.northeurope.cloudapp.azure.com
+[+]
+[!]http://recprdazure.northeurope.cloudapp.azure.com
+[+]nothing found, you should check!
+[!]http://s3veeam.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://sageoverdrivetp.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://sagesspdev-sb.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://sba-ir-grr01.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://seekiosprestashop.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://sem.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://sllitsystest01.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://srvficcommitted.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://ssp-dev-sop.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://stationsregister.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://strace.northeurope.cloudapp.azure.com
+[+]nothing found, you should check!
+[!]http://struers-staging-cd.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://tagetik.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://test-risd-1.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://test-risd-3.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://testnode.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://tm-prod.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://tpsnav2017.northeurope.cloudapp.azure.com
+[+]Microsoft Dynamics NAV 2017 IT Demonstration Environment
+[!]http://trn-02.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://twuatcd.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://ubuntuks2.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://videostorm.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://vilokan.northeurope.cloudapp.azure.com
+[+]Vilokan | We solve problems
+[!]http://vitwww01.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://vm-netstcac-cd.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://vm-netstcdh-cd.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://vm-netstcs9-cd.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://vm-netstspi-cd.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://vm-netstusr-cd.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://vm-netstwfm-cd.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://webbizv8.northeurope.cloudapp.azure.com
+[+]IIS Windows Server
+[!]http://webshop-host.northeurope.cloudapp.azure.com
+[+]Galaxy Api Docs
+[!]http://webvicente.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://wh-atwebsite.northeurope.cloudapp.azure.com
+[+]</title>
+<link rel="icon" type="image/png" href="http://wymondhamhigh.co.uk/wp-content/uploads/2014/09/WHAT_White1.png"><link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://wymondhamhigh.co.uk/xmlrpc.php" />
+<title>Wymondham High Academy &#8211; Inspiring Excellence
+[!]http://wingepilearn.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://wp-1.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://wsalpha.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://zimra.northeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://zolution-zsa01.northeurope.cloudapp.azure.com
+[+]IIS7
+[!]http://academiawow.southcentralus.cloudapp.azure.com
+[+]nothing found, you should check!
+[!]http://actiglobal.southcentralus.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://axacolpatria.southcentralus.cloudapp.azure.com
+[+].:: iMedicalCloud ::.
+[!]http://cixghe-ghe.southcentralus.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://cloudsch.southcentralus.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://contosoweb1.southcentralus.cloudapp.azure.com
+[+]Cloud Shop Products - Cloud Shop
+[!]http://craz-3g-be-app308946.southcentralus.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://greystar-qa.southcentralus.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://haceqaas-nlb.southcentralus.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://indigocps.southcentralus.cloudapp.azure.com
+[+]Harris County Children's Protective Services | HCPS
+[!]http://juliatours-lamp01.southcentralus.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://lexoxatestc6-staging.southcentralus.cloudapp.azure.com
+[+]| Microsoft Learning
+[!]http://maakholdingpro.southcentralus.cloudapp.azure.com
+[+]403 - Forbidden: Access is denied.
+[!]http://menddkp.southcentralus.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://naviknow-wp.southcentralus.cloudapp.azure.com
+[+]Navigate To Knowledge
+[!]http://pointerbrazil.southcentralus.cloudapp.azure.com
+[+]IIS7
+[!]http://prod022azws12.southcentralus.cloudapp.azure.com
+[+]Inicio | Laboratorio Binacional del Tec de Monterrey
+[!]http://prod400azws03.southcentralus.cloudapp.azure.com
+[+]Access forbidden!
+[!]http://restaurantsmart.southcentralus.cloudapp.azure.com
+[+]Restaurant Smart
+[!]http://rtm.southcentralus.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://sspuewin2016vm01.southcentralus.cloudapp.azure.com
+[+]SERVICIOS DE SALUD DEL ESTADO DE PUEBLA DTIyT
+[!]http://sspuewin2016vm02.southcentralus.cloudapp.azure.com
+[+]SERVICIOS DE SALUD DEL ESTADO DE PUEBLA DTIyT
+[!]http://supplychain-dev.southcentralus.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://svdvazscfpgfh01.southcentralus.cloudapp.azure.com
+[+]Test Page for the Nginx HTTP Server on Fedora
+[!]http://tacticalcivics.southcentralus.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://tcc-vm-prod03.southcentralus.cloudapp.azure.com
+[+]IIS Windows Server
+[!]http://traenail.southcentralus.cloudapp.azure.com
+[+]IIS Windows Server
+[!]http://verivacms.southcentralus.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://vmbpdesa01.southcentralus.cloudapp.azure.com
+[+]IIS Windows Server
+[!]http://vmtest2dns.southcentralus.cloudapp.azure.com
+[+]IIS Windows Server
+[!]http://vtgcmr.southcentralus.cloudapp.azure.com
+[+]403 Forbidden
+[!]http://wizsentinel-qa4.southcentralus.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://agilejenkin.southeastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://assetview.southeastasia.cloudapp.azure.com
+[+]IIS7
+[!]http://azemptestvm.southeastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://banyanvc.southeastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://bdpdemo-tableau.southeastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://blockchainexp.southeastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://blockchainstrato.southeastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://bluemonster.southeastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://bollym.southeastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://bplsportal.southeastasia.cloudapp.azure.com
+[+]BPLS Portal - Admin SoftwareApplication
+[!]http://cahyawardhani.southeastasia.cloudapp.azure.com
+[+]Hello world.
+[!]http://cap.southeastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://cedemo.southeastasia.cloudapp.azure.com
+[+]Mautic
+[!]http://chefsrv.southeastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://cloudassess.southeastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://conttnedevagents.southeastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://conttnedevmgmt.southeastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://cscope-cmsdev.southeastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://cscope-perftest-01.southeastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://dataservssdasie.southeastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://davidbinapp.southeastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://dbrprd.southeastasia.cloudapp.azure.com
+[+]nothing found, you should check!
+[!]http://dbrstgs.southeastasia.cloudapp.azure.com
+[+]Digital Site List
+[!]http://dclabsserver.southeastasia.cloudapp.azure.com
+[+]IIS Windows Server
+[!]http://depeddbserver.southeastasia.cloudapp.azure.com
+[+]IIS Windows Server
+[!]http://devopsdemo.southeastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://dfiinternal.southeastasia.cloudapp.azure.com
+[+]Home
+[!]http://documaldemosea.southeastasia.cloudapp.azure.com
+[+]IIS Windows Server
+[!]http://dongdong.southeastasia.cloudapp.azure.com
+[+]Bitnami WordPress Stack
+[!]http://dpamrsp01.southeastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://ebpls002.southeastasia.cloudapp.azure.com
+[+]eBPLS - Login
+[!]http://ebplstraining3.southeastasia.cloudapp.azure.com
+[+]nothing found, you should check!
+[!]http://echecktestweb.southeastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://ediary.southeastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://empwebapp.southeastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://epic-s1.southeastasia.cloudapp.azure.com
+[+]EPIC-S1
+[!]http://fclconstruction.southeastasia.cloudapp.azure.com
+[+]FCL Construction &#8211; Building quality homes
+[!]http://fdpvtsvr.southeastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://foreignstudy-prod.southeastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://foreignstudy-prod2.southeastasia.cloudapp.azure.com
+[+]Foreign Study | Administrator
+[!]http://forum-3twoone.southeastasia.cloudapp.azure.com
+[+]3TwoOne Forum
+[!]http://gstmm.southeastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://homlotdev.southeastasia.cloudapp.azure.com
+[+]Homlot
+[!]http://iconwizard.southeastasia.cloudapp.azure.com
+[+]IIS7
+[!]http://iconwizard4.southeastasia.cloudapp.azure.com
+[+]IIS Windows Server
+[!]http://indovisual.southeastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://infocorp-website.southeastasia.cloudapp.azure.com
+[+]InfoCorp - Rebuilding Inclusive Fintech
+[!]http://jelhr.southeastasia.cloudapp.azure.com
+[+]IIS Windows Server
+[!]http://jhrm.southeastasia.cloudapp.azure.com
+[+]OrangeHRM
+[!]http://jslweb.southeastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://keydaimon.southeastasia.cloudapp.azure.com
+[+]Apache HTTP Server Test Page powered by CentOS
+[!]http://kjndemo.southeastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://maf.southeastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://mailantsvm.southeastasia.cloudapp.azure.com
+[+]nothing found, you should check!
+[!]http://malpos.southeastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://meralcotfs.southeastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://mls-node-temp.southeastasia.cloudapp.azure.com
+[+]MLS
+[!]http://mofa-crm.southeastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://mycondo.southeastasia.cloudapp.azure.com
+[+]IIS Windows Server
+[!]http://mymooga.southeastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://navcheerful.southeastasia.cloudapp.azure.com
+[+]Microsoft Dynamics NAV Demonstration Environment
+[!]http://newbqp-multia.southeastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://nimrportal.southeastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://odexstagenew.southeastasia.cloudapp.azure.com
+[+]403 - Forbidden: Access is denied.
+[!]http://openproject.southeastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://paaspoc.southeastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://pawoonsupport.southeastasia.cloudapp.azure.com
+[+]403 Forbidden
+[!]http://penappserver01.southeastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://phopenroads.southeastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://pinnparkvm.southeastasia.cloudapp.azure.com
+[+]Pinpark - Find your parking spaces in Kochi city
+[!]http://platform-trans.southeastasia.cloudapp.azure.com
+[+]IIS Windows Server
+[!]http://pprgagents.southeastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://pprgmgmt.southeastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://prateektest.southeastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://precisemedia.southeastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://preprodagents.southeastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://push2016.southeastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://pw-wp-blog.southeastasia.cloudapp.azure.com
+[+]PaisaWapas Blog | Fashion &amp; Travel Trends, Product Reviews &amp; Flash Sale Tricks
+[!]http://pwc-demo.southeastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://pwseawh01.southeastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://raddp.southeastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://raise-next.southeastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://revent.southeastasia.cloudapp.azure.com
+[+]Sparkt
+[!]http://riverside.southeastasia.cloudapp.azure.com
+[+]nothing found, you should check!
+[!]http://sangeet.southeastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://secure.southeastasia.cloudapp.azure.com
+[+]403 Forbidden
+[!]http://sedic.southeastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://seedosite.southeastasia.cloudapp.azure.com
+[+]Index of /
+[!]http://shlerpapp.southeastasia.cloudapp.azure.com
+[+]IIS Windows Server
+[!]http://sjfi-dszedns.southeastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://skixvuwlldns.southeastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://sovy-appsvr3.southeastasia.cloudapp.azure.com
+[+]IIS Windows Server
+[!]http://stardev50.southeastasia.cloudapp.azure.com
+[+]403 - Forbidden: Access is denied.
+[!]http://syglruozldns.southeastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://teckinfo.southeastasia.cloudapp.azure.com
+[+]IIS Windows Server
+[!]http://teenkonnect.southeastasia.cloudapp.azure.com
+[+]Teen Konnect
+[!]http://testdb01.southeastasia.cloudapp.azure.com
+[+]IIS Windows Server
+[!]http://testvmraghav.southeastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://testweb01.southeastasia.cloudapp.azure.com
+[+]Login - VF Fastpass - Proto
+[!]http://tneagents.southeastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://travelexpenseqamgmt.southeastasia.cloudapp.azure.com
+[+]Consul by HashiCorp
+[!]http://umleservices.southeastasia.cloudapp.azure.com
+[+]UML eServices
+[!]http://v-a1-apps-ap.southeastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://v-a1-apps-ws.southeastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://v-a1-cook-ap.southeastasia.cloudapp.azure.com
+[+]403 - Forbidden: Access is denied.
+[!]http://v-a1-cookie.southeastasia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://v-a1-dtrc-ws.southeastasia.cloudapp.azure.com
+[+]403 - Forbidden: Access is denied.
+[!]http://v-a1-trbk-ws.southeastasia.cloudapp.azure.com
+[+]nothing found, you should check!
+[!]http://weblinuxlogix.southeastasia.cloudapp.azure.com
+[+]nothing found, you should check!
+[!]http://windblue.southeastasia.cloudapp.azure.com
+[+]IIS Windows Server
+[!]http://wxsweb.southeastasia.cloudapp.azure.com
+[+]WellnessXperts 1.2 NC Smart Hub
+[!]http://yuweb.southeastasia.cloudapp.azure.com
+[+]Yumark
+[!]http://atyatitestsvr.southindia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://docjus.southindia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://dtagm.southindia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://elogic.southindia.cloudapp.azure.com
+[+]walle8
+[!]http://embee.southindia.cloudapp.azure.com
+[+]Embee: A Leading IT Solution Provider, Making IT Easier
+[!]http://glcgitlab.southindia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://lbvmset.southindia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://mnmlegaldms.southindia.cloudapp.azure.com
+[+]nothing found, you should check!
+[!]http://nabfinshrms.southindia.cloudapp.azure.com
+[+]Sysfore - Employee Self Service Portal
+[!]http://nibav2017.southindia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://opm.southindia.cloudapp.azure.com
+[+]ManageEngine OpManager
+[!]http://padhaaroprod.southindia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://securenvoy.southindia.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://cmydiprod.uksouth.cloudapp.azure.com
+[+]Homepage | Youth Development Index
+[!]http://granttest.uksouth.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://hfeaarchive.uksouth.cloudapp.azure.com
+[+]Local index - HTTrack Website Copier
+[!]http://hsdcmoodle.uksouth.cloudapp.azure.com
+[+]Havant &amp; South Downs College
+[!]http://tpas-az-tkd.uksouth.cloudapp.azure.com
+[+]IIS Windows Server
+[!]http://vm-glowinkowski.uksouth.cloudapp.azure.com
+[+]403 - Forbidden: Access is denied.
+[!]http://checkmate.ukwest.cloudapp.azure.com
+[+]Object not found!
+[!]http://cmgroup.ukwest.cloudapp.azure.com
+[+]nothing found, you should check!
+[!]http://rwfl.ukwest.cloudapp.azure.com
+[+]401 - Unauthorized: Access is denied due to invalid credentials.
+[!]http://eventappen.westcentralus.cloudapp.azure.com
+[+]Kommande event | Sogeti events
+[!]http://parrotcode.westcentralus.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://schoolin.westcentralus.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://translatorconsumer.westcentralus.cloudapp.azure.com
+[+]Translator - Translator consumer products
+[!]http://transparenciacre.westcentralus.cloudapp.azure.com
+[+]nothing found, you should check!
+[!]http://abanti-web.westeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://aiweb.westeurope.cloudapp.azure.com
+[+]<%= htmlWebpackPlugin.options.title %>
+[!]http://amarisprod.westeurope.cloudapp.azure.com
+[+]LogStar 2.0 - Login
+[!]http://ameriaprod.westeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://anav2017democrm.westeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://arsispain.westeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://arverio.westeurope.cloudapp.azure.com
+[+]IIS Windows Server
+[!]http://atelodis-web1.westeurope.cloudapp.azure.com
+[+]IIS Windows Server
+[!]http://azsrv01.westeurope.cloudapp.azure.com
+[+]IIS Windows Server
+[!]http://bankex-misc.westeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://boost-qa.westeurope.cloudapp.azure.com
+[+]XTOURMAKER
+[!]http://bridgeserver22.westeurope.cloudapp.azure.com
+[+]European Bridge League | Administering the Mind Sport BRIDGE in Europe
+[!]http://bumis.westeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://carraigdonn-reporting.westeurope.cloudapp.azure.com
+[+]403 - Forbidden: Access is denied.
+[!]http://ccdemo.westeurope.cloudapp.azure.com
+[+]nothing found, you should check!
+[!]http://ccitop.westeurope.cloudapp.azure.com
+[+]ManageEngine OpManager
+[!]http://ce-rc.westeurope.cloudapp.azure.com
+[+]403 - Forbidden: Access is denied.
+[!]http://cgknav2017.westeurope.cloudapp.azure.com
+[+]Microsoft Dynamics NAV 2017 IT Demonstration Environment
+[!]http://citrix-ntv.westeurope.cloudapp.azure.com
+[+]NTV HABER - Haberler, Son Dakika Haberleri
+[!]http://cloudconnect.westeurope.cloudapp.azure.com
+[+]Cloud Connect
+[!]http://cognos16.westeurope.cloudapp.azure.com
+[+]IIS Windows Server
+[!]http://cphcodecrack.westeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://dbo-intsy.westeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://dbo-v083.westeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://dbwatania.westeurope.cloudapp.azure.com
+[+]Apache2 Debian Default Page: It works
+[!]http://demoliguria.westeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://devkolomnie.westeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://dpasite.westeurope.cloudapp.azure.com
+[+]Front page - Digital platform for attorneys
+[!]http://dreams.westeurope.cloudapp.azure.com
+[+]Dreamz
+[!]http://drpetrynav02.westeurope.cloudapp.azure.com
+[+]Microsoft Dynamics NAV 2017 DE Demonstration Environment
+[!]http://dsvswagsm.westeurope.cloudapp.azure.com
+[+]IIS Windows Server
+[!]http://ekokartazg.westeurope.cloudapp.azure.com
+[+]EKOKARTA ZAGREBA
+[!]http://epswebsp.westeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://erp-innovec.westeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://fbsuedusa.westeurope.cloudapp.azure.com
+[+]Fahad Bin Sultan University
+[!]http://feconnect-test-site.westeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://fustcomputercheck.westeurope.cloudapp.azure.com
+[+]403 - Forbidden: Access is denied.
+[!]http://hackescape.westeurope.cloudapp.azure.com
+[+]nothing found, you should check!
+[!]http://ininet.westeurope.cloudapp.azure.com
+[+]nothing found, you should check!
+[!]http://integraxor.westeurope.cloudapp.azure.com
+[+]nothing found, you should check!
+[!]http://lekiweb.westeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://lhcrm.westeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://magiclife.westeurope.cloudapp.azure.com
+[+]nothing found, you should check!
+[!]http://mastempo-ts1.westeurope.cloudapp.azure.com
+[+]IIS Windows Server
+[!]http://mazzmedia.westeurope.cloudapp.azure.com
+[+]IIS Windows Server
+[!]http://mdsngpush.westeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://mfactor.westeurope.cloudapp.azure.com
+[+]M Fator
+[!]http://mikrogoran.westeurope.cloudapp.azure.com
+[+]IIS Windows Server
+[!]http://mitsubishi-wrnh.westeurope.cloudapp.azure.com
+[+]IIS Windows Server
+[!]http://mivmp1fe.westeurope.cloudapp.azure.com
+[+]nothing found, you should check!
+[!]http://montagno.westeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://nav2017cu3.westeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://navcivica.westeurope.cloudapp.azure.com
+[+]Microsoft Dynamics NAV 2016 ES Demonstration Environment
+[!]http://nefaserbianav.westeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://netscaler01-ntv.westeurope.cloudapp.azure.com
+[+]NTV HABER - Haberler, Son Dakika Haberleri
+[!]http://ngine.westeurope.cloudapp.azure.com
+[+]NGINE NETWORKS
+[!]http://nulowp1.westeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://nunogomes.westeurope.cloudapp.azure.com
+[+]Nuno Gomes /* Code Adventures */
+[!]http://omikronqa.westeurope.cloudapp.azure.com
+[+]Home Page - Omikron.DataQuality.Go.Web
+[!]http://plaka.westeurope.cloudapp.azure.com
+[+]Isotec calculation
+[!]http://portalquantyx.westeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://pouvg.westeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://privaoperator.westeurope.cloudapp.azure.com
+[+]nothing found, you should check!
+[!]http://pro01-vmfe001.westeurope.cloudapp.azure.com
+[+]Wekiwi Energia: la tua Fornitura Luce e Gas Intelligente
+[!]http://proyser-web.westeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://ptm.westeurope.cloudapp.azure.com
+[+]Untitled Page
+[!]http://qawafel.westeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://qualihealthprod.westeurope.cloudapp.azure.com
+[+]IIS Windows Server
+[!]http://qvserverhrm.westeurope.cloudapp.azure.com
+[+]QlikView - AccessPoint
+[!]http://rosagtrenado.westeurope.cloudapp.azure.com
+[+]403 - Forbidden: Access is denied.
+[!]http://sabs.westeurope.cloudapp.azure.com
+[+]SABS
+[!]http://scspresale.westeurope.cloudapp.azure.com
+-->scspresale.westeurope.cloudapp.azure.com - /
+[!]http://scynettlob1.westeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://sfinity-server.westeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://softlinkers2.westeurope.cloudapp.azure.com
+[+]LDS Public application
+[!]http://sql16ugasa01.westeurope.cloudapp.azure.com
+[+]Formul&#225;rio de Candidatura a Volunt&#225;rio na SCML
+[!]http://srctechnst.westeurope.cloudapp.azure.com
+[+]Microsoft Dynamics NAV 2017 DK Demonstration Environment
+[!]http://struxureware-portal.westeurope.cloudapp.azure.com
+[+]Executive - StruxureWare Portal
+[!]http://sunfishwordpressdev.westeurope.cloudapp.azure.com
+[+]user&#039;s Blog! &#8211; Just another WordPress site
+[!]http://swwlefp01-ip.westeurope.cloudapp.azure.com
+[+]Welcome to Welfare Solutions
+[!]http://szrt.westeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://tandem.westeurope.cloudapp.azure.com
+[+]Login
+[!]http://tandem-test.westeurope.cloudapp.azure.com
+[+]Login
+[!]http://tcnnav.westeurope.cloudapp.azure.com
+[+]Microsoft Dynamics NAV 2016 Demonstration Environment
+[!]http://tecofix.westeurope.cloudapp.azure.com
+[+]Welcome to XAMPP
+[!]http://testlink.westeurope.cloudapp.azure.com
+[+]nothing found, you should check!
+[!]http://testqsl.westeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://tpzapp.westeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://vdprodwesteu1statsweb.westeurope.cloudapp.azure.com
+[+]Index of /
+[!]http://vergeco.westeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://vestasvgatest.westeurope.cloudapp.azure.com
+[+]Error
+[!]http://vip-nsa.westeurope.cloudapp.azure.com
+[+]Home | Vip NSA Interno
+[!]http://watchadev.westeurope.cloudapp.azure.com
+[+]IIS Windows Server
+[!]http://wdaa-boost-01.westeurope.cloudapp.azure.com
+[+]IIS Windows Server
+[!]http://webtrain.westeurope.cloudapp.azure.com
+[+]Arkas DTF WebTrain
+[!]http://ymigps-aem3-publish.westeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://zeyer.westeurope.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://absflow.westus.cloudapp.azure.com
+[+]YesWorkflow Editor
+[!]http://agentservicetest.westus.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://appsmexico.westus.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://authjs.westus.cloudapp.azure.com
+[+]user's Wiki!
+[!]http://azsyslock-alerts-prod-web.westus.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://bac-loc-utility.westus.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://conexionrh.westus.cloudapp.azure.com
+[+]nothing found, you should check!
+[!]http://dcos-win.westus.cloudapp.azure.com
+[+]Index of /
+[!]http://econucsb.westus.cloudapp.azure.com
+[+]Home - UCSB Department of Economics
+[!]http://evprod-vm-staging.westus.cloudapp.azure.com
+[+]nothing found, you should check!
+[!]http://fantasybaseball.westus.cloudapp.azure.com
+[+]Login
+[!]http://itronprodcm.westus.cloudapp.azure.com
+[+]Home | Itron, Inc.
+[!]http://jensrace.westus.cloudapp.azure.com
+[+]IFS Applications - IFSAPP9U1 race
+[!]http://kevseroxa.westus.cloudapp.azure.com
+[+]| Microsoft Learning
+[!]http://ksdevsfwus.westus.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://ladotteams.westus.cloudapp.azure.com
+[+]nothing found, you should check!
+[!]http://manid2f.westus.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://mgm.westus.cloudapp.azure.com
+[+]Log in - My Gym Management
+[!]http://mmlgalaxyclassification.westus.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://mohetest.westus.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://mpssi.westus.cloudapp.azure.com
+[+]Home - MusclePharm Sports Science Institute
+[!]http://muw1-shasta-rrsipv46-prod.westus.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://muw1-shasta-symqualipv46-prod.westus.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://onespresso.westus.cloudapp.azure.com
+[+]EDU OneNote Espresso
+[!]http://osen3.westus.cloudapp.azure.com
+[+]IIS7
+[!]http://osi-odoo.westus.cloudapp.azure.com
+[+]nothing found, you should check!
+[!]http://oxasearch16.westus.cloudapp.azure.com
+[+]| Microsoft Learning
+[!]http://sbpl.westus.cloudapp.azure.com
+[+]IIS Windows Server
+[!]http://sftestinfra-dev.westus.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://switchhivestaging.westus.cloudapp.azure.com
+[+]403 Forbidden
+[!]http://tccaz.westus.cloudapp.azure.com
+[+]nothing found, you should check!
+[!]http://tscra.westus.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://ucxsandbox.westus.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://uorepiserver-2.westus.cloudapp.azure.com
+[+]University of Redlands
+[!]http://yir2016v2.westus.cloudapp.azure.com
+[+]nothing found, you should check!
+[!]http://allyisapps.westus2.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://api-traq-li.westus2.cloudapp.azure.com
+[+]Error
+[!]http://appesteem.westus2.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://avm101.westus2.cloudapp.azure.com
+[+]401 - Unauthorized: Access is denied due to invalid credentials.
+[!]http://azuresdkci.westus2.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://bapibuild.westus2.cloudapp.azure.com
+[+]nothing found, you should check!
+[!]http://cc-jenkins-ci.westus2.cloudapp.azure.com
+[+]Dashboard [Jenkins]
+[!]http://ciicluster-test.westus2.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://crowdatm.westus2.cloudapp.azure.com
+[+]Crowd Sourcing ATM Accessibility Status
+[!]http://css566.westus2.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://debian-mirror.westus2.cloudapp.azure.com
+-->Debian mirror on Microsoft Azure
+[!]http://deeplearning.westus2.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://dotnet-vsts.westus2.cloudapp.azure.com
+[+]nothing found, you should check!
+[!]http://draftprod-acs-wus2-public.westus2.cloudapp.azure.com
+[+]404 Not Found
+[!]http://emoji.westus2.cloudapp.azure.com
+[+]Emotion Flow
+[!]http://ethos01-stage-wa1.westus2.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://expensesquare.westus2.cloudapp.azure.com
+[+]nothing found, you should check!
+[!]http://fetq.westus2.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://grcnode05.westus2.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://kata-jenkins-ci.westus2.cloudapp.azure.com
+[+]Dashboard [Jenkins]
+[!]http://leneldemo.westus2.cloudapp.azure.com
+[+]IIS Windows Server
+[!]http://m365.westus2.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://miningpool02.westus2.cloudapp.azure.com
+[+]GroupFabric - Mining Pool (BETA)
+[!]http://moodletest.westus2.cloudapp.azure.com
+[+]New Site
+[!]http://mran.westus2.cloudapp.azure.com
+[+]Home &middot; MRAN
+[!]http://mran-staging-01.westus2.cloudapp.azure.com
+[+]404 Not Found
+[!]http://nelsahost.westus2.cloudapp.azure.com
+[+]Domain Default page
+[!]http://partnercenterprod.westus2.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://ppecluster3skxmh7uvjhvy.westus2.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://praguekube.westus2.cloudapp.azure.com
+[+]Routerlicious
+[!]http://ptazuredev.westus2.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://pto365dev.westus2.cloudapp.azure.com
+[+]nothing found, you should check!
+[!]http://ptsmcintwu2.westus2.cloudapp.azure.com
+[+]nothing found, you should check!
+[!]http://supportchannels-dev.westus2.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://tmw.westus2.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://vodmx.westus2.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://w0rksprox.westus2.cloudapp.azure.com
+[-]exception found, non-existant domain
+[!]http://cloudpartner.azure.com
+[+]Cloud Partner Portal
+[!]http://eastasia.admin.compute.azure.com
+[-]exception found, non-existant domain
+[!]http://eastus.admin.compute.azure.com
+[-]exception found, non-existant domain
+[!]http://southeastasia.admin.compute.azure.com
+[-]exception found, non-existant domain
+[!]http://westeurope.admin.compute.azure.com
+[-]exception found, non-existant domain
+[!]http://westus.admin.compute.azure.com
+[-]exception found, non-existant domain
+[!]http://brazilsouth.compute.azure.com
+[-]exception found, non-existant domain
+[!]http://canadacentral.compute.azure.com
+[-]exception found, non-existant domain
+[!]http://centralindia.compute.azure.com
+[-]exception found, non-existant domain
+[!]http://centraluseuap.compute.azure.com
+[-]exception found, non-existant domain
+[!]http://australiaeast.disk.compute.azure.com
+[-]exception found, non-existant domain
+[!]http://australiasoutheast.disk.compute.azure.com
+[-]exception found, non-existant domain
+[!]http://brazilsouth.disk.compute.azure.com
+[-]exception found, non-existant domain
+[!]http://canadacentral.disk.compute.azure.com
+[-]exception found, non-existant domain
+[!]http://canadaeast.disk.compute.azure.com
+[-]exception found, non-existant domain
+[!]http://centralindia.disk.compute.azure.com
+[-]exception found, non-existant domain
+[!]http://centralus.disk.compute.azure.com
+[-]exception found, non-existant domain
+[!]http://centraluseuap.disk.compute.azure.com
+[-]exception found, non-existant domain
+[!]http://eastasia.disk.compute.azure.com
+[-]exception found, non-existant domain
+[!]http://eastus.disk.compute.azure.com
+[-]exception found, non-existant domain
+[!]http://eastus2.disk.compute.azure.com
+[-]exception found, non-existant domain
+[!]http://eastus2euap.disk.compute.azure.com
+[-]exception found, non-existant domain
+[!]http://japaneast.disk.compute.azure.com
+[-]exception found, non-existant domain
+[!]http://japanwest.disk.compute.azure.com
+[-]exception found, non-existant domain
+[!]http://koreacentral.disk.compute.azure.com
+[-]exception found, non-existant domain
+[!]http://koreasouth.disk.compute.azure.com
+[-]exception found, non-existant domain
+[!]http://northcentralus.disk.compute.azure.com
+[-]exception found, non-existant domain
+[!]http://northeurope.disk.compute.azure.com
+[-]exception found, non-existant domain
+[!]http://southcentralus.disk.compute.azure.com
+[-]exception found, non-existant domain
+[!]http://southeastasia.disk.compute.azure.com
+[-]exception found, non-existant domain
+[!]http://southindia.disk.compute.azure.com
+[-]exception found, non-existant domain
+[!]http://uksouth.disk.compute.azure.com
+[-]exception found, non-existant domain
+[!]http://ukwest.disk.compute.azure.com
+[-]exception found, non-existant domain
+[!]http://westus.validation.disk.compute.azure.com
+[-]exception found, non-existant domain
+[!]http://westcentralus.disk.compute.azure.com
+[-]exception found, non-existant domain
+[!]http://westeurope.disk.compute.azure.com
+[-]exception found, non-existant domain
+[!]http://westindia.disk.compute.azure.com
+[-]exception found, non-existant domain
+[!]http://westus.disk.compute.azure.com
+[-]exception found, non-existant domain
+[!]http://westus2.disk.compute.azure.com
+[-]exception found, non-existant domain
+[!]http://eastasia.compute.azure.com
+[-]exception found, non-existant domain
+[!]http://eastus2.compute.azure.com
+[-]exception found, non-existant domain
+[!]http://eastus2euap.compute.azure.com
+[-]exception found, non-existant domain
+[!]http://eastasia.ir.compute.azure.com
+[-]exception found, non-existant domain
+[!]http://eastus.ir.compute.azure.com
+[-]exception found, non-existant domain
+[!]http://northus.ir.compute.azure.com
+[-]exception found, non-existant domain
+[!]http://southeastasia.ir.compute.azure.com
+[-]exception found, non-existant domain
+[!]http://westeurope.ir.compute.azure.com
+[-]exception found, non-existant domain
+[!]http://westus.ir.compute.azure.com
+[-]exception found, non-existant domain
+[!]http://koreacentral.compute.azure.com
+[-]exception found, non-existant domain
+[!]http://koreasouth.compute.azure.com
+[-]exception found, non-existant domain
+[!]http://northeurope.compute.azure.com
+[-]exception found, non-existant domain
+[!]http://centralindia.pir.compute.azure.com
+[-]exception found, non-existant domain
+[!]http://eastasia.pir.compute.azure.com
+[-]exception found, non-existant domain
+[!]http://eastus2.pir.compute.azure.com
+[-]exception found, non-existant domain
+[!]http://northeurope.pir.compute.azure.com
+[-]exception found, non-existant domain
+[!]http://southeastasia.pir.compute.azure.com
+[-]exception found, non-existant domain
+[!]http://southindia.pir.compute.azure.com
+[-]exception found, non-existant domain
+[!]http://uksouth2.pir.compute.azure.com
+[-]exception found, non-existant domain
+[!]http://westindia.pir.compute.azure.com
+[-]exception found, non-existant domain
+[!]http://westus2.pir.compute.azure.com
+[-]exception found, non-existant domain
+[!]http://southeastasia.compute.azure.com
+[-]exception found, non-existant domain
+[!]http://southindia.compute.azure.com
+[-]exception found, non-existant domain
+[!]http://uknorth.compute.azure.com
+[-]exception found, non-existant domain
+[!]http://uksouth.compute.azure.com
+[-]exception found, non-existant domain
+[!]http://uksouth2.compute.azure.com
+[-]exception found, non-existant domain
+[!]http://westus.validation.compute.azure.com
+[-]exception found, non-existant domain
+[!]http://westeurope.compute.azure.com
+[-]exception found, non-existant domain
+[!]http://westindia.compute.azure.com
+[-]exception found, non-existant domain
+[!]http://westus2.compute.azure.com
+[-]exception found, non-existant domain
+[!]http://ux.console.azure.com
+-->Azure Cloud Shell
+[!]http://consumption.azure.com
+[-]exception found, non-existant domain
+[!]http://c-sql-14473227.mysql.database.azure.com
+[-]exception found, non-existant domain
+[!]http://c-sql-14485283.mysql.database.azure.com
+[-]exception found, non-existant domain
+[!]http://pancomido.mysql.database.azure.com
+[-]exception found, non-existant domain
+[!]http://saas-mgmt-mysql.mysql.database.azure.com
+[-]exception found, non-existant domain
+[!]http://saas-mgmt-mysql-qa.mysql.database.azure.com
+[-]exception found, non-existant domain
+[!]http://datafactory.azure.com
+[+]nothing found, you should check!
+[!]http://datafactory-int.azure.com
+[+]nothing found, you should check!
+[!]http://datafactory-preview.azure.com
+-->Azure Data Factory
+[!]http://datamarket.azure.com
+[-]exception found, non-existant domain
+[!]http://datamarket-qual.azure.com
+-->Microsoft Azure Marketplace
+[!]http://db3prod-dacsvc.azure.com
+[-]exception found, non-existant domain
+[!]http://ea.azure.com
+[+]Sign in to your account
+[!]http://admin.ea.azure.com
+[+]Tools Federation STS Page
+[!]http://easycreate.azure.com
+[-]exception found, non-existant domain
+[!]http://emailtracking.azure.com
+[+]Email Delivery Service for Developers and Enterprises - SparkPost
+[!]http://emailunsubscribe.azure.com
+-->Azure Email Service
+[!]http://insights1.exp.azure.com
+[+]nothing found, you should check!
+[!]http://stamp2.activedirectory.ext.azure.com
+[+]401 - Unauthorized: Access is denied due to invalid credentials.
+[!]http://main.iam.ad.ext.azure.com
+[+]401 - Unauthorized: Access is denied due to invalid credentials.
+[!]http://tip.iam.ad.ext.azure.com
+[+]401 - Unauthorized: Access is denied due to invalid credentials.
+[!]http://web1.appsvcux.ext.azure.com
+[+]nothing found, you should check!
+[!]http://s2.automation.ext.azure.com
+[-]exception found, non-existant domain
+[!]http://main.devicesettings.mdm.ext.azure.com
+[+]Device configuration
+[!]http://main.enrollment.mdm.ext.azure.com
+[+]Device enrollment
+[!]http://s2.security.ext.azure.com
+[-]exception found, non-existant domain
+[!]http://s2.support.ext.azure.com
+[-]exception found, non-existant domain
+[!]http://feedback.azure.com
+[-]exception found, non-existant domain
+[!]http://finance.azure.com
+-->Banking & Capital Markets On Azure
+[!]http://friday.azure.com
+-->Azure Friday | Microsoft Azure
+[!]http://functions.azure.com
+[+]401 - Unauthorized: Access is denied due to invalid credentials.
+[!]http://functions-next.azure.com
+[+]401 - Unauthorized: Access is denied due to invalid credentials.
+[!]http://functions-staging.azure.com
+[+]401 - Unauthorized: Access is denied due to invalid credentials.
+[!]http://functionschallenge.azure.com
+-->Azure Functions Challenge
+[!]http://gallery.azure.com
+[-]exception found, non-existant domain
+[!]http://gpu.azure.com
+[-]exception found, non-existant domain
+[!]http://mygraphdb.graphs.azure.com
+[+]nothing found, you should check!
+[!]http://api.termsofuse.identitygovernance.azure.com
+[+]nothing found, you should check!
+[!]http://tokenprovider.termsofuse.identitygovernance.azure.com
+[+]nothing found, you should check!
+[!]http://api.informationprotection.azure.com
+[-]exception found, non-existant domain
+[!]http://insurance.azure.com
+-->Insurance: Risk Modeling on Microsoft Azure
+[!]http://centralindia.logic.azure.com
+[-]exception found, non-existant domain
+[!]http://centralus.logic.azure.com
+[-]exception found, non-existant domain
+[!]http://eastus.logic.azure.com
+[-]exception found, non-existant domain
+[!]http://prod-15.japaneast.logic.azure.com
+[-]exception found, non-existant domain
+[!]http://prod-20.japaneast.logic.azure.com
+[-]exception found, non-existant domain
+[!]http://northcentralus.logic.azure.com
+[-]exception found, non-existant domain
+[!]http://prod-10.northcentralus.logic.azure.com
+[-]exception found, non-existant domain
+[!]http://northeurope.logic.azure.com
+[-]exception found, non-existant domain
+[!]http://southeastasia.logic.azure.com
+[-]exception found, non-existant domain
+[!]http://westeurope.logic.azure.com
+[-]exception found, non-existant domain
+[!]http://prod-25.westeurope.logic.azure.com
+[-]exception found, non-existant domain
+[!]http://westus.logic.azure.com
+[-]exception found, non-existant domain
+[!]http://prod-10.westus.logic.azure.com
+[-]exception found, non-existant domain
+[!]http://prod-22.westus.logic.azure.com
+[-]exception found, non-existant domain
+[!]http://madrid-ci.azure.com
+-->Azure Data Factory
+[!]http://madrid-preview.azure.com
+[+]Data Integration App
+[!]http://management.azure.com
+[-]exception found, non-existant domain
+[!]http://schema.management.azure.com
+[+]nothing found, you should check!
+[!]http://mobile.azure.com
+[+]Visual Studio App Center | iOS, Android, Xamarin & React Native
+[!]http://api.mobile.azure.com
+[+]Error
+[!]http://docs.mobile.azure.com
+[-]exception found, non-existant domain
+[!]http://engineering.mobile.azure.com
+[+]nothing found, you should check!
+[!]http://in.mobile.azure.com
+[-]exception found, non-existant domain
+[!]http://install.mobile.azure.com
+[+]App Center
+[!]http://api.aadr.mspim.azure.com
+[+]The resource cannot be found.
+[!]http://notebooks.azure.com
+[+]nothing found, you should check!
+[!]http://pa.azure.com
+[-]exception found, non-existant domain
+[!]http://portal.azure.com
+-->Microsoft Azure
+[!]http://aad.portal.azure.com
+-->Azure Active Directory admin center
+[!]http://backup.portal.azure.com
+-->Microsoft Azure
+[!]http://cdm-s3.portal.azure.com
+-->Microsoft Azure
+[!]http://cy-s2.portal.azure.com
+-->Microsoft Azure
+[!]http://inactive.portal.azure.com
+-->Microsoft Azure
+[!]http://intune-edu.portal.azure.com
+-->Microsoft Azure
+[!]http://intuneeducation.portal.azure.com
+[-]exception found, non-existant domain
+[!]http://ms.portal.azure.com
+-->Microsoft Azure
+[!]http://oms.portal.azure.com
+[+]Microsoft Operations Management Suite
+[!]http://preview.portal.azure.com
+-->Microsoft Azure
+[!]http://rc.portal.azure.com
+-->Microsoft Azure
+[!]http://s2.portal.azure.com
+-->Microsoft Azure
+[!]http://processsimple.azure.com
+[+]Automate processes + tasks | Microsoft Flow
+[!]http://recommendation.azure.com
+[-]exception found, non-existant domain
+[!]http://recommendationsvc.azure.com
+[-]exception found, non-existant domain
+[!]http://australiaeast.reconcile.azure.com
+[-]exception found, non-existant domain
+[!]http://australiasoutheast.reconcile.azure.com
+[-]exception found, non-existant domain
+[!]http://brazilsouth.reconcile.azure.com
+[-]exception found, non-existant domain
+[!]http://centralus.reconcile.azure.com
+[-]exception found, non-existant domain
+[!]http://eastasia.reconcile.azure.com
+[-]exception found, non-existant domain
+[!]http://eastus.reconcile.azure.com
+[-]exception found, non-existant domain
+[!]http://eastus2.reconcile.azure.com
+[-]exception found, non-existant domain
+[!]http://japaneast.reconcile.azure.com
+[-]exception found, non-existant domain
+[!]http://japanwest.reconcile.azure.com
+[-]exception found, non-existant domain
+[!]http://northcentralus.reconcile.azure.com
+[-]exception found, non-existant domain
+[!]http://northeurope.reconcile.azure.com
+[-]exception found, non-existant domain
+[!]http://southcentralus.reconcile.azure.com
+[-]exception found, non-existant domain
+[!]http://southeastasia.reconcile.azure.com
+[-]exception found, non-existant domain
+[!]http://westus.validation.reconcile.azure.com
+[-]exception found, non-existant domain
+[!]http://westeurope.reconcile.azure.com
+[-]exception found, non-existant domain
+[!]http://westus.reconcile.azure.com
+[-]exception found, non-existant domain
+[!]http://rendering.azure.com
+-->Azure Batch Rendering
+[!]http://resource.azure.com
+-->Microsoft Azure Web App - Error 404
+[!]http://resources.azure.com
+[+]401 - Unauthorized: Access is denied due to invalid credentials.
+[!]http://centralcanada.servicefabric.azure.com
+[-]exception found, non-existant domain
+[!]http://centralindia.servicefabric.azure.com
+[-]exception found, non-existant domain
+[!]http://centralus.servicefabric.azure.com
+[-]exception found, non-existant domain
+[!]http://centraluseuap.servicefabric.azure.com
+[-]exception found, non-existant domain
+[!]http://eastasia.servicefabric.azure.com
+[-]exception found, non-existant domain
+[!]http://eastaustralia.servicefabric.azure.com
+[-]exception found, non-existant domain
+[!]http://eastcanada.servicefabric.azure.com
+[-]exception found, non-existant domain
+[!]http://eastjapan.servicefabric.azure.com
+[-]exception found, non-existant domain
+[!]http://eastus.servicefabric.azure.com
+[-]exception found, non-existant domain
+[!]http://eastus2.servicefabric.azure.com
+[-]exception found, non-existant domain
+[!]http://eastus2euap.servicefabric.azure.com
+[-]exception found, non-existant domain
+[!]http://koreacentral.servicefabric.azure.com
+[-]exception found, non-existant domain
+[!]http://koreasouth.servicefabric.azure.com
+[-]exception found, non-existant domain
+[!]http://northcentralus.servicefabric.azure.com
+[-]exception found, non-existant domain
+[!]http://northeurope.servicefabric.azure.com
+[-]exception found, non-existant domain
+[!]http://northuk.servicefabric.azure.com
+[-]exception found, non-existant domain
+[!]http://southbrazil.servicefabric.azure.com
+[-]exception found, non-existant domain
+[!]http://southcentralus.servicefabric.azure.com
+[-]exception found, non-existant domain
+[!]http://southeastasia.servicefabric.azure.com
+[-]exception found, non-existant domain
+[!]http://southeastaustralia.servicefabric.azure.com
+[-]exception found, non-existant domain
+[!]http://southindia.servicefabric.azure.com
+[-]exception found, non-existant domain
+[!]http://southuk2.servicefabric.azure.com
+[-]exception found, non-existant domain
+[!]http://try.servicefabric.azure.com
+[-]exception found, non-existant domain
+[!]http://uksouth.servicefabric.azure.com
+[-]exception found, non-existant domain
+[!]http://ukwest.servicefabric.azure.com
+[-]exception found, non-existant domain
+[!]http://westcentralus.servicefabric.azure.com
+[-]exception found, non-existant domain
+[!]http://westeurope.servicefabric.azure.com
+[-]exception found, non-existant domain
+[!]http://westindia.servicefabric.azure.com
+[-]exception found, non-existant domain
+[!]http://westjapan.servicefabric.azure.com
+[-]exception found, non-existant domain
+[!]http://westus.servicefabric.azure.com
+[-]exception found, non-existant domain
+[!]http://westus2.servicefabric.azure.com
+[-]exception found, non-existant domain
+[!]http://westuseuap.servicefabric.azure.com
+[-]exception found, non-existant domain
+[!]http://shell.azure.com
+[+]Sign in to your account
+[!]http://signup.azure.com
+-->Azure - Sign up
+[!]http://simulation.azure.com
+-->Engineering Simulation On Azure
+[!]http://sql.azure.com
+[-]exception found, non-existant domain
+[!]http://status.azure.com
+-->Azure status
+[!]http://global.storage.azure.com
+[-]exception found, non-existant domain
+[!]http://australiaeast.rsrp.storage.azure.com
+[-]exception found, non-existant domain
+[!]http://australiasoutheast.rsrp.storage.azure.com
+[-]exception found, non-existant domain
+[!]http://brazilsouth.rsrp.storage.azure.com
+[-]exception found, non-existant domain
+[!]http://canadacentral.rsrp.storage.azure.com
+[-]exception found, non-existant domain
+[!]http://canadaeast.rsrp.storage.azure.com
+[-]exception found, non-existant domain
+[!]http://centralindia.rsrp.storage.azure.com
+[-]exception found, non-existant domain
+[!]http://centralus.rsrp.storage.azure.com
+[-]exception found, non-existant domain
+[!]http://centraluseuap.rsrp.storage.azure.com
+[-]exception found, non-existant domain
+[!]http://eastasia.rsrp.storage.azure.com
+[-]exception found, non-existant domain
+[!]http://eastus.rsrp.storage.azure.com
+[-]exception found, non-existant domain
+[!]http://eastus2.rsrp.storage.azure.com
+[-]exception found, non-existant domain
+[!]http://eastus2euap.rsrp.storage.azure.com
+[-]exception found, non-existant domain
+[!]http://japaneast.rsrp.storage.azure.com
+[-]exception found, non-existant domain
+[!]http://japanwest.rsrp.storage.azure.com
+[-]exception found, non-existant domain
+[!]http://koreacentral.rsrp.storage.azure.com
+[-]exception found, non-existant domain
+[!]http://koreasouth.rsrp.storage.azure.com
+[-]exception found, non-existant domain
+[!]http://northcentralus.rsrp.storage.azure.com
+[-]exception found, non-existant domain
+[!]http://northeurope.rsrp.storage.azure.com
+[-]exception found, non-existant domain
+[!]http://southcentralus.rsrp.storage.azure.com
+[-]exception found, non-existant domain
+[!]http://southeastasia.rsrp.storage.azure.com
+[-]exception found, non-existant domain
+[!]http://southindia.rsrp.storage.azure.com
+[-]exception found, non-existant domain
+[!]http://eastus2.stage.rsrp.storage.azure.com
+[-]exception found, non-existant domain
+[!]http://westus.stage.rsrp.storage.azure.com
+[-]exception found, non-existant domain
+[!]http://uknorth.rsrp.storage.azure.com
+[-]exception found, non-existant domain
+[!]http://uksouth2.rsrp.storage.azure.com
+[-]exception found, non-existant domain
+[!]http://westcentralus.rsrp.storage.azure.com
+[-]exception found, non-existant domain
+[!]http://westeurope.rsrp.storage.azure.com
+[-]exception found, non-existant domain
+[!]http://westindia.rsrp.storage.azure.com
+[-]exception found, non-existant domain
+[!]http://westus.rsrp.storage.azure.com
+[-]exception found, non-existant domain
+[!]http://westus2.rsrp.storage.azure.com
+[-]exception found, non-existant domain
+[!]http://global.validation.storage.azure.com
+[-]exception found, non-existant domain
+[!]http://api-su2sn1.sync.azure.com
+[-]exception found, non-existant domain
+[!]http://dbsync-su2bl2.sync.azure.com
+[-]exception found, non-existant domain
+[!]http://dbsync-su2sn1.sync.azure.com
+[-]exception found, non-existant domain
+[!]http://locator.sync.azure.com
+[-]exception found, non-existant domain
+[!]http://testdrive.azure.com
+-->Microsoft Azure Test Drive
+[!]http://insights.timeseries.azure.com
+[+]nothing found, you should check!
+[!]http://track.azure.com
+[+]Welcome to nginx!
+[!]http://tryappservice.azure.com
+-->Try Azure App Service | Microsoft Azure
+[!]http://trycosmosdb.azure.com
+-->Try Azure Cosmos DB | Microsoft Azure
+[!]http://acciwmsapp.centralindia.cloudapp.azure.com:1000
+[+]CCI LOGISTICS LTD - Online ERP
+[!]http://coagricsal.eastus.cloudapp.azure.com:11001
+[-]exception found, non-existant domain
+[!]http://dpamrsp01.southeastasia.cloudapp.azure.com:15001
+[-]exception found, non-existant domain
+[!]http://planisware-tstarm.westeurope.cloudapp.azure.com:18000
+[+]Planisware Application Server
+[!]http://avalon.southcentralus.cloudapp.azure.com:18080
+[+]Welcome to WildFly Application Server 8
+[!]http://jrmi-web.eastus2.cloudapp.azure.com:18088
+[+]nothing found, you should check!
+[!]http://hyperionwebdllo.eastus.cloudapp.azure.com:19000
+[+]Welcome to Oracle Fusion Middleware
+[!]http://sftestinfra-dev.westus.cloudapp.azure.com:19080
+[-]exception found, non-existant domain
+[!]http://qmf-vision-beta.japaneast.cloudapp.azure.com:3000
+[-]exception found, non-existant domain
+[!]http://nokfirewall.westus.cloudapp.azure.com:4433
+[-]exception found, non-existant domain
+[!]http://tcx-uswest-pubip-myaero.westus.cloudapp.azure.com:50002
+[-]exception found, non-existant domain
+[!]http://tcx-uswest-pubip-myaero.westus.cloudapp.azure.com:50004
+[-]exception found, non-existant domain
+[!]http://ifsappsrvtest01.australiasoutheast.cloudapp.azure.com:58080
+[-]exception found, non-existant domain
+[!]http://ifsappsrvuat01.australiasoutheast.cloudapp.azure.com:58080
+[+]IFS Applications - Sodexo - UAT
+[!]http://shlerpapp.southeastasia.cloudapp.azure.com:58080
+[+]IFS Applications - Production
+[!]http://shlerpapp.southeastasia.cloudapp.azure.com:59080
+[+]IFS Applications - TEST
+[!]http://saharaodoo.centralus.cloudapp.azure.com:8069
+[+]nothing found, you should check!
+[!]http://test-stadiumcasablanca.westeurope.cloudapp.azure.com:8069
+[+]Homepage | localhost
+[!]http://iamlmmepp.canadaeast.cloudapp.azure.com:8080
+[+]403 - Forbidden: Access is denied.
+[!]http://kankakee.centralus.cloudapp.azure.com:8080
+[+]DEACOM
+[!]http://aurisprdchile.eastus2.cloudapp.azure.com:8080
+[+]EAP 6
+[!]http://hsantosnavscan.northeurope.cloudapp.azure.com:8080
+[+]Apache Tomcat
+[!]http://cloudsch.southcentralus.cloudapp.azure.com:8080
+[+]Apache Tomcat/7.0.59
+[!]http://prod020ms08.southcentralus.cloudapp.azure.com:8080
+[+]Apache Tomcat
+[!]http://ejud-sit.southeastasia.cloudapp.azure.com:8080
+[-]exception found, non-existant domain
+[!]http://cadserver.southindia.cloudapp.azure.com:8080
+[+]nothing found, you should check!
+[!]http://cupilupi.westeurope.cloudapp.azure.com:8080
+[+]Page redirection
+[!]http://menamesa.westeurope.cloudapp.azure.com:8081
+[+]IIS Windows Server
+[!]http://jdejas01-lab02.westus.cloudapp.azure.com:8081
+[+]nothing found, you should check!
+[!]http://elogic.southindia.cloudapp.azure.com:8083
+[+]walle8
+[!]http://mrt.canadacentral.cloudapp.azure.com:81
+[-]exception found, non-existant domain
+[!]http://gtmsf.centralus.cloudapp.azure.com:81
+[+]Careers at GTM Sportswear
+[!]http://iconwizard.southeastasia.cloudapp.azure.com:81
+[+]::Compacct :: Login ::
+[!]http://proascol.brazilsouth.cloudapp.azure.com:83
+[+]
+[!]http://rimztestsfcluster.westus2.cloudapp.azure.com:8601
+[-]exception found, non-existant domain
+[!]http://initial.eastus.cloudapp.azure.com:9044
+[-]exception found, non-existant domain
+** Successfully scanned **

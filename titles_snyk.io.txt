@@ -1,0 +1,215 @@
+[+]Input file: input_snyk.io.txt was found
+[+]Reading input file
+[+]========**************========
+[+]Recon_dom_title by Codarren Velvindron
+[+]========**************========
+[+]Version 0.5
+[!]Give me urls and I give titles!
+[!]Website Tested: snyk.io
+[!]Your output filename was created !
+[!]Scanning titles for: 102 urls
+[!]http://www.snyk.io
+-->Snyk
+[!]http://api.snyk.io
+[-]exception found, non-existant domain
+[!]http://app.snyk.io
+[-]exception found, non-existant domain
+[!]http://beemo.snyk.io
+-->Snyk
+[!]http://beemo-origin.snyk.io
+-->Snyk
+[!]http://beta.snyk.io
+[+]nothing found, you should check!
+[!]http://api.beta.snyk.io
+[-]exception found, non-existant domain
+[!]http://my.beta.snyk.io
+[-]exception found, non-existant domain
+[!]http://blog.snyk.io
+-->Blog | Snyk
+[!]http://broker.snyk.io
+[+]Error
+[!]http://broker-bitbucketserver-client.snyk.io
+[+]nothing found, you should check!
+[!]http://broker-client.snyk.io
+[+]nothing found, you should check!
+[!]http://broker-disney-ghe-client.snyk.io
+[+]nothing found, you should check!
+[!]http://broker-ghe-client.snyk.io
+[+]nothing found, you should check!
+[!]http://broker-gitlab-client.snyk.io
+[+]nothing found, you should check!
+[!]http://cf.snyk.io
+[-]exception found, non-existant domain
+[!]http://cloudmonitor.snyk.io
+[-]exception found, non-existant domain
+[!]http://dashboard.snyk.io
+[+]nothing found, you should check!
+[!]http://demo.snyk.io
+[+]nothing found, you should check!
+[!]http://deploy.snyk.io
+[-]exception found, non-existant domain
+[!]http://dev.snyk.io
+-->Snyk
+[!]http://adfs.dev.snyk.io
+[+]IIS Windows Server
+[!]http://api.dev.snyk.io
+[-]exception found, non-existant domain
+[!]http://aws-lambda-agent.dev.snyk.io
+[+]401 Authorization Required
+[!]http://bitbucket-broker-client.dev.snyk.io
+[-]exception found, non-existant domain
+[!]http://bitbucket-server.dev.snyk.io
+[+]Log in - Bitbucket
+[!]http://bitbucket-server-agent.dev.snyk.io
+[+]401 Authorization Required
+[!]http://bluemix-agent.dev.snyk.io
+[+]401 Authorization Required
+[!]http://broker.dev.snyk.io
+[+]Error
+[!]http://broker-bitbucketserver-client.dev.snyk.io
+[+]nothing found, you should check!
+[!]http://broker-client.dev.snyk.io
+[+]nothing found, you should check!
+[!]http://broker-disney-ghe-client.dev.snyk.io
+[+]nothing found, you should check!
+[!]http://broker-ghe-client.dev.snyk.io
+[+]nothing found, you should check!
+[!]http://broker-gitlab-client.dev.snyk.io
+[+]nothing found, you should check!
+[!]http://cf.dev.snyk.io
+[-]exception found, non-existant domain
+[!]http://cloud-foundry-agent.dev.snyk.io
+[+]401 Authorization Required
+[!]http://csv-service.dev.snyk.io
+[+]401 Authorization Required
+[!]http://deployer.dev.snyk.io
+[-]exception found, non-existant domain
+[!]http://ghe.dev.snyk.io
+[-]exception found, non-existant domain
+[!]http://ghe-agent.dev.snyk.io
+[+]401 Authorization Required
+[!]http://github-agent.dev.snyk.io
+[+]401 Authorization Required
+[!]http://github-pr.dev.snyk.io
+[+]401 Authorization Required
+[!]http://gitlab.dev.snyk.io
+[-]exception found, non-existant domain
+[!]http://gitlab-agent.dev.snyk.io
+[+]401 Authorization Required
+[!]http://gitlab-ssh.dev.snyk.io
+[+]nothing found, you should check!
+[!]http://health.dev.snyk.io
+[+]404 Not Found
+[!]http://heroku-agent.dev.snyk.io
+[+]401 Authorization Required
+[!]http://jenkins.dev.snyk.io
+[+]nothing found, you should check!
+[!]http://mailhooks.dev.snyk.io
+[+]nothing found, you should check!
+[!]http://maven-cache-proxy.dev.snyk.io
+[+]401 Authorization Required
+[!]http://maven-deps.dev.snyk.io
+[+]401 Authorization Required
+[!]http://my.dev.snyk.io
+[-]exception found, non-existant domain
+[!]http://onprem.dev.snyk.io
+-->Snyk
+[!]http://phoenix.dev.snyk.io
+[+]401 Authorization Required
+[!]http://pip-deps.dev.snyk.io
+[+]401 Authorization Required
+[!]http://piper.dev.snyk.io
+[+]Sign In
+[!]http://pivotal-agent.dev.snyk.io
+[+]401 Authorization Required
+[!]http://remote-bundler.dev.snyk.io
+[+]401 Authorization Required
+[!]http://reporting.dev.snyk.io
+[+]401 Authorization Required
+[!]http://slack-customers-bot.dev.snyk.io
+[+]Error
+[!]http://slackhook.dev.snyk.io
+[+]Error
+[!]http://tick-tock.dev.snyk.io
+[+]401 Authorization Required
+[!]http://tracker.dev.snyk.io
+[+]401 Authorization Required
+[!]http://vulndb-service.dev.snyk.io
+[+]401 Authorization Required
+[!]http://windows-server-2016.dev.snyk.io
+[+]IIS Windows Server
+[!]http://dev-broker.snyk.io
+[-]exception found, non-existant domain
+[!]http://dev-origin.snyk.io
+-->Snyk
+[!]http://dev-scale-origin.snyk.io
+-->Snyk
+[!]http://docs.snyk.io
+[+]nothing found, you should check!
+[!]http://email.snyk.io
+[+]nothing found, you should check!
+[!]http://info.snyk.io
+-->Snyk
+[!]http://my.snyk.io
+[-]exception found, non-existant domain
+[!]http://piper.snyk.io
+[+]Sign In
+[!]http://broker.prod.snyk.io
+[-]exception found, non-existant domain
+[!]http://deployer.prod.snyk.io
+[-]exception found, non-existant domain
+[!]http://health.prod.snyk.io
+[+]404 Not Found
+[!]http://mailhooks.prod.snyk.io
+[+]nothing found, you should check!
+[!]http://my.prod.snyk.io
+[-]exception found, non-existant domain
+[!]http://registry.snyk.io
+[-]exception found, non-existant domain
+[!]http://research.snyk.io
+[+]nothing found, you should check!
+[!]http://security.snyk.io
+[+]nothing found, you should check!
+[!]http://staging.snyk.io
+-->Snyk
+[!]http://stateofossecurity.snyk.io
+[-]exception found, non-existant domain
+[!]http://static.snyk.io
+[+]nothing found, you should check!
+[!]http://status.snyk.io
+-->Snyk Status
+[!]http://support.snyk.io
+-->Snyk Support
+[!]http://test.snyk.io
+-->Snyk
+[!]http://aws-lambda-agent.test.snyk.io
+[-]exception found, non-existant domain
+[!]http://bitbucket-server.test.snyk.io
+[+]Log in - Bitbucket
+[!]http://bitbucket-server-agent.test.snyk.io
+[-]exception found, non-existant domain
+[!]http://cf.test.snyk.io
+[-]exception found, non-existant domain
+[!]http://github-pr.test.snyk.io
+[-]exception found, non-existant domain
+[!]http://heroku-agent.test.snyk.io
+[-]exception found, non-existant domain
+[!]http://maven-deps.test.snyk.io
+[-]exception found, non-existant domain
+[!]http://onprem.test.snyk.io
+[-]exception found, non-existant domain
+[!]http://phoenix.test.snyk.io
+[-]exception found, non-existant domain
+[!]http://pip-deps.test.snyk.io
+[-]exception found, non-existant domain
+[!]http://remote-bundler.test.snyk.io
+[-]exception found, non-existant domain
+[!]http://tick-tock.test.snyk.io
+[-]exception found, non-existant domain
+[!]http://tracker.test.snyk.io
+[-]exception found, non-existant domain
+[!]http://vulndb-service.test.snyk.io
+[-]exception found, non-existant domain
+[!]http://tools.snyk.io
+[-]exception found, non-existant domain
+** Successfully scanned **

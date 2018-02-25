@@ -1,0 +1,43 @@
+[+]Input file: input_hunter.io.txt was found
+[+]Reading input file
+[+]========**************========
+[+]Recon_dom_title by Codarren Velvindron
+[+]========**************========
+[+]Version 0.5
+[!]Give me urls and I give titles!
+[!]Website Tested: hunter.io
+[!]Your output filename was created !
+[!]Scanning titles for: 16 urls
+[!]http://www.hunter.io
+[-]exception found, non-existant domain
+[!]http://api.hunter.io
+[-]exception found, non-existant domain
+[!]http://blog.hunter.io
+[-]exception found, non-existant domain
+[!]http://extension-api.hunter.io
+[+]nothing found, you should check!
+[!]http://ga-optimize-content.hunter.io
+[+]nothing found, you should check!
+[!]http://boilerpipe-api.internal-services.hunter.io
+[-]exception found, non-existant domain
+[!]http://elasticsearch-langdetect.internal-services.hunter.io
+[-]exception found, non-existant domain
+[!]http://mitie-ner.internal-services.hunter.io
+[-]exception found, non-existant domain
+[!]http://mailtracker.hunter.io
+[+]MailTracker - Free email tracking for Gmail
+[!]http://ns1.hunter.io
+[-]exception found, non-existant domain
+[!]http://development.responder.hunter.io
+[-]exception found, non-existant domain
+[!]http://status.hunter.io
+-->Hunter Status
+[!]http://storage.hunter.io
+[+]Action not allowed
+[!]http://techlookup.hunter.io
+-->Hunter TechLookup - Find the websites using certain technologies.
+[!]http://velen.hunter.io
+[+]nothing found, you should check!
+[!]http://webstats.hunter.io
+[-]exception found, non-existant domain
+** Successfully scanned **
